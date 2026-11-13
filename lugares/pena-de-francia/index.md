@@ -3,8 +3,8 @@ layout: default
 title: Peña de Francia
 parent: Lugares de interés
 nav_order: 1
-has_children: false
-description: "Descubre la Peña de Francia, en Salamanca: geografía, geología, santuario de la Virgen, historia, naturaleza, miradores y recomendaciones para visitarla."
+has_children: true
+description: "Conoce la Peña de Francia, en Salamanca: su singular geología, santuario dominico, historia, lagartija batueca, clima, tradiciones, miradores y rutas."
 permalink: /lugares/pena-de-francia/
 ---
 
@@ -12,474 +12,251 @@ permalink: /lugares/pena-de-francia/
 
 **Una montaña que ayuda a comprender toda la Sierra de Francia.**
 
-La Peña de Francia es uno de los lugares más emblemáticos de la provincia de Salamanca y una referencia geográfica, histórica y cultural de la Sierra de Francia.
+La Peña de Francia se eleva en el sur de la provincia de Salamanca, dentro del municipio de El Cabaco y del Parque Natural Las Batuecas–Sierra de Francia.
 
-Su silueta rocosa, visible desde numerosos puntos del territorio, se eleva sobre los bosques y valles que caracterizan esta parte del Sistema Central.
+Su silueta rocosa constituye una de las referencias visuales más reconocibles de este territorio.
 
-En su cima se encuentra el Santuario de Nuestra Señora de la Peña de Francia, lugar de peregrinación y devoción desde hace siglos.
+Desde la cumbre se contempla el contraste entre las tierras salmantinas del norte y los relieves montañosos que descienden hacia Las Hurdes, al sur.
 
-Pero la Peña es mucho más que su santuario.
+En lo alto se encuentra el Santuario de Nuestra Señora de la Peña de Francia, vinculado durante siglos a la Orden de Predicadores.
 
-Es una montaña de extraordinario interés geológico, un observatorio privilegiado del paisaje y un espacio natural donde las condiciones de altitud, el relieve y el clima determinan formas particulares de vida.
+Pero la montaña es mucho más que su santuario.
 
-Conocerla permite comprender mejor la relación entre naturaleza, historia y cultura en la Sierra de Francia.
+Su geología conserva una historia de cientos de millones de años. Sus canchales albergan una lagartija extraordinariamente singular. Sus edificios guardan testimonios de antiguas jurisdicciones, peregrinaciones y transformaciones arquitectónicas.
 
----
+Incluso llegó a tener una estación meteorológica automática que transmitía observaciones mediante código Morse.
 
-## Dónde está la Peña de Francia
-
-La Peña de Francia se encuentra en el sur de la provincia de Salamanca, dentro del ámbito montañoso de la Sierra de Francia y del Parque Natural de Las Batuecas-Sierra de Francia.
-
-Forma parte del sector occidental del Sistema Central, el gran conjunto montañoso que atraviesa el centro de la península ibérica.
-
-Su posición resulta especialmente interesante porque permite observar el contraste entre los paisajes del norte, vinculados a la meseta salmantina, y los valles profundos que descienden hacia el sur.
-
-Desde la cima pueden distinguirse diferentes unidades del relieve, poblaciones y extensiones forestales.
-
-La montaña constituye también una referencia visual para quienes recorren la comarca.
-
-Su perfil puede reconocerse desde numerosos caminos, carreteras y pueblos.
-
-### Altitud
-
-La cota habitualmente divulgada para la Peña de Francia es de aproximadamente **1.723 metros sobre el nivel del mar**.
-
-Las referencias pueden presentar pequeñas diferencias según el punto medido y la cartografía utilizada.
-
-Por ello, conviene distinguir entre la altitud de la cima natural, los puntos geodésicos y las cotas de las construcciones.
-
-### Una montaña, no toda la sierra
-
-La Peña de Francia da nombre a un conjunto montañoso y está estrechamente vinculada a la identidad de la comarca.
-
-Sin embargo, no debemos confundir la montaña concreta con toda la Sierra de Francia.
-
-La comarca comprende numerosos pueblos, valles, montañas y paisajes que se extienden mucho más allá de esta cumbre.
+Conocer la Peña de Francia permite comprender cómo se relacionan la geografía, la naturaleza y la historia humana de estas montañas.
 
 ---
 
-## La formación geológica de la Peña de Francia
+## Una montaña singular
 
-Uno de los aspectos más interesantes de esta montaña es su geología.
+La Peña de Francia alcanza aproximadamente los **1.727 metros de altitud**, tomando como referencia el vértice geodésico del Instituto Geográfico Nacional.
 
-La Peña de Francia forma parte de un conjunto de relieves donde afloran materiales antiguos, especialmente rocas sedimentarias transformadas por procesos geológicos.
+Pertenece al sector occidental del Sistema Central.
 
-Entre ellas destacan las **cuarcitas**, que ofrecen una elevada resistencia frente a determinados procesos de erosión.
+Su posición y su relieve la convierten en una referencia territorial para numerosas poblaciones de la Sierra de Francia y de las comarcas próximas.
 
-También aparecen pizarras, areniscas y otros materiales que ayudan a reconstruir la historia geológica de la región.
+### Un relieve de cuarcitas antiguas
 
-### Rocas de antiguos ambientes sedimentarios
+La montaña forma parte de un conjunto geológico caracterizado por materiales paleozoicos, estructuras plegadas y procesos de erosión diferencial.
 
-Buena parte de las formaciones cuarcíticas del entorno pertenecen al Ordovícico, un periodo de la era Paleozoica.
+Las cuarcitas resistentes contribuyen a la formación de crestones y escarpes.
 
-Estas rocas proceden de antiguos sedimentos depositados hace cientos de millones de años, posteriormente transformados y deformados por procesos tectónicos.
+En sus laderas aparecen extensos canchales, relacionados con la fragmentación y acumulación de materiales rocosos.
 
-Su presencia nos recuerda que el paisaje actual es el resultado de una historia geológica extraordinariamente larga.
+El Instituto Geológico y Minero de España reconoce la Peña de Francia como Lugar de Interés Geológico **CI066**.
 
-### Plegamientos y erosión
+[Conocer su geología](/lugares/pena-de-francia/geologia/)
 
-La estructura geológica de la Peña de Francia está relacionada con antiguos plegamientos y con movimientos tectónicos posteriores que contribuyeron a configurar el Sistema Central.
+### Un santuario sobre la cumbre
 
-La erosión actuó de manera diferente sobre los materiales, según su resistencia y disposición.
+La tradición sitúa en 1434 el hallazgo de una imagen mariana por Simón Vela.
 
-Esto explica parte del contraste entre las crestas rocosas y los valles profundos del entorno.
+A partir de aquella devoción se desarrolló un conjunto religioso vinculado a los dominicos.
 
-En términos geomorfológicos, el Instituto Geológico y Minero de España describe este sector mediante estructuras plegadas, relieves invertidos y procesos de erosión diferencial.
+La iglesia, el convento, la capilla de la Blanca, la plaza y el rollo jurisdiccional conservan testimonios de diferentes épocas.
 
-### Canchales y laderas rocosas
+[Descubrir el santuario y su patrimonio](/lugares/pena-de-francia/santuario-patrimonio/)
 
-En las laderas de la montaña aparecen acumulaciones de fragmentos de roca y superficies pedregosas.
+### Una lagartija vinculada científicamente a la Peña
 
-Su formación está relacionada con la meteorización y fragmentación de los materiales, incluyendo procesos asociados a las variaciones de temperatura.
+La **lagartija batueca (*Iberolacerta martinezricai*)** tiene su localidad tipo en la Peña de Francia.
 
-Estos ambientes tienen interés geológico y ecológico.
+Es una especie amenazada, asociada a determinados ambientes rocosos de estas montañas.
 
-No son simplemente acumulaciones de piedras: forman parte de la evolución natural del relieve.
+Los estudios científicos han documentado incluso su utilización de fisuras en los muros del santuario.
 
-### Un lugar de interés geológico reconocido
+Esta relación entre una especie protegida y un edificio histórico constituye uno de los detalles naturales más singulares de la cumbre.
 
-El Instituto Geológico y Minero de España incluye la Peña de Francia en el Inventario Español de Lugares de Interés Geológico, con el código **CI066**.
+[Investigar su naturaleza](/lugares/pena-de-francia/naturaleza/)
 
-Su interés principal es geomorfológico, aunque también presenta valores estratigráficos, sedimentológicos, paisajísticos y naturales.
+### Una estación que transmitía por Morse
 
-Fuente:
-[IGME — Lugar de Interés Geológico CI066: La Peña de Francia](https://info.igme.es/ielig/LIGInfo.aspx?codigo=CI066)
+En 1966, una estación meteorológica automática instalada en la cumbre comenzó a transmitir observaciones mediante código Morse.
 
----
+Medía temperatura, humedad, precipitación, presión y viento.
 
-## El paisaje desde la cumbre
+Las primeras señales se recibieron en Matacán el 9 de junio de aquel año.
 
-La Peña de Francia es uno de los grandes miradores naturales de Salamanca.
+El hielo y el viento llegaron a dañar su antena.
 
-Su altitud y posición permiten contemplar paisajes muy diferentes.
+Este episodio forma parte de la historia científica y tecnológica de la Peña de Francia.
 
-Hacia el norte se extienden las tierras de la provincia de Salamanca, con relieves progresivamente más suaves.
-
-Hacia el sur aparecen montañas y valles profundos que enlazan con Las Hurdes y otros territorios del norte de Extremadura.
-
-En distintas direcciones pueden reconocerse alineaciones montañosas, bosques, pueblos y espacios agrícolas.
-
-La visibilidad depende considerablemente de las condiciones atmosféricas.
-
-Los días despejados permiten alcanzar horizontes lejanos, mientras que la niebla o las nubes pueden ocultar completamente el paisaje.
-
-### El contraste entre las vertientes
-
-Uno de los rasgos geográficos más interesantes es la diferencia entre las vertientes septentrionales y meridionales.
-
-Hacia el sur, el relieve desciende hacia valles más profundamente encajados.
-
-Hacia el norte, la transición hacia las superficies de la provincia salmantina presenta características diferentes.
-
-Esta asimetría está relacionada con la estructura geológica, la evolución del relieve y las redes de drenaje.
-
-Observar el paisaje desde la Peña ayuda a comprender estas diferencias.
+[Conocer su clima y observación](/lugares/pena-de-francia/clima-observacion/)
 
 ---
 
-## El Santuario de Nuestra Señora de la Peña de Francia
+## Explorar la Peña de Francia
 
-En la cima se encuentra uno de los santuarios marianos más conocidos de Salamanca.
+Hemos organizado el conocimiento de la montaña en nueve secciones complementarias.
 
-El Santuario de Nuestra Señora de la Peña de Francia mantiene una larga vinculación con la Orden de Predicadores, conocida como los dominicos.
+### Historia
 
-Su historia religiosa está relacionada con la devoción a la Virgen de la Peña de Francia, popularmente llamada la Virgen Morena.
+Desde la tradición de Simón Vela hasta la evolución del santuario, los dominicos, los privilegios históricos y las transformaciones posteriores.
 
-El conjunto incluye diferentes edificios y espacios religiosos que se han desarrollado y transformado a lo largo de los siglos.
+[Leer Historia](/lugares/pena-de-francia/historia/)
 
-### La tradición de Simón Vela
+### Geografía y territorio
 
-La tradición religiosa sitúa en **1434** el hallazgo de una imagen de la Virgen por Simón Vela.
+La posición de la Peña en el Sistema Central, sus vertientes, el relieve circundante y sus relaciones con las comarcas próximas.
 
-Este relato forma parte fundamental de la historia devocional del santuario.
+[Leer Geografía y territorio](/lugares/pena-de-francia/geografia-territorio/)
 
-Es importante distinguir la tradición transmitida por las fuentes religiosas de los hechos que pueden documentarse históricamente de manera independiente.
+### Geología
 
-La relevancia cultural de una tradición no depende de presentar todos sus detalles como hechos históricamente demostrados.
+Las cuarcitas, los plegamientos, los relieves invertidos, los canchales y el Lugar de Interés Geológico CI066.
 
-### Los dominicos
+[Leer Geología](/lugares/pena-de-francia/geologia/)
 
-La Orden de Predicadores ha desempeñado un papel esencial en la historia del santuario.
+### Santuario y patrimonio
 
-Su presencia contribuyó a consolidar el lugar como centro religioso y de peregrinación.
+La iglesia, la capilla de la Blanca, la gruta, el convento, el rollo jurisdiccional, la hospedería y los detalles arquitectónicos documentados.
 
-La historia de esta comunidad está vinculada a la construcción, conservación y funcionamiento del conjunto.
+[Leer Santuario y patrimonio](/lugares/pena-de-francia/santuario-patrimonio/)
 
-### La Virgen de la Peña de Francia
+### Cultura y tradiciones
 
-La Virgen de la Peña de Francia es una advocación mariana de gran importancia en Salamanca.
+Las peregrinaciones, la Moza Santa de Sequeros, las cofradías, las ferias históricas y la expansión internacional de la devoción.
 
-Su devoción se extendió también fuera de la provincia y de España.
+[Leer Cultura y tradiciones](/lugares/pena-de-francia/cultura-tradiciones/)
 
-La festividad del **8 de septiembre** constituye una fecha destacada en la tradición religiosa vinculada al santuario.
+### Naturaleza
 
----
+La lagartija batueca, los canchales, la flora de montaña, la cabra montés y los ambientes ecológicos documentados en la Peña.
 
-## El patrimonio arquitectónico del santuario
+[Leer Naturaleza](/lugares/pena-de-francia/naturaleza/)
 
-El interés del conjunto no se limita a la iglesia.
+### Clima y observación
 
-La plaza, las capillas, los espacios conventuales y otras construcciones forman parte de su historia.
+La estación meteorológica de 1966, el viento, el hielo, la nieve, las nieblas y las posibilidades de observación desde la cumbre.
 
-Entre sus elementos más representativos se encuentran:
+[Leer Clima y observación](/lugares/pena-de-francia/clima-observacion/)
 
-### La iglesia
+### Visitar
 
-Es el principal espacio de culto del santuario y el lugar asociado a la veneración de la Virgen.
+Accesos por carretera, senderos, miradores, elementos patrimoniales, recomendaciones prácticas y precauciones.
 
-Su historia constructiva y sus transformaciones deben estudiarse dentro de la evolución del conjunto religioso.
+[Leer Visitar](/lugares/pena-de-francia/visitar/)
 
-### La capilla de la Blanca
+### Artículos
 
-Está vinculada al lugar donde la tradición sitúa el hallazgo de la imagen mariana.
+Investigaciones específicas, hallazgos documentales, memoria oral y creación literaria relacionada con la montaña.
 
-Constituye uno de los espacios significativos del relato histórico y religioso del santuario.
-
-### La plaza y el rollo jurisdiccional
-
-La plaza del santuario contiene un rollo relacionado con la antigua jurisdicción del prior sobre el territorio de la montaña.
-
-Este elemento permite comprender que el santuario también tuvo una dimensión institucional y territorial.
-
-### Las dependencias conventuales
-
-Los edificios vinculados a la comunidad religiosa reflejan la continuidad histórica del lugar y las necesidades de quienes lo han habitado y atendido.
-
-### La hospedería
-
-La presencia de una hospedería está relacionada con la acogida de peregrinos y visitantes.
-
-Sus condiciones de funcionamiento y disponibilidad pueden cambiar, por lo que deben consultarse antes de planificar una estancia.
+[Explorar Artículos](/lugares/pena-de-francia/articulos/)
 
 ---
 
-## Naturaleza y biodiversidad
+## La Peña de Francia y su territorio
 
-La Peña de Francia se encuentra en un entorno de gran valor ecológico.
+La Peña no puede comprenderse de manera aislada.
 
-Las diferencias de altitud, exposición, pendiente y características del suelo favorecen la presencia de ambientes diversos.
+Su historia está relacionada con los pueblos de la Sierra de Francia, los caminos tradicionales, las peregrinaciones y las actividades humanas desarrolladas en sus laderas.
 
-En las cotas inferiores y medias del entorno aparecen formaciones forestales, mientras que en las zonas más elevadas adquieren importancia los ambientes rocosos y la vegetación adaptada a condiciones más exigentes.
+El Cabaco es el municipio al que pertenece la cumbre.
 
-### Vegetación
+La Alberca, Nava de Francia, El Maíllo, Monsagro y otras localidades mantienen diferentes relaciones geográficas, históricas y culturales con ella.
 
-El paisaje vegetal cambia con la altitud y la orientación.
+Hacia el sur, los relieves enlazan con Las Hurdes y los valles del entorno del Agadón.
 
-Los robledales y otras formaciones forestales caracterizan distintas áreas de la sierra.
+Hacia el norte se extienden las tierras salmantinas.
 
-En los sectores altos, la exposición al viento, las bajas temperaturas y la escasez de suelo condicionan la vegetación.
+La montaña ha sido una referencia para quienes recorrían estos territorios mucho antes de la construcción de las carreteras actuales.
 
-Para identificar especies concretas y comunidades vegetales de la propia cumbre será necesario recurrir a inventarios botánicos y observaciones verificadas.
-
-### Fauna
-
-Uno de los animales más conocidos de los riscos de la Peña de Francia es la **cabra montés**.
-
-Su presencia constituye uno de los atractivos naturales de este entorno, aunque su observación nunca está garantizada.
-
-También es un territorio de interés para la observación de aves y otros animales asociados a ambientes montañosos y forestales.
-
-La fauna debe observarse a distancia, sin alimentarla ni alterar su comportamiento.
-
-### Un ecosistema sensible
-
-Las zonas altas y rocosas pueden presentar comunidades vegetales adaptadas a condiciones difíciles.
-
-Su recuperación frente al pisoteo y otras alteraciones puede ser lenta.
-
-Por ello, es importante respetar los itinerarios habilitados, evitar abandonar residuos y no extraer plantas, rocas ni otros elementos naturales.
+Su estudio permite descubrir conexiones que no siempre resultan evidentes sobre un mapa.
 
 ---
 
-## La Peña de Francia y el Parque Natural
+## Visitar la Peña de Francia
 
-La Peña de Francia forma parte del ámbito del Parque Natural de Las Batuecas-Sierra de Francia.
+La cumbre dispone de acceso por la carretera SA-203, cuando las condiciones permiten la circulación.
 
-Este espacio protegido reúne una notable diversidad de paisajes, ecosistemas y valores culturales.
+También puede alcanzarse mediante rutas de senderismo, entre ellas el GR 10 desde La Alberca y otros itinerarios señalizados desde poblaciones próximas.
 
-Pero conviene diferenciar los valores del parque en su conjunto de los que corresponden específicamente a la Peña.
+En la parte superior se encuentran el santuario, los espacios exteriores del conjunto histórico y varios miradores.
 
-No todas las especies, hábitats o características presentes en el parque se encuentran necesariamente en esta montaña.
+Entre los elementos que merecen atención destacan:
 
-En nuestras investigaciones procuraremos mantener esa precisión.
+- La plaza y el rollo jurisdiccional.
+- La iglesia y la capilla de la Blanca.
+- El Mirador de Santo Domingo y su reloj de sol monumental.
+- El Balcón de Santiago y el Balcón del Fraile.
+- Los crestones y canchales que rodean la cumbre.
 
-Para comprender el contexto territorial y ecológico más amplio puede consultarse la sección del [Parque Natural](/parque-natural/).
+La apertura de los edificios y servicios puede variar.
 
----
+También pueden producirse restricciones de acceso por nieve, hielo, desprendimientos u otras circunstancias.
 
-## Cómo llegar a la Peña de Francia
-
-La cima cuenta con acceso por carretera.
-
-La ruta habitual desde la zona de El Cabaco utiliza la carretera que asciende hacia el santuario.
-
-Es una carretera de montaña, con curvas, desniveles y condiciones que pueden variar considerablemente según la época del año.
-
-### Acceso en vehículo
-
-La carretera permite llegar a las inmediaciones del conjunto del santuario cuando las condiciones de circulación lo permiten.
-
-Antes de subir conviene comprobar:
-
-- La previsión meteorológica.
-- El estado de la carretera.
-- La posible presencia de nieve, hielo o niebla.
-- Las restricciones temporales de acceso.
-- Las condiciones de estacionamiento.
-
-No debe darse por supuesto que el acceso permanece abierto en cualquier circunstancia.
-
-### Acceso a pie
-
-La Peña de Francia también puede alcanzarse mediante itinerarios senderistas.
-
-Existen caminos tradicionales y rutas de montaña que permiten aproximarse a la cumbre desde diferentes puntos.
-
-Las distancias, desniveles y dificultades deben consultarse para cada recorrido concreto.
-
-No es recomendable improvisar una ascensión sin conocer las condiciones del itinerario y la meteorología.
-
-Las rutas documentadas se desarrollarán en la sección de [Rutas](/rutas/).
+[Preparar la visita](/lugares/pena-de-francia/visitar/)
 
 ---
 
-## Cuándo visitar la Peña de Francia
+## Una montaña que todavía estamos investigando
 
-Cada estación ofrece una experiencia diferente.
+La Peña de Francia cuenta con una bibliografía histórica, religiosa, geológica y científica muy amplia.
 
-### Primavera
+Pero eso no significa que todo esté investigado.
 
-Las temperaturas pueden resultar agradables en las cotas inferiores, aunque en la cima todavía pueden darse condiciones frías y cambiantes.
+Todavía quedan documentos por consultar, registros meteorológicos por recuperar, fotografías antiguas por identificar y testimonios locales que merecen conservarse.
 
-Es una época interesante para observar la evolución de la vegetación del entorno.
+Nuestro trabajo consiste en reunir ese conocimiento, contrastarlo y hacerlo accesible.
 
-### Verano
+Cuando una información procede de una tradición, la identificamos como tal.
 
-La altitud suele proporcionar temperaturas inferiores a las de las zonas más bajas.
+Cuando una fuente presenta una discrepancia, intentamos resolverla.
 
-Sin embargo, la exposición al sol y al viento puede ser importante.
+Cuando no existen datos suficientes, preferimos reconocerlo antes que completar el relato con suposiciones.
 
-Es conveniente llevar agua, protección solar y alguna prenda de abrigo.
-
-### Otoño
-
-Los bosques del entorno experimentan cambios estacionales muy atractivos.
-
-La visibilidad puede ser excelente en determinados días, aunque también pueden producirse nieblas y episodios de mal tiempo.
-
-### Invierno
-
-La nieve, el hielo, el viento y las bajas temperaturas pueden dificultar o impedir el acceso.
-
-La visita requiere especial precaución y una comprobación previa de las condiciones.
+La investigación continuará a medida que aparezcan nuevas evidencias.
 
 ---
 
-## Consejos para la visita
+## Fuentes fundamentales
 
-La Peña de Francia es un lugar accesible en determinadas condiciones, pero sigue siendo un entorno de alta montaña en comparación con los pueblos de su alrededor.
-
-Recomendamos:
-
-- Consultar la meteorología antes de subir.
-- Llevar ropa adecuada, incluso en verano.
-- Extremar la precaución cerca de los desniveles.
-- Respetar las zonas delimitadas y las indicaciones existentes.
-- No acercarse a los animales salvajes ni alimentarlos.
-- No abandonar residuos.
-- Respetar los espacios de culto y las celebraciones religiosas.
-- Comprobar los horarios y servicios si se desea visitar el interior del santuario.
-
-La presencia de una carretera y edificios en la cima no elimina los riesgos asociados a la montaña.
-
----
-
-## Qué observar durante la visita
-
-La Peña de Francia puede disfrutarse desde diferentes perspectivas.
-
-### El relieve
-
-Observar las crestas rocosas, los canchales y la disposición de los valles ayuda a comprender la formación del paisaje.
-
-### Las panorámicas
-
-Los miradores permiten reconocer la transición entre la meseta salmantina y las montañas del sur.
-
-### El santuario
-
-Sus edificios, espacios exteriores y elementos históricos permiten conocer siglos de tradición religiosa.
-
-### La vegetación
-
-Los cambios de vegetación con la altitud y la exposición ofrecen una oportunidad para comprender la adaptación de las plantas al medio.
-
-### La fauna
-
-La observación responsable de animales silvestres puede enriquecer la visita, siempre sin interferir en su comportamiento.
-
-### La relación con los pueblos
-
-Desde esta montaña es posible comprender mejor la disposición de distintos pueblos, caminos y paisajes de la Sierra de Francia.
-
----
-
-## La Peña de Francia en la identidad de la comarca
-
-La Peña de Francia ocupa un lugar singular en la identidad territorial.
-
-Su silueta acompaña la vida cotidiana de numerosos pueblos y sirve como referencia para orientarse en el paisaje.
-
-Su nombre aparece asociado a tradiciones, relatos, actividades religiosas y formas de representar la comarca.
-
-Para quienes vivimos en este entorno, la montaña no es solamente un destino al que subir.
-
-También forma parte del paisaje cotidiano.
-
-La vemos cambiar con las estaciones, desaparecer entre las nubes, cubrirse de nieve o destacar sobre el horizonte en los días despejados.
-
-Esa relación cotidiana aporta una perspectiva complementaria a la del visitante.
-
-Queremos compartir ambas: la experiencia de descubrirla y el conocimiento que permite comprenderla.
-
----
-
-## Relación con otros lugares de la Sierra de Francia
-
-La Peña de Francia está conectada geográfica, histórica y culturalmente con otros lugares del territorio.
-
-Entre ellos destaca el [valle de Las Batuecas](/lugares/las-batuecas/), cuya geografía permite comprender el contraste entre las cumbres y los valles profundos del sector meridional de la sierra.
-
-También mantiene una relación paisajística con La Alberca, El Cabaco, Nava de Francia y otros pueblos del entorno.
-
-Su estudio puede ampliarse mediante nuestras secciones de:
-
-- [Geografía](/geografia/)
-- [Historia](/historia/)
-- [Patrimonio](/patrimonio/)
-- [Flora y fauna](/flora-fauna/)
-- [Rutas](/rutas/)
-- [Parque Natural](/parque-natural/)
-
-Cada sección permitirá profundizar en aspectos que aquí se presentan de manera integrada.
-
----
-
-## Fuentes y documentación
-
-Esta ficha se apoya en fuentes institucionales, geológicas y patrimoniales.
-
-### Geografía y geología
-
-**Instituto Geológico y Minero de España (IGME)**
-
-Inventario Español de Lugares de Interés Geológico.
-
-Ficha CI066: La Peña de Francia.
+**Instituto Geológico y Minero de España.**  
+Lugar de Interés Geológico CI066, La Peña de Francia.
 
 https://info.igme.es/ielig/LIGInfo.aspx?codigo=CI066
 
-### Patrimonio y turismo
+**Instituto Geográfico Nacional.**  
+Cartografía y referencias geodésicas.
 
-**Diputación de Salamanca — Salamanca Emoción**
+https://www.ign.es/
 
-Información territorial, histórica y turística sobre la Peña de Francia.
+**Junta de Castilla y León.**  
+Documentación patrimonial del santuario y del Parque Natural Las Batuecas–Sierra de Francia.
 
-https://turismo.lasalina.es/
+https://www.jcyl.es/
 
-**Junta de Castilla y León — Portal de Turismo**
+**Archivo Histórico Dominicano de la Provincia de Hispania.**  
+Fondos documentales del convento de la Peña de Francia.
 
-Información patrimonial sobre el Santuario de la Peña de Francia.
+https://archivo.dominicoshispania.org/
 
-https://www.turismocastillayleon.com/
-
-### Historia religiosa
-
-**Orden de Predicadores — Dominicos**
-
-Documentación histórica y religiosa del Santuario de Nuestra Señora de la Peña de Francia.
+**Orden de Predicadores.**  
+Documentación histórica del santuario.
 
 https://www2.dominicos.org/pdefrancia/pagines/PFrancia.htm
 
-### Criterios de interpretación
+**Asociación Meteorológica Española.**  
+Felisa Martín Bravo, *Estación Meteorológica automática de la Peña de Francia*.
 
-Las tradiciones religiosas se presentan como tales cuando no existe documentación independiente suficiente para verificar todos sus detalles.
+https://pub.ame-web.org/index.php/TyC/article/download/1383/1425/0
 
-Las descripciones geológicas se apoyan prioritariamente en publicaciones técnicas.
-
-La información práctica de acceso, horarios y servicios puede cambiar y deberá actualizarse mediante fuentes vigentes.
+Las fuentes específicas de cada investigación se encuentran en las subsecciones correspondientes.
 
 ---
 
-## Una montaña para conocer y comprender
+## Conocer, comprender, preservar y compartir
 
-La Peña de Francia reúne en un mismo lugar una historia geológica de cientos de millones de años, siglos de tradición religiosa y un paisaje que ayuda a comprender buena parte de la Sierra de Francia.
+La Peña de Francia es una de las grandes referencias de nuestro territorio.
 
-Su interés no depende únicamente de las vistas ni de la presencia del santuario.
+Su importancia no reside únicamente en la altitud, el santuario o las panorámicas.
 
-Está también en las rocas, los bosques, los animales, los caminos y las relaciones humanas que han dado significado a esta montaña.
+También está en los pequeños detalles: una inscripción, un documento antiguo, una especie que vive entre las piedras o una observación meteorológica conservada durante décadas.
 
-**Conocer la Peña de Francia es una manera de comenzar a comprender la Sierra de Francia.**
+**Queremos conocer la Peña de Francia con profundidad, comprender su historia y su naturaleza, preservar aquello que la hace singular y compartir ese conocimiento con quienes deseen descubrirla.**
 
 ---
 
