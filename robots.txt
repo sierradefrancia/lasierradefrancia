@@ -1,0 +1,16 @@
+
+# La Sierra de Francia
+# https://lasierradefrancia.es
+#
+# Atlas territorial de la Sierra de Francia.
+# Historia, pueblos, patrimonio, naturaleza y cultura.
+#
+# Acceso público para buscadores y rastreadores.
+# Las condiciones de reutilización de los contenidos
+# se establecen en la licencia del proyecto.
+
+User-agent: *
+Allow: /
+
+# Sitemap generado automáticamente por Jekyll
+Sitemap: https://lasierradefrancia.es/sitemap.xml
