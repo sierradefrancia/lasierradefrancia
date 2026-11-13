@@ -1,0 +1,67 @@
+
+# ====================================================
+# LA SIERRA DE FRANCIA
+# REGISTRO CENTRAL DE ENTIDADES — V1
+# ====================================================
+#
+# Fuente de datos para Schema.org.
+#
+# Principios:
+# - Identificar entidades reales.
+# - Mantener URLs canónicas verificadas.
+# - No inventar coordenadas ni relaciones.
+# - Separar entidades de documentos.
+# - Ampliar sin modificar las plantillas.
+#
+# Cada entidad dispone de:
+# id: identificador interno estable
+# type: tipo Schema.org
+# name: nombre de la entidad
+# url: página canónica del atlas
+#
+# ====================================================
+
+- id: la-alberca
+  type: Place
+  name: "La Alberca"
+  url: "/pueblos/conjuntos-historicos/la-alberca/"
+
+- id: miranda-del-castanar
+  type: Place
+  name: "Miranda del Castañar"
+  url: "/pueblos/conjuntos-historicos/miranda-del-castanar/"
+
+- id: mogarraz
+  type: Place
+  name: "Mogarraz"
+  url: "/pueblos/conjuntos-historicos/mogarraz/"
+
+- id: san-martin-del-castanar
+  type: Place
+  name: "San Martín del Castañar"
+  url: "/pueblos/conjuntos-historicos/san-martin-del-castanar/"
+
+- id: sequeros
+  type: Place
+  name: "Sequeros"
+  url: "/pueblos/conjuntos-historicos/sequeros/"
+
+- id: villanueva-del-conde
+  type: Place
+  name: "Villanueva del Conde"
+  url: "/pueblos/conjuntos-historicos/villanueva-del-conde/"
+
+- id: pena-de-francia
+  type: Mountain
+  name: "Peña de Francia"
+  url: "/lugares/pena-de-francia/"
+
+- id: valle-de-las-batuecas
+  type: Place
+  name: "Valle de Las Batuecas"
+  url: "/lugares/las-batuecas/"
+
+- id: parque-natural-batuecas-sierra-de-francia
+  type: Place
+  name: "Parque Natural Las Batuecas-Sierra de Francia"
+  url: "/parque-natural/"
