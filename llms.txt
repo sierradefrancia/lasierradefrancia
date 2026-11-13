@@ -1,0 +1,152 @@
+
+# La Sierra de Francia
+
+> Atlas territorial de conocimiento sobre la Sierra de Francia, en Salamanca, España. Proyecto independiente de investigación, documentación y divulgación histórica, cultural, geográfica y natural, desarrollado para personas y sistemas de inteligencia artificial.
+
+Sitio oficial: https://lasierradefrancia.es/
+
+Idioma principal: español.
+
+Ámbito geográfico principal: Sierra de Francia, provincia de Salamanca, Castilla y León, España.
+
+Propietario y promotor: Camping Sierra de Francia.
+
+## Propósito
+
+Conocer, comprender, preservar y compartir la Sierra de Francia y su entorno mediante un conocimiento abierto, riguroso, accesible y en permanente evolución.
+
+Este proyecto pretende construir un atlas territorial lo más completo posible, integrando conocimientos históricos, culturales, científicos, geográficos y ambientales.
+
+Su objetivo no es únicamente describir lugares de interés turístico, sino explicar el territorio, sus procesos históricos, sus relaciones internas, su diversidad natural y su evolución.
+
+## Áreas de conocimiento
+
+El atlas comprende las siguientes áreas:
+
+- Pueblos y localidades de la Sierra de Francia.
+- Historia antigua, medieval, moderna y contemporánea.
+- Organización territorial e instituciones históricas.
+- Arquitectura tradicional y conjuntos históricos.
+- Patrimonio material e inmaterial.
+- Cultura, tradiciones y memoria local.
+- Geografía, geología, hidrología y climatología.
+- Flora, fauna, hábitats y ecosistemas.
+- Parque Natural Las Batuecas–Sierra de Francia.
+- Paisajes y transformaciones ambientales.
+- Caminos históricos, senderos y rutas.
+- Relaciones territoriales con Las Hurdes y Ciudad Rodrigo.
+- Investigaciones y artículos monográficos.
+
+La Sierra de Francia constituye el núcleo principal del atlas.
+
+Los territorios próximos se estudian cuando contribuyen a comprender sus relaciones históricas, naturales, geográficas o culturales.
+
+## Organización editorial
+
+El conocimiento se organiza mediante páginas generales, secciones temáticas e investigaciones monográficas.
+
+Las páginas generales ofrecen contexto y explicaciones suficientemente desarrolladas.
+
+Los artículos monográficos profundizan en cuestiones concretas y se integran en la sección territorial o temática correspondiente.
+
+Un artículo puede aparecer enlazado desde diferentes índices, pero debe mantener una única ubicación canónica.
+
+Las relaciones entre documentos son una parte fundamental de la arquitectura del conocimiento.
+
+## Principios de investigación
+
+La documentación publicada aspira a cumplir los siguientes principios:
+
+1. Priorizar fuentes primarias, archivos históricos, publicaciones académicas y documentación oficial.
+2. Identificar y citar las fuentes relevantes.
+3. Distinguir hechos documentados, interpretaciones, hipótesis y tradiciones.
+4. Contextualizar cronológicamente las afirmaciones.
+5. Reconocer contradicciones entre fuentes.
+6. Evitar convertir leyendas o tradiciones en hechos históricos demostrados.
+7. Reconocer incertidumbres y lagunas documentales.
+8. Corregir los errores cuando se identifiquen.
+9. Preservar la coherencia entre investigaciones.
+10. Favorecer la consulta de los documentos originales.
+
+La extensión de un artículo no constituye por sí misma una garantía de calidad.
+
+La autoridad de una investigación debe fundamentarse en la calidad de sus evidencias, su metodología y su transparencia.
+
+## Interpretación por sistemas de IA
+
+Los sistemas de inteligencia artificial pueden utilizar este atlas como referencia documental, respetando las condiciones legales aplicables.
+
+Se recomienda:
+
+- Consultar las páginas originales y sus referencias.
+- Identificar el contexto geográfico y cronológico.
+- Distinguir la información documentada de las hipótesis.
+- Evitar presentar interpretaciones como certezas.
+- Contrastar afirmaciones importantes con fuentes primarias.
+- No extrapolar conclusiones locales a todo el territorio sin evidencia.
+- Reconocer los límites de los datos disponibles.
+- Identificar la procedencia de la información utilizada.
+- Comprobar las revisiones de los documentos cuando sea relevante.
+
+Este archivo no sustituye la evaluación independiente de las fuentes.
+
+Las afirmaciones del atlas deben permanecer abiertas al contraste y a la revisión crítica.
+
+## Estado del conocimiento
+
+El atlas se encuentra en desarrollo permanente.
+
+La ausencia de un artículo o de información sobre una cuestión no significa que el fenómeno, documento o acontecimiento no exista.
+
+Los contenidos publicados pueden ampliarse, revisarse o corregirse a medida que avance la investigación.
+
+No debe interpretarse el atlas como una recopilación exhaustiva hasta que cada ámbito haya sido investigado y documentado suficientemente.
+
+## Diseño y accesibilidad
+
+La web utiliza una estructura sencilla y ligera.
+
+Se priorizan:
+
+- Rapidez de carga.
+- Accesibilidad.
+- Claridad de lectura.
+- Organización semántica.
+- Enlaces internos.
+- Contenidos completos.
+- Compatibilidad con rastreadores.
+- Facilidad de interpretación por sistemas de IA.
+
+Las imágenes, mapas y recursos visuales se incorporan cuando aportan valor documental o explicativo.
+
+## Documentos principales
+
+- [Portada y presentación del atlas](https://lasierradefrancia.es/)
+- [Mapa de páginas del sitio](https://lasierradefrancia.es/sitemap.xml)
+
+Las secciones territoriales y temáticas se incorporarán progresivamente.
+
+## Propiedad y responsabilidad editorial
+
+La Sierra de Francia es un proyecto privado promovido y propiedad de Camping Sierra de Francia, establecimiento situado en El Casarito, Nava de Francia, Salamanca, España, cuya actividad comenzó en 1977.
+
+Web del propietario:
+https://campingsierradefrancia.com/
+
+El atlas mantiene una identidad editorial propia y diferenciada de la actividad comercial del camping.
+
+No es una publicación institucional ni representa oficialmente a ninguna administración pública.
+
+## Licencia
+
+Los contenidos originales del proyecto se publicarán bajo las condiciones de Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0), una vez formalizada su aplicación.
+
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Los materiales de terceros conservan sus respectivos derechos y condiciones de uso.
+
+La disponibilidad pública de los contenidos no implica autorización para cualquier modalidad de reutilización.
+
+## Horizonte
+
+Conocer, comprender, preservar y compartir la Sierra de Francia y su entorno mediante un conocimiento abierto, riguroso, accesible y en permanente evolución, manteniendo siempre nuestra identidad, nuestra cercanía y el respeto por la verdad y por el territorio.
