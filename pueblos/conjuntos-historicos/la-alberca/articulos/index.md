@@ -1,0 +1,144 @@
+---
+layout: default
+title: Artículos
+parent: La Alberca
+grand_parent: Conjuntos históricos
+nav_order: 9
+description: "Artículos sobre La Alberca: historia, ciencia, naturaleza, curiosidades, relatos, humor, canciones, investigaciones y otras formas de descubrir y contar el pueblo."
+permalink: /pueblos/conjuntos-historicos/la-alberca/articulos/
+---
+
+# Artículos de La Alberca
+
+**La Alberca tiene muchas historias que contar. Y muchas maneras de contarlas.**
+
+Algunas están escritas en documentos antiguos. Otras permanecen en sus calles, en sus casas, en las tradiciones de sus habitantes o en los paisajes que rodean el pueblo.
+
+También existen historias que todavía nadie ha escrito.
+
+Esta sección es un espacio abierto para explorar La Alberca desde perspectivas diferentes: la historia, la ciencia, la naturaleza, la literatura, la música, el humor, la memoria y la imaginación.
+
+Aquí puede convivir una investigación sobre un documento del siglo XVI con un relato inspirado en una noche de invierno, un estudio sobre los árboles del pueblo, una canción original o una mirada humorística a alguna de sus costumbres.
+
+No pretendemos que todos los artículos sean iguales.
+
+**Queremos que cada uno tenga algo que aportar.**
+
+---
+
+## Otra forma de descubrir La Alberca
+
+Las secciones principales de este atlas organizan el conocimiento sobre el pueblo: su historia, patrimonio, cultura, naturaleza y sociedad.
+
+Los artículos tienen una vocación diferente.
+
+Nos permiten detenernos en un detalle, seguir una pregunta inesperada, desarrollar una idea, contar una historia o experimentar con una forma distinta de expresión.
+
+Un artículo puede nacer de una inscripción encontrada en una fachada, de una fotografía antigua, de una conversación, de una observación naturalista o de una ocurrencia que merece convertirse en algo más.
+
+No necesita ajustarse a una extensión, una estructura o una categoría predeterminada.
+
+Puede ser breve o extenso, serio o divertido, documental o imaginativo.
+
+Lo importante es que tenga sentido, personalidad y una relación auténtica con La Alberca.
+
+---
+
+## Artículos publicados
+
+En este espacio iremos reuniendo nuestras publicaciones sobre La Alberca.
+
+Cada artículo tendrá su propia página y podrá adoptar el formato que mejor responda a su contenido.
+
+No existe una cuota de publicaciones ni un calendario obligatorio.
+
+Publicaremos cuando tengamos algo interesante que investigar, explicar, compartir o crear.
+
+---
+
+## Un espacio sin fronteras temáticas
+
+La historia y el patrimonio ofrecen innumerables posibilidades, pero no son los únicos caminos.
+
+También nos interesan la ciencia y sus descubrimientos, la observación de la naturaleza, las personas y sus recuerdos, la vida cotidiana, los oficios, la gastronomía, las artes, las curiosidades y las pequeñas historias que suelen pasar inadvertidas.
+
+La literatura puede imaginar otros tiempos y otras voces.
+
+La música puede inspirarse en los lugares y las tradiciones.
+
+El humor puede descubrir aspectos de la vida del pueblo que una descripción formal nunca conseguiría expresar.
+
+Y una pregunta aparentemente insignificante puede terminar convirtiéndose en una investigación sorprendente.
+
+**No queremos limitar de antemano lo que merece ser contado.**
+
+---
+
+## Conocimiento, creatividad y honestidad
+
+La libertad creativa forma parte de este espacio.
+
+También la honestidad con el lector.
+
+Cuando publiquemos una investigación, distinguiremos los hechos documentados de las interpretaciones y las hipótesis.
+
+Cuando tratemos cuestiones científicas, procuraremos explicar las evidencias, sus límites y las preguntas que permanezcan abiertas.
+
+Cuando escribamos ficción, poesía, humor o canciones, dejaremos que la imaginación tenga su propio lugar.
+
+No exigiremos a una creación artística las mismas reglas que a un estudio histórico, ni utilizaremos la libertad literaria para presentar como verdaderos hechos inventados.
+
+Cada obra se valorará según lo que pretende ser.
+
+---
+
+## La Alberca como inspiración
+
+La Alberca no es solamente un conjunto histórico que merece conservarse.
+
+Es también un pueblo vivo, con personas, recuerdos, contradicciones, cambios, paisajes y una identidad propia.
+
+Su pasado puede inspirar nuevas preguntas.
+
+Su presente puede dar lugar a crónicas, reflexiones y conversaciones.
+
+Y su entorno puede despertar tanto la curiosidad científica como la creación artística.
+
+La intención de estos artículos es ampliar nuestra manera de conocer el pueblo, sin sustituir las secciones de referencia del atlas.
+
+Cuando un tema pertenezca principalmente a otro lugar, como Las Batuecas o la Peña de Francia, tendrá su espacio correspondiente.
+
+Las relaciones entre territorios se mantendrán mediante enlaces y referencias cruzadas.
+
+---
+
+## Explorar La Alberca
+
+Para conocer los principales aspectos del pueblo, puedes consultar sus secciones:
+
+- [Historia](/pueblos/conjuntos-historicos/la-alberca/historia/).
+- [Conjunto histórico](/pueblos/conjuntos-historicos/la-alberca/conjunto-historico/).
+- [Patrimonio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/).
+- [Cultura y tradiciones](/pueblos/conjuntos-historicos/la-alberca/cultura-tradiciones/).
+- [Geografía y territorio](/pueblos/conjuntos-historicos/la-alberca/geografia-territorio/).
+- [Naturaleza](/pueblos/conjuntos-historicos/la-alberca/naturaleza/).
+- [Sociedad y economía](/pueblos/conjuntos-historicos/la-alberca/sociedad-economia/).
+- [Visitar La Alberca](/pueblos/conjuntos-historicos/la-alberca/visitar/).
+
+[Volver a La Alberca](/pueblos/conjuntos-historicos/la-alberca/).
+
+---
+
+## Siempre habrá algo más que contar
+
+Un pueblo nunca se termina de conocer.
+
+Siempre queda una historia por descubrir, una pregunta por responder, una fotografía por interpretar o una idea que merece convertirse en palabras.
+
+A veces encontraremos respuestas.
+
+Otras veces, nuevas preguntas.
+
+Y de vez en cuando, quizá simplemente una buena historia, una canción o una sonrisa.
+
+**Porque conocer La Alberca también puede ser una aventura de la imaginación.**
