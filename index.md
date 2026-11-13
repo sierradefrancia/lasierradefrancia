@@ -1,7 +1,7 @@
 ---
 layout: default
 title: La Sierra de Francia
-nav_order: 1
+nav_order: 0
 description: "Atlas de conocimiento de la Sierra de Francia: historia, pueblos, patrimonio, cultura, naturaleza y territorio. Investigación rigurosa, documentada y accesible para personas e inteligencias artificiales."
 permalink: /
 ---
