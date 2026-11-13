@@ -256,29 +256,25 @@ La tecnología es una herramienta.
 
 ## ¿Quiénes somos?
 
-Detrás de este proyecto estamos una familia que vive y trabaja en El Casarito, a los pies de la Peña de Francia.
+Somos una familia que vive y trabaja en El Casarito, a los pies de la Peña de Francia, donde gestionamos el **Camping Sierra de Francia**, un pequeño camping familiar cuya historia comenzó en 1977.
 
-Nuestra historia está vinculada al Camping Sierra de Francia, fundado en 1977 por Gabino, Gabi para sus amigos.
+Nuestra vida está profundamente ligada a esta tierra. Llevamos décadas compartiendo sus paisajes, sus pueblos y sus caminos con las personas que vienen a descubrirlos.
 
-En 2013, su hijo Pablo continuó el proyecto familiar.
+A lo largo de los años hemos tenido la suerte de conocer a miles de visitantes. Hemos compartido conversaciones, recomendado lugares y contado historias. Pero también hemos escuchado, aprendido y descubierto nuestra propia tierra a través de los ojos de quienes nos visitan.
 
-Desde hace décadas compartimos esta tierra con las personas que nos visitan.
+Siempre hemos creído que lo que merece la pena conocer también merece la pena compartir.
 
-Nos gusta recomendar lugares, explicar rutas, conversar sobre nuestros pueblos y ayudar a quienes quieren descubrir la zona.
+Esta web nace de esa convicción y de una ilusión que viene de lejos.
 
-También aprendemos mucho de nuestros visitantes.
+Queremos que todo ese conocimiento, antes compartido principalmente en conversaciones, pueda llegar ahora mucho más lejos.
 
-Y siempre hemos entendido que compartir lo que conocemos no debe depender de que alguien se aloje o no en nuestro camping.
+Que sirva a quienes preparan un viaje, a quienes viven aquí, a quienes investigan y a quienes simplemente sienten curiosidad por este rincón de Salamanca.
 
-Esta web nace de esa misma filosofía.
+No buscamos protagonismo.
 
-Queremos que cualquier persona, esté donde esté, pueda conocer la Sierra de Francia y su entorno.
+**Queremos que la protagonista sea nuestra tierra.**
 
-No es una web comercial del camping, aunque nuestra historia familiar explique su origen.
-
-Es una iniciativa de conocimiento territorial abierta a todos.
-
-Y también una manera de continuar el empeño de Gabi por dar a conocer esta tierra.
+Y aportar, con nuestro trabajo y nuestra experiencia, algo que permanezca, que resulte útil y que ayude a que la Sierra de Francia sea cada vez más conocida, comprendida y valorada.
 
 **[Conoce nuestra historia y la filosofía del proyecto](/nosotros/)**
 
