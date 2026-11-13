@@ -1,353 +1,248 @@
 ---
 layout: default
-title: Patrimonio
-parent: La Alberca
-grand_parent: Conjuntos históricos
-nav_order: 3
-description: "Patrimonio material de La Alberca, Salamanca: arquitectura tradicional, iglesia, ermitas, Plaza Mayor, fuentes, inscripciones y elementos históricos."
-permalink: /pueblos/conjuntos-historicos/la-alberca/patrimonio/
+title: La Alberca
+parent: Conjuntos históricos
+grand_parent: Pueblos
+nav_order: 1
+has_children: true
+description: "Descubre La Alberca, Salamanca: qué ver, historia, arquitectura tradicional, patrimonio, fiestas, gastronomía, naturaleza y rutas. Una guía para visitar y conocer el pueblo."
+permalink: /pueblos/conjuntos-historicos/la-alberca/
 ---
 
-# Patrimonio de La Alberca
+# La Alberca
 
-El patrimonio material de **La Alberca**, en la Sierra de Francia (Salamanca), comprende sus edificios religiosos, viviendas tradicionales, espacios públicos, elementos arquitectónicos y testimonios materiales de la vida de sus habitantes.
+**Un pueblo para descubrir, una historia para comprender y un lugar al que regresar.**
 
-Su interés no reside únicamente en los monumentos más conocidos. También se encuentra en los pequeños elementos que han sobrevivido a las transformaciones del pueblo: dinteles fechados, inscripciones, escudos, puertas, balcones, cruceros y soluciones constructivas tradicionales.
+Hay lugares que llaman la atención desde el primer momento. La Alberca es uno de ellos.
 
-Estos testimonios permiten investigar la historia de La Alberca desde una escala cercana a la vida cotidiana.
+Sus calles estrechas, las casas de piedra y entramado de madera, las balconadas, los soportales de la Plaza Mayor y los pequeños detalles de sus fachadas forman uno de los conjuntos urbanos más reconocibles de la Sierra de Francia.
 
-La presente sección reúne los principales ámbitos de su patrimonio material, identifica elementos de interés y establece una base para su estudio documental.
+Pero La Alberca no es solamente un pueblo bonito.
 
-La declaración y protección del núcleo urbano como unidad patrimonial se desarrolla en [Conjunto histórico de La Alberca](/pueblos/conjuntos-historicos/la-alberca/conjunto-historico/).
+Es una comunidad con siglos de historia, un patrimonio extraordinario, tradiciones que siguen vivas y una relación profunda con el territorio que la rodea.
 
----
+Se puede venir a pasar unas horas, recorrer sus calles y disfrutar de su gastronomía. Pero también se puede dedicar mucho más tiempo a conocer sus monumentos, sus costumbres, sus antiguos caminos y los paisajes de los alrededores.
 
-## Arquitectura tradicional albercana
+**La Alberca tiene mucho que ofrecer. Y cuanto más la conoces, más motivos encuentras para volver.**
 
-La arquitectura tradicional constituye uno de los rasgos patrimoniales más reconocibles de La Alberca.
-
-Las viviendas históricas presentan soluciones constructivas vinculadas a los materiales disponibles, las técnicas de los oficios locales y las necesidades domésticas y económicas de sus habitantes.
-
-Entre sus características se encuentran:
-
-- El empleo combinado de piedra y madera.
-- Los entramados de madera en los cerramientos.
-- Las plantas superiores que sobresalen sobre las inferiores.
-- Los balcones y corredores.
-- Los soportales en determinados espacios urbanos.
-- Las inscripciones y símbolos tallados en elementos de piedra.
-
-Estas características no son necesariamente idénticas en todas las viviendas ni corresponden siempre a una única época constructiva.
-
-### La vivienda como espacio de vida
-
-El estudio de la arquitectura albercana requiere comprender la organización interior de las casas y sus usos históricos.
-
-La documentación etnográfica describe viviendas en las que coexistían funciones residenciales, almacenamiento y actividades relacionadas con la economía familiar.
-
-La distribución de los espacios y su evolución ofrecen información sobre las formas de vida de sus habitantes.
-
-La conservación de una fachada no implica necesariamente que se haya conservado la organización original de la vivienda.
-
-### Técnicas y materiales
-
-El estudio de la arquitectura tradicional abordará las técnicas de carpintería, cantería y construcción de muros, así como las relaciones entre los diferentes materiales.
-
-También se investigarán las reparaciones, sustituciones y transformaciones que han experimentado los edificios.
-
-No se atribuirán fechas de construcción a una vivienda únicamente por su apariencia.
+[Descubre qué ver y hacer en La Alberca](/pueblos/conjuntos-historicos/la-alberca/visitar/).
 
 ---
 
-## La Plaza Mayor
+## Un pueblo con una identidad propia
 
-La **Plaza Mayor de La Alberca** es uno de los espacios públicos más representativos del municipio.
+La Alberca se encuentra en el sur de la provincia de Salamanca, en la Sierra de Francia, dentro de Castilla y León.
 
-Su configuración arquitectónica, los soportales y los edificios que la rodean forman parte de la identidad urbana del pueblo.
+Su casco histórico conserva una arquitectura tradicional especialmente característica.
 
-Históricamente, las plazas han desempeñado funciones comerciales, sociales, religiosas e institucionales. Para determinar cuáles de ellas se desarrollaron en La Alberca y en qué periodos, será necesario recurrir a documentación local.
+Las viviendas de varias plantas, los entramados de madera, las fachadas de piedra, los balcones y las calles de trazado irregular forman un paisaje urbano que invita a recorrerlo despacio.
 
-### Elementos de interés
+En 1940, La Alberca recibió la declaración de Monumento Histórico-Artístico, reconocimiento por el que es conocida como el primer pueblo español declarado conjunto histórico.
 
-La investigación patrimonial de la Plaza Mayor comprenderá:
+Aquella protección constituye un hito en la valoración de su patrimonio urbano.
 
-- La evolución de su configuración arquitectónica.
-- Los edificios que delimitan el espacio.
-- Los soportales y sus elementos constructivos.
-- El edificio del Ayuntamiento.
-- El crucero y otros elementos situados en la plaza.
-- Las transformaciones documentadas mediante planos y fotografías históricas.
+Sin embargo, su importancia no reside únicamente en la antigüedad de sus edificios.
 
-### El Ayuntamiento y la inscripción de 1774
+La Alberca es un pueblo habitado, que ha evolucionado a lo largo del tiempo y que conserva una identidad construida por generaciones de vecinos.
 
-Una ficha patrimonial identifica una inscripción con la fecha **1774** en un medallón situado en una columna del soportal del Ayuntamiento.
-
-Este elemento constituye un punto de partida para investigar las fases constructivas del edificio y su evolución histórica.
-
-La fecha grabada debe interpretarse mediante el estudio del inmueble y la documentación correspondiente, sin atribuir automáticamente a todo el edificio esa cronología.
+[Conoce su conjunto histórico](/pueblos/conjuntos-historicos/la-alberca/conjunto-historico/).
 
 ---
 
-## Iglesia de Nuestra Señora de la Asunción
+## Qué hace especial a La Alberca
 
-La **iglesia parroquial de Nuestra Señora de la Asunción** es uno de los principales edificios religiosos de La Alberca.
+### Sus calles y su arquitectura
 
-Su estudio requiere distinguir las diferentes fases de construcción y los elementos artísticos conservados en su interior.
+La Plaza Mayor es uno de los lugares más emblemáticos del pueblo.
 
-Entre los aspectos de interés se encuentran:
+Sus soportales, columnas, balconadas y fachadas tradicionales forman un espacio de encuentro que conserva una fuerte personalidad.
 
-- La evolución arquitectónica del templo.
-- La torre y sus elementos heráldicos.
-- Los retablos y bienes muebles.
-- El púlpito policromado.
-- Las inscripciones y elementos escultóricos.
-- Las reformas y restauraciones documentadas.
+Desde la plaza, las calles permiten descubrir rincones, inscripciones, elementos arquitectónicos y detalles que hablan de distintas épocas.
 
-### La torre y la heráldica
+No hace falta seguir un recorrido complicado para disfrutar del casco histórico.
 
-La documentación municipal identifica un escudo relacionado con los Álvarez de Toledo, duques de Alba, en la torre de la iglesia.
+A veces basta con caminar, observar y dejarse sorprender.
 
-Este testimonio puede ayudar a investigar las relaciones históricas entre La Alberca, las estructuras señoriales y los territorios próximos.
+[Descubre el patrimonio de La Alberca](/pueblos/conjuntos-historicos/la-alberca/patrimonio/).
 
-La identificación heráldica deberá contrastarse con estudios especializados y documentación histórica.
+### Sus tradiciones
 
-### El púlpito policromado
+La Alberca conserva manifestaciones culturales especialmente singulares.
 
-Entre los elementos artísticos del templo se encuentra un púlpito policromado atribuido al siglo XVI.
+La Moza de Ánimas, el Marrano de San Antón, el Ofertorio, La Loa y la riqueza de su indumentaria tradicional forman parte de un patrimonio que no se limita a los edificios.
 
-Su estudio permitirá investigar la historia material del edificio y la conservación de piezas anteriores a determinadas fases constructivas del templo.
+Son expresiones de la memoria y de la vida comunitaria del pueblo.
 
-La atribución cronológica, los materiales y las posibles intervenciones posteriores deberán comprobarse mediante fuentes patrimoniales.
+Algunas pueden conocerse durante todo el año a través de sus lugares y testimonios; otras requieren coincidir con fechas concretas.
 
----
+[Conoce sus fiestas, costumbres y tradiciones](/pueblos/conjuntos-historicos/la-alberca/cultura-tradiciones/).
 
-## Ermitas y patrimonio religioso
+### Su historia
 
-El patrimonio religioso de La Alberca no se limita a su iglesia parroquial.
+La Alberca tiene una trayectoria histórica que va mucho más allá de su reconocimiento patrimonial del siglo XX.
 
-Las ermitas, cruceros y otros elementos vinculados a la devoción popular forman parte de la historia material del municipio.
+Su documentación permite estudiar instituciones, formas de organización comunitaria, relaciones territoriales y transformaciones sociales.
 
-### Ermita del Santo Cristo del Humilladero
+Detrás de las calles que hoy recorren los visitantes existe una historia que merece ser conocida con rigor.
 
-Situada en uno de los accesos tradicionales al pueblo, constituye un elemento de interés tanto arquitectónico como religioso.
+[Explora la historia de La Alberca](/pueblos/conjuntos-historicos/la-alberca/historia/).
 
-Entre sus características documentadas figura un tipo de cierre conocido localmente como **rejostia**.
+### Su gastronomía
 
-Este término merece una investigación específica por su relación con el vocabulario y las técnicas constructivas tradicionales.
+La visita también se disfruta alrededor de una mesa.
 
-### Ermita de San Antonio
+La Alberca ofrece productos de chacinería, elaboraciones tradicionales, dulces y establecimientos donde conocer diferentes expresiones de la gastronomía serrana.
 
-La ermita de San Antonio forma parte del patrimonio religioso del municipio.
+Sus comercios forman parte de la experiencia del visitante.
 
-Entre los elementos señalados en las descripciones patrimoniales figura una inscripción fechada en 1670.
+Conocer los productos, preguntar por su procedencia y descubrir las elaboraciones locales permite acercarse a otra dimensión de la cultura del pueblo.
 
-Será necesario comprobar su lectura literal, ubicación y relación con las fases constructivas del edificio.
-
-### Ermita de Majadas Viejas
-
-La ermita de Majadas Viejas se relaciona con el paisaje y las tradiciones religiosas del entorno de La Alberca.
-
-Su estudio comprenderá la arquitectura, la documentación histórica y su relación con los caminos y las prácticas devocionales.
-
-### San Marcos
-
-Los restos de la ermita de San Marcos constituyen un caso de interés para estudiar la transformación y pérdida de determinados elementos patrimoniales.
-
-La investigación deberá identificar las estructuras conservadas, su cronología y las causas documentadas de su estado actual.
-
-### Otros elementos religiosos
-
-El inventario se ampliará con los cruceros, imágenes, hornacinas y elementos materiales que puedan identificarse y documentarse.
-
-Las celebraciones y tradiciones asociadas a estos bienes se desarrollarán principalmente en la sección de Cultura y tradiciones.
+[Organiza tu visita](/pueblos/conjuntos-historicos/la-alberca/visitar/).
 
 ---
 
-## Inscripciones, símbolos y dinteles
+## La Alberca y su entorno natural
 
-Las inscripciones y símbolos presentes en las viviendas tradicionales constituyen una de las líneas de investigación más prometedoras del patrimonio albercano.
+Una de las grandes ventajas de visitar La Alberca es que el casco histórico constituye solamente una parte de la experiencia.
 
-En los dinteles y otros elementos de piedra pueden encontrarse fechas, cruces, anagramas y signos cuyo significado requiere un análisis individual.
+Al salir del pueblo aparecen caminos, robledales, castañares, antiguas ermitas y paisajes que muestran otra cara de su territorio.
 
-Estos elementos pueden ofrecer información sobre:
+El Camino de las Raíces permite recorrer algunos de estos lugares y descubrir cómo se relacionan naturaleza, arte y memoria.
 
-- Cronologías de construcción o reforma.
-- Creencias y prácticas religiosas.
-- Propietarios y familias.
-- Oficios y técnicas de cantería.
-- Reutilización de materiales.
-- Transformaciones de las viviendas.
+La Laguna de San Marcos, Majadas Viejas y los bosques del entorno son ejemplos de espacios que merecen conocerse por sí mismos.
 
-### Interpretar sin atribuir significados infundados
+La geografía del municipio presenta además fuertes contrastes entre el entorno del núcleo urbano y las tierras que descienden hacia el sur.
 
-Una fecha grabada no demuestra necesariamente que todo el edificio se construyera ese año.
+[Conoce la naturaleza de La Alberca](/pueblos/conjuntos-historicos/la-alberca/naturaleza/).
 
-Una cruz no acredita por sí sola la identidad religiosa o el origen familiar de quienes habitaron una vivienda.
-
-Las interpretaciones deben contrastarse con documentación histórica y estudios especializados.
-
-También es necesario distinguir los elementos originales de los desplazados o reutilizados.
-
-### Hacia un inventario de inscripciones
-
-La investigación futura registrará, cuando sea posible:
-
-1. Ubicación del elemento.
-2. Fotografías y descripción material.
-3. Transcripción literal de la inscripción.
-4. Fecha o cronología documentada.
-5. Estado de conservación.
-6. Referencias bibliográficas y archivísticas.
-7. Interpretaciones propuestas y grado de certeza.
-
-Los casos especialmente relevantes podrán desarrollarse mediante artículos de investigación independientes.
+[Explora su geografía y territorio](/pueblos/conjuntos-historicos/la-alberca/geografia-territorio/).
 
 ---
 
-## El osario y las Ánimas
+## Mucho más que una visita al pueblo
 
-En el entorno de la iglesia parroquial existe un espacio asociado a la tradición de las Ánimas, con restos óseos visibles y una inscripción vinculada a la memoria de los difuntos.
+La Alberca es también una excelente base para descubrir otros lugares de la Sierra de Francia.
 
-Este elemento material permite estudiar las relaciones entre prácticas funerarias, religiosidad popular y espacio urbano.
+### Las Batuecas
 
-La investigación deberá diferenciar la historia documentada del osario, las interpretaciones de sus elementos y las tradiciones transmitidas por la comunidad.
+El valle de Las Batuecas, situado dentro del término municipal de La Alberca, ofrece un paisaje muy diferente al del casco urbano.
 
-La figura de la Moza de Ánimas y las prácticas culturales asociadas se estudiarán también desde la perspectiva del patrimonio inmaterial.
+Sus bosques, roquedos, cursos de agua, patrimonio religioso y manifestaciones de arte rupestre justifican una visita independiente.
 
----
+Por su entidad histórica, natural y cultural, Las Batuecas cuenta con una sección propia en este atlas.
 
-## Fuentes, cruceros y elementos urbanos
+### La Peña de Francia
 
-Además de los grandes edificios, el patrimonio material comprende elementos que han formado parte del uso cotidiano del espacio público.
+La Peña de Francia constituye uno de los grandes referentes geográficos, paisajísticos y espirituales de la comarca.
 
-Entre ellos pueden encontrarse:
+Su santuario y las panorámicas que ofrece desde las alturas forman parte de las experiencias más características de la Sierra de Francia.
 
-- Fuentes y estructuras de abastecimiento.
-- Cruceros y elementos devocionales.
-- Elementos de piedra vinculados a espacios públicos.
-- Pavimentos y soluciones constructivas tradicionales.
-- Inscripciones y piezas integradas en edificios.
-- Restos de antiguas estructuras.
+### Otros pueblos de la comarca
 
-El inventario deberá identificar cada elemento individualmente antes de atribuirle una función, antigüedad o valor patrimonial específico.
+Desde La Alberca se pueden conocer localidades como Mogarraz, San Martín del Castañar, Miranda del Castañar y Sequeros.
 
-La investigación de fuentes y estructuras hidráulicas permitirá relacionar el patrimonio construido con la historia del abastecimiento de agua.
+Cada una conserva una identidad propia, con patrimonio, tradiciones e historias que merecen atención.
 
----
+La Sierra de Francia no se comprende a través de un único pueblo.
 
-## Patrimonio y memoria de la comunidad
-
-Los edificios y elementos materiales no pueden comprenderse completamente sin estudiar a las personas que los utilizaron.
-
-Una vivienda puede conservar testimonios de antiguos oficios, actividades económicas o formas de organización familiar.
-
-Una plaza puede reflejar transformaciones en las relaciones sociales y en los usos del espacio público.
-
-Un elemento religioso puede estar asociado a prácticas culturales que han evolucionado durante generaciones.
-
-La memoria oral puede aportar información valiosa, especialmente cuando existen testimonios de personas que conocieron usos hoy desaparecidos.
-
-Sin embargo, los recuerdos y tradiciones deben identificarse como tales y contrastarse, cuando sea posible, con fuentes documentales.
+**La Alberca es una magnífica puerta de entrada, pero el territorio invita a seguir descubriendo.**
 
 ---
 
-## Conservación y transformaciones
+## Visitar La Alberca
 
-El patrimonio de La Alberca ha experimentado cambios a lo largo del tiempo.
+La Alberca admite muchas formas de visita.
 
-Las necesidades residenciales, las actividades económicas, el turismo y las intervenciones de conservación pueden modificar los usos y características de los edificios.
+Se puede recorrer su conjunto histórico en unas horas, dedicar un día a conocer sus rincones y disfrutar de su gastronomía, o pasar varios días combinando patrimonio, naturaleza y excursiones por la comarca.
 
-Su estudio requiere distinguir:
+La experiencia también cambia con las estaciones.
 
-- Elementos originales documentados.
-- Reformas históricas.
-- Reconstrucciones.
-- Restauraciones.
-- Sustituciones de materiales.
-- Cambios de uso.
-- Pérdidas patrimoniales identificadas.
+La primavera y el otoño ofrecen paisajes forestales muy atractivos. El verano permite disfrutar de días largos y de importantes celebraciones. El invierno muestra un ambiente diferente, generalmente más tranquilo.
 
-Las fotografías históricas, los planos, los inventarios y los expedientes de obras pueden resultar fundamentales para reconstruir estas transformaciones.
+Quien busque conocer las tradiciones debe consultar sus fechas. Quien prefiera caminar por los bosques encontrará propuestas para diferentes épocas del año.
 
-La protección jurídica del conjunto urbano y las condiciones de intervención se estudian en [Conjunto histórico de La Alberca](/pueblos/conjuntos-historicos/la-alberca/conjunto-historico/).
+En cualquier caso, merece la pena reservar tiempo para descubrir el pueblo sin prisas.
+
+**[Qué ver y hacer en La Alberca: guía para el visitante](/pueblos/conjuntos-historicos/la-alberca/visitar/)**
 
 ---
 
-## Líneas de investigación patrimonial
+## Conocer La Alberca en profundidad
 
-El conocimiento reunido en esta sección permitirá desarrollar investigaciones específicas.
+Este atlas reúne el conocimiento sobre La Alberca en nueve secciones complementarias.
 
-| Ámbito | Preguntas principales |
+Cada una aborda un aspecto diferente del pueblo, con información histórica, territorial, cultural o práctica.
+
+### Historia y patrimonio
+
+**[Historia de La Alberca](/pueblos/conjuntos-historicos/la-alberca/historia/)**
+
+Los acontecimientos, documentos y procesos históricos que permiten comprender la evolución del pueblo.
+
+**[Conjunto histórico](/pueblos/conjuntos-historicos/la-alberca/conjunto-historico/)**
+
+La arquitectura tradicional, el trazado urbano, la declaración patrimonial y la conservación del conjunto.
+
+**[Patrimonio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/)**
+
+Edificios, monumentos, inscripciones, elementos artísticos y otros testimonios materiales de su historia.
+
+### Cultura y comunidad
+
+**[Cultura y tradiciones](/pueblos/conjuntos-historicos/la-alberca/cultura-tradiciones/)**
+
+Fiestas, celebraciones, indumentaria, costumbres y manifestaciones de la identidad albercana.
+
+**[Sociedad y economía](/pueblos/conjuntos-historicos/la-alberca/sociedad-economia/)**
+
+La población, los trabajos, los aprovechamientos tradicionales y los cambios en la vida de sus habitantes.
+
+### Territorio y naturaleza
+
+**[Geografía y territorio](/pueblos/conjuntos-historicos/la-alberca/geografia-territorio/)**
+
+El relieve, los valles, los cursos de agua, los caminos y los lugares que forman el territorio municipal.
+
+**[Naturaleza](/pueblos/conjuntos-historicos/la-alberca/naturaleza/)**
+
+Los ambientes naturales, bosques, humedales, árboles singulares y organismos documentados en La Alberca.
+
+### Descubrir y crear
+
+**[Visitar La Alberca](/pueblos/conjuntos-historicos/la-alberca/visitar/)**
+
+Una guía para conocer el pueblo, descubrir sus atractivos y organizar una estancia.
+
+**[Artículos](/pueblos/conjuntos-historicos/la-alberca/articulos/)**
+
+Un espacio abierto a investigaciones, ciencia, curiosidades, relatos, memoria, creatividad, humor y nuevas formas de contar La Alberca.
+
+---
+
+## Información esencial
+
+| Dato | Información |
 |---|---|
-| Arquitectura tradicional | ¿Cómo se construían las viviendas y cómo han evolucionado? |
-| Inscripciones | ¿Qué significan las fechas y símbolos conservados? |
-| Ayuntamiento | ¿Qué documenta la inscripción de 1774? |
-| Iglesia parroquial | ¿Qué fases constructivas y bienes artísticos pueden identificarse? |
-| Heráldica | ¿Qué relaciones históricas reflejan los escudos? |
-| Ermitas | ¿Cuál fue su origen y cómo cambiaron sus funciones? |
-| Fuentes y cruceros | ¿Qué papel desempeñaron en la vida cotidiana? |
-| Memoria arquitectónica | ¿Qué elementos han desaparecido o se han transformado? |
+| Localidad | La Alberca |
+| Provincia | Salamanca |
+| Comunidad autónoma | Castilla y León |
+| Comarca | Sierra de Francia |
+| Código postal | 37624 |
+| Reconocimiento patrimonial | Monumento Histórico-Artístico, 1940 |
+| Entorno | Sierra de Francia y Parque Natural Las Batuecas–Sierra de Francia |
 
-Cada investigación deberá partir de un elemento identificado y de preguntas concretas.
-
-Los resultados podrán incorporarse a las fichas patrimoniales y, cuando su alcance lo justifique, publicarse como artículos independientes.
+Para consultar horarios, servicios y recomendaciones prácticas, visita la sección [Visitar La Alberca](/pueblos/conjuntos-historicos/la-alberca/visitar/).
 
 ---
 
-## Fuentes y documentación
+## La Alberca, siempre por descubrir
 
-### Estudios sobre La Alberca
+Hay pueblos que parecen mostrarlo todo en una primera visita.
 
-**José Luis Puerto.** *La Alberca. Memoria y Patrimonio*. Dos volúmenes:
+La Alberca invita a mirar una segunda vez.
 
-- *Lo sagrado* (2022).
-- *Lo profano* (2024).
+Una inscripción que pasó inadvertida, una tradición que no conocíamos, una historia escondida detrás de una fachada o un camino que conduce a un paisaje inesperado pueden cambiar nuestra manera de comprenderla.
 
-Obra de referencia para la investigación del patrimonio, la historia y la memoria local.
+Nuestro propósito es reunir y compartir ese conocimiento, sin perder de vista que el pueblo continúa vivo y que siempre quedarán cosas por aprender.
 
-**José Luis Puerto.** *Memoria visual de La Alberca*. Colección de cinco volúmenes publicados entre 2013 y 2017.
-
-Fuente de interés para el estudio de imágenes históricas y transformaciones del municipio.
-
-### Estudios etnográficos y arquitectónicos
-
-**Mercedes Cano Herrera (2004).** Estudio etnográfico sobre la vivienda tradicional albercana publicado en *Salamanca, Revista de Estudios*.
-
-**J. J. Torrenova (1975).** Estudio arquitectónico de La Alberca publicado en una revista del Colegio Oficial de Arquitectos de Madrid.
-
-Estas referencias deberán completarse con sus datos bibliográficos íntegros y páginas concretas al desarrollar las investigaciones correspondientes.
-
-### Fuentes institucionales
-
-- Ayuntamiento de La Alberca: información municipal y descripciones patrimoniales.
-- Junta de Castilla y León: inventarios, fichas y documentación de patrimonio cultural.
-- Ministerio de Cultura: archivos y catálogos documentales.
-- Diputación de Salamanca: publicaciones y estudios provinciales.
-- Biblioteca Nacional de España: registros bibliográficos y fondos históricos.
-
-La identificación de un elemento en una fuente divulgativa no sustituye la comprobación de su cronología o interpretación mediante documentación especializada.
-
----
-
-## Relaciones con otras secciones
-
-- [La Alberca](/pueblos/conjuntos-historicos/la-alberca/): monografía general del municipio.
-- [Historia de La Alberca](/pueblos/conjuntos-historicos/la-alberca/historia/): evolución histórica y contexto de los edificios.
-- [Conjunto histórico](/pueblos/conjuntos-historicos/la-alberca/conjunto-historico/): protección y conservación del núcleo urbano.
-- [Conjuntos históricos de la Sierra de Francia](/pueblos/conjuntos-historicos/): contexto territorial y comparaciones entre pueblos.
-
-El patrimonio material se estudiará aquí como un conjunto de testimonios identificables.
-
-Las investigaciones sobre sus significados, relaciones históricas y transformaciones podrán desarrollarse en artículos específicos, evitando duplicar información y manteniendo siempre la conexión con sus elementos de origen.
-
----
-
-## Criterio de investigación
-
-El patrimonio no debe reducirse a una relación de monumentos ni convertirse en una colección de historias atractivas sin fundamento documental.
-
-Cada elemento puede contener información sobre las personas, los oficios, las creencias y las transformaciones de La Alberca.
-
-Nuestro objetivo es identificar esos testimonios, comprender su contexto y conservar su memoria mediante investigaciones rigurosas, abiertas a nuevas evidencias y revisiones.
-
-**Primero investigar el elemento. Después comprender su historia y sus relaciones. Finalmente compartir el conocimiento.**
+**Conocer La Alberca es descubrir sus calles. Comprenderla es ir mucho más allá de ellas.**
