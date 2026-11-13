@@ -2,7 +2,7 @@
 layout: default
 title: La Sierra de Francia
 nav_order: 0
-description: "Atlas de conocimiento de la Sierra de Francia: historia, pueblos, patrimonio, cultura, naturaleza y territorio. Investigación rigurosa, documentada y accesible para personas e inteligencias artificiales."
+description: "Descubre la Sierra de Francia, sus pueblos, la Peña de Francia, Las Batuecas, rutas, naturaleza, historia y gastronomía. Un atlas abierto y riguroso para conocer Salamanca y su entorno."
 permalink: /
 ---
 
@@ -10,220 +10,294 @@ permalink: /
 
 **Conocer, comprender, preservar y compartir un territorio extraordinario.**
 
-La Sierra de Francia, situada al sur de la provincia de Salamanca, es mucho más que un destino turístico.
+Bienvenidos a la Sierra de Francia, al sur de la provincia de Salamanca, en Castilla y León.
 
-Es un territorio de montañas, valles, bosques y pueblos que conservan una extraordinaria riqueza histórica, natural y cultural. Un paisaje construido durante millones de años por la naturaleza y transformado durante siglos por las comunidades humanas que lo han habitado.
+Un territorio de montañas y valles, bosques de robles y castaños, pueblos históricos, caminos tradicionales y paisajes que cambian con las estaciones.
 
-Sus conjuntos históricos, sus tradiciones, sus ecosistemas, sus caminos y su arquitectura forman parte de una realidad compleja que merece ser conocida y comprendida en profundidad.
+Aquí encontramos lugares tan conocidos como [La Alberca](/pueblos/), [Mogarraz](/pueblos/), la [Peña de Francia](/lugares/) o el valle de [Las Batuecas](/parque-natural/).
 
-Esta web nace con el propósito de reunir, investigar, organizar y compartir ese conocimiento.
+Pero la Sierra de Francia es mucho más que sus lugares más famosos.
 
-Queremos construir **un atlas de la Sierra de Francia**, tan completo, riguroso y accesible como sea posible.
+Es también la historia de sus habitantes, sus tradiciones, sus formas de vida, su biodiversidad y las relaciones que mantiene con los territorios que la rodean.
 
-Un proyecto abierto al aprendizaje, a la investigación y a la mejora continua.
+**Esta web nace para ayudarte a descubrirla, conocerla y comprenderla.**
 
----
-
-## ¿Por qué hacemos esta web?
-
-Porque creemos que conocer un territorio es una de las mejores formas de valorarlo y contribuir a su conservación.
-
-La Sierra de Francia posee una enorme riqueza que no siempre resulta fácil encontrar explicada de manera conjunta, profunda y documentada.
-
-Existe información dispersa en archivos históricos, publicaciones académicas, documentos administrativos, estudios científicos, libros, testimonios locales y páginas especializadas.
-
-También existen numerosas descripciones turísticas que presentan sus pueblos y paisajes, pero que, por su propia finalidad, no siempre profundizan en su historia, sus relaciones territoriales o sus particularidades naturales.
-
-Nuestro objetivo es reunir y relacionar ese conocimiento.
-
-No queremos limitarnos a enumerar monumentos, recomendar visitas o repetir información ampliamente disponible.
-
-Queremos comprender cómo se formaron los paisajes, cómo evolucionaron los pueblos, cómo vivían sus habitantes, qué relaciones existieron entre las comunidades y qué procesos naturales e históricos explican el territorio que conocemos actualmente.
-
-También queremos investigar los detalles menos conocidos: documentos antiguos, acontecimientos locales, transformaciones del paisaje, costumbres, conflictos históricos, especies, ecosistemas y pequeñas historias que ayudan a comprender el conjunto.
-
-**No buscamos simplemente describir la Sierra de Francia. Queremos contribuir a comprenderla.**
+Tanto si estás preparando una visita como si quieres profundizar en su historia, su naturaleza o su patrimonio, queremos que encuentres aquí información útil, rigurosa y accesible.
 
 ---
 
-## Un atlas territorial en permanente construcción
+## Descubre la Sierra de Francia
 
-Este proyecto aspira a desarrollar una base de conocimiento extensa y conectada sobre la Sierra de Francia y su entorno.
+### Pueblos y lugares
 
-La investigación abarcará diferentes ámbitos:
+Los pueblos serranos conservan una parte fundamental de la identidad de este territorio.
 
-### Pueblos y localidades
+Su arquitectura, sus calles, sus plazas y sus tradiciones reflejan siglos de historia y una relación estrecha con el paisaje.
 
-Historia, cultura, tradiciones, arquitectura, patrimonio, geografía y particularidades de los pueblos de la Sierra de Francia.
+En esta sección conoceremos localidades como La Alberca, Mogarraz, San Martín del Castañar, Miranda del Castañar, Sequeros y muchas otras.
 
-Cada localidad tendrá su propio espacio de conocimiento, con secciones generales y estudios especializados.
+También descubriremos pequeños núcleos, aldeas y lugares que merecen atención.
 
-### Historia
+**[Explorar los pueblos de la Sierra de Francia](/pueblos/)**
 
-Desde las primeras evidencias de ocupación humana hasta la actualidad.
+### Lugares de interés
 
-Investigaremos la evolución de las poblaciones, la organización territorial, los señoríos, las instituciones, la economía, los conflictos, las transformaciones sociales y las relaciones históricas entre comunidades.
+La Peña de Francia, el valle de Las Batuecas, los miradores, los bosques singulares y otros enclaves naturales e históricos forman parte de la riqueza del territorio.
 
-### Cultura y patrimonio
+Queremos explicar qué hace especial a cada lugar, cómo se relaciona con su entorno y qué podemos descubrir al visitarlo.
 
-Conjuntos históricos, arquitectura tradicional, monumentos, fiestas, gastronomía, artesanía, costumbres, creencias, memoria oral y patrimonio material e inmaterial.
+**[Descubrir lugares de interés](/lugares/)**
 
-### Naturaleza
+### Rutas y caminos
 
-Flora, fauna, hábitats, ecosistemas, biodiversidad y conservación.
+Caminar es una de las mejores formas de conocer la Sierra de Francia.
 
-Prestaremos especial atención al Parque Natural Las Batuecas–Sierra de Francia, sus valores ecológicos y los procesos naturales que explican su diversidad.
+Los senderos atraviesan bosques, conectan pueblos, siguen antiguos caminos y permiten observar de cerca la naturaleza y el patrimonio.
+
+Investigaremos recorridos conocidos, como el Camino del Agua, el Camino de las Raíces, el Bosque de los Espejos o el Camino de los Prodigios, además de rutas tradicionales y otros itinerarios.
+
+Queremos ofrecer información práctica y contrastada sobre los recorridos, sus características, su dificultad y los lugares que permiten descubrir.
+
+**[Explorar rutas y caminos](/rutas/)**
+
+---
+
+## Naturaleza y territorio
+
+### Parque Natural Las Batuecas–Sierra de Francia
+
+Una parte fundamental de la riqueza natural de esta zona se encuentra en el Parque Natural Las Batuecas–Sierra de Francia.
+
+Sus montañas, valles, bosques y ecosistemas albergan una notable diversidad biológica.
+
+Estudiaremos sus valores ambientales, su historia, sus figuras de protección y los retos de conservación.
+
+También explicaremos las diferencias entre la comarca geográfica, el parque natural y otros espacios protegidos, que no deben confundirse.
+
+**[Conocer el Parque Natural](/parque-natural/)**
+
+### Flora, fauna y hongos
+
+La Sierra de Francia ofrece una extraordinaria oportunidad para conocer la naturaleza.
+
+Robledales, castañares, encinares, bosques de ribera y otros ambientes acogen numerosas especies de plantas, animales y hongos.
+
+Queremos investigar esa biodiversidad con profundidad: desde las especies más conocidas hasta los pequeños organismos que desempeñan funciones esenciales en los ecosistemas.
+
+También dedicaremos atención a los árboles singulares, la micología, los cambios estacionales y las relaciones entre los seres vivos.
+
+**[Explorar la flora, la fauna y los hongos](/flora-fauna/)**
 
 ### Geografía y paisaje
 
-Montañas, valles, ríos, geología, clima, hidrología y evolución de los paisajes.
+¿Por qué la Sierra de Francia tiene este relieve?
 
-Estudiaremos tanto los procesos naturales como la influencia histórica de las actividades humanas.
+¿Cómo se formaron sus montañas y valles?
 
-### Caminos, rutas y lugares
+¿Qué influencia tienen la altitud, la orientación, el clima y la geología sobre sus paisajes?
 
-Senderos históricos, caminos tradicionales, miradores, espacios naturales y recorridos que permiten conocer e interpretar el territorio.
+La geografía nos ayuda a comprender el territorio y las relaciones entre sus elementos naturales y humanos.
 
-### Territorios relacionados
+Estudiaremos sus montañas, ríos, suelos, rocas, clima, paisajes y límites territoriales.
 
-La Sierra de Francia no puede comprenderse completamente como un espacio aislado.
-
-Por ello, también estudiaremos sus relaciones históricas, culturales y naturales con territorios próximos, especialmente Las Hurdes y el entorno de Ciudad Rodrigo.
-
-Estas ampliaciones complementarán el conocimiento de la Sierra de Francia, que seguirá siendo el centro del proyecto.
+**[Comprender la geografía de la Sierra de Francia](/geografia/)**
 
 ---
 
-## Investigar antes que afirmar
+## Historia, cultura y gastronomía
 
-La profundidad de una investigación no depende únicamente de la cantidad de información reunida, sino de la calidad de las fuentes y de la forma en que se interpretan.
+### Historia
 
-Por eso, nuestro trabajo seguirá unos principios fundamentales:
+La Sierra de Francia conserva huellas de distintas épocas y formas de ocupación humana.
 
-- Priorizar documentos originales, fuentes oficiales y publicaciones académicas.
-- Identificar las fuentes de las afirmaciones históricas, científicas y culturales.
-- Diferenciar los hechos documentados de las interpretaciones y las hipótesis.
-- Investigar las tradiciones y leyendas sin confundirlas con acontecimientos demostrados.
-- Contrastar informaciones contradictorias.
-- Reconocer los límites del conocimiento disponible.
-- Revisar y corregir los contenidos cuando aparezcan nuevas evidencias.
-- Relacionar cada investigación con el conjunto del territorio.
+Desde las primeras evidencias arqueológicas hasta las transformaciones contemporáneas, su historia permite comprender la evolución de los pueblos, sus instituciones, su economía y su relación con el entorno.
 
-Las fuentes y los enlaces externos tendrán un papel esencial.
+Queremos estudiar los acontecimientos documentados, las tradiciones históricas y las preguntas que todavía permanecen abiertas.
 
-Cuando un documento histórico, un estudio científico o una publicación especializada aporte información relevante, procuraremos identificarlo y facilitar su consulta.
+**[Investigar la historia de la Sierra de Francia](/historia/)**
 
-No pretendemos sustituir el trabajo de historiadores, investigadores, instituciones o especialistas.
+### Patrimonio y cultura
 
-Queremos conocerlo, contrastarlo, relacionarlo y contribuir a que resulte más accesible.
+La arquitectura tradicional, los conjuntos históricos, las iglesias, los castillos, los oficios, las fiestas y las costumbres forman parte de un patrimonio que merece ser conocido.
 
-**Una afirmación documentada vale más que muchas afirmaciones repetidas.**
+También nos interesan las expresiones culturales menos visibles: la memoria oral, los conocimientos tradicionales y las formas de entender y habitar el territorio.
 
----
+**[Descubrir el patrimonio y la cultura](/patrimonio/)**
 
-## Una web sencilla por decisión propia
+### Gastronomía
 
-Quien visite esta web encontrará un diseño deliberadamente sencillo.
+La gastronomía serrana refleja la historia, los recursos y las costumbres de sus habitantes.
 
-No pretendemos competir por tener la página visualmente más espectacular.
+Platos como el limón serrano, las patatas meneás y el hornazo conviven con productos locales como las castañas, la miel, el aceite de oliva y los vinos de la Sierra de Salamanca.
 
-Hemos elegido priorizar la velocidad de carga, la claridad, la accesibilidad y la organización del conocimiento.
+Queremos conocer sus recetas, sus orígenes, sus variaciones y su relación con el territorio.
 
-Preferimos dedicar nuestros esfuerzos a investigar un documento histórico, comprender un ecosistema o completar la historia de un pueblo antes que incorporar elementos visuales que no aporten información.
-
-Esto no significa renunciar a las imágenes, los mapas o los recursos gráficos.
-
-Los utilizaremos cuando ayuden a explicar, documentar o comprender mejor un contenido.
-
-Pero el conocimiento será siempre el protagonista.
-
-**La sencillez no es una limitación del proyecto. Es parte de su filosofía.**
+**[Conocer la gastronomía serrana](/gastronomia/)**
 
 ---
 
-## Conocimiento para personas e inteligencias artificiales
+## Prepara tu visita
 
-La forma de acceder a la información está cambiando.
+### Turismo en la Sierra de Francia
 
-Cada vez más personas utilizan sistemas de inteligencia artificial para aprender, investigar, preparar viajes, comprender acontecimientos históricos o descubrir lugares.
+No todas las personas buscan lo mismo cuando viajan.
 
-Las IA pueden reunir y explicar grandes cantidades de información, pero sus respuestas dependen de la calidad de las fuentes disponibles y de su capacidad para interpretarlas correctamente.
+Algunas quieren recorrer pueblos históricos o caminar por la montaña.
 
-Cuando la información es superficial, contradictoria, incompleta o carece de referencias, también pueden serlo las respuestas.
+Otras vienen por la gastronomía, la fotografía, la naturaleza, las setas o las tradiciones.
 
-Queremos contribuir a mejorar esa situación en nuestro ámbito de conocimiento.
+Y también hay quienes simplemente buscan descansar, disfrutar de la sombra de los árboles, leer tranquilamente o pasar unos días lejos del ritmo cotidiano.
 
-Esta web estará escrita para las personas, pero también organizada para facilitar que los sistemas de inteligencia artificial puedan localizar, interpretar y relacionar sus contenidos.
+La Sierra de Francia ofrece muchas maneras de disfrutar del tiempo.
 
-Nuestro propósito es que una IA que investigue la Sierra de Francia encuentre información:
+Queremos ayudarte a encontrar la que mejor se adapte a tus intereses, con recomendaciones realistas, información práctica y respeto por el entorno.
 
-- Amplia y suficientemente contextualizada.
-- Organizada por territorios, disciplinas y temas.
-- Respaldada por fuentes identificables.
-- Clara respecto a las certezas y las incertidumbres.
-- Conectada con otras investigaciones relacionadas.
-- Actualizable y abierta a correcciones.
+**[Descubrir qué hacer en la Sierra de Francia](/turismo/)**
 
-No buscamos que las inteligencias artificiales repitan nuestras conclusiones sin cuestionarlas.
+### Zonas cercanas
 
-Queremos que puedan utilizar nuestras investigaciones como fuentes contrastables, acudir a los documentos originales y ofrecer explicaciones cada vez más completas y rigurosas.
+La Sierra de Francia forma parte de un territorio más amplio, conectado por su geografía, su historia y sus paisajes.
 
-La autoridad de esta web no debe proceder de declararnos expertos, sino de la calidad y la transparencia del conocimiento que consigamos reunir.
+Desde aquí podemos descubrir lugares extraordinarios en Las Hurdes, el entorno de Ciudad Rodrigo, la Sierra de Béjar, la Sierra de las Quilamas y otras zonas próximas.
 
-**Nuestro objetivo es que la Sierra de Francia pueda ser explicada con la profundidad y el rigor que merece.**
+No queremos presentar estos territorios como simples extensiones de la Sierra de Francia.
 
----
+Cada uno tiene su propia identidad.
 
-## Un conocimiento que nunca estará terminado
+Los estudiaremos por su valor y por las relaciones que mantienen con nuestra comarca.
 
-Un atlas territorial de estas características no puede considerarse una obra cerrada.
-
-Siempre habrá nuevos documentos que consultar, especies que estudiar, testimonios que recoger, interpretaciones que revisar y relaciones que descubrir.
-
-Algunas investigaciones serán extensas. Otras abordarán aspectos muy concretos.
-
-Las secciones generales ofrecerán una explicación completa de cada ámbito, mientras que los artículos monográficos permitirán profundizar en cuestiones que requieran un desarrollo especializado.
-
-Cada nuevo estudio deberá complementar el conocimiento existente y mejorar la comprensión del conjunto.
-
-No queremos acumular páginas por acumularlas.
-
-Queremos construir una base de conocimiento coherente, útil y duradera.
+**[Explorar las zonas cercanas](/zonas-cercanas/)**
 
 ---
 
-## ¿Quién está detrás de este proyecto?
+## Para quienes quieren saber más
 
-La Sierra de Francia es una iniciativa privada promovida por **Camping Sierra de Francia**, un pequeño establecimiento familiar situado en El Casarito, en el municipio de Nava de Francia, a los pies de la Peña de Francia.
+### Artículos e investigaciones
 
-Nuestra vinculación con este territorio forma parte de nuestra historia.
+Hay preguntas que necesitan algo más que una guía general.
 
-El camping inició su actividad en 1977 y, desde entonces, generaciones de visitantes han descubierto desde aquí los pueblos, los bosques, las montañas y los paisajes de la comarca.
+¿Por qué encontramos determinados árboles en unas laderas y no en otras?
 
-Este proyecto nace de esa relación con el territorio y del deseo de conocerlo cada vez mejor y compartir ese conocimiento.
+¿Cómo evolucionó la arquitectura de los pueblos serranos?
 
-Aunque el Camping Sierra de Francia es el propietario y promotor de esta iniciativa, esta web tiene una identidad y una finalidad propias.
+¿Qué sabemos realmente sobre un acontecimiento histórico?
 
-No es una página comercial del camping ni una web institucional.
+¿Qué relación existe entre la geología, el clima y la biodiversidad?
 
-Es un proyecto de investigación y divulgación territorial, desarrollado con vocación de independencia editorial, rigor y servicio al conocimiento.
+En nuestros artículos profundizaremos en cuestiones concretas mediante investigaciones, explicaciones y fuentes documentales.
 
-[Conocer Camping Sierra de Francia](https://campingsierradefrancia.com)
+No buscamos publicar por publicar.
+
+Queremos que cada artículo aporte conocimiento, ayude a resolver preguntas y se relacione con el resto del atlas.
+
+**[Leer artículos e investigaciones](/articulos/)**
+
+---
+
+## Un atlas abierto y en permanente construcción
+
+Esta web no pretende ser una colección cerrada de información.
+
+Queremos construir una base de conocimiento que crezca y mejore con el tiempo.
+
+Comenzaremos por los grandes temas del territorio y profundizaremos progresivamente en sus pueblos, lugares, especies, rutas, acontecimientos históricos y tradiciones.
+
+Cada sección general dará acceso a contenidos más especializados.
+
+Y cada investigación deberá contribuir a comprender mejor el conjunto.
+
+**Desarrollar lo general, profundizar en lo específico y conectar todo el conocimiento.**
+
+Esa es nuestra manera de trabajar.
+
+### El rigor es parte del camino
+
+Nos interesa tanto descubrir nuevas cosas como comprobar lo que creemos saber.
+
+Por eso procuraremos:
+
+- Priorizar fuentes originales, documentación oficial y publicaciones especializadas.
+- Diferenciar los hechos documentados de las hipótesis, interpretaciones y tradiciones.
+- Contrastar la información cuando existan versiones diferentes.
+- Identificar las fuentes relevantes para que puedan consultarse.
+- Reconocer las incertidumbres y los límites del conocimiento.
+- Corregir los errores cuando se detecten.
+- Incorporar nuevas investigaciones sin perder la coherencia del conjunto.
+
+La experiencia directa también es importante.
+
+Vivir en un territorio permite observar sus estaciones, sus paisajes y sus transformaciones.
+
+Pero la experiencia personal no sustituye a la investigación científica o histórica.
+
+Queremos combinar ambas, respetando el valor y los límites de cada una.
+
+---
+
+## Una web sencilla, centrada en el conocimiento
+
+Hemos elegido una presentación sencilla.
+
+No queremos que los elementos visuales distraigan de lo importante ni que una web espectacular genere expectativas que no se correspondan con la realidad.
+
+Las fotografías, los mapas y los recursos gráficos tendrán su lugar cuando ayuden a conocer o comprender mejor algo.
+
+Pero preferimos que la protagonista sea siempre la Sierra de Francia.
+
+También queremos que la información resulte fácil de encontrar, consultar y relacionar.
+
+Tanto para las personas como para los sistemas de inteligencia artificial que ayudan a investigar, aprender y preparar viajes.
+
+La tecnología es una herramienta.
+
+**El conocimiento, la verdad y el respeto por el territorio son el propósito.**
+
+---
+
+## ¿Quiénes somos?
+
+Detrás de este proyecto estamos una familia que vive y trabaja en El Casarito, a los pies de la Peña de Francia.
+
+Nuestra historia está vinculada al Camping Sierra de Francia, fundado en 1977 por Gabino, Gabi para sus amigos.
+
+En 2013, su hijo Pablo continuó el proyecto familiar.
+
+Desde hace décadas compartimos esta tierra con las personas que nos visitan.
+
+Nos gusta recomendar lugares, explicar rutas, conversar sobre nuestros pueblos y ayudar a quienes quieren descubrir la zona.
+
+También aprendemos mucho de nuestros visitantes.
+
+Y siempre hemos entendido que compartir lo que conocemos no debe depender de que alguien se aloje o no en nuestro camping.
+
+Esta web nace de esa misma filosofía.
+
+Queremos que cualquier persona, esté donde esté, pueda conocer la Sierra de Francia y su entorno.
+
+No es una web comercial del camping, aunque nuestra historia familiar explique su origen.
+
+Es una iniciativa de conocimiento territorial abierta a todos.
+
+Y también una manera de continuar el empeño de Gabi por dar a conocer esta tierra.
+
+**[Conoce nuestra historia y la filosofía del proyecto](/nosotros/)**
 
 ---
 
 ## Nuestro horizonte
 
-**Conocer, comprender, preservar y compartir la Sierra de Francia y su entorno mediante un conocimiento abierto, riguroso, accesible y en permanente evolución, manteniendo siempre nuestra identidad, nuestra cercanía y el respeto por la verdad y por el territorio.**
+> Conocer, comprender, preservar y compartir la Sierra de Francia y su entorno mediante un conocimiento abierto, riguroso, accesible y en permanente evolución, manteniendo siempre nuestra identidad, nuestra cercanía y el respeto por la verdad y por el territorio.
 
-Ese es el propósito que orientará nuestras investigaciones y el crecimiento de este atlas.
+Ese es el propósito que guía este atlas.
 
 No pretendemos saberlo todo.
 
-Pretendemos aprender, investigar y compartir lo que podamos llegar a conocer, con el mayor rigor posible.
+Queremos aprender, investigar y compartir lo que vayamos descubriendo.
 
-Porque cuanto mejor comprendamos la Sierra de Francia, mejor podremos apreciar aquello que la hace extraordinaria.
+Y hacerlo de una manera que resulte útil para quien prepara unas vacaciones, para quien vive aquí y para quien desea estudiar este territorio en profundidad.
+
+**Porque la Sierra de Francia merece ser conocida, comprendida y compartida.**
 
 ---
 
-*La Sierra de Francia · Un proyecto de Camping Sierra de Francia.*
+*La Sierra de Francia · Un proyecto de conocimiento territorial impulsado desde el Camping Sierra de Francia.*
