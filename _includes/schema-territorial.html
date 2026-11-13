@@ -1,46 +1,142 @@
 
 {% comment %}
-Schema.org territorial — La Sierra de Francia
+==================================================
+LA SIERRA DE FRANCIA
+SCHEMA TERRITORIAL — V3
+==================================================
 
-Complementa el marcado de jekyll-seo-tag.
-No genera WebPage ni Article para evitar duplicaciones.
+Activación automática de entidades territoriales.
 
-Activación mediante front matter:
-schema_type: Place
-schema_name: Mogarraz
+Compatible con:
+- Jekyll
+- Just the Docs
+- jekyll-seo-tag
+- head_custom.html
 
-Tipos inicialmente admitidos:
-Place, City, AdministrativeArea, Mountain,
-TouristAttraction, NaturalFeature, Taxon.
+No genera:
+- Article
+- WebPage
+- WebSite
+- BreadcrumbList
+
+Estos tipos se gestionan en otras capas.
+
+Identidad:
+URL canónica + #entity
+
+Principios:
+- No inventar datos.
+- No generar coordenadas sin verificar.
+- No confundir lugares con documentos.
+- No clasificar páginas generales como entidades.
+- Mantener compatibilidad con front matter futuro.
+==================================================
 {% endcomment %}
 
-{% assign schema_types = "Place,City,AdministrativeArea,Mountain,TouristAttraction,NaturalFeature,Taxon" | split: "," %}
+{% assign entity_type = page.schema_type %}
+{% assign entity_name = page.schema_name %}
 
-{% if page.schema_type and page.schema_name %}
-  {% if schema_types contains page.schema_type %}
+{% comment %}
+ENTIDADES AUTOMÁTICAS
+Solo se reconocen URLs exactas.
+{% endcomment %}
 
-    {% assign entity_id = page.url | absolute_url | append: "#entity" %}
+{% unless entity_type and entity_name %}
+
+{% case page.url %}
+
+{% when '/pueblos/conjuntos-historicos/la-alberca/' %}
+  {% assign entity_type = 'Place' %}
+  {% assign entity_name = 'La Alberca' %}
+
+{% when '/pueblos/conjuntos-historicos/miranda-del-castanar/' %}
+  {% assign entity_type = 'Place' %}
+  {% assign entity_name = 'Miranda del Castañar' %}
+
+{% when '/pueblos/conjuntos-historicos/mogarraz/' %}
+  {% assign entity_type = 'Place' %}
+  {% assign entity_name = 'Mogarraz' %}
+
+{% when '/pueblos/conjuntos-historicos/san-martin-del-castanar/' %}
+  {% assign entity_type = 'Place' %}
+  {% assign entity_name = 'San Martín del Castañar' %}
+
+{% when '/pueblos/conjuntos-historicos/sequeros/' %}
+  {% assign entity_type = 'Place' %}
+  {% assign entity_name = 'Sequeros' %}
+
+{% when '/pueblos/conjuntos-historicos/villanueva-del-conde/' %}
+  {% assign entity_type = 'Place' %}
+  {% assign entity_name = 'Villanueva del Conde' %}
+
+{% when '/lugares/pena-de-francia/' %}
+  {% assign entity_type = 'Mountain' %}
+  {% assign entity_name = 'Peña de Francia' %}
+
+{% when '/lugares/las-batuecas/' %}
+  {% assign entity_type = 'Place' %}
+  {% assign entity_name = 'Valle de Las Batuecas' %}
+
+{% when '/parque-natural/' %}
+  {% assign entity_type = 'Place' %}
+  {% assign entity_name = 'Parque Natural Las Batuecas-Sierra de Francia' %}
+
+{% endcase %}
+
+{% endunless %}
+
+{% comment %}
+TIPOS ADMITIDOS
+
+Los tipos específicos pueden declararse
+en el front matter de futuras páginas.
+{% endcomment %}
+
+{% assign allowed_types = 'Place,City,AdministrativeArea,Mountain,TouristAttraction,NaturalFeature,Taxon' | split: ',' %}
+
+{% if entity_type and entity_name %}
+{% if allowed_types contains entity_type %}
+
+{% assign canonical_url = page.url | absolute_url %}
+{% assign entity_id = canonical_url | append: '#entity' %}
+{% assign entity_description = page.schema_description | default: page.description %}
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
-  "@type": {{ page.schema_type | jsonify }},
+  "@type": {{ entity_type | jsonify }},
   "@id": {{ entity_id | jsonify }},
-  "name": {{ page.schema_name | jsonify }},
-  "url": {{ page.url | absolute_url | jsonify }},
+  "name": {{ entity_name | jsonify }},
+  "url": {{ canonical_url | jsonify }},
   "mainEntityOfPage": {
-    "@id": {{ page.url | absolute_url | jsonify }}
+    "@type": "WebPage",
+    "@id": {{ canonical_url | jsonify }}
   }
-  {% if page.schema_description %},
-  "description": {{ page.schema_description | jsonify }}
-  {% elsif page.description %},
-  "description": {{ page.description | jsonify }}
+  {% if entity_description %},
+  "description": {{ entity_description | jsonify }}
   {% endif %}
   {% if page.schema_same_as %},
   "sameAs": {{ page.schema_same_as | jsonify }}
   {% endif %}
+  {% if page.schema_latitude != nil and page.schema_longitude != nil %}
+    {% unless entity_type == 'Taxon' %},
+    "geo": {
+      "@type": "GeoCoordinates",
+      "latitude": {{ page.schema_latitude | plus: 0 | jsonify }},
+      "longitude": {{ page.schema_longitude | plus: 0 | jsonify }}
+    }
+    {% endunless %}
+  {% endif %}
+  {% if page.schema_parent_url %}
+    {% unless entity_type == 'Taxon' %},
+    "containedInPlace": {
+      "@type": "Place",
+      "@id": {{ page.schema_parent_url | absolute_url | append: '#entity' | jsonify }}
+    }
+    {% endunless %}
+  {% endif %}
 }
 </script>
 
-  {% endif %}
+{% endif %}
 {% endif %}
