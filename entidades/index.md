@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Quienes cuidan nuestra tierra
