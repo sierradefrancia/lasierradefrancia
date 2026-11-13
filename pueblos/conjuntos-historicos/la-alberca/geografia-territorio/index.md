@@ -4,454 +4,341 @@ title: Geografía y territorio
 parent: La Alberca
 grand_parent: Conjuntos históricos
 nav_order: 5
-description: "Geografía de La Alberca, Salamanca: término municipal, relieve, Sierra de Francia, Las Batuecas, hidrografía, geología, clima, paisajes y caminos históricos."
+description: "Geografía del término municipal de La Alberca: valle de Las Batuecas, valle de Lera, Portillo, río Francia, Laguna de San Marcos, relieve, caminos y toponimia."
 permalink: /pueblos/conjuntos-historicos/la-alberca/geografia-territorio/
 ---
 
 # Geografía y territorio de La Alberca
 
-**La Alberca** es un municipio situado en el sur de la provincia de Salamanca, en Castilla y León, dentro del ámbito geográfico de la Sierra de Francia.
+La geografía de **La Alberca**, municipio de la Sierra de Francia situado en la provincia de Salamanca, presenta una singularidad fundamental: su territorio reúne el entorno serrano del núcleo urbano y el profundo valle de Las Batuecas, abierto hacia las tierras extremeñas.
 
-Su territorio comprende paisajes muy diferentes: el entorno serrano del núcleo urbano, laderas montañosas, divisorias de aguas y el profundo valle de Las Batuecas.
+Entre ambos espacios existen diferencias importantes de altitud, relieve, orientación, condiciones ambientales y aprovechamientos históricos.
 
-Esta diversidad geográfica es fundamental para comprender su historia, los aprovechamientos tradicionales, las comunicaciones y la distribución de sus ecosistemas.
+La geografía albercana no se comprende únicamente desde el pueblo. Es necesario conocer los valles, las divisorias, los cursos de agua, los caminos y los parajes que forman su término municipal.
 
-La Alberca no puede estudiarse únicamente como un pueblo de montaña. Su término municipal se extiende hacia territorios de características físicas y ambientales muy distintas de las del casco urbano.
-
-Esta sección analiza el municipio como unidad territorial y establece sus relaciones con la Sierra de Francia, Las Batuecas y las comarcas vecinas.
+Esta página reúne los elementos geográficos identificados específicamente en La Alberca. Los procesos geológicos, climáticos e hidrográficos generales se estudiarán en las secciones territoriales de la Sierra de Francia.
 
 ---
 
-## Situación geográfica
+## Un municipio entre dos vertientes
 
-La Alberca pertenece a la provincia de Salamanca y se localiza en el sector occidental del Sistema Central.
+El núcleo urbano de La Alberca se encuentra aproximadamente a 1.044 metros de altitud.
 
-Su núcleo urbano se encuentra aproximadamente a **1.044 metros sobre el nivel del mar**.
+Desde su entorno, el territorio se prolonga hacia el norte, en dirección al valle del río Francia, y hacia el sur, donde el relieve desciende abruptamente hacia Las Batuecas.
 
-El término municipal ocupa alrededor de **61 km²**, aunque las fuentes secundarias consultadas presentan pequeñas diferencias en la cifra de superficie.
+Esta disposición sitúa al municipio en un ámbito de transición entre paisajes montañosos con orientaciones y condiciones ambientales muy diferentes.
 
-Para establecer una superficie oficial de referencia se utilizará la cartografía administrativa y estadística correspondiente, indicando su fecha y metodología.
+El valle de Las Batuecas pertenece al término municipal de La Alberca, como recoge expresamente su declaración oficial como Sitio Histórico.
 
-### Datos territoriales básicos
+La frontera con Extremadura se encuentra en el sector meridional del territorio.
 
-| Característica | Información |
-|---|---|
-| Municipio | La Alberca |
-| Provincia | Salamanca |
-| Comunidad autónoma | Castilla y León |
-| Comarca geográfica | Sierra de Francia |
-| Sistema montañoso | Sistema Central |
-| Altitud del núcleo principal | Aproximadamente 1.044 m |
-| Superficie municipal | Aproximadamente 61 km² |
-| Núcleos y entidades territoriales citados | La Alberca, Las Batuecas y Prado Carreras |
-| Espacio natural protegido relacionado | Parque Natural Las Batuecas–Sierra de Francia |
+### La singularidad territorial
 
-Las cifras aproximadas no deben utilizarse para calcular superficies protegidas, límites de propiedad o delimitaciones administrativas.
+La proximidad entre el pueblo y Las Batuecas puede hacer pensar que ambos comparten condiciones físicas semejantes.
+
+Sin embargo, el desnivel entre el entorno urbano, las divisorias montañosas y el fondo del valle produce contrastes considerables.
+
+Estos contrastes ayudan a explicar las diferencias de vegetación, usos tradicionales y comunicaciones.
+
+**Fuente:** Decreto 92/2000, de declaración del Valle de Las Batuecas como Sitio Histórico.
 
 ---
 
-## El término municipal
+## Las unidades geográficas del término
 
-El término municipal de La Alberca comprende un territorio que se extiende más allá del núcleo urbano y de su entorno inmediato.
-
-Entre sus ámbitos geográficos se encuentran las tierras serranas próximas al pueblo y el valle de Las Batuecas, situado al sur.
-
-La relación entre ambos espacios es importante tanto desde el punto de vista físico como histórico.
-
-### Límites municipales
-
-La Alberca mantiene relaciones territoriales con municipios salmantinos de la Sierra de Francia y con el municipio cacereño de Ladrillar, en Las Hurdes.
-
-Entre los municipios vecinos o próximos que deben estudiarse en la cartografía administrativa se encuentran Nava de Francia, El Cabaco, El Maíllo, Monsagro, San Martín del Castañar, Mogarraz, Monforte de la Sierra, Madroñal, Herguijuela de la Sierra y Ladrillar.
-
-La relación exacta de colindancias, sus tramos y los puntos de encuentro entre términos deberá establecerse mediante cartografía oficial.
-
-No debe confundirse la proximidad geográfica entre dos municipios con la existencia de un límite administrativo compartido.
-
-### La frontera provincial
-
-La relación con Las Hurdes constituye una de las singularidades territoriales de La Alberca.
-
-Al sur del ámbito serrano salmantino se encuentra la provincia de Cáceres, perteneciente a Extremadura.
-
-La separación administrativa no impide la existencia de relaciones históricas, económicas, culturales y ambientales entre ambos territorios.
-
----
-
-## Relieve y grandes unidades del paisaje
-
-El relieve del municipio está condicionado por su posición en las montañas occidentales del Sistema Central.
-
-La presencia de divisorias, collados, laderas y valles encajados produce contrastes topográficos importantes.
-
-### El entorno del núcleo urbano
-
-La población se sitúa en un ámbito montañoso de altitud relativamente elevada.
-
-Su emplazamiento debe estudiarse en relación con los caminos históricos, los terrenos de aprovechamiento agrícola y forestal y la disponibilidad de agua.
-
-La morfología del asentamiento y su relación con el relieve forman parte de la explicación geográfica del pueblo.
-
-### Las sierras y divisorias
-
-El territorio albercano se relaciona con las alineaciones montañosas de la Sierra de Francia y con las elevaciones que separan diferentes valles.
-
-Estas divisorias condicionan la circulación del agua, la orientación de las laderas y las comunicaciones.
-
-Su estudio requerirá identificar las cumbres, collados y líneas de divisoria mediante modelos digitales del terreno.
+Una investigación histórica sobre La Alberca, publicada con el título *Vida y muerte en La Alberca (Salamanca)*, identifica diferentes unidades territoriales que permiten superar la descripción genérica del municipio.
 
 ### El valle de Las Batuecas
 
-Las Batuecas constituye una de las unidades geográficas más singulares del municipio.
+Situado al sur del núcleo urbano, constituye la unidad de relieve más contrastada del término.
 
-Se trata de un valle encajado, con fuertes pendientes y un acusado contraste altitudinal respecto a los sectores montañosos próximos.
+El valle presenta laderas abruptas, afloramientos rocosos y un cauce profundamente encajado.
 
-La orientación de sus laderas, la topografía y las condiciones ambientales contribuyen a diferenciarlo del entorno del núcleo urbano de La Alberca.
+Su configuración geográfica lo diferencia de las tierras próximas al pueblo.
 
-El valle dispone de una identidad geográfica, histórica y patrimonial propia.
+### El valle de Lera
 
-Su estudio detallado corresponde a la monografía territorial de Las Batuecas.
+La investigación histórica identifica el **valle de Lera o de Leras** en el sector occidental del término, al abrigo de la Peña de Francia.
 
----
+Se describe como un espacio apartado del núcleo urbano y con características propias de suelo y paisaje.
 
-## La Peña de Francia y su relación territorial
+Su delimitación exacta deberá reconstruirse mediante cartografía y documentación toponímica.
 
-La **Peña de Francia** es una de las grandes referencias paisajísticas de la comarca.
+### Los Regajos
 
-Su cima alcanza aproximadamente 1.723 metros, según la información divulgada por Patrimonio Natural de Castilla y León.
+La misma fuente sitúa **Los Regajos** al este del valle de Lera y los relaciona con una zona de pradera y una transición hacia terrenos de matorral.
 
-Su presencia visual y su importancia histórica y cultural explican su estrecha relación con La Alberca y otros pueblos serranos.
+La denominación merece un estudio de su extensión histórica y uso del suelo.
 
-Sin embargo, una relación paisajística o cultural no significa que todos los lugares asociados a la Peña pertenezcan administrativamente al municipio de La Alberca.
+### Las Datas Nuevas
 
-La localización de sus diferentes elementos, accesos y ámbitos de protección debe establecerse mediante cartografía.
+El pequeño valle de **Las Datas Nuevas** aparece identificado como uno de los sectores más montañosos del término.
 
-La Peña de Francia contará con una monografía propia, evitando duplicar aquí su estudio completo.
+Será necesario localizar sus límites, cursos de agua y conexiones con los parajes próximos.
 
----
+### Las Horconeras
 
-## Geología y materiales del territorio
+La fuente sitúa **Las Horconeras** hacia el sector oriental de las unidades descritas.
 
-La Sierra de Francia pertenece a un ámbito geológico complejo, con materiales antiguos que han experimentado diferentes procesos de deformación, fracturación y erosión.
+Su interés reside en la posibilidad de reconstruir una geografía local a partir de topónimos y divisiones tradicionales del paisaje.
 
-En el entorno de Las Batuecas se encuentran afloramientos cuarcíticos, relacionados también con la presencia de abrigos que conservan manifestaciones de arte rupestre.
+### La dehesa septentrional
 
-El estudio geológico del municipio deberá identificar las unidades presentes mediante cartografía del Instituto Geológico y Minero de España.
+Al norte del núcleo urbano, la investigación describe una zona de robledal adehesado, relacionada con terrenos antiguamente cultivados y con la red de arroyos que descienden hacia el río Francia.
 
-### Aspectos que se investigarán
+Su evolución permite estudiar la relación entre paisaje, propiedad, aprovechamientos y transformación de la cubierta vegetal.
 
-- Litologías presentes en el término municipal.
-- Distribución de cuarcitas, pizarras y otros materiales.
-- Estructuras tectónicas y fracturas.
-- Relación entre materiales y formas del relieve.
-- Procesos de meteorización y erosión.
-- Formación de suelos.
-- Utilización histórica de piedra y otros materiales constructivos.
-
-La presencia de una roca en la comarca no demuestra automáticamente su existencia en todos los sectores del municipio.
-
-### Geología y arquitectura
-
-La disponibilidad de materiales locales puede ayudar a explicar determinadas técnicas constructivas tradicionales.
-
-No obstante, para establecer el origen de la piedra utilizada en un edificio es necesario estudiar sus características y, cuando sea posible, su procedencia documental o geológica.
-
-Esta relación conecta la geografía con la investigación del patrimonio arquitectónico.
+**Fuente:** *Vida y muerte en La Alberca (Salamanca)*, disponible en Dialnet.
 
 ---
 
-## Hidrografía
+## El valle de Las Batuecas: un lugar de interés geológico
 
-El relieve de La Alberca condiciona una red de cursos de agua que discurren por valles y laderas de diferente orientación.
+El Instituto Geológico y Minero de España incluye el **Valle de Las Batuecas** en el Inventario Español de Lugares de Interés Geológico, con el código **CI077**.
 
-El municipio se encuentra en un sector de especial interés hidrográfico por la proximidad de divisorias entre las grandes cuencas del Duero y del Tajo.
+La ficha identifica un territorio caracterizado por:
 
-La asignación de cada cauce a una cuenca debe verificarse mediante la cartografía oficial de las confederaciones hidrográficas.
+- Fuertes contrastes altitudinales.
+- Laderas muy pendientes.
+- Afloramientos de cuarcitas y otros materiales sedimentarios.
+- Pliegues, fracturas y contactos geológicos.
+- Canchales y acumulaciones de derrubios.
+- Formas erosivas producidas por la circulación del agua.
 
-### El río Batuecas
+### El relieve del valle
 
-El río Batuecas es uno de los principales elementos hidrográficos del territorio.
+La ficha del IGME recoge cotas comprendidas aproximadamente entre 475 y 1.617 metros dentro del ámbito inventariado.
 
-Discurre por el valle del mismo nombre y forma parte de la red hidrográfica de la cuenca del Tajo.
+Estas cifras corresponden al lugar de interés geológico delimitado por el inventario, no a los valores extremos del conjunto del municipio.
 
-Su recorrido está condicionado por un relieve encajado, con tramos de pendiente, saltos y pozas.
+### Las marmitas de gigante
 
-El río y su entorno requieren un estudio específico de hidrología, geomorfología, calidad del agua y ecosistemas fluviales.
+El IGME identifica en el río Batuecas formas de erosión fluvial conocidas como **marmitas de gigante**.
 
-### El río Francia
+Son depresiones excavadas en la roca por la acción del agua y de los materiales transportados durante determinados procesos fluviales.
 
-El río Francia constituye otro elemento importante de la geografía comarcal.
+Su presencia constituye un rasgo geomorfológico concreto del valle.
 
-Su recorrido y relación con los límites municipales deben estudiarse mediante cartografía hidrográfica detallada.
+### Los canchales
 
-La proximidad del río a La Alberca no implica que todos sus tramos discurran por el interior del término municipal.
+Los canchales de Las Batuecas son acumulaciones de fragmentos rocosos relacionadas con la evolución de sus laderas.
 
-### Fuentes, manantiales y arroyos
+Su distribución y actividad forman parte del interés geomorfológico reconocido por el IGME.
 
-La red hidrográfica incluye cursos de menor entidad y puntos de surgencia de agua.
+La investigación detallada de estos procesos corresponderá también a las secciones generales de geología.
 
-Su inventario permitirá estudiar:
-
-- Nacimientos y manantiales.
-- Arroyos permanentes y estacionales.
-- Áreas de drenaje.
-- Relaciones entre geología y circulación del agua.
-- Aprovechamientos históricos.
-- Fuentes y estructuras de abastecimiento.
-
-La identificación de un manantial requiere distinguir su localización, funcionamiento hidrológico y denominación tradicional.
+**Fuente:** IGME-CSIC, Inventario Español de Lugares de Interés Geológico, CI077.
 
 ---
 
-## Clima y contrastes locales
+## El Portillo: paso entre La Alberca y Las Batuecas
 
-El clima del territorio albercano está condicionado por la altitud, la orientación del relieve y la circulación atmosférica regional.
+El **Portillo** constituye un punto geográfico esencial para comprender las comunicaciones entre el núcleo urbano y el valle de Las Batuecas.
 
-La diferencia de altitud entre el núcleo urbano y el fondo del valle de Las Batuecas puede generar contrastes térmicos y ambientales importantes.
+La documentación de rutas de la Sierra de Francia sitúa el paso en torno a los 1.250 metros de altitud.
 
-### El entorno serrano
+Desde allí, el camino tradicional desciende hacia el convento de Las Batuecas mediante un fuerte desnivel.
 
-Las zonas elevadas presentan condiciones climáticas distintas de las áreas situadas a menor altitud.
+### Un camino de aprovechamientos
 
-Las temperaturas, las precipitaciones y la exposición al viento deben analizarse mediante series meteorológicas representativas.
+La documentación turística comarcal identifica este itinerario como un camino utilizado históricamente por habitantes de La Alberca para:
 
-### Las Batuecas
+- Trasladar colmenas al valle.
+- Acceder a aprovechamientos de corcho.
+- Realizar actividades relacionadas con el carbón vegetal.
+- Comunicarse con Las Hurdes.
 
-El valle de Las Batuecas presenta condiciones topográficas que pueden favorecer ambientes locales diferentes de los del entorno montañoso.
+Estos usos permiten comprender el Portillo como una conexión económica y territorial, no solamente como un mirador o un recorrido senderista.
 
-Su orientación, el encajamiento y la distribución de la radiación solar influyen en los microclimas.
+### Un límite con valor histórico
 
-Estas características ayudan a comprender las diferencias de vegetación y paisaje, aunque su cuantificación requiere datos meteorológicos.
+El decreto de declaración del Sitio Histórico de Las Batuecas utiliza el viejo camino desde La Alberca hacia el convento y su continuación hacia el Portillo del Cid como parte de la delimitación del bien protegido.
 
-### Fuentes climáticas
-
-La investigación utilizará preferentemente:
-
-- AEMET.
-- Estaciones meteorológicas oficiales.
-- Series históricas de temperatura y precipitación.
-- Modelos climáticos con resolución conocida.
-- Estudios científicos regionales.
-
-No se asignarán valores climáticos exactos al municipio a partir de una estación distante sin explicar su representatividad.
+Conviene distinguir el Portillo del itinerario turístico, el Portillo del Cid citado en la documentación jurídica y los distintos trazados históricos antes de considerarlos equivalentes.
 
 ---
 
-## Paisajes y usos del suelo
+## El río Batuecas
 
-La diversidad del relieve y de las condiciones ambientales ha favorecido distintos paisajes.
+El **río Batuecas** atraviesa el valle que lleva su nombre y pertenece a la cuenca hidrográfica del Tajo.
 
-Entre ellos se encuentran áreas forestales, matorrales, pastizales, espacios agrícolas y zonas vinculadas a los asentamientos humanos.
+La documentación oficial lo caracteriza como un curso de montaña silícea mediterránea, con régimen pluvial-mediterráneo y caudal permanente en el tramo estudiado como Reserva Natural Fluvial.
 
-### Paisaje forestal
+Su cauce presenta rápidos, saltos, pozas y sectores rocosos.
 
-Las masas forestales constituyen un componente importante del territorio.
+### Un río encajado
 
-Su composición y evolución deben estudiarse mediante cartografía de vegetación, inventarios forestales y documentación histórica.
+La morfología del valle condiciona la forma del cauce.
 
-### Paisaje agrario
+En los tramos más pendientes predominan los afloramientos rocosos y las formas de erosión.
 
-Los usos agrícolas y ganaderos tradicionales han contribuido a modificar determinados espacios del municipio.
+En otros sectores aparecen bloques, cantos y gravas.
 
-La investigación deberá identificar los tipos de aprovechamiento y su evolución sin atribuir automáticamente todos los paisajes abiertos a una única causa.
+La Reserva Natural Fluvial constituye una unidad de estudio específica; sus límites no deben confundirse con los del valle completo.
 
-### Paisaje cultural
+### Una relación con Las Hurdes
 
-Los caminos, muros, construcciones rurales, parcelas y aprovechamientos tradicionales forman parte de la relación histórica entre la comunidad y su territorio.
+El curso del río y la apertura meridional del valle conectan geográficamente La Alberca con el ámbito extremeño.
 
-El paisaje cultural no es una realidad separada del medio físico: surge de la interacción entre procesos naturales y actividades humanas.
+La reconstrucción completa de esta red fluvial se desarrollará mediante cartografía hidrográfica oficial.
 
----
-
-## Caminos históricos y comunicaciones
-
-La posición geográfica de La Alberca ha condicionado sus comunicaciones con los pueblos próximos y con los territorios situados al sur de la Sierra de Francia.
-
-### El camino hacia Las Batuecas
-
-La documentación turística territorial describe un antiguo camino utilizado por los albercanos para desplazarse hacia Las Batuecas.
-
-Entre los usos históricos mencionados se encuentran el traslado de colmenas y el aprovechamiento de recursos forestales.
-
-El recorrido atraviesa el entorno del Portillo y desciende hacia el valle.
-
-Su estudio histórico debe diferenciar el trazado tradicional de los itinerarios senderistas señalizados actualmente.
-
-### Comunicaciones con otros pueblos
-
-Las relaciones con San Martín del Castañar, Mogarraz, Nava de Francia y otros municipios serranos permiten investigar la red histórica de caminos.
-
-Estos recorridos tuvieron funciones económicas, sociales y religiosas que deberán documentarse.
-
-### Caminos y toponimia
-
-Los nombres tradicionales de caminos, collados, fuentes y parajes pueden conservar información sobre antiguos usos del territorio.
-
-Su estudio requiere contrastar mapas históricos, documentación municipal y testimonios locales.
+**Fuente:** Ministerio para la Transición Ecológica, Reserva Natural Fluvial del río Batuecas.
 
 ---
 
-## Toponimia y memoria territorial
+## El río Francia y los arroyos septentrionales
 
-La toponimia constituye una fuente de información geográfica e histórica.
+El **río Francia** forma parte de la geografía del sector septentrional del entorno albercano.
 
-Los nombres de lugares pueden hacer referencia al relieve, la vegetación, los aprovechamientos, las propiedades o acontecimientos conservados en la memoria colectiva.
+La documentación de caminos tradicionales identifica su cruce en la senda que conecta La Alberca con San Martín del Castañar.
 
-Sin embargo, la interpretación de un topónimo no debe basarse únicamente en su parecido con una palabra actual.
+Una investigación histórica local menciona, entre otros, los arroyos:
 
-### Investigación toponímica
+- Endrinales.
+- Arrohuevo o Arroyohuevo.
+- Alberca.
 
-El inventario territorial deberá recoger:
+Estos nombres deben contrastarse con la cartografía hidrográfica y los registros toponímicos actuales.
 
-1. Nombre actual del lugar.
-2. Variantes históricas documentadas.
-3. Ubicación cartográfica.
-4. Primeras referencias conocidas.
-5. Posibles interpretaciones lingüísticas.
-6. Relación con usos tradicionales.
-7. Fuentes y grado de certeza.
+La existencia de variantes de denominación es relevante para reconstruir la memoria territorial.
 
-Se prestará especial atención a la conservación de denominaciones locales que puedan estar desapareciendo del uso cotidiano.
+### El camino hacia San Martín del Castañar
 
----
+La ruta tradicional desde La Alberca hacia San Martín del Castañar atraviesa espacios agrícolas y forestales y cruza cursos de agua del sector norte.
 
-## Espacios naturales protegidos
-
-Parte del territorio de La Alberca se encuentra integrado en el **Parque Natural Las Batuecas–Sierra de Francia**, declarado por la Ley 8/2000, de 11 de julio.
-
-El Parque Natural comprende territorios de varios municipios y no coincide con los límites administrativos de La Alberca.
-
-### Diferentes figuras de protección
-
-Es necesario distinguir:
-
-- El Parque Natural Las Batuecas–Sierra de Francia.
-- Los espacios de la Red Natura 2000.
-- La Reserva de la Biosfera de las Sierras de Béjar y Francia.
-- Los bienes de interés cultural de carácter territorial.
-
-Estas figuras responden a finalidades y regímenes de protección diferentes.
-
-Sus límites tampoco tienen por qué coincidir.
-
-### El Sitio Histórico de Las Batuecas
-
-El valle de Las Batuecas fue declarado Bien de Interés Cultural con categoría de Sitio Histórico mediante el Decreto 92/2000, de 27 de abril.
-
-Esta protección cultural es distinta de la declaración del Parque Natural.
-
-La existencia de diferentes figuras sobre un mismo territorio requiere analizar sus ámbitos y objetivos de manera independiente.
+Su trazado ofrece una oportunidad para estudiar la relación entre relieve, comunicaciones y aprovechamientos históricos.
 
 ---
 
-## Relaciones con Las Hurdes y el territorio próximo
+## La Laguna de San Marcos
 
-La Alberca mantiene una relación geográfica directa con el ámbito de Las Hurdes, situado al sur de la Sierra de Francia.
+La **Laguna de San Marcos** es un humedal situado en el término municipal de La Alberca, en el entorno de la ermita de San Marcos.
 
-La transición entre ambos territorios se produce a través de un relieve montañoso que históricamente condicionó las comunicaciones.
+Forma parte del paisaje de robledales y espacios rurales próximos al pueblo.
 
-La frontera provincial y autonómica no debe ocultar las relaciones territoriales que existieron entre las comunidades de ambos lados de la sierra.
+Su interés geográfico reside en su localización, su funcionamiento hidrológico y las transformaciones que pueda haber experimentado.
 
-Estas relaciones se estudiarán mediante caminos históricos, documentación de aprovechamientos, organización administrativa y fuentes culturales.
+### Una actuación documentada en 2025
 
-Las Hurdes contará con su propia monografía territorial, desde la que podrán establecerse relaciones documentadas con La Alberca.
+El 30 de junio de 2025 se publicó en el BOE un anuncio de la Confederación Hidrográfica del Tajo relativo a una solicitud presentada por la Junta de Castilla y León.
+
+El expediente **O-0165/2025** describía una actuación de reconstrucción de un dique de contención y ampliación de un aliviadero en la Laguna de San Marcos.
+
+La documentación sitúa la actuación en la parcela 193 del polígono 5 del término municipal de La Alberca.
+
+El anuncio acredita la existencia de la solicitud, pero no permite concluir que las obras fueran autorizadas o ejecutadas.
+
+Este expediente abre una línea de investigación sobre la historia y gestión del humedal.
+
+**Fuente:** BOE-B-2025-24706.
 
 ---
 
-## Líneas de investigación geográfica
+## Caminos y relaciones territoriales
 
-| Ámbito | Investigación principal |
+La red histórica de caminos permite comprender cómo se articulaban los diferentes espacios del municipio.
+
+### La Alberca–Las Batuecas
+
+Camino tradicional a través del Portillo, relacionado con el aprovechamiento de recursos y las comunicaciones hacia el sur.
+
+### La Alberca–San Martín del Castañar
+
+Itinerario histórico que conecta ambos municipios atravesando robledales, áreas agrícolas y cursos de agua.
+
+### Camino de las Raíces
+
+Recorrido actual que enlaza el núcleo de La Alberca con lugares como Majadas Viejas, San Marcos y el Montón de Cantos.
+
+Este camino permite reconocer la relación entre el paisaje, los lugares religiosos y la memoria local.
+
+La ruta cultural contemporánea no debe confundirse automáticamente con un único camino histórico de trazado inalterado.
+
+---
+
+## Toponimia del territorio albercano
+
+La investigación geográfica debe prestar especial atención a los nombres locales.
+
+Entre los topónimos identificados en las fuentes consultadas se encuentran:
+
+| Topónimo | Contexto documentado |
 |---|---|
-| Límites municipales | Cartografía oficial y evolución administrativa |
-| Relieve | Cumbres, collados, valles y pendientes |
-| Geología | Litologías, estructuras y formas del terreno |
-| Hidrografía | Cuencas, ríos, arroyos y manantiales |
-| Clima | Series meteorológicas y contrastes altitudinales |
-| Paisaje | Evolución de la cubierta vegetal y usos del suelo |
-| Caminos | Trazados históricos y comunicaciones |
-| Toponimia | Nombres tradicionales y documentación |
-| Espacios protegidos | Delimitaciones y regímenes territoriales |
-| Las Batuecas | Relaciones geográficas con el núcleo albercano |
-| Las Hurdes | Continuidades y diferencias territoriales |
+| Las Batuecas | Valle meridional |
+| Lera o Leras | Valle occidental |
+| Los Regajos | Sector de praderas y matorral |
+| Datas Nuevas | Valle montañoso |
+| Las Horconeras | Sector oriental de la descripción histórica |
+| El Portillo | Paso hacia Las Batuecas |
+| Portillo del Cid | Referencia en la delimitación del Sitio Histórico |
+| Majadas Viejas | Paraje y ermita |
+| San Marcos | Laguna y antigua ermita |
+| Arroyohuevo | Curso de agua citado en rutas y estudios |
 
-Cada investigación deberá apoyarse en fuentes cartográficas y documentales identificables.
+Esta relación no es un inventario completo.
 
-Los mapas derivados de datos oficiales deberán indicar su procedencia, escala o resolución y fecha de referencia.
+Las ubicaciones y variantes deberán contrastarse con cartografía oficial, documentación histórica y testimonios locales.
+
+No se atribuirán etimologías sin fundamento lingüístico.
 
 ---
 
-## Fuentes documentales y cartográficas
+## Cartografía e investigación pendiente
 
-### Instituto Geográfico Nacional
+La siguiente fase consistirá en construir un inventario territorial verificable con:
 
-Fuente principal para cartografía topográfica, límites administrativos, altitudes y modelos digitales del terreno.
+1. Límites oficiales del término municipal.
+2. Superficie y altitudes obtenidas de fuentes cartográficas.
+3. Delimitación de valles y unidades del relieve.
+4. Red hidrográfica y divisorias.
+5. Caminos históricos y actuales.
+6. Localización de parajes y topónimos.
+7. Evolución de usos del suelo.
+8. Comparación de cartografía histórica y contemporánea.
 
-[Instituto Geográfico Nacional](https://www.ign.es/).
+Los datos aún no comprobados no se sustituirán por estimaciones presentadas como exactas.
 
-[Centro de Descargas del CNIG](https://centrodedescargas.cnig.es/).
+---
 
-### Instituto Geológico y Minero de España
+## Fuentes principales
 
-Cartografía geológica, estudios del terreno y documentación sobre las unidades geológicas regionales.
+**Instituto Geológico y Minero de España.** Inventario Español de Lugares de Interés Geológico, CI077, Valle de Las Batuecas.
 
-[IGME-CSIC](https://www.igme.es/).
+https://info.igme.es/ielig/LIGInfo.aspx?codigo=CI077
 
-### Agencia Estatal de Meteorología
+**Ministerio para la Transición Ecológica.** Reserva Natural Fluvial del río Batuecas.
 
-Series climáticas, observaciones meteorológicas y documentación climatológica.
+https://www.miteco.gob.es/es/agua/temas/delimitacion-y-restauracion-del-dominio-publico-hidraulico/catalogo-nacional-de-reservas-hidrologicas/informacion/tajo/rio-batuecas.html
 
-[AEMET](https://www.aemet.es/).
+**Decreto 92/2000, de 27 de abril.** Declaración del Valle de Las Batuecas como Bien de Interés Cultural con categoría de Sitio Histórico.
 
-### Confederaciones hidrográficas
+https://www.boe.es/diario_boe/txt.php?id=BOE-A-2000-14223
 
-Cartografía y documentación oficial de las demarcaciones hidrográficas del Tajo y del Duero.
+**BOE-B-2025-24706.** Solicitud de actuaciones en la Laguna de San Marcos.
 
-[Confederación Hidrográfica del Tajo](https://www.chtajo.es/).
+https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-24706
 
-[Confederación Hidrográfica del Duero](https://www.chduero.es/).
+**Vida y muerte en La Alberca (Salamanca).** Investigación histórica con descripción de unidades geográficas locales.
 
-### Junta de Castilla y León
+https://dialnet.unirioja.es/descarga/articulo/144772.pdf
 
-Información sobre espacios naturales protegidos, ordenación del territorio y cartografía ambiental.
+**Pueblos de las Sierras de Salamanca.** La Alberca: caminos tradicionales y rutas.
 
-[Patrimonio Natural de Castilla y León](https://patrimonionatural.org/).
+https://www.sierrasdesalamanca.es/la-alberca/
 
-### Legislación territorial
+**Diputación de Salamanca.** Camino de las Raíces.
 
-**Ley 8/2000, de 11 de julio**, de Declaración del Parque Natural de Las Batuecas–Sierra de Francia.
-
-[Consultar en el BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2000-15356).
-
-**Ley 16/2008, de 18 de diciembre**, de ampliación del Parque Natural.
-
-[Consultar en el BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2009-815).
-
-**Decreto 92/2000, de 27 de abril**, de declaración del Valle de Las Batuecas como Sitio Histórico.
-
-[Consultar en el BOE](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2000-14223).
+https://turismo.lasalina.es/es/que-hacer/actividades-en-la-naturaleza/senderismo/camino-de-las-raices
 
 ---
 
 ## Relaciones con otras secciones
 
-- [La Alberca](/pueblos/conjuntos-historicos/la-alberca/): monografía general del municipio.
-- [Historia de La Alberca](/pueblos/conjuntos-historicos/la-alberca/historia/): evolución del poblamiento y de las relaciones territoriales.
-- [Conjunto histórico](/pueblos/conjuntos-historicos/la-alberca/conjunto-historico/): protección del núcleo urbano.
-- [Patrimonio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/): arquitectura y elementos construidos.
-- [Conjuntos históricos de la Sierra de Francia](/pueblos/conjuntos-historicos/): contexto territorial de los núcleos protegidos.
+- [La Alberca](/pueblos/conjuntos-historicos/la-alberca/).
+- [Historia de La Alberca](/pueblos/conjuntos-historicos/la-alberca/historia/).
+- [Patrimonio de La Alberca](/pueblos/conjuntos-historicos/la-alberca/patrimonio/).
+- [Naturaleza de La Alberca](/pueblos/conjuntos-historicos/la-alberca/naturaleza/).
 
-La flora, la fauna, los hábitats y los procesos ecológicos del municipio se desarrollarán en la subsección de Naturaleza.
+Las explicaciones generales sobre geología, climatología, hidrología y geomorfología se desarrollarán en las secciones temáticas de la Sierra de Francia.
 
-Las monografías de Las Batuecas, la Peña de Francia y Las Hurdes profundizarán en sus respectivos territorios, evitando duplicar aquí su contenido principal.
-
----
-
-## Criterio geográfico
-
-La geografía de La Alberca debe estudiarse mediante datos espaciales verificables, fuentes cartográficas oficiales y observaciones correctamente localizadas.
-
-No deben confundirse los límites municipales con los de las comarcas, espacios protegidos o unidades naturales.
-
-Tampoco deben extrapolarse características de un valle, una cumbre o un bosque a todo el municipio.
-
-El propósito es comprender cómo el relieve, el agua, el clima y las actividades humanas han configurado un territorio diverso, y cómo ese territorio se relaciona con el conjunto de la Sierra de Francia.
+Esta página se reserva para el territorio específico de La Alberca y sus relaciones documentadas.
