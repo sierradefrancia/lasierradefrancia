@@ -1,0 +1,156 @@
+
+{% comment %}
+=====================================================
+LA SIERRA DE FRANCIA
+HEAD CUSTOM — SEO SEMÁNTICO Y SCHEMA.ORG
+=====================================================
+
+Compatible con:
+- Jekyll
+- Just the Docs
+- jekyll-seo-tag
+- jekyll-sitemap
+
+Objetivos:
+1. Complementar el SEO existente.
+2. Identificar el proyecto editorial.
+3. Generar breadcrumbs con URLs reales.
+4. Incorporar entidades territoriales.
+5. Evitar duplicar Article, WebPage y canonical.
+
+El contenido editorial permanece independiente
+de esta capa técnica.
+=====================================================
+{% endcomment %}
+
+{% assign current_url = page.url | absolute_url %}
+{% assign home_url = '/' | absolute_url %}
+{% assign website_id = home_url | append: '#website' %}
+{% assign organization_id = home_url | append: '#organization' %}
+
+{% assign current_title = page.title | default: site.title %}
+
+{% comment %}
+METADATOS COMPLEMENTARIOS
+No duplicar title, description, canonical
+ni Open Graph gestionados por jekyll-seo-tag.
+{% endcomment %}
+
+<meta name="theme-color" content="#ffffff">
+<meta property="og:locale" content="es_ES">
+
+{% comment %}
+ENTIDAD RESPONSABLE DEL PROYECTO
+
+Se declara la organización editorial.
+No se identifica el proyecto territorial
+como si fuera una administración pública.
+{% endcomment %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "@id": {{ organization_id | jsonify }},
+  "name": "Camping Sierra de Francia",
+  "url": "https://campingsierradefrancia.com",
+  "description": "Entidad responsable del proyecto editorial La Sierra de Francia.",
+  "publishingPrinciples": {{ '/nosotros/' | absolute_url | jsonify }}
+}
+</script>
+
+{% comment %}
+BREADCRUMBS
+
+La jerarquía se construye desde los campos
+parent y grand_parent de Just the Docs.
+
+Se buscan páginas reales para recuperar sus URLs.
+Si no existe una página coincidente, no se inventa
+su dirección.
+
+La portada no necesita breadcrumbs.
+{% endcomment %}
+
+{% unless page.url == '/' %}
+
+  {% assign breadcrumb_position = 1 %}
+  {% assign breadcrumb_separator = '' %}
+
+  {% assign parent_url = nil %}
+  {% assign grandparent_url = nil %}
+
+  {% if page.parent %}
+    {% for candidate in site.pages %}
+      {% if candidate.title == page.parent %}
+        {% assign parent_url = candidate.url %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+  {% if page.grand_parent %}
+    {% for candidate in site.pages %}
+      {% if candidate.title == page.grand_parent %}
+        {% assign grandparent_url = candidate.url %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "@id": {{ current_url | append: '#breadcrumb' | jsonify }},
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Inicio",
+      "item": {{ home_url | jsonify }}
+    }
+    {% if page.grand_parent and grandparent_url %}
+    ,{
+      "@type": "ListItem",
+      "position": 2,
+      "name": {{ page.grand_parent | jsonify }},
+      "item": {{ grandparent_url | absolute_url | jsonify }}
+    }
+    {% assign breadcrumb_position = 3 %}
+    {% endif %}
+
+    {% if page.parent and parent_url %}
+    ,{
+      "@type": "ListItem",
+      "position": {{ breadcrumb_position }},
+      "name": {{ page.parent | jsonify }},
+      "item": {{ parent_url | absolute_url | jsonify }}
+    }
+    {% assign breadcrumb_position = breadcrumb_position | plus: 1 %}
+    {% endif %}
+
+    ,{
+      "@type": "ListItem",
+      "position": {{ breadcrumb_position }},
+      "name": {{ current_title | jsonify }},
+      "item": {{ current_url | jsonify }}
+    }
+  ]
+}
+</script>
+
+{% endunless %}
+
+{% comment %}
+ENTIDADES TERRITORIALES
+
+El motor específico identifica lugares,
+montañas, municipios, espacios naturales
+y taxones cuando la página lo declara.
+
+Se mantiene separado del marcado editorial
+que genera jekyll-seo-tag.
+{% endcomment %}
+
+{% include schema-territorial.html %}
