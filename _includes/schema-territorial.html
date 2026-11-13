@@ -1,105 +1,95 @@
-
 {% comment %}
 ==================================================
 LA SIERRA DE FRANCIA
-SCHEMA TERRITORIAL — V3
+SCHEMA TERRITORIAL — V4
 ==================================================
 
-Activación automática de entidades territoriales.
+Fuente principal:
+_data/entidades.yml
 
-Compatible con:
-- Jekyll
-- Just the Docs
-- jekyll-seo-tag
-- head_custom.html
+Activación alternativa:
+Front matter de cada página.
 
-No genera:
-- Article
-- WebPage
-- WebSite
-- BreadcrumbList
+Objetivos:
+- Una única fuente de datos.
+- Identificadores estables.
+- Entidades independientes de los documentos.
+- Sin coordenadas inventadas.
+- Sin duplicar Article, WebPage ni BreadcrumbList.
 
-Estos tipos se gestionan en otras capas.
-
-Identidad:
-URL canónica + #entity
-
-Principios:
-- No inventar datos.
-- No generar coordenadas sin verificar.
-- No confundir lugares con documentos.
-- No clasificar páginas generales como entidades.
-- Mantener compatibilidad con front matter futuro.
+Compatible con Jekyll y Just the Docs.
 ==================================================
 {% endcomment %}
 
-{% assign entity_type = page.schema_type %}
-{% assign entity_name = page.schema_name %}
+{% assign entity = nil %}
+{% assign entity_type = nil %}
+{% assign entity_name = nil %}
+{% assign entity_description = nil %}
+{% assign entity_same_as = nil %}
+{% assign entity_latitude = nil %}
+{% assign entity_longitude = nil %}
+{% assign entity_parent_url = nil %}
 
 {% comment %}
-ENTIDADES AUTOMÁTICAS
-Solo se reconocen URLs exactas.
+1. BUSCAR LA ENTIDAD EN EL REGISTRO CENTRAL
+Se compara la URL real de la página.
 {% endcomment %}
 
-{% unless entity_type and entity_name %}
-
-{% case page.url %}
-
-{% when '/pueblos/conjuntos-historicos/la-alberca/' %}
-  {% assign entity_type = 'Place' %}
-  {% assign entity_name = 'La Alberca' %}
-
-{% when '/pueblos/conjuntos-historicos/miranda-del-castanar/' %}
-  {% assign entity_type = 'Place' %}
-  {% assign entity_name = 'Miranda del Castañar' %}
-
-{% when '/pueblos/conjuntos-historicos/mogarraz/' %}
-  {% assign entity_type = 'Place' %}
-  {% assign entity_name = 'Mogarraz' %}
-
-{% when '/pueblos/conjuntos-historicos/san-martin-del-castanar/' %}
-  {% assign entity_type = 'Place' %}
-  {% assign entity_name = 'San Martín del Castañar' %}
-
-{% when '/pueblos/conjuntos-historicos/sequeros/' %}
-  {% assign entity_type = 'Place' %}
-  {% assign entity_name = 'Sequeros' %}
-
-{% when '/pueblos/conjuntos-historicos/villanueva-del-conde/' %}
-  {% assign entity_type = 'Place' %}
-  {% assign entity_name = 'Villanueva del Conde' %}
-
-{% when '/lugares/pena-de-francia/' %}
-  {% assign entity_type = 'Mountain' %}
-  {% assign entity_name = 'Peña de Francia' %}
-
-{% when '/lugares/las-batuecas/' %}
-  {% assign entity_type = 'Place' %}
-  {% assign entity_name = 'Valle de Las Batuecas' %}
-
-{% when '/parque-natural/' %}
-  {% assign entity_type = 'Place' %}
-  {% assign entity_name = 'Parque Natural Las Batuecas-Sierra de Francia' %}
-
-{% endcase %}
-
-{% endunless %}
+{% for candidate in site.data.entidades %}
+  {% if candidate.url == page.url %}
+    {% assign entity = candidate %}
+    {% break %}
+  {% endif %}
+{% endfor %}
 
 {% comment %}
-TIPOS ADMITIDOS
-
-Los tipos específicos pueden declararse
-en el front matter de futuras páginas.
+2. RECUPERAR DATOS DE LA ENTIDAD
+El registro tiene prioridad sobre los campos
+alternativos del front matter.
 {% endcomment %}
 
-{% assign allowed_types = 'Place,City,AdministrativeArea,Mountain,TouristAttraction,NaturalFeature,Taxon' | split: ',' %}
+{% if entity %}
+
+  {% assign entity_type = entity.type %}
+  {% assign entity_name = entity.name %}
+  {% assign entity_description = entity.description | default: page.description %}
+  {% assign entity_same_as = entity.same_as %}
+  {% assign entity_latitude = entity.latitude %}
+  {% assign entity_longitude = entity.longitude %}
+  {% assign entity_parent_url = entity.parent_url %}
+
+{% elsif page.schema_type and page.schema_name %}
+
+  {% assign entity_type = page.schema_type %}
+  {% assign entity_name = page.schema_name %}
+  {% assign entity_description = page.schema_description | default: page.description %}
+  {% assign entity_same_as = page.schema_same_as %}
+  {% assign entity_latitude = page.schema_latitude %}
+  {% assign entity_longitude = page.schema_longitude %}
+  {% assign entity_parent_url = page.schema_parent_url %}
+
+{% endif %}
+
+{% comment %}
+3. VALIDAR EL TIPO
+
+No se generan entidades sin nombre y tipo.
+{% endcomment %}
+
+{% assign allowed_types = "Place,City,AdministrativeArea,Mountain,TouristAttraction,NaturalFeature,Taxon" | split: "," %}
 
 {% if entity_type and entity_name %}
 {% if allowed_types contains entity_type %}
 
 {% assign canonical_url = page.url | absolute_url %}
-{% assign entity_id = canonical_url | append: '#entity' %}
-{% assign entity_description = page.schema_description | default: page.description %}
+{% assign entity_id = canonical_url | append: "#entity" %}
+
+{% comment %}
+4. GENERAR JSON-LD
+
+La entidad se identifica mediante #entity.
+El documento conserva su URL canónica.
+{% endcomment %}
 
 <script type="application/ld+json">
 {
@@ -112,29 +102,33 @@ en el front matter de futuras páginas.
     "@type": "WebPage",
     "@id": {{ canonical_url | jsonify }}
   }
+
   {% if entity_description %},
   "description": {{ entity_description | jsonify }}
   {% endif %}
-  {% if page.schema_same_as %},
-  "sameAs": {{ page.schema_same_as | jsonify }}
+
+  {% if entity_same_as %},
+  "sameAs": {{ entity_same_as | jsonify }}
   {% endif %}
-  {% if page.schema_latitude != nil and page.schema_longitude != nil %}
-    {% unless entity_type == 'Taxon' %},
+
+  {% unless entity_type == "Taxon" %}
+
+    {% if entity_latitude != nil and entity_longitude != nil %},
     "geo": {
       "@type": "GeoCoordinates",
-      "latitude": {{ page.schema_latitude | plus: 0 | jsonify }},
-      "longitude": {{ page.schema_longitude | plus: 0 | jsonify }}
+      "latitude": {{ entity_latitude | plus: 0 | jsonify }},
+      "longitude": {{ entity_longitude | plus: 0 | jsonify }}
     }
-    {% endunless %}
-  {% endif %}
-  {% if page.schema_parent_url %}
-    {% unless entity_type == 'Taxon' %},
+    {% endif %}
+
+    {% if entity_parent_url %},
     "containedInPlace": {
       "@type": "Place",
-      "@id": {{ page.schema_parent_url | absolute_url | append: '#entity' | jsonify }}
+      "@id": {{ entity_parent_url | absolute_url | append: "#entity" | jsonify }}
     }
-    {% endunless %}
-  {% endif %}
+    {% endif %}
+
+  {% endunless %}
 }
 </script>
 
