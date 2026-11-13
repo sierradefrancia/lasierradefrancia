@@ -1,102 +1,141 @@
 
 {% comment %}
-=====================================================
+====================================================
 LA SIERRA DE FRANCIA
-HEAD CUSTOM — SEO SEMÁNTICO Y SCHEMA.ORG
-=====================================================
+HEAD CUSTOM — V2
+====================================================
 
-Compatible con:
+Capa semántica complementaria para:
 - Jekyll
 - Just the Docs
 - jekyll-seo-tag
 - jekyll-sitemap
 
-Objetivos:
-1. Complementar el SEO existente.
-2. Identificar el proyecto editorial.
-3. Generar breadcrumbs con URLs reales.
-4. Incorporar entidades territoriales.
-5. Evitar duplicar Article, WebPage y canonical.
+Responsabilidades:
+1. Metadatos complementarios.
+2. Identidad del editor.
+3. BreadcrumbList basado en páginas reales.
+4. Integración del registro territorial.
 
-El contenido editorial permanece independiente
-de esta capa técnica.
-=====================================================
+No duplica:
+- title
+- description
+- canonical
+- Article
+- WebPage
+- WebSite
+
+El contenido editorial permanece independiente.
+====================================================
 {% endcomment %}
 
 {% assign current_url = page.url | absolute_url %}
 {% assign home_url = '/' | absolute_url %}
-{% assign website_id = home_url | append: '#website' %}
 {% assign organization_id = home_url | append: '#organization' %}
-
 {% assign current_title = page.title | default: site.title %}
 
 {% comment %}
 METADATOS COMPLEMENTARIOS
-No duplicar title, description, canonical
-ni Open Graph gestionados por jekyll-seo-tag.
 {% endcomment %}
 
 <meta name="theme-color" content="#ffffff">
-<meta property="og:locale" content="es_ES">
 
 {% comment %}
-ENTIDAD RESPONSABLE DEL PROYECTO
+IDENTIDAD EDITORIAL
 
-Se declara la organización editorial.
-No se identifica el proyecto territorial
-como si fuera una administración pública.
+Se utiliza la identidad configurada en
+_config.yml.
+
+La organización no se presenta como
+administración pública ni autoridad oficial.
+
+Se conserva el identificador estable
+#organization.
 {% endcomment %}
+
+{% assign publisher_name = site.author.name | default: site.title %}
+{% assign publisher_url = site.author.url | default: home_url %}
 
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
   "@type": "Organization",
   "@id": {{ organization_id | jsonify }},
-  "name": "Camping Sierra de Francia",
-  "url": "https://campingsierradefrancia.com",
-  "description": "Entidad responsable del proyecto editorial La Sierra de Francia.",
-  "publishingPrinciples": {{ '/nosotros/' | absolute_url | jsonify }}
+  "name": {{ publisher_name | jsonify }},
+  "url": {{ publisher_url | jsonify }}
 }
 </script>
 
 {% comment %}
 BREADCRUMBS
 
-La jerarquía se construye desde los campos
-parent y grand_parent de Just the Docs.
+Se resuelven los padres mediante:
+- Título exacto.
+- Ubicación jerárquica de la URL.
+- Existencia de una página real.
 
-Se buscan páginas reales para recuperar sus URLs.
-Si no existe una página coincidente, no se inventa
-su dirección.
+Esto reduce las ambigüedades que produciría
+buscar únicamente por título.
 
-La portada no necesita breadcrumbs.
+No se inventan URLs.
+No se generan breadcrumbs para la portada.
 {% endcomment %}
 
 {% unless page.url == '/' %}
 
-  {% assign breadcrumb_position = 1 %}
-  {% assign breadcrumb_separator = '' %}
+{% assign parent_page = nil %}
+{% assign grandparent_page = nil %}
 
-  {% assign parent_url = nil %}
-  {% assign grandparent_url = nil %}
+{% if page.grand_parent %}
 
-  {% if page.parent %}
-    {% for candidate in site.pages %}
-      {% if candidate.title == page.parent %}
-        {% assign parent_url = candidate.url %}
+  {% for candidate in site.pages %}
+
+    {% if candidate.title == page.grand_parent %}
+
+      {% assign candidate_path = candidate.url %}
+      {% assign candidate_size = candidate_path | size %}
+      {% assign current_prefix = page.url | slice: 0, candidate_size %}
+
+      {% if candidate_path == current_prefix %}
+        {% assign grandparent_page = candidate %}
         {% break %}
       {% endif %}
-    {% endfor %}
-  {% endif %}
 
-  {% if page.grand_parent %}
-    {% for candidate in site.pages %}
-      {% if candidate.title == page.grand_parent %}
-        {% assign grandparent_url = candidate.url %}
+    {% endif %}
+
+  {% endfor %}
+
+{% endif %}
+
+{% if page.parent %}
+
+  {% for candidate in site.pages %}
+
+    {% if candidate.title == page.parent %}
+
+      {% assign candidate_path = candidate.url %}
+      {% assign candidate_size = candidate_path | size %}
+      {% assign current_prefix = page.url | slice: 0, candidate_size %}
+
+      {% if candidate_path == current_prefix %}
+        {% assign parent_page = candidate %}
         {% break %}
       {% endif %}
-    {% endfor %}
-  {% endif %}
+
+    {% endif %}
+
+  {% endfor %}
+
+{% endif %}
+
+{% comment %}
+GENERACIÓN DE BREADCRUMBLIST
+
+Posiciones consecutivas.
+Solo páginas existentes.
+{% endcomment %}
+
+{% assign breadcrumb_position = 1 %}
 
 <script type="application/ld+json">
 {
@@ -110,25 +149,34 @@ La portada no necesita breadcrumbs.
       "name": "Inicio",
       "item": {{ home_url | jsonify }}
     }
-    {% if page.grand_parent and grandparent_url %}
-    ,{
-      "@type": "ListItem",
-      "position": 2,
-      "name": {{ page.grand_parent | jsonify }},
-      "item": {{ grandparent_url | absolute_url | jsonify }}
-    }
-    {% assign breadcrumb_position = 3 %}
+
+    {% if grandparent_page %}
+
+      {% assign breadcrumb_position = breadcrumb_position | plus: 1 %}
+
+      ,{
+        "@type": "ListItem",
+        "position": {{ breadcrumb_position }},
+        "name": {{ grandparent_page.title | jsonify }},
+        "item": {{ grandparent_page.url | absolute_url | jsonify }}
+      }
+
     {% endif %}
 
-    {% if page.parent and parent_url %}
-    ,{
-      "@type": "ListItem",
-      "position": {{ breadcrumb_position }},
-      "name": {{ page.parent | jsonify }},
-      "item": {{ parent_url | absolute_url | jsonify }}
-    }
-    {% assign breadcrumb_position = breadcrumb_position | plus: 1 %}
+    {% if parent_page %}
+
+      {% assign breadcrumb_position = breadcrumb_position | plus: 1 %}
+
+      ,{
+        "@type": "ListItem",
+        "position": {{ breadcrumb_position }},
+        "name": {{ parent_page.title | jsonify }},
+        "item": {{ parent_page.url | absolute_url | jsonify }}
+      }
+
     {% endif %}
+
+    {% assign breadcrumb_position = breadcrumb_position | plus: 1 %}
 
     ,{
       "@type": "ListItem",
@@ -143,14 +191,15 @@ La portada no necesita breadcrumbs.
 {% endunless %}
 
 {% comment %}
-ENTIDADES TERRITORIALES
+REGISTRO TERRITORIAL
 
-El motor específico identifica lugares,
-montañas, municipios, espacios naturales
-y taxones cuando la página lo declara.
+La información se obtiene de:
+_data/entidades.yml
 
-Se mantiene separado del marcado editorial
-que genera jekyll-seo-tag.
+El motor genera las entidades correspondientes
+sin modificar los artículos.
+
+Se mantiene separado del marcado editorial.
 {% endcomment %}
 
 {% include schema-territorial.html %}
