@@ -1,0 +1,71 @@
+
+# La Sierra de Francia
+# Configuración principal de Jekyll
+
+title: "La Sierra de Francia"
+
+description: >-
+  Atlas de conocimiento de la Sierra de Francia:
+  historia, pueblos, patrimonio, cultura, naturaleza
+  y territorio. Investigación rigurosa y documentada.
+
+url: "https://lasierradefrancia.es"
+baseurl: ""
+
+lang: es
+timezone: Europe/Madrid
+
+# Tema
+remote_theme: just-the-docs/just-the-docs
+
+# Navegación
+search_enabled: true
+search.heading_level: 3
+
+nav_sort: case_insensitive
+
+# Apariencia
+color_scheme: light
+
+# Enlaces externos
+aux_links:
+  "Camping Sierra de Francia":
+    - "https://campingsierradefrancia.com"
+
+aux_links_new_tab: true
+
+# Footer
+footer_content: >-
+  © 2026 La Sierra de Francia.
+  Proyecto propiedad de
+  <a href="https://campingsierradefrancia.com">
+  Camping Sierra de Francia</a>.
+
+# SEO y sitemap
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-remote-theme
+
+# Markdown
+markdown: kramdown
+
+kramdown:
+  input: GFM
+
+# URLs
+permalink: pretty
+
+# Archivos excluidos
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .github/
+
+# Metadatos
+author:
+  name: "Camping Sierra de Francia"
+  url: "https://campingsierradefrancia.com"
