@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: Peña de Francia
