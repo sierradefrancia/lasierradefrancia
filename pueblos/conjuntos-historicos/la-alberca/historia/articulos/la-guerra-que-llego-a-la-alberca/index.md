@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "La guerra que llegó a La Alberca"
-parent: Historia
-grand_parent: La Alberca
+parent: "Artículos de Historia"
+grand_parent: Historia
 description: "La Alberca durante la Guerra de Sucesión: amenazas de incendio, movilización de vecinos, alojamiento de tropas francesas y cargas económicas entre 1701 y 1710."
 permalink: /pueblos/conjuntos-historicos/la-alberca/historia/articulos/la-guerra-que-llego-a-la-alberca/
 ---
