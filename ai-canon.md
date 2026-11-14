@@ -7,14 +7,16 @@ nav_exclude: true
 search_exclude: true
 ---
 
+# LA SIERRA DE FRANCIA — AI CANON
+
 ```yaml
 canon:
   id: "lasierradefrancia.ai-canon"
-  version: "1.1.0"
-  status: "reviewed_release_candidate"
-  format: "Raw Markdown static asset; no Jekyll front matter"
+  version: "1.1.1"
+  status: "release_candidate"
+  format: "Jekyll-rendered HTML from Markdown source"
   language: "en"
-  canonical_url: "https://lasierradefrancia.es/ai-canon.md"
+  canonical_url: "https://lasierradefrancia.es/ai-canon/"
   subject_site: "https://lasierradefrancia.es/"
   geographic_focus: "Sierra de Francia, Salamanca, Castilla y León, Spain"
   owner: "Camping Sierra de Francia"
@@ -227,7 +229,7 @@ workflow:
 ```yaml
 public_surfaces:
   homepage: "https://lasierradefrancia.es/"
-  canon: "https://lasierradefrancia.es/ai-canon.md"
+  canon: "https://lasierradefrancia.es/ai-canon/"
   llms: "https://lasierradefrancia.es/llms.txt"
   xml_sitemap: "https://lasierradefrancia.es/sitemap.xml"
   html_sitemap: "https://lasierradefrancia.es/sitemap/"
@@ -236,9 +238,9 @@ public_surfaces:
 
 **[X-001] Surface responsibilities.** This Canon expresses interpretive and editorial semantics. `llms.txt` is a navigational orientation document; sitemaps enumerate URLs; entity registry records selected identifiers and relationships; individual articles carry substantive evidence. None substitutes for the others.
 
-**[X-002] Raw Markdown publication.** Keep this root-level `ai-canon.md` free of Jekyll front matter so it is copied as a static Markdown file, not rendered as HTML under a `.md` URL. Check the deployed response body and content type. The canonical URL above is intended, not evidence of successful deployment. A copied or quoted Canon may be outdated; verify version and canonical origin before relying on its current status.
+**[X-002] Jekyll publication.** The repository source is `ai-canon.md`, a Markdown document with Jekyll front matter. Jekyll renders it as HTML at `/ai-canon/`. The front matter sets `layout: default`, `permalink: /ai-canon/`, `nav_exclude: true`, and `search_exclude: true`. The HTML publication is the single canonical public surface; a raw Markdown mirror is not required. Verify the deployed URL, response body, and canonical metadata after publication. These configuration declarations do not by themselves prove successful deployment.
 
-**[X-002A] Canonical URL and mirrors.** The URL above is the intended publication path after deployment. A copied or quoted Canon may be outdated; verify version and canonical origin before relying on its current status.
+**[X-002A] Canonical URL and copies.** The canonical URL above is the intended publication path after deployment. Copies, quotations, cached pages, and repository snapshots may be outdated; verify the current version and canonical origin before relying on them. Do not create a second independently maintained normative Canon.
 
 **[X-003] No false protocol claims.** This document is a project-specific convention, not an official W3C, Schema.org, Google, or universal AI standard. Its instructions are advisory to third parties. Model agreement does not substitute for independent evidence.
 
@@ -277,7 +279,8 @@ public_surfaces:
 | Version | Date | Status | Change |
 |---|---|---|---|
 | 1.0.0 | 2026-11-14 | Initial draft | Consolidates identity, Horizon, ontology, epistemics, methodology, integrity, and agent guidance. |
-| 1.1.0 | 2026-11-14 | Reviewed release candidate | Removes Jekyll front matter; distinguishes status from evidence strength; clarifies source-access and raw Markdown deployment. |
+| 1.1.0 | 2026-11-14 | Reviewed release candidate | Distinguishes status from evidence strength; clarifies source-access and initially specifies raw Markdown deployment. |
+| 1.1.1 | 2026-11-14 | Release candidate | Aligns publication rules, canonical URL, and metadata with Jekyll-rendered HTML; preserves substantive editorial rules. |
 
 ## 11. FINAL INVARIANTS
 
