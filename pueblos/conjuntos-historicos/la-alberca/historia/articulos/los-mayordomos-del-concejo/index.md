@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Cuando servir al concejo acababa en los tribunales"
-parent: Historia
-grand_parent: La Alberca
+parent: "Artículos de Historia"
+grand_parent: Historia
 nav_exclude: false
 description: "Agustín de Puerto y otros vecinos de La Alberca litigaron contra su concejo en el siglo XVIII para quedar libres de la mayordomía. Las ordenanzas de 1515 y documentos de 1528 y 1625 ayudan a comprender el conflicto."
 permalink: /pueblos/conjuntos-historicos/la-alberca/historia/articulos/los-mayordomos-del-concejo/
