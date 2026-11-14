@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "1791: cuando La Alberca pidió al rey que escuchara su miseria"
-parent: Historia
-grand_parent: La Alberca
+parent: "Artículos de Historia"
+grand_parent: Historia
 description: "En 1791, tras años de enfermedad, hambre y mortalidad, La Alberca intentó negociar una reducción de sus impuestos. Una historia documentada de crisis y supervivencia."
 permalink: /pueblos/conjuntos-historicos/la-alberca/historia/articulos/la-alberca-1791-epidemia-hambre-impuestos/
 ---
