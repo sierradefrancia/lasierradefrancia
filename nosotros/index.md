@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Nosotros
+nav_exclude: true
+search_exclude: true
 nav_order: 13
 has_children: false
 description: "Conoce a la familia que impulsa La Sierra de Francia: una iniciativa nacida del Camping Sierra de Francia para compartir el conocimiento de nuestra tierra con todo el mundo."
