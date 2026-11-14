@@ -4,9 +4,12 @@ title: Inventario patrimonial
 parent: Patrimonio
 grand_parent: La Alberca
 nav_order: 90
+nav_exclude: true
+search_exclude: true
 description: "Inventario documental abierto del patrimonio material de La Alberca: bienes identificados, elementos asociados, fuentes, incertidumbres y líneas de investigación."
 permalink: /pueblos/conjuntos-historicos/la-alberca/patrimonio/inventario/
 ---
+
 
 # Inventario patrimonial de La Alberca
 
