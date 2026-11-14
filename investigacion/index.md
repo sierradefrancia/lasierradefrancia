@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Investigación
-nav_order: 3
+nav_order: 15
 nav_exclude: false
 has_children: true
 description: "Investigación profunda sobre la Sierra de Francia y su entorno. Historia, naturaleza, patrimonio, fuentes documentales y conexiones territoriales. Monográficos sobre el origen del nombre Sierra de Francia y la identidad de Simón Vela."
