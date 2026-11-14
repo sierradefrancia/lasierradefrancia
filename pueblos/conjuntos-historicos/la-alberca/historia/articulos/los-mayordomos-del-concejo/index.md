@@ -4,507 +4,556 @@ title: "Cuando servir al concejo acababa en los tribunales"
 parent: Historia
 grand_parent: La Alberca
 nav_exclude: false
-description: "Entre 1756 y 1760, Agustín de Puerto y otros vecinos de La Alberca litigaron contra su concejo por la obligación de ejercer la mayordomía. Una historia de gobierno local, responsabilidades y justicia."
+description: "Agustín de Puerto y otros vecinos de La Alberca litigaron contra su concejo en el siglo XVIII para quedar libres de la mayordomía. Las ordenanzas de 1515 y documentos de 1528 y 1625 ayudan a comprender el conflicto."
 permalink: /pueblos/conjuntos-historicos/la-alberca/historia/articulos/los-mayordomos-del-concejo/
 ---
 
 # Cuando servir al concejo acababa en los tribunales
 
-*En la segunda mitad del siglo XVIII, Agustín de Puerto y otros vecinos de La Alberca mantuvieron un pleito contra su propio concejo. Querían que se decidiera si estaban obligados a desempeñar la mayordomía municipal. El conflicto llegó a la Real Chancillería de Valladolid y dejó una pregunta que todavía merece investigarse: ¿hasta dónde podía exigir una comunidad que sus habitantes asumieran responsabilidades públicas?*
+*En torno a 1756, Agustín de Puerto y otros vecinos de La Alberca se enfrentaron judicialmente a su propio concejo. Querían quedar libres de desempeñar la mayordomía municipal. Para comprender aquel conflicto hay que retroceder más de dos siglos, hasta las ordenanzas que regulaban la vida albercana y las responsabilidades de quienes administraban sus recursos.*
 
-## Los vecinos que no querían ser mayordomos
+## Un cargo del que algunos querían librarse
 
-Entre 1756 y 1760, aproximadamente, un conflicto surgido en La Alberca llegó a uno de los grandes tribunales de la monarquía española.
+En algún momento de la segunda mitad de la década de 1750, un desacuerdo entre vecinos de La Alberca terminó convertido en un pleito.
 
-En un lado figuraban **Agustín de Puerto y otros vecinos**.
+Los demandantes eran **Agustín de Puerto y otros vecinos**.
 
-En el otro, el **concejo de La Alberca y otros vecinos particulares**.
+En la parte contraria figuraban el **concejo de La Alberca y otros particulares**.
 
-La cuestión era concreta: determinar si los primeros debían quedar libres de ejercer la mayordomía del concejo.
+El asunto llegó a la Real Chancillería de Valladolid, uno de los grandes tribunales de la Corona de Castilla.
 
-El expediente se conserva en el Archivo de la Real Chancillería de Valladolid.
+La cuestión que debía resolverse parece sencilla cuando se lee en la descripción del expediente: determinar si los demandantes tenían derecho a quedar libres de la mayordomía del concejo.
 
-Su descripción archivística no permite conocer todavía todas las circunstancias del enfrentamiento, pero sí identifica su objeto.
+Pero aquella pregunta escondía un problema más profundo.
 
-No se trataba de un litigio sobre tierras, herencias o lindes.
+¿Podía una comunidad obligar a sus vecinos a desempeñar determinados oficios públicos?
 
-Se discutía una obligación relacionada con el gobierno de la propia comunidad.
+¿En qué circunstancias podía alguien negarse?
 
-Para comprender por qué alguien podía acudir a los tribunales para evitar un cargo municipal, tenemos que abandonar nuestra idea actual del ayuntamiento.
+¿Quién decidía si una exención estaba justificada?
 
-En el siglo XVIII, el concejo no funcionaba como una administración profesionalizada semejante a la contemporánea.
+Y ¿qué ocurría cuando los intereses de algunos habitantes entraban en conflicto con las necesidades del gobierno local?
 
-Muchas tareas de gobierno, recaudación y administración recaían en oficios desempeñados por los propios vecinos.
+No conocemos todavía las respuestas que dieron los litigantes.
 
-La mayordomía era uno de ellos.
+Tampoco sabemos cómo terminó el procedimiento.
 
-Y aquel cargo podía implicar responsabilidades importantes.
+Sin embargo, la historia de La Alberca conserva documentos anteriores que permiten comprender por qué aquella discusión era importante.
 
-## Un pueblo gobernado por sus propios vecinos
+El primero nos lleva a 1515.
 
-La Alberca tenía una organización concejil compleja mucho antes del pleito de Agustín de Puerto.
+## 1515: las reglas de una comunidad
 
-Conocemos un testimonio especialmente valioso del año **1625**.
+El 17 de septiembre de 1515, los habitantes de La Alberca se reunieron bajo el pórtico de la iglesia para la proclamación de sus ordenanzas.
 
-José Luis Puerto estudió un protocolo notarial firmado por el escribano Alejandro Martín que recogía la elección de los oficiales locales para aquel año.
+El documento no surgía necesariamente de cero.
 
-El documento permite asomarnos a un concejo en el que se distribuían numerosas funciones.
+Su propio texto aludía a normas que el concejo había establecido desde tiempo atrás, junto con otras más recientes.
 
-Había alcaldes, regidores y procurador.
+Las ordenanzas regulaban numerosos aspectos de la vida comunitaria: el aprovechamiento del territorio, los cultivos, los ganados, los recursos naturales, las obligaciones vecinales y la actuación de los oficiales.
 
-También un mayordomo del concejo, un sesmero, un alhondiguero y distintos oficiales relacionados con la recaudación, los aprovechamientos comunales y la organización de la vida local.
+Su ámbito se extendía a La Alberca y a los territorios que entonces formaban parte de su dependencia jurisdiccional, en un contexto histórico vinculado a Las Hurdes y Las Batuecas.
 
-Existían, además, mayordomías vinculadas a la iglesia, las cofradías y determinadas devociones.
+La Alberca pertenecía al señorío de Granadilla, integrado en los dominios de la Casa de Alba.
 
-El concejo no se reducía, por tanto, a un pequeño grupo de autoridades que tomaban decisiones.
+No era una villa independiente en el sentido jurídico de la época, aunque disponía de una organización concejil propia y de normas para gobernar sus asuntos.
 
-Su funcionamiento requería una red de responsabilidades.
+Las ordenanzas han llegado hasta nosotros gracias a una copia realizada en 1668.
 
-Unos vecinos gobernaban.
+La historiadora Gabrielle Berrogain las publicó en 1930 en el *Anuario de Historia del Derecho Español*.
 
-Otros administraban.
+Ese trabajo convirtió un documento local en una fuente accesible para estudiar las instituciones y la vida cotidiana de La Alberca.
 
-Otros recaudaban.
+Y entre sus disposiciones encontramos algo directamente relacionado con nuestra historia: la responsabilidad económica de los oficiales concejiles.
 
-Otros se ocupaban de funciones relacionadas con el territorio, los abastecimientos o las actividades comunitarias.
+## Responder con los propios bienes
 
-Aquella estructura respondía a las necesidades de una sociedad que organizaba buena parte de su vida mediante instituciones locales.
+Las ordenanzas muestran que la administración del concejo no era una actividad exenta de consecuencias personales.
 
-Y una de las características más interesantes era la renovación de los cargos.
+La **ordenanza XLIV** regulaba la obligación de determinados oficiales de exigir las cuentas y pagos correspondientes a los recaudadores.
 
-Según el documento estudiado por Puerto, los oficios se elegían para el año correspondiente.
+Si su incumplimiento ocasionaba perjuicios o gastos al concejo, podían tener que responder por ellos.
 
-No todos eran permanentes.
+La **ordenanza XLV** establecía cautelas sobre las personas a quienes se confiaba la recaudación.
 
-La comunidad necesitaba encontrar, una y otra vez, personas que asumieran determinadas funciones.
+Los oficiales debían procurar que ofrecieran garantías suficientes.
 
-Ese contexto resulta fundamental para comprender el pleito del siglo XVIII.
+Si desatendían esa obligación y se producían pérdidas, podía exigírseles responsabilidad patrimonial.
 
-## Francisco Pies, mayordomo en 1625
+Estas disposiciones revelan una característica fundamental del gobierno local de la época.
 
-El documento de 1625 no se limita a enumerar oficios.
+Administrar recursos comunitarios no consistía únicamente en ejercer autoridad.
 
-También conserva los nombres de quienes los desempeñaban.
+También implicaba obligaciones susceptibles de ser fiscalizadas.
 
-El mayordomo del concejo era **Francisco Pies**, identificado además como familiar del Santo Oficio.
+Y, en determinadas circunstancias, los errores o incumplimientos podían afectar al patrimonio personal de quienes desempeñaban los cargos.
 
-No sabemos qué relación, si la hubo, existía entre él y las personas implicadas en el pleito posterior.
+Conviene introducir aquí una distinción.
 
-Entre ambos testimonios transcurre más de un siglo.
+Las ordenanzas XLIV y XLV regulaban responsabilidades de oficiales concejiles, pero no prueban por sí solas que Agustín de Puerto estuviera sometido exactamente a esas disposiciones ni que el temor a perder sus bienes motivara su pleito.
 
-Sería incorrecto construir una continuidad familiar sin documentación genealógica.
+Eso continúa sin documentarse.
 
-Pero el nombre de Francisco Pies permite establecer algo importante: la mayordomía del concejo era un oficio concreto, desempeñado por una persona identificable, dentro de la organización municipal albercana.
+Lo que sí demuestran es que **la responsabilidad económica personal formaba parte del marco jurídico histórico del concejo albercano**.
 
-José Luis Puerto explica que el mayordomo debía rendir cuentas anuales.
+Por tanto, un oficio municipal podía tener consecuencias que iban mucho más allá de su denominación.
 
-Esa obligación contable ayuda a entender la naturaleza del cargo.
+## Los mayordomos aparecen en las ordenanzas
 
-El mayordomo no era simplemente alguien que representaba al concejo en una ceremonia.
+Otra disposición permite acercarnos directamente al cargo discutido en el siglo XVIII.
 
-Tenía responsabilidades de administración.
+La **ordenanza CXIV** menciona expresamente a los mayordomos del concejo entre los oficiales que podían intervenir en actuaciones relacionadas con prendas.
 
-Y debía responder de su gestión.
+Las prendas eran bienes que podían quedar afectados a determinados procedimientos de cobro o ejecución de obligaciones.
 
-La rendición de cuentas convertía el oficio en una función sometida a control.
+La ordenanza establecía condiciones para esas actuaciones.
 
-No bastaba con ocuparlo.
+Este dato importa porque demuestra que la figura del mayordomo estaba integrada en la estructura normativa de La Alberca.
 
-Había que justificar lo administrado.
+No era un oficio del que únicamente tengamos noticias por comparaciones con otros pueblos castellanos.
 
-## Administrar el dinero de todos
+Aparece en sus propias ordenanzas.
 
-En los concejos castellanos del Antiguo Régimen, la mayordomía estaba estrechamente relacionada con la hacienda municipal.
+Y lo hace relacionado con actuaciones de contenido económico.
 
-Los estudios históricos sobre estos oficios muestran que los mayordomos podían encargarse de recibir ingresos, efectuar pagos y llevar las cuentas de los recursos concejiles.
+La combinación de estas disposiciones permite comprender mejor el ambiente institucional en el que se desarrollaría, mucho después, el pleito de Agustín de Puerto.
 
-Las obligaciones concretas variaban según el lugar, la época y sus ordenanzas.
+El concejo necesitaba personas que administrasen y ejecutasen determinadas obligaciones.
 
-Por eso no debemos trasladar automáticamente a La Alberca todas las funciones documentadas en otras ciudades.
+Sus oficiales estaban sometidos a reglas.
 
-Pero sí podemos explicar el marco general.
+Y algunas de esas reglas podían comprometer su responsabilidad personal.
 
-El concejo tenía gastos.
+Pero todavía nos falta conocer qué normas concretas se invocaron en el proceso de 1756–1760.
 
-Necesitaba atender funciones de administración, mantenimiento y otras obligaciones comunitarias.
+Las ordenanzas de 1515 ofrecen un antecedente histórico, no una prueba automática de su aplicación íntegra dos siglos y medio después.
 
-También disponía de ingresos procedentes de distintas fuentes.
+## 1528: las cuentas de La Alberca bajo examen
 
-La gestión de esos recursos requería personas responsables.
+Trece años después de la proclamación de las ordenanzas encontramos otro testimonio especialmente significativo.
 
-Y cuando una persona debía rendir cuentas de dinero o bienes que administraba en nombre de otros, su posición podía resultar delicada.
+En julio de 1528, un oficial del señorío, el licenciado **Armendáriz**, examinó las cuentas del concejo de La Alberca correspondientes a **1526 y 1527**.
 
-Los historiadores han documentado, para diferentes concejos castellanos, sistemas de control de cuentas y exigencia de responsabilidades a sus mayordomos.
+La documentación señala que encontró los gastos excesivos.
 
-En algunos lugares se requerían garantías o fianzas.
+La noticia se conserva mediante una referencia al Archivo Ducal de Alba, recogida en un estudio sobre la administración de los estados señoriales.
 
-Pero no sabemos todavía qué garantías se exigían específicamente a los mayordomos de La Alberca en tiempos de Agustín de Puerto.
+El documento citado está fechado el **20 de julio de 1528**.
 
-Esa diferencia importa.
+No conocemos, a partir de esa referencia, el detalle de los gastos cuestionados.
 
-El oficio tenía una naturaleza administrativa y económica comprobada.
+Tampoco sabemos qué consecuencias tuvo el examen para los responsables municipales.
 
-Los riesgos concretos que afrontaban los litigantes albercanos todavía deben investigarse.
+Pero el hecho resulta importante.
 
-## Un cargo que podía convertirse en obligación
+Demuestra que las cuentas del concejo albercano podían ser revisadas por autoridades externas.
 
-Hoy solemos asociar el desempeño de un cargo público con una decisión voluntaria, una elección o un nombramiento profesional.
+La comunidad disponía de sus propios oficiales, pero actuaba dentro de una organización señorial más amplia.
 
-En el Antiguo Régimen, la realidad podía ser diferente.
+La administración económica local no quedaba necesariamente cerrada sobre sí misma.
 
-Determinados oficios concejiles se distribuían entre los vecinos conforme a costumbres, ordenanzas o procedimientos de elección propios de cada comunidad.
+Podía ser inspeccionada.
 
-No siempre era sencillo negarse a desempeñarlos.
+Y sus gastos, cuestionados.
 
-El servicio al concejo podía entenderse como parte de las obligaciones de quienes formaban la comunidad política local.
+Este antecedente ayuda a comprender el peso de las responsabilidades concejiles.
 
-Pero esa obligación tampoco era necesariamente ilimitada.
+Los recursos del pueblo no eran únicamente una cuestión de confianza entre vecinos.
 
-Podían existir exenciones, incompatibilidades o circunstancias particulares que justificasen no desempeñar un oficio.
+También podían convertirse en materia de control institucional.
 
-Precisamente ahí se sitúa el conflicto documentado en La Alberca.
+## 1625: un nombre propio, Francisco Pies
 
-Agustín de Puerto y sus compañeros pretendían quedar libres de la mayordomía.
+Más de un siglo después de la proclamación de las ordenanzas, otro documento permite conocer la organización del concejo con bastante precisión.
 
-El concejo y otros vecinos se encontraban en la parte contraria del litigio.
+Se trata de un protocolo notarial del escribano **Alejandro Martín**, estudiado por José Luis Puerto.
 
-Lo que desconocemos es la razón concreta invocada por cada uno.
+Recoge las elecciones de oficiales de La Alberca para el año **1625**.
 
-¿Alegaban los demandantes una exención reconocida?
+La relación es extraordinariamente amplia.
 
-¿Discutían la forma de elección?
+Incluye alcaldes, regidores, procurador, mayordomo del concejo, sesmero, alhondiguero y otros muchos cargos.
 
-¿Consideraban que ya habían cumplido anteriormente esa obligación?
+También aparecen mayordomías relacionadas con la iglesia, cofradías y devociones religiosas.
 
-¿Existía alguna circunstancia personal o jurídica que los diferenciara de otros vecinos?
+Es importante no confundirlas.
 
-Todas son posibilidades que pueden plantearse como preguntas de investigación.
+La mayordomía del concejo era una responsabilidad vinculada al gobierno local.
 
-Ninguna debe presentarse como hecho mientras no leamos el expediente.
+Las mayordomías religiosas tenían otros ámbitos de actuación.
 
-## ¿Por qué llevar al concejo ante un tribunal?
+Aunque compartieran nombre, no eran necesariamente el mismo oficio.
 
-La cuestión tiene un interés que supera el caso individual.
+En 1625, el mayordomo del concejo era **Francisco Pies**.
 
-El concejo representaba una institución fundamental de la vida local.
+El documento lo identifica además como familiar del Santo Oficio.
 
-Organizaba asuntos que afectaban directamente a sus habitantes.
+No sabemos qué actividades económicas desempeñaba ni cómo había sido elegido concretamente.
 
-Pero su autoridad podía ser discutida.
+Pero conocemos su nombre y su responsabilidad.
 
-El pleito demuestra que determinados vecinos recurrieron a la justicia para resolver una controversia con su propia comunidad.
+José Luis Puerto explica que el mayordomo debía **rendir cuentas anualmente**.
 
-No conocemos el desarrollo del conflicto antes de su llegada a la Real Chancillería.
+Esta obligación constituye una pieza fundamental de nuestra investigación.
 
-Pudo haber desacuerdos, reclamaciones o actuaciones previas, pero no debemos suponerlas sin documentación.
+La mayordomía no era un título meramente honorífico.
 
-Lo que sí sabemos es que la disputa terminó formando parte de un procedimiento judicial.
+Quien la ejercía tenía que responder de su administración.
 
-Eso significa que la obligación de desempeñar un cargo concejil podía convertirse en materia litigiosa.
+## Una comunidad que repartía oficios
 
-Y que los vecinos no estaban necesariamente limitados a aceptar cualquier decisión local sin posibilidad de impugnación.
+El documento de 1625 también permite observar la amplitud de las tareas necesarias para gobernar La Alberca.
 
-La justicia del Antiguo Régimen era compleja, costosa y muy diferente de la actual.
+Había que administrar bienes y recursos.
 
-Sus procedimientos dependían de jurisdicciones, privilegios y normas que variaban según los asuntos.
+Atender obligaciones fiscales.
 
-Pero los tribunales superiores desempeñaban un papel importante en la resolución de conflictos que llegaban desde numerosas localidades.
+Organizar determinados aprovechamientos.
 
-La Alberca fue una de ellas.
+Velar por el cumplimiento de las normas.
 
-## Valladolid y La Alberca: una distancia judicial
+Gestionar asuntos relacionados con la vida religiosa y comunitaria.
 
-La Real Chancillería de Valladolid fue uno de los grandes tribunales de la Corona de Castilla.
+No todas esas funciones recaían sobre las mismas personas.
 
-Durante siglos conoció asuntos civiles y criminales procedentes de amplios territorios.
+El concejo distribuía responsabilidades entre numerosos oficiales.
 
-Su archivo conserva una documentación extraordinaria para estudiar conflictos que, de otro modo, apenas habrían dejado huella.
+Los cargos documentados para 1625 se elegían para ese año.
 
-Pleitos por propiedades.
+La renovación anual obligaba a organizar periódicamente el funcionamiento institucional.
 
-Disputas entre familias.
+No sabemos si todos los oficios se cubrían mediante el mismo procedimiento.
 
-Cuestiones de jurisdicción.
+Tampoco podemos afirmar que cualquier vecino pudiera ser designado indistintamente.
 
-Conflictos entre concejos y particulares.
+Las condiciones de acceso, las costumbres y las posibles exenciones requerirían un estudio específico.
 
-Y, como en este caso, desacuerdos sobre obligaciones municipales.
+Pero el documento demuestra que el gobierno de La Alberca dependía de una red de personas concretas.
 
-Para los habitantes de La Alberca, Valladolid no era un espacio de su vida cotidiana.
+No de una administración profesional semejante a la actual.
 
-Pero podía convertirse en el lugar donde se decidieran cuestiones que afectaban directamente a su comunidad.
+En ese contexto, el desempeño de un oficio podía ser una cuestión que afectara directamente a la vida y a los recursos de un vecino.
 
-El expediente de Agustín de Puerto nos muestra esa conexión.
+Y la posibilidad de quedar exento podía tener consecuencias para el reparto de responsabilidades dentro de la comunidad.
 
-Un conflicto local terminó registrado en un tribunal de alcance territorial mucho mayor.
+## ¿Era una obligación aceptar el cargo?
 
-No sabemos si los litigantes viajaron personalmente a Valladolid.
+Esta es una de las preguntas centrales.
 
-Los procedimientos judiciales podían desarrollarse mediante procuradores y otros representantes.
+En numerosos concejos del Antiguo Régimen, determinados oficios municipales podían imponerse conforme a normas o costumbres locales.
 
-Tampoco conocemos los gastos del proceso ni su duración efectiva.
+Pero la existencia de una obligación no significaba que no hubiera excepciones.
 
-Las fechas de 1756 y 1760 aparecen en la descripción archivística como probables.
+Los conflictos sobre nombramientos y exenciones aparecen documentados en la historia judicial castellana.
 
-No debemos convertirlas en fechas exactas de inicio y sentencia.
+En ocasiones se discutían incompatibilidades.
 
-Pero sí podemos afirmar que el conflicto pertenece a la segunda mitad de la década de 1750.
+En otras, circunstancias personales o requisitos para desempeñar el cargo.
 
-## Los otros vecinos
+Sin embargo, **no sabemos qué alegaron Agustín de Puerto y sus compañeros**.
 
-La descripción del pleito menciona a Agustín de Puerto y a otros litigantes, denominados *consortes* en el lenguaje judicial.
+La descripción del expediente indica que pretendían quedar libres de la mayordomía.
 
-También señala que, junto al concejo, figuraban otros vecinos particulares en la parte contraria.
+No explica por qué.
 
-Este detalle merece atención.
+Sería tentador imaginar que consideraban el cargo demasiado costoso.
 
-El conflicto no aparece descrito únicamente como una disputa entre una persona y una institución.
+O que ya lo habían desempeñado anteriormente.
 
-Había varios vecinos en ambos lados.
+O que discutían la legalidad de su elección.
 
-No sabemos cuántos.
+O que alegaban una condición personal que los eximía.
 
-Tampoco conocemos sus nombres ni los vínculos que pudieran existir entre ellos.
+Pero ninguna de esas explicaciones está acreditada para este caso.
 
-Pero su presencia plantea preguntas interesantes.
+La investigación debe mantener abierta la pregunta.
 
-¿La controversia afectaba al reparto de las obligaciones concejiles?
+El conflicto pudo tener un fundamento jurídico muy concreto que solo conoceremos al leer las actuaciones.
 
-¿Había vecinos que defendían que los demandantes debían asumir el oficio?
+## El pleito de Agustín de Puerto
 
-¿Existían intereses diferentes dentro de la comunidad?
+Llegamos así a mediados del siglo XVIII.
 
-La descripción archivística no permite responder.
-
-Lo que sí muestra es que el desacuerdo tenía una dimensión colectiva.
-
-La decisión sobre quién debía desempeñar una responsabilidad pública podía interesar a más personas que al vecino directamente designado.
-
-En una comunidad donde los cargos se renovaban y distribuían, la exención de unos podía plantear cuestiones sobre las obligaciones de otros.
-
-Esta última es una consecuencia posible del sistema, no una motivación demostrada del pleito.
-
-Para conocer las posiciones reales tendremos que acudir a las alegaciones judiciales.
-
-## ¿Qué significaba quedar libre de la mayordomía?
-
-El título del expediente utiliza una expresión especialmente reveladora: se discutía si los demandantes debían ser *libertados* de la mayordomía.
-
-En el lenguaje jurídico de la época, quedar libre de una carga u obligación podía significar obtener el reconocimiento de una exención.
-
-No implicaba necesariamente que el oficio fuera indigno o que quienes lo desempeñaban rechazasen el gobierno de la comunidad.
-
-Podía tratarse de una cuestión de derecho.
-
-Los litigantes podían considerar que existía una razón legítima para no ser obligados.
-
-La parte contraria podía sostener que debían cumplir.
-
-Pero desconocemos los argumentos concretos.
-
-Por eso el episodio no debe presentarse como una rebelión contra el concejo.
-
-Tampoco como una demostración de egoísmo de los vecinos.
-
-Ni como un abuso probado de las autoridades municipales.
-
-Las tres interpretaciones irían más allá de la documentación consultada.
-
-La historia es suficientemente interesante sin necesidad de adjudicar culpables.
-
-Tenemos un conflicto entre obligaciones colectivas y pretensiones particulares.
-
-Y tenemos una institución judicial llamada a resolverlo.
-
-Eso basta para plantear una pregunta histórica de gran alcance.
-
-## Una comunidad que necesitaba repartir responsabilidades
-
-El documento de 1625 permite comprender que La Alberca dependía de una organización concejil amplia.
-
-No solo había cargos relacionados con el gobierno y las cuentas.
-
-También existían responsabilidades vinculadas al abastecimiento, la fiscalidad, los aprovechamientos y la vida religiosa.
-
-La comunidad necesitaba que esas funciones se desempeñaran.
-
-Pero la necesidad colectiva no eliminaba automáticamente las circunstancias de cada vecino.
-
-Ahí aparece una tensión propia de muchas sociedades históricas.
-
-Por un lado, el pueblo debía organizarse para funcionar.
-
-Por otro, las personas podían discutir si les correspondía asumir una obligación determinada.
-
-El pleito de Agustín de Puerto permite observar esa tensión en un lugar y un momento concretos.
-
-No conocemos todavía la solución jurídica.
-
-Pero sabemos que la cuestión llegó suficientemente lejos como para dejar un expediente en la Real Chancillería.
-
-La existencia de ese documento nos obliga a mirar el gobierno local desde una perspectiva distinta.
-
-No solo desde las autoridades que mandaban.
-
-También desde los vecinos que podían cuestionar sus decisiones.
-
-## Lo que todavía no sabemos del pleito
-
-La descripción archivística confirma la existencia del procedimiento y su objeto.
-
-Pero no equivale a la lectura de las actuaciones judiciales.
-
-Todavía desconocemos:
-
-- Los nombres de todos los litigantes.
-- La fecha exacta de inicio del conflicto.
-- El procedimiento de designación de los mayordomos discutido.
-- Los argumentos jurídicos de Agustín de Puerto y sus compañeros.
-- Las alegaciones del concejo y de los demás vecinos.
-- Las pruebas presentadas por ambas partes.
-- La existencia de ordenanzas o costumbres locales invocadas.
-- Las resoluciones judiciales y el desenlace final.
-
-Estas lagunas no son detalles secundarios.
-
-Son precisamente las piezas necesarias para reconstruir el conflicto.
-
-La consulta del expediente podría transformar considerablemente el artículo.
-
-Quizá permita descubrir una controversia sobre privilegios.
-
-O una discusión sobre el reparto de cargos.
-
-O una cuestión de procedimiento.
-
-O una situación diferente de todas esas posibilidades.
-
-No debemos elegir una explicación antes de conocer las pruebas.
-
-## El expediente que puede completar la historia
-
-El documento está identificado en el Archivo de la Real Chancillería de Valladolid.
-
-Su título archivístico es:
+La Real Chancillería de Valladolid conserva un expediente descrito bajo el título:
 
 *Pleito de Agustín de Puerto y otros consortes, vecinos de La Alberca (Salamanca), con el concejo de dicha villa y otros vecinos particulares, sobre si se les ha de libertar o no de la mayordomía del concejo.*
 
-La signatura es:
+Las fechas de formación aparecen como **probables: 1756–1760**.
+
+El título identifica las partes principales y el objeto de la controversia.
+
+Pero no nos permite reconstruir el procedimiento completo.
+
+No sabemos cuándo surgió exactamente el desacuerdo.
+
+Ni qué decisión concejil lo originó.
+
+Ni quiénes eran todos los vecinos implicados.
+
+Tampoco conocemos las pruebas presentadas o la resolución definitiva.
+
+La presencia de otros vecinos particulares junto al concejo resulta especialmente interesante.
+
+Sugiere que el conflicto no se limitaba necesariamente a una oposición entre una persona y una autoridad.
+
+Había más habitantes implicados en el litigio.
+
+Pero desconocemos sus intereses y argumentos.
+
+No sería correcto convertir esa circunstancia en una supuesta división política del pueblo.
+
+Por ahora, solo podemos afirmar que varias personas participaron en las partes enfrentadas.
+
+## La justicia más allá de La Alberca
+
+La Real Chancillería de Valladolid fue durante siglos uno de los principales tribunales de la Corona de Castilla.
+
+En ella se tramitaron numerosos litigios civiles procedentes de diferentes territorios.
+
+Sus fondos permiten conocer conflictos que apenas aparecen en otras fuentes.
+
+La llegada del pleito de Agustín de Puerto a este tribunal demuestra que una controversia sobre responsabilidades municipales podía superar el ámbito local.
+
+El concejo de La Alberca tenía sus propias normas y mecanismos de gobierno.
+
+Pero sus decisiones no estaban necesariamente fuera del alcance de la justicia superior.
+
+Los vecinos podían acudir a procedimientos judiciales para discutir determinadas obligaciones.
+
+Eso no significa que el acceso a la justicia fuera sencillo o igual para todos.
+
+Los pleitos podían implicar gastos, representación procesal y trámites prolongados.
+
+No conocemos cuánto costó este proceso ni cómo se financió.
+
+Tampoco sabemos si Agustín de Puerto viajó personalmente a Valladolid.
+
+La intervención de representantes judiciales era habitual, pero su participación concreta deberá comprobarse en el expediente.
+
+Lo importante es que el conflicto quedó documentado fuera de La Alberca.
+
+Y gracias a ello conocemos su existencia.
+
+## El problema de repartir las responsabilidades
+
+El episodio plantea una cuestión que atraviesa la historia de las comunidades locales.
+
+Para funcionar, el concejo necesitaba oficiales.
+
+Alguien debía administrar.
+
+Alguien debía recaudar.
+
+Alguien debía rendir cuentas.
+
+Y alguien debía asumir las responsabilidades asociadas a esas tareas.
+
+Pero las necesidades colectivas podían entrar en tensión con las circunstancias de determinados vecinos.
+
+Si una persona pretendía quedar exenta, surgía una pregunta jurídica.
+
+¿Tenía derecho a ello?
+
+Y, si lo tenía, ¿cómo debía organizarse el reparto de los oficios?
+
+No sabemos si esa segunda cuestión se planteó expresamente en el pleito albercano.
+
+Pero forma parte del problema general que ayuda a comprenderlo.
+
+Las ordenanzas de 1515 muestran la importancia de las responsabilidades económicas.
+
+La revisión de cuentas de 1528 demuestra que la administración concejil estaba sometida a control.
+
+Las elecciones de 1625 revelan una organización local extensa y una mayordomía con obligación de rendir cuentas.
+
+Y el expediente de mediados del siglo XVIII documenta que algunos vecinos discutieron judicialmente su obligación de ejercer ese oficio.
+
+Son testimonios separados por décadas y siglos.
+
+No constituyen una cadena documental continua.
+
+Pero, considerados conjuntamente, permiten comprender una tradición institucional de la que el pleito formó parte.
+
+## ¿Quién ganó?
+
+Todavía no lo sabemos.
+
+Y esta es la principal laguna que queda por resolver.
+
+La ficha del Archivo de la Real Chancillería identifica el expediente, pero no publica una transcripción de las alegaciones ni de la resolución.
+
+Por tanto, no podemos afirmar que Agustín de Puerto obtuviera la exención.
+
+Tampoco que el concejo lograra imponer la mayordomía.
+
+Ni siquiera sabemos si el procedimiento terminó mediante una sentencia definitiva.
+
+Para responder necesitamos consultar el documento original.
+
+La referencia archivística es precisa:
 
 **PL CIVILES, ALONSO RODRÍGUEZ (OLV), CAJA 827,9.**
 
-PARES lo describe como una unidad documental compuesta, formada por un expediente en papel.
+El expediente pertenece a los fondos de las Salas de lo Civil de la Real Chancillería de Valladolid.
 
-La ficha indica que la pieza se encuentra en buen estado de conservación.
+Su descripción está disponible en PARES.
 
-La documentación pertenece a los fondos de las Salas de lo Civil de la Real Chancillería.
+La consulta permitiría buscar las piezas que faltan:
 
-La referencia es suficientemente precisa para solicitar su consulta.
+Los nombres de los demás litigantes.
 
-Ese sería el siguiente paso de la investigación.
+La designación que originó el conflicto.
 
-No necesitamos buscar a ciegas.
+Las normas invocadas.
 
-Sabemos qué expediente queremos estudiar y dónde se conserva.
+Los argumentos de ambas partes.
 
-La lectura permitiría pasar de la historia de un pleito conocido por su título a la reconstrucción de las personas, argumentos y decisiones que lo integraron.
+Y, si se conserva, la resolución judicial.
 
-## Lo que nos cuenta un conflicto sin sentencia conocida
+También sería especialmente interesante comprobar si las actuaciones mencionan las ordenanzas albercanas o alguna costumbre local sobre la distribución de oficios.
 
-A veces, la historia local se construye alrededor de grandes acontecimientos.
+Ese hallazgo permitiría conectar directamente el pleito con el derecho municipal del pueblo.
 
-Una guerra.
+## Cuando la historia aparece en un desacuerdo
 
-Una epidemia.
+No todas las historias importantes comienzan con una guerra o una catástrofe.
 
-La construcción de un edificio.
+Algunas empiezan con una obligación.
 
-Una visita real.
+Un nombramiento.
 
-Pero también existen episodios menos visibles que permiten comprender cómo funcionaba una comunidad.
+Una cuenta que debe rendirse.
 
-El pleito de Agustín de Puerto pertenece a esa categoría.
+Una decisión del concejo.
 
-No conocemos todavía su desenlace.
+Y unos vecinos que consideran que no les corresponde cumplirla.
 
-No sabemos quién obtuvo una resolución favorable.
+El pleito de Agustín de Puerto nos acerca a una dimensión menos visible de la historia de La Alberca.
 
-Ni siquiera podemos asegurar qué circunstancias personales originaron la petición de exención.
+La de sus instituciones cotidianas.
 
-Pero el conflicto revela algo importante.
+La de quienes administraban los recursos comunes.
 
-En La Alberca, el gobierno local implicaba responsabilidades concretas para sus vecinos.
+La de las normas que regulaban sus responsabilidades.
 
-La mayordomía era un oficio documentado desde mucho antes del litigio.
+Y la de los conflictos que podían surgir dentro de una comunidad.
 
-Quien lo desempeñaba debía rendir cuentas.
+Las ordenanzas de 1515 muestran que los oficiales estaban sometidos a obligaciones concretas.
 
-Y, en la segunda mitad del siglo XVIII, la obligación de ejercerlo pudo ser discutida ante un tribunal superior.
+El examen de cuentas de 1528 revela que la gestión económica podía ser cuestionada por autoridades superiores.
 
-La historia de una comunidad no está formada únicamente por las decisiones de sus autoridades.
+El documento de 1625 pone nombre a un mayordomo y confirma su obligación de rendir cuentas.
 
-También por las ocasiones en que sus habitantes discutieron esas decisiones.
+Y el expediente judicial de mediados del XVIII demuestra que desempeñar aquel cargo no siempre era una cuestión pacífica.
 
-Por las obligaciones que aceptaron.
+Todavía desconocemos las razones de Agustín de Puerto.
 
-Por las que cuestionaron.
+No sabemos qué dijeron sus adversarios.
 
-Y por los procedimientos a los que recurrieron para defender lo que consideraban sus derechos.
+Ni cómo terminó el pleito.
 
-**Agustín de Puerto y sus compañeros no nos han dejado, por ahora, una victoria ni una derrota conocidas.**
+Pero ya podemos comprender mejor por qué una mayordomía podía acabar ante un tribunal.
 
-Nos han dejado una pregunta.
+**Gobernar el pueblo significaba asumir responsabilidades. Y algunos vecinos estaban dispuestos a acudir a la justicia para discutir si aquellas responsabilidades les correspondían.**
 
-¿Podía el concejo obligarlos a ser mayordomos?
+La historia conserva la pregunta.
 
-Hace más de dos siglos y medio, aquella pregunta fue lo bastante importante para llegar a los tribunales.
-
-Hoy sigue esperando que abramos el expediente y conozcamos la respuesta.
+La respuesta sigue dentro de un expediente que todavía debemos leer.
 
 ---
 
 ## Fuentes y documentación
 
-### Fuente primaria: expediente judicial
+### 1. El expediente judicial
 
 **Archivo de la Real Chancillería de Valladolid.**
 
-Salas de lo Civil. Escribanía de Alonso Rodríguez. Pleitos olvidados.
-
 *Pleito de Agustín de Puerto y otros consortes, vecinos de La Alberca (Salamanca), con el concejo de dicha villa y otros vecinos particulares, sobre si se les ha de libertar o no de la mayordomía del concejo.*
 
-Fechas probables: 1756-1760.
+Fechas probables: 1756–1760.
 
 Signatura: **PL CIVILES, ALONSO RODRÍGUEZ (OLV), CAJA 827,9**.
 
-Código de referencia: ES.47186.ARCHV/10.10.1.3//PL CIVILES,ALONSO RODRÍGUEZ (OLV),CAJA 827,9.
-
 [Consultar la ficha del expediente en PARES](https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12806416)
 
-La ficha archivística ha sido consultada. No se ha realizado una lectura directa de las actuaciones judiciales.
+Se ha consultado la descripción archivística, no el contenido íntegro del expediente.
 
-### Fuente local: organización concejil de 1625
+### 2. Las ordenanzas de 1515
+
+**Gabrielle Berrogain (1930).**
+
+*Ordenanzas de La Alberca y sus términos Las Hurdes y Las Batuecas.*
+
+*Anuario de Historia del Derecho Español*, volumen VII, pp. 381–441.
+
+Edición de las ordenanzas proclamadas en 1515, conservadas mediante una copia de 1668.
+
+Especialmente relevantes para este artículo son las ordenanzas **XLIV, XLV y CXIV**, relativas a responsabilidades de oficiales, recaudación y actuaciones de los mayordomos.
+
+[Consultar la edición histórica de las ordenanzas](https://revistas.mjusticia.gob.es/index.php/AHDE/article/download/5060/5060/4833)
+
+### 3. Las cuentas concejiles de 1526 y 1527
+
+*El gobierno y la administración de un Estado señorial: los estados del duque de Alba en la primera mitad del siglo XVI.*
+
+Estudio publicado en *En la España Medieval*, con referencias documentales al Archivo Ducal de Alba.
+
+Cita una actuación de **20 de julio de 1528**, relativa al examen de las cuentas del concejo de La Alberca correspondientes a 1526 y 1527.
+
+Referencia archivística indicada: **Archivo Ducal de Alba, C. 168-1, fol. 22v**.
+
+[Consultar el estudio académico](https://revistas.ucm.es/index.php/ELEM/es/article/download/ELEM9696110311A/23274)
+
+La referencia se conoce a través del estudio publicado; no se ha consultado directamente el documento del Archivo Ducal de Alba.
+
+### 4. La organización concejil de 1625
 
 **José Luis Puerto (2018).**
 
 *La organización del concejo de La Alberca en 1625.*
 
-Programa de fiestas patronales de La Alberca, páginas 5-9.
+Programa de fiestas patronales de La Alberca, pp. 5–9.
 
-Estudio basado en un protocolo notarial del escribano Alejandro Martín, relativo a la elección de oficiales del concejo en 1625.
+Estudio basado en un protocolo notarial del escribano Alejandro Martín.
 
-Documenta el cargo de mayordomo del concejo, su obligación de rendir cuentas y la identidad de Francisco Pies como titular de aquel año.
+Identifica a **Francisco Pies** como mayordomo del concejo y documenta la rendición anual de cuentas.
 
-[Consultar el programa de fiestas de La Alberca de 2018](https://www.enredando.info/wp-content/uploads/2018/08/Programa-de-fiestas-de-La-Alberca-2018.pdf)
+[Consultar el programa de fiestas de 2018](https://www.enredando.info/wp-content/uploads/2018/08/Programa-de-fiestas-de-La-Alberca-2018.pdf)
 
-### Estudios sobre la mayordomía concejil
+### Documentación pendiente de consulta
 
-**Manuel Salamanca López (2011).**
+- Expediente completo de Agustín de Puerto.
+- Acuerdos municipales de elección de oficiales de mediados del siglo XVIII.
+- Libros de cuentas de los mayordomos.
+- Documentación sobre exenciones y reparto de cargos.
+- Posibles modificaciones de las ordenanzas entre 1515 y el siglo XVIII.
+- Resoluciones judiciales y documentación complementaria del procedimiento.
 
-*Análisis procedimental y documental de un nombramiento de mayordomo de propios durante el reinado de Fernando VI.*
+---
 
-*Investigación Bibliotecológica*, volumen 25, número 54.
+## Estado de la investigación
 
-DOI: 10.22201/IIBI.0187358XP.2011.54.27486.
+Este artículo reconstruye el contexto institucional del pleito de Agustín de Puerto mediante fuentes históricas específicas de La Alberca.
 
-Estudio sobre el nombramiento y las responsabilidades administrativas de los mayordomos municipales durante el si
+**Documentado:**
+
+- La existencia y el objeto del pleito de mediados del siglo XVIII.
+- Las disposiciones de las ordenanzas de 1515 sobre responsabilidades económicas de oficiales y funciones de los mayordomos.
+- La revisión de cuentas concejiles de 1526–1527 documentada en 1528.
+- La existencia de una mayordomía concejil con obligación de rendir cuentas en 1625.
+
+**Pendiente de comprobar:**
+
+- Las causas concretas de la solicitud de exención.
+- Los argumentos de cada parte.
+- Las normas efectivamente aplicadas al caso.
+- Los nombres de todos los litigantes.
+- El resultado del procedimiento.
+
+Los documentos de 1515, 1528 y 1625 se utilizan como antecedentes institucionales, sin presumir que sus disposiciones se aplicaron de forma idéntica durante el pleito del siglo XVIII.
+
+La investigación permanece abierta a la consulta del expediente judicial original.
+
+---
+
+[Volver a Historia de La Alberca](/pueblos/conjuntos-historicos/la-alberca/historia/)
