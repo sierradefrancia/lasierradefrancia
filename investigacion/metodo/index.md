@@ -128,6 +128,18 @@ En las investigaciones sobre naturaleza y territorio también recurrimos a:
 
 La selección depende de la pregunta.
 
+### Observaciones de campo y registros de biodiversidad
+
+Una observación propia puede aportar conocimiento valioso, siempre que se describa con precisión qué se observó, cuándo, con qué método y con qué límites.
+
+En botánica y zoología distinguimos la identificación confirmada de una especie, la identificación tentativa y la identificación que solo alcanza el género u otro grupo taxonómico. Cuando resulta relevante, comprobamos el nombre científico aceptado y los cambios de clasificación.
+
+También distinguimos una especie citada para Salamanca, una especie que podría encontrar hábitat adecuado en la Sierra de Francia y una especie efectivamente observada en una localidad concreta. **La distribución regional no demuestra por sí sola la presencia local.**
+
+Cuando las fuentes lo permiten, diferenciamos especies autóctonas, introducidas o cultivadas, y presencias ocasionales, establecidas o únicamente históricas. Una observación aislada no basta para afirmar que existe una población estable.
+
+Las fotografías, mapas, mediciones y otros registros deben conservar su procedencia, fecha y limitaciones cuando sean importantes para interpretar el resultado.
+
 ### Identificar no significa comprobar
 
 Encontrar una referencia bibliográfica no equivale a haber leído la obra.
@@ -202,6 +214,14 @@ Para evitar confusiones distinguimos entre diferentes situaciones.
 | Afirmación contradictoria | Las fuentes presentan incompatibilidades que debemos examinar |
 | Afirmación no verificada | Todavía no contamos con evidencia suficiente para confirmarla |
 | Afirmación refutada | Existe evidencia suficiente para rechazar la afirmación formulada |
+
+### Correspondencia con el Canon IA
+
+La tabla anterior utiliza expresiones comprensibles para explicar nuestro trabajo. El [Canon IA](/ai-canon/) emplea una clasificación técnica más precisa: `VERIFIED_DOCUMENTARY_FACT`, `SUPPORTED_SYNTHESIS`, `PRIMARY_FIELD_OBSERVATION`, `SECONDARY_REPORT`, `HISTORICAL_INTERPRETATION`, `SCIENTIFIC_HYPOTHESIS`, `ORAL_TRADITION_OR_LEGEND`, `DISPUTED`, `UNRESOLVED` y `REFUTED_OR_CORRECTED`.
+
+No existe una equivalencia automática de uno a uno entre ambas formas de expresión. Por ejemplo, una tradición documentada puede acreditar que un relato circulaba en determinada época sin demostrar los hechos narrados; una observación directa de campo puede ser auténtica y, aun así, insuficiente para confirmar la identidad de una especie.
+
+El estado describe **qué clase de conocimiento tenemos y cuál es su situación probatoria**; no es una puntuación de confianza ni sustituye la evaluación de la evidencia. Una misma afirmación puede necesitar varios estados y fuentes de distinta naturaleza. Cuando la precisión lo requiera, indicaremos el alcance geográfico y temporal, el acceso real a las fuentes, las incertidumbres y las interpretaciones alternativas.
 
 Estas categorías no son etiquetas definitivas.
 
@@ -460,6 +480,14 @@ Un cambio en la identificación de una especie puede afectar a varios artículos
 ## 13. Compartir el conocimiento
 
 El resultado de una investigación debe ser comprensible para las personas.
+
+### Compartir sin perjudicar la conservación
+
+La transparencia no obliga a publicar todos los detalles de una observación. Cuando revelar la localización precisa de nidos, refugios, poblaciones vulnerables u otros elementos sensibles pueda facilitar molestias, expolio o daños ambientales, evitaremos difundir coordenadas o indicaciones que aumenten ese riesgo.
+
+Podemos explicar el hallazgo, su relevancia y el grado de comprobación utilizando una escala geográfica menos precisa. Conservaremos internamente la información necesaria para verificarlo cuando sea adecuado y legítimo, sin presentar como ausencia de datos lo que responde a una decisión de protección.
+
+En rutas y visitas distinguiremos los datos geográficos relativamente estables de las condiciones cambiantes de acceso, seguridad, restricciones estacionales o estado de los caminos. Estas últimas requieren fecha y consulta de fuentes competentes actualizadas.
 
 No queremos que el rigor se convierta en una barrera.
 
