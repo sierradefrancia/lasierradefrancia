@@ -1,32 +1,39 @@
+{% assign atlas_pages = site.pages | sort: "url" %}
 
-{% assign tree_prefix = include.prefix | default: "/" %}
-{% assign tree_prefix_length = tree_prefix | size %}
-{% assign tree_pages = site.pages | sort: "url" %}
+<div class="atlas-sitemap">
 
-<ul class="sitemap-tree">
-{% for tree_page in tree_pages %}
-  {% assign tree_url = tree_page.url | default: "" %}
-  {% assign tree_start = tree_url | slice: 0, tree_prefix_length %}
-  {% assign tree_title = tree_page.title | default: "" %}
+{% for atlas_page in atlas_pages %}
 
-  {% if tree_start == tree_prefix %}
-    {% assign tree_remainder = tree_url | remove_first: tree_prefix %}
-    {% assign tree_segments = tree_remainder | split: "/" %}
+  {% assign atlas_url = atlas_page.url | default: "" %}
+  {% assign atlas_title = atlas_page.title | default: "" %}
 
-    {% if tree_segments.size == 1 and tree_title != "" %}
-      {% unless tree_page.sitemap == false or tree_page.published == false or tree_url == "/sitemap/" or tree_url == "/404.html" %}
+  {% assign first_char = atlas_url | slice: 0, 1 %}
 
-        <li>
-          <a href="{{ tree_url | relative_url }}">
-            {{ tree_title | escape }}
-          </a>
+  {% if first_char == "/" and atlas_title != "" %}
 
-          {% assign tree_child_prefix = tree_url %}
-          {% include sitemap-tree.html prefix=tree_child_prefix %}
-        </li>
+    {% unless atlas_page.sitemap == false
+      or atlas_page.published == false
+      or atlas_url == "/"
+      or atlas_url == "/sitemap/"
+      or atlas_url == "/404.html" %}
 
-      {% endunless %}
-    {% endif %}
+      {% assign segments = atlas_url | split: "/" %}
+      {% assign depth = segments | size %}
+      {% assign indent = depth | minus: 1 | times: 18 %}
+
+      <div class="atlas-sitemap-item"
+           style="margin-left: {{ indent }}px; margin-bottom: 8px;">
+
+        <a href="{{ atlas_url | relative_url }}">
+          {{ atlas_title | escape }}
+        </a>
+
+      </div>
+
+    {% endunless %}
+
   {% endif %}
+
 {% endfor %}
-</ul>
+
+</div>
