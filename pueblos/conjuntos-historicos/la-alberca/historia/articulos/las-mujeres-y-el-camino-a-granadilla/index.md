@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "El camino que las mujeres de La Alberca no estaban obligadas a recorrer"
-parent: Historia
-grand_parent: La Alberca
+parent: "Artículos de Historia"
+grand_parent: Historia
 nav_exclude: false
 description: "En 1558, un privilegio del duque de Alba protegió a las mujeres de La Alberca de tener que desplazarse a Granadilla para declarar ante la justicia. Una historia de caminos, jurisdicción y vida cotidiana."
 permalink: /pueblos/conjuntos-historicos/la-alberca/historia/articulos/las-mujeres-y-el-camino-a-granadilla/
