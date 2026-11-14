@@ -4,7 +4,7 @@ title: Crucero de la Plaza Mayor
 parent: Elementos patrimoniales
 grand_parent: La Alberca
 nav_order: 1
-description: "Historia del crucero de la Plaza Mayor de La Alberca: sus símbolos de la Pasión, su antiguo emplazamiento en el Tablado, los daños de 1928 y su traslado en 1940."
+description: "Historia del crucero de la Plaza Mayor de La Alberca: su iconografía, el antiguo emplazamiento atribuido al Tablado, la tormenta de 1928 y la restauración y traslado tradicionalmente fechados en 1940."
 permalink: /pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/crucero-plaza-mayor/
 ---
 
@@ -12,273 +12,322 @@ permalink: /pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimo
 
 Quien llega a la Plaza Mayor de La Alberca encuentra, entre sus soportales y balcones, una cruz de granito que parece haber ocupado siempre aquel lugar.
 
-Pero su historia es distinta.
+Pero las fuentes que han recogido su historia cuentan algo diferente.
 
-El crucero fue trasladado a la plaza en 1940, después de haber permanecido en otro emplazamiento de la localidad y de sufrir importantes daños durante una tormenta.
+Sitúan su antiguo emplazamiento en el Tablado, recuerdan una tormenta que habría derribado un nogal sobre el monumento en 1928 y atribuyen su restauración y traslado a la plaza al año 1940.
 
-Su presencia actual es, por tanto, el resultado de una historia de devoción, deterioro, restauración y transformación del espacio público.
+Es una historia que ha llegado hasta nosotros con fechas, lugares y acontecimientos reconocibles. Sin embargo, cuando intentamos reconstruirla a partir de documentos contemporáneos, aparecen preguntas que las descripciones habituales no resuelven.
 
-Conocerla permite mirar de otra manera uno de los elementos más reconocibles de La Alberca.
+La cruz que contemplamos hoy tiene, por tanto, dos historias que debemos estudiar conjuntamente: la que conserva en sus relieves y la que conocemos a través de los testimonios sobre su pasado.
 
-## Una cruz que estuvo fuera de la plaza
+## Una cruz que no siempre estuvo en la plaza
 
-Las fuentes patrimoniales sitúan el emplazamiento original del crucero en las afueras del núcleo histórico, en el paraje conocido como el Tablado o Tablao.
+Las fuentes patrimoniales sitúan el crucero en un antiguo acceso a La Alberca, en el lugar conocido como el Tablado o Tablao.
 
-Allí se levantaba junto a uno de los accesos tradicionales de la población.
+La Fundación Santa María la Real y el relato publicado en *La Alberca en sus tradiciones* coinciden en relacionar el monumento con este emplazamiento anterior.
 
-Esta localización tenía un significado diferente del que posee actualmente.
+Pero todavía no hemos podido establecer su posición exacta mediante un plano histórico o una fotografía inequívocamente identificada.
 
-Una cruz situada a la entrada de un pueblo podía formar parte de su paisaje devocional y de los caminos que lo comunicaban con otros lugares.
+La diferencia importa.
 
-Algunas descripciones relacionan este crucero con el camino hacia el santuario de Nuestra Señora de la Peña de Francia.
+No es lo mismo conocer el nombre de un paraje que poder situar un monumento dentro de él. Su orientación, su proximidad a los caminos y su relación con otros elementos del paisaje podrían ayudarnos a comprender por qué se levantó allí.
 
-Es una asociación plausible por su situación territorial, pero todavía necesita una investigación documental que permita precisar su función original.
+Los cruceros formaron parte del paisaje religioso de numerosos pueblos. Podían señalar lugares de devoción, acompañar caminos o participar en determinadas prácticas comunitarias.
 
-No sabemos quién promovió su construcción ni si estuvo vinculado a un recorrido procesional concreto.
+Sin embargo, estas funciones generales no demuestran cuál tuvo originalmente la cruz de La Alberca.
 
-Tampoco conocemos su fecha exacta.
+Tampoco sabemos quién encargó su construcción, quién la costeó ni si estuvo vinculada a una institución religiosa concreta.
 
-## ¿Del siglo XVII o del XVIII?
+Para responder necesitamos documentación específica del monumento.
 
-La cronología del crucero presenta una discrepancia que merece conservarse.
+## Una fecha que todavía desconocemos
 
-La Fundación Santa María la Real, que ha reproducido artesanalmente el monumento, sitúa sus orígenes en el siglo XVII.
+Las fuentes consultadas no coinciden en la antigüedad del crucero.
 
-En cambio, MonumentalNet y otras descripciones patrimoniales lo atribuyen al siglo XVIII.
+La Fundación Santa María la Real lo atribuye al siglo XVII.
 
-No hemos identificado todavía una inscripción fundacional, un contrato de ejecución o un documento histórico que permita resolver esa diferencia.
+MonumentalNet lo sitúa en el XVIII.
 
-Por ello, lo más prudente es situarlo provisionalmente entre los siglos XVII y XVIII, sin convertir ninguna de las dos atribuciones en una fecha definitiva.
+La diferencia de un siglo no puede resolverse escogiendo la fecha más repetida.
 
-La cuestión es importante porque un crucero puede haber experimentado restauraciones, sustituciones o modificaciones de sus componentes.
+Ninguna de estas atribuciones viene acompañada, en las referencias examinadas, de un contrato de ejecución, una inscripción fundacional o un estudio histórico-artístico que permita establecer una cronología definitiva.
 
-La antigüedad de la cruz, el fuste y la base no tiene por qué ser necesariamente idéntica.
+También debemos considerar que el monumento pudo experimentar modificaciones a lo largo de su existencia.
 
-## La tormenta de 1928
+Una cruz, su fuste y su basamento pueden pertenecer a momentos distintos, especialmente cuando se conocen noticias de daños y restauraciones.
 
-La historia transmitida sobre el crucero contiene un episodio concreto.
+No tenemos pruebas de que eso sucediera en este caso, pero tampoco disponemos de un examen material que permita descartarlo.
 
-En 1928, una fuerte tormenta derribó un nogal que cayó sobre el monumento y lo dañó gravemente.
+Por ahora, los siglos XVII y XVIII constituyen atribuciones publicadas, no una datación demostrada.
 
-La noticia aparece tanto en la descripción de la Fundación Santa María la Real como en un testimonio local publicado en *La Alberca en sus tradiciones*.
+## El nogal y la tormenta de 1928
 
-La coincidencia permite reconocer una tradición histórica bien establecida sobre el acontecimiento.
+Uno de los episodios más recordados de la historia del crucero se sitúa en 1928.
 
-Sin embargo, todavía no hemos localizado un documento contemporáneo de 1928 que permita conocer con precisión el alcance de los daños.
+Según el relato recogido en *La Alberca en sus tradiciones*, una borrasca arrancó un nogal que cayó sobre la cruz y deterioró parte del monumento.
 
-Sería especialmente interesante encontrar fotografías del crucero anteriores al accidente.
+La Fundación Santa María la Real también recoge el accidente, aunque describe los daños en términos más graves.
 
-Permitirían comparar su aspecto original con el resultado de la restauración posterior.
+La coincidencia permite identificar una narración histórica transmitida por distintas publicaciones.
 
-También ayudarían a determinar qué partes del monumento son antiguas y cuáles pudieron ser reparadas o reconstruidas.
+Pero hay una cuestión fundamental: todavía no sabemos de qué testimonio procede originalmente.
 
-## La restauración y el traslado de 1940
+No hemos identificado una noticia de prensa de 1928, un acuerdo municipal, una fotografía del monumento inmediatamente después del accidente ni otro documento contemporáneo que permita comprobar lo ocurrido.
 
-En 1940, el crucero fue instalado en la Plaza Mayor.
+Tampoco conocemos qué piezas resultaron dañadas.
 
-La fecha coincide con un acontecimiento fundamental para el patrimonio de La Alberca: su declaración histórico-artística mediante decreto de 6 de septiembre de 1940.
+La diferencia entre una destrucción extensa y una reparación parcial sería importante para interpretar el estado actual de la cruz.
 
-Pero debemos distinguir ambos hechos.
+Si una parte considerable del monumento fue reconstruida, necesitaríamos distinguir sus componentes originales de los incorporados posteriormente.
 
-La coincidencia cronológica no demuestra por sí sola que el traslado del crucero formara parte del expediente de declaración ni que fuera ordenado por sus responsables.
+Si los daños fueron limitados, la historia material sería diferente.
 
-Para establecer esa relación necesitaríamos consultar documentación municipal o expedientes de conservación.
+Las fuentes disponibles no permiten resolverlo.
 
-Las fuentes consultadas coinciden en que el monumento fue restaurado antes de su instalación en la plaza.
+La tormenta de 1928 forma parte de la historia transmitida del crucero, pero el alcance real de sus consecuencias continúa sin estar documentado suficientemente.
 
-El testimonio de *La Alberca en sus tradiciones* añade que se colocó sobre una escalinata de piedra en un espacio anteriormente ocupado por una verja de hierro.
+## 1940: la cruz y la transformación de La Alberca
 
-La plaza adquirió así una nueva configuración.
+Las publicaciones consultadas sitúan en 1940 la restauración del crucero y su instalación en la Plaza Mayor.
 
-El crucero dejó de ser un elemento situado en un acceso tradicional y pasó a ocupar una posición central en el principal espacio público del pueblo.
+El relato de *La Alberca en sus tradiciones* añade un detalle significativo: la cruz se colocó sobre una escalinata de piedra en el espacio que anteriormente ocupaba una verja de hierro.
 
-Este cambio transformó también la manera de contemplarlo.
+Esta descripción permite comprender que el traslado, de haberse realizado en las condiciones transmitidas, no consistió únicamente en cambiar de lugar un monumento.
 
-Lo que antes encontraba quien entraba o salía de La Alberca pasó a formar parte de la imagen cotidiana de su Plaza Mayor.
+También habría modificado la organización de una parte de la plaza.
 
-## Una columna que cuenta la Pasión de Cristo
+Sin embargo, no hemos localizado todavía el expediente de restauración, el acuerdo municipal o la documentación de las obras que permita reconstruir directamente aquella intervención.
 
-El crucero está realizado en granito.
+Lo que sí podemos documentar con precisión es el contexto patrimonial que vivía La Alberca en ese mismo año.
 
-Su estructura presenta una base escalonada, un fuste decorado y una cruz superior con representaciones figurativas.
+### La declaración histórico-artística
 
-El elemento más singular es la iconografía labrada en la columna.
+El 29 de abril de 1940, la Comisión Central de Monumentos de la Real Academia de Bellas Artes de San Fernando encargó a Manuel Gómez-Moreno informar sobre la declaración monumental de La Alberca.
 
-En ella aparecen diversos instrumentos relacionados con la Pasión de Cristo, conocidos en la tradición artística cristiana como *Arma Christi*.
+El 17 de junio, Gómez-Moreno presentó un informe favorable que fue aprobado por la Comisión.
 
-Entre los símbolos descritos por las fuentes figuran:
+El 6 de septiembre de 1940 se dictó el decreto por el que La Alberca fue declarada Monumento Histórico-Artístico.
 
-- La escalera.
-- El martillo.
-- Las tenazas.
-- Los clavos.
-- El látigo.
-- La lanza.
-- La esponja.
-- La bolsa con las monedas de Judas.
+Estas fechas proceden de documentación institucional y permiten reconstruir el proceso de reconocimiento patrimonial del pueblo.
 
-Estos objetos evocan distintos episodios del prendimiento, sufrimiento y crucifixión de Jesús.
+Pero ninguna de ellas demuestra por sí sola que el crucero fuera restaurado o trasladado como consecuencia de aquella declaración.
 
-No forman una decoración arbitraria.
+El 11 de diciembre de 1940 se nombró una Junta encargada del cuidado y conservación de La Alberca.
 
-Constituyen un lenguaje visual mediante el cual el monumento recuerda acontecimientos centrales de la tradición cristiana.
+Entre sus integrantes figuraba Pedro Gómez Luis, identificado como maestro cantero.
 
-La representación de los instrumentos de la Pasión convierte el fuste en una narración simbólica.
+Su presencia resulta interesante para conocer la organización local de la conservación patrimonial, pero no disponemos de documentación que lo relacione con la restauración de la cruz.
 
-El observador puede reconocer en la piedra objetos que remiten a una historia religiosa conocida y transmitida durante generaciones.
+No debemos atribuirle una intervención que las fuentes examinadas no acreditan.
 
-La identificación completa de todos los relieves requiere, no obstante, un registro fotográfico detallado que permita distinguir cada motivo y comprobar su estado de conservación.
+La declaración histórico-artística y el traslado tradicionalmente fechado en 1940 pertenecen al mismo contexto temporal.
 
-## Cristo y la Virgen: las dos caras de la cruz
+La relación concreta entre ambos acontecimientos permanece abierta.
 
-En la parte superior del monumento aparecen dos representaciones.
+## Una columna que representa la Pasión de Cristo
 
-Una cara muestra a Cristo crucificado.
+Más allá de las incertidumbres sobre su origen, el crucero conserva un lenguaje escultórico reconocible.
 
-La opuesta presenta una imagen de la Virgen María.
+Está realizado en granito y presenta un basamento escalonado, una columna decorada y una cruz superior con representaciones religiosas.
 
-La descripción de *La Alberca en sus tradiciones* indica que el Crucificado mira hacia la plaza, mientras que la Virgen se orienta hacia la fuente.
+En el fuste aparecen símbolos vinculados a la Pasión de Cristo.
 
-Esta disposición es importante para comprender cómo se contempla actualmente el monumento.
+Son los llamados *Arma Christi*, los instrumentos que la tradición iconográfica cristiana relaciona con los acontecimientos del prendimiento, sufrimiento y crucifixión de Jesús.
 
-La cruz no presenta una única imagen frontal.
+Las descripciones publicadas identifican, entre otros motivos, la escalera, el martillo, las tenazas, los clavos, el látigo, la lanza, la esponja y la bolsa de monedas asociada a Judas.
 
-Su iconografía está organizada para ser observada desde direcciones diferentes.
+Cada objeto remite a un episodio de la narración evangélica.
 
-Sin embargo, desconocemos si la orientación actual reproduce la que tenía en el Tablado.
+La escalera evoca el descendimiento de la cruz.
 
-El traslado de 1940 pudo modificar la relación entre las imágenes y el paisaje que las rodeaba.
+El martillo y los clavos recuerdan la crucifixión.
 
-Sin conocer la posición original del crucero, no debemos atribuir un significado histórico preciso a su orientación actual.
+La lanza y la esponja remiten a los últimos momentos de Cristo.
 
-## El crucero y la fuente
+La bolsa de monedas recuerda la traición de Judas.
 
-La fuente y el crucero forman hoy una de las composiciones más características de la Plaza Mayor.
+Estos elementos no constituyen una decoración sin relación entre sí.
 
-Sin embargo, su historia no tiene por qué ser común.
+Forman un conjunto iconográfico que permite representar la Pasión mediante sus objetos más reconocibles.
 
-Las ordenanzas históricas de La Alberca mencionan una fuente en la plaza y describen una pila inferior utilizada para determinadas actividades cotidianas.
+La piedra conserva así una narración religiosa que podía comprenderse sin necesidad de inscripciones extensas.
 
-El crucero, por el contrario, fue trasladado a este espacio en el siglo XX.
+No obstante, la identificación individual de todos los motivos debe considerarse provisional mientras no dispongamos de un registro fotográfico detallado del fuste.
 
-Por tanto, no debemos interpretar la disposición actual como una composición que necesariamente existiera desde la construcción de ambos elementos.
+También desconocemos si algunos relieves fueron reparados o modificados durante las intervenciones atribuidas al siglo XX.
 
-La fuente y la cruz pertenecen a historias materiales que pudieron desarrollarse de manera independiente antes de encontrarse en la plaza.
+## Las dos caras de la cruz
 
-Estudiar esta transformación permite comprender cómo un espacio urbano puede conservar elementos antiguos y, al mismo tiempo, presentar una organización relativamente reciente.
+La parte superior presenta dos imágenes religiosas.
 
-## Un símbolo de la conservación de La Alberca
+En una cara aparece Cristo crucificado.
 
-El crucero ha adquirido también un significado relacionado con la protección del patrimonio histórico.
+En la opuesta se representa a la Virgen María.
 
-En septiembre de 2015, durante los actos conmemorativos del 75.º aniversario de la declaración histórico-artística de La Alberca, se descubrió una placa colocada en la base del monumento.
+Según la descripción publicada en *La Alberca en sus tradiciones*, el Crucificado se orienta hacia la plaza y la Virgen hacia la fuente.
 
-La noticia fue publicada el 20 de septiembre de aquel año por *SALAMANCArtv AL DÍA*.
+Esta disposición hace que el monumento no tenga una única cara destinada a ser contemplada.
 
-La intervención recuerda que el crucero no solamente conserva una dimensión religiosa.
+Sus imágenes se relacionan con distintos puntos del espacio que lo rodea.
 
-También participa de la memoria contemporánea del pueblo y de la valoración pública de su patrimonio.
+Pero hay una pregunta que todavía no podemos responder.
 
-Su historia reúne así diferentes momentos:
+¿Conserva la cruz la orientación que tenía en su emplazamiento anterior?
 
-Una cruz levantada en un antiguo acceso, una tormenta que la dañó, una restauración, un traslado y una conmemoración patrimonial.
+Si el monumento fue trasladado desde el Tablado, su relación con los caminos, el paisaje y los lugares de devoción pudo cambiar.
 
-Cada episodio ha contribuido a darle su significado actual.
+No disponemos de documentación suficiente para reconstruir esa orientación original ni para atribuirle un significado histórico concreto.
 
-## Lo que todavía no sabemos
+## La cruz y la fuente
 
-Aunque la historia general del crucero puede reconstruirse parcialmente, permanecen abiertas varias cuestiones.
+La fuente y el crucero forman actualmente una composición característica de la Plaza Mayor.
 
-La primera es su cronología original.
+Su proximidad puede hacer pensar que ambos elementos fueron concebidos conjuntamente.
 
-Las atribuciones a los siglos XVII y XVIII no han podido resolverse mediante una fuente primaria.
+Sin embargo, las noticias sobre el traslado de la cruz obligan a distinguir sus respectivas historias.
 
-La segunda es su promotor.
+La fuente pertenece a la evolución histórica del espacio público de La Alberca.
 
-No sabemos quién encargó el monumento, quién lo costeó ni qué institución se ocupaba originalmente de su mantenimiento.
+El crucero, según las fuentes retrospectivas, llegó a su emplazamiento actual en el siglo XX.
 
-La tercera es su emplazamiento exacto en el Tablado.
+Un texto atribuido a una visita de 1911 describe una fuente protegida por una verja de hierro en el lado de la plaza.
 
-Necesitamos documentación gráfica o cartográfica que permita localizarlo y determinar su relación con los caminos históricos.
+Esta referencia, conocida mediante una reproducción posterior, resulta interesante al compararla con el relato de 2012 que sitúa la escalinata del crucero en el espacio anteriormente ocupado por una verja.
 
-La cuarta es la restauración de 1940.
+Pero todavía necesitamos comprobar el texto original de 1911 y establecer si ambas descripciones se refieren exactamente al mismo elemento.
 
-Todavía no conocemos sus responsables, sus criterios técnicos ni las piezas que fueron reparadas o sustituidas.
+La coincidencia es una pista para reconstruir la transformación de la plaza, no una demostración definitiva de cómo se realizaron las obras.
 
-Por último, queda pendiente determinar si el crucero conserva inscripciones, marcas de cantero u otros detalles materiales que no aparecen en las descripciones consultadas.
+La disposición actual de la fuente y el crucero puede conservar elementos de distintas épocas reunidos en una configuración más reciente.
 
-Resolver estas preguntas permitiría pasar de una historia transmitida principalmente por fuentes secundarias a una reconstrucción documental y material mucho más precisa.
+## Una cruz dentro de la memoria patrimonial
 
-## Una piedra que cambió de lugar, pero no perdió su historia
+El crucero también aparece relacionado con la memoria contemporánea de la conservación de La Alberca.
 
-El crucero de la Plaza Mayor recuerda que el patrimonio no permanece siempre inmóvil.
+En septiembre de 2015, con motivo del 75.º aniversario de la declaración histórico-artística del pueblo, se descubrió una placa conmemorativa en la base del monumento.
 
-Los monumentos se trasladan, se restauran, cambian de entorno y adquieren nuevos significados.
+El acontecimiento fue recogido por *SALAMANCArtv AL DÍA* el 20 de septiembre de aquel año.
 
-Hoy forma parte de una imagen inseparable de La Alberca.
+Es un episodio documentado de la historia reciente de la cruz.
 
-Sin embargo, durante buena parte de su historia estuvo en otro lugar.
+Muestra cómo un monumento de significado religioso puede convertirse también en soporte de la memoria pública de una comunidad.
 
-Esa circunstancia no disminuye su valor.
+La cruz no solamente recuerda los acontecimientos representados en sus relieves.
 
-Al contrario, nos permite comprender que la plaza que contemplamos actualmente es el resultado de decisiones y transformaciones sucesivas.
+Su presencia en la Plaza Mayor participa hoy de la imagen histórica de La Alberca y de la valoración de su patrimonio.
 
-La cruz conserva en sus relieves una narración religiosa.
+## Lo que las fotografías podrían contarnos
 
-Y en su propia trayectoria conserva otra historia: la de un pueblo que decidió recuperar un monumento dañado y situarlo en el corazón de su espacio público.
+La documentación fotográfica constituye una de las vías más interesantes para comprender la historia material del crucero.
+
+Hemos identificado varios fondos históricos con imágenes de La Alberca.
+
+La Universidad Complutense conserva, dentro del archivo Hernández-Pacheco, una fotografía titulada *La Alberca. Corrida de toros*, con signatura BH FOT HP 1155.
+
+Su datación catalográfica abarca de 1900 a 1950, un intervalo demasiado amplio para utilizarla sin más como prueba anterior al supuesto traslado.
+
+La Filmoteca de Castilla y León identifica una fotografía de Cándido Ansede titulada *Plaza y pórtico de La Alberca*.
+
+También existen imágenes antiguas de la localidad en colecciones digitales y en la fototeca municipal.
+
+Sin embargo, todavía no hemos comprobado una fotografía fechada inequívocamente antes de 1940 que permita identificar la cruz en su antiguo emplazamiento o demostrar su ausencia de la Plaza Mayor.
+
+Las fotografías podrían ayudarnos a reconstruir la transformación del espacio, pero solamente después de verificar sus fechas, procedencias y encuadres.
+
+Una imagen antigua de la plaza no demuestra por sí sola dónde estaba el crucero.
+
+## Una historia que permanece abierta
+
+El crucero de la Plaza Mayor es un monumento reconocible por su iconografía religiosa y por su presencia en uno de los espacios más representativos de La Alberca.
+
+Sin embargo, su historia conserva preguntas importantes.
+
+No conocemos con certeza la fecha de construcción ni la identidad de quien lo encargó.
+
+No hemos establecido documentalmente su posición exacta en el Tablado.
+
+La tormenta de 1928 y los daños que habría provocado están recogidos en relatos posteriores, pero no hemos localizado un testimonio contemporáneo que permita reconstruirlos.
+
+La restauración y el traslado atribuidos a 1940 tampoco han podido contrastarse mediante su expediente original.
+
+Y desconocemos qué partes del monumento actual corresponden a su primera construcción y cuáles pudieron modificarse después.
+
+Estas incertidumbres no impiden estudiar la cruz.
+
+Nos permiten distinguir entre el monumento que conservamos, la historia que se ha transmitido sobre él y los acontecimientos que podemos demostrar.
+
+La cruz de granito sigue en la Plaza Mayor.
+
+Lo que todavía intentamos reconstruir es el camino que recorrió hasta llegar allí.
 
 ---
 
 ## Fuentes y referencias
 
-### Fundación Santa María la Real
+### Fuentes institucionales
 
-**«Crucero. La Alberca (Salamanca)».**
+**Real Academia de Bellas Artes de San Fernando.** *Transcripción de las actas de la Comisión de Monumentos, 1940-1941.*
 
-https://tienda.santamarialareal.org/es/productos/detalles/crucero-la-alberca-salamanca/647
+Documentación de las sesiones del 29 de abril y 17 de junio de 1940, relativas al informe de Manuel Gómez-Moreno sobre La Alberca.
 
-Descripción de la reproducción artesanal del crucero original.
+[Consultar las actas](https://www.realacademiabellasartessanfernando.com/wp-content/uploads/2026/04/Transcripcion-Actas-Comision-de-Monumentos-1940-1941.pdf)
 
-Aporta una atribución al siglo XVII, el emplazamiento antiguo en el Tablao, la noticia de los daños de 1928, la restauración y el traslado de 1940, además de una descripción de sus elementos escultóricos.
+La transcripción institucional debe cotejarse con los originales para establecer citas literales definitivas.
 
-### La Alberca en sus tradiciones
+**Boletín Oficial del Estado.** Decreto de 6 de septiembre de 1940, por el que se declara Monumento Histórico-Artístico el pueblo de La Alberca.
 
-**«La Cruz (I)». 9 de mayo de 2012.**
+[Consultar el BOE del 18 de septiembre de 1940](https://www.boe.es/gazeta/dias/1940/09/18/pdfs/BOE-1940-262.pdf)
 
-https://laalbercaensustradiciones.blogspot.com/2012/05/l-c-r-u-z-i.html
+**Boletín Oficial del Estado.** Orden de 11 de diciembre de 1940, por la que se nombra una Junta para el cuidado y conservación de La Alberca.
 
-Testimonio local sobre el emplazamiento anterior, la tormenta de 1928, el traslado de 1940 y la iconografía del monumento.
+[Consultar el BOE del 29 de diciembre de 1940](https://www.boe.es/gazeta/dias/1940/12/29/pdfs/BOE-1940-364.pdf)
 
-Debe distinguirse su valor como testimonio de memoria local de una comprobación documental contemporánea de los acontecimientos.
+Estos documentos permiten reconstruir el contexto institucional de 1940, pero no acreditan directamente la restauración o el traslado del crucero.
 
-### MonumentalNet
+### Descripciones patrimoniales y testimonios locales
 
-**«Crucero de la Plaza Mayor».**
+**Fundación Santa María la Real.** *Crucero. La Alberca (Salamanca).*
 
-https://programs.monumentalnet.org/monumento.php?r=SA-010000100-ALB-CRU-PZA-MAY&seo=crucero-de-la-plaza-mayor-la-alberca-salamanca-castilla-y-leon
+[Consultar la descripción](https://tienda.santamarialareal.org/es/productos/detalles/crucero-la-alberca-salamanca/647)
 
-Ficha patrimonial que atribuye el monumento al siglo XVIII y describe sus relieves, ubicación y trayectoria.
+Atribuye el crucero al siglo XVII y recoge su antiguo emplazamiento, los daños de 1928 y la restauración de 1940.
 
-La discrepancia cronológica con la Fundación Santa María la Real permanece abierta.
+**La Alberca en sus tradiciones.** *La Cruz (I).* 9 de mayo de 2012.
 
-### SALAMANCArtv AL DÍA
+[Consultar el artículo](https://laalbercaensustradiciones.blogspot.com/2012/05/l-c-r-u-z-i.html)
 
-**«Una placa en la Plaza recuerda los 75 años de la villa como Monumento Histórico». 20 de septiembre de 2015.**
+Recoge la memoria local sobre el Tablado, la tormenta, el traslado y la disposición del monumento en la plaza.
 
-https://salamancartvaldia.es/noticia/2015-09-20-una-placa-en-la-plaza-recuerda-los-75-anos-de-la-villa-como-monumento-historico-206196
+**MonumentalNet.** *Crucero de la Plaza Mayor.*
 
-Noticia sobre la colocación de una placa conmemorativa en la base del crucero.
+[Consultar la ficha](https://programs.monumentalnet.org/monumento.php?r=SA-010000100-ALB-CRU-PZA-MAY&seo=crucero-de-la-plaza-mayor-la-alberca-salamanca-castilla-y-leon)
 
-### Documentación pendiente
+Atribuye el monumento al siglo XVIII. Su discrepancia con la cronología ofrecida por Santa María la Real permanece sin resolver.
 
-- Fotografías del Tablado anteriores a 1928.
-- Fotografías del monumento antes y después de su restauración.
-- Expedientes municipales del traslado de 1940.
-- Documentación sobre los responsables de la restauración.
-- Ficha individual del catálogo urbanístico.
-- Estudio material de la cruz, el fuste y la base.
-- Posibles inscripciones y marcas de cantería.
+### Documentación fotográfica
+
+**Universidad Complutense de Madrid.** Archivo Hernández-Pacheco. *La Alberca. Corrida de toros.* Signatura BH FOT HP 1155.
+
+[Consultar el registro](https://patrimoniodigital.ucm.es/s/patrimonio/item/1696893)
+
+**Filmoteca de Castilla y León.** Fondo Cándido Ansede. Referencia a la fotografía *Plaza y pórtico de La Alberca*.
+
+[Consultar la referencia institucional](https://filmotecadecastillayleon.es/exposiciones-a-bordar-la-imagen-jose-nunez-larraz-julio-2025/)
+
+**Ayuntamiento de La Alberca.** Colección de imágenes antiguas.
+
+[Consultar la fototeca](https://laalberca.com/imagenes-antiguas/)
+
+Los registros fotográficos identificados no se utilizan aquí como pruebas directas del emplazamiento del crucero antes de 1940.
+
+### Historia reciente
+
+**SALAMANCArtv AL DÍA.** *Una placa en la Plaza recuerda los 75 años de la villa como Monumento Histórico.* 20 de septiembre de 2015.
+
+[Consultar la noticia](https://salamancartvaldia.es/noticia/2015-09-20-una-placa-en-la-plaza-recuerda-los-75-anos-de-la-villa-como-monumento-historico-206196)
+
+Documenta la colocación de una placa conmemorativa en la base del crucero.
 
 ---
 
-*Esta monografía distingue las noticias históricas transmitidas por fuentes secundarias de los acontecimientos que todavía necesitan comprobación documental directa. Su contenido podrá ampliarse o corregirse cuando aparezcan nuevas evidencias.*
+*Esta monografía forma parte de una investigación histórica abierta. Las fechas y acontecimientos transmitidos por fuentes retrospectivas se distinguen de los documentados directamente. El contenido podrá revisarse cuando nuevas evidencias permitan precisar la historia del monumento.*
