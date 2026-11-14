@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "1935: una escuela nueva para una Alberca antigua"
-parent: Historia
-grand_parent: La Alberca
+parent: "Artículos de Historia"
+grand_parent: Historia
 nav_exclude: false
 description: "La historia de las escuelas públicas inauguradas en La Alberca en 1935: arquitectura, educación, modernización y memoria de varias generaciones."
 permalink: /pueblos/conjuntos-historicos/la-alberca/historia/articulos/las-escuelas-de-1935/
