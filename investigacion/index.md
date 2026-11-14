@@ -4,11 +4,17 @@ title: Investigación
 nav_order: 15
 nav_exclude: false
 has_children: true
-description: "Investigación profunda sobre la Sierra de Francia y su entorno. Historia, naturaleza, patrimonio, fuentes documentales y conexiones territoriales. Monográficos sobre el origen del nombre Sierra de Francia y la identidad de Simón Vela."
+description: "Investigación profunda de la Sierra de Francia: historia, naturaleza, patrimonio y conexiones territoriales. Monográficos sobre el origen del nombre Sierra de Francia y la identidad histórica de Simón Vela."
 permalink: /investigacion/
 ---
 
 # Investigación
+
+La investigación es el fundamento de este atlas de la Sierra de Francia. Estudiamos sus pueblos, paisajes, historia, patrimonio y naturaleza mediante fuentes documentales, observación y análisis conjunto. Buscamos comprender las relaciones que conectan lugares, personas y acontecimientos, incluso cuando esas conexiones nos llevan mucho más allá de la comarca.
+
+Además del trabajo de investigación presente en todo el atlas, desarrollamos dos grandes monográficos: **¿por qué se llama Sierra de Francia?** y **¿quién fue realmente Simón Vela?**
+
+---
 
 ## Un territorio mucho más grande de lo que parece
 
@@ -28,25 +34,29 @@ A veces una investigación comienza en una pequeña localidad y termina en un ar
 
 Otras veces nos lleva al otro lado del océano.
 
-Y entonces comprendemos que **un territorio no se define únicamente por lo que contiene, sino también por todas las relaciones que ha establecido con el mundo**.
+Y entonces comprendemos que **un territorio no se define únicamente por lo que contiene, sino también por las relaciones que ha establecido con el mundo**.
 
 ---
 
 ## Una pregunta puede llevarnos muy lejos
 
-Cuando comenzamos a investigar la historia de La Alberca, encontramos documentos que nos obligaron a mirar más allá de sus calles.
+Cuando comenzamos a investigar la [historia de La Alberca](/pueblos/conjuntos-historicos/la-alberca/historia/), encontramos documentos que nos obligaron a mirar más allá de sus calles.
 
-Las relaciones con Las Hurdes aparecieron en cuestiones de territorio, aprovechamientos y jurisdicción. La historia de las mujeres albercanas nos llevó hasta Granadilla, porque comprender un privilegio judicial exigía conocer los caminos, las autoridades y las obligaciones que vinculaban a ambas comunidades.
+Las [relaciones con Las Hurdes](/pueblos/conjuntos-historicos/la-alberca/historia/alberca-hurdes/) aparecieron en cuestiones de territorio, aprovechamientos y jurisdicción.
+
+La historia de las mujeres albercanas nos llevó hasta Granadilla. Para comprender un privilegio judicial de 1558 necesitábamos conocer los caminos, las autoridades y las obligaciones que vinculaban a ambas comunidades.
+
+[Leer la investigación sobre las mujeres de La Alberca y el camino a Granadilla](/pueblos/conjuntos-historicos/la-alberca/historia/articulos/las-mujeres-y-el-camino-a-granadilla/).
 
 No estábamos abandonando la historia de La Alberca.
 
 Estábamos comenzando a comprenderla.
 
-Lo mismo puede suceder al investigar Mogarraz. Quizá un documento nos lleve a Las Batuecas, a Ciudad Rodrigo o a la Peña de Francia. Y quizá la respuesta a una pregunta sobre cualquiera de esos lugares se encuentre en una fuente que originalmente consultamos por otro motivo.
+Lo mismo puede suceder al investigar [Mogarraz](/pueblos/conjuntos-historicos/mogarraz/). Quizá un documento nos lleve a [Las Batuecas](/lugares/las-batuecas/), a Ciudad Rodrigo o a la [Peña de Francia](/lugares/pena-de-francia/).
 
-Las conexiones no tienen por qué seguir nuestras divisiones administrativas ni la organización de nuestras páginas.
+Y quizá la respuesta a una pregunta sobre cualquiera de esos lugares se encuentre en una fuente que originalmente consultamos por otro motivo.
 
-Los archivos no fueron creados para responder a las preguntas que hoy nos hacemos. Los documentos se redactaron por razones concretas: administrar recursos, resolver conflictos, registrar propiedades, establecer derechos, transmitir noticias o conservar memorias.
+Los documentos no fueron redactados para responder a las preguntas que hoy nos hacemos. Nacieron de necesidades concretas: administrar recursos, resolver conflictos, establecer derechos, transmitir noticias o conservar memorias.
 
 Somos nosotros quienes debemos reconstruir las relaciones entre esos testimonios.
 
@@ -60,31 +70,63 @@ Comenzamos en una montaña de Salamanca.
 
 Allí, la tradición sitúa a Simón Vela y el hallazgo de una imagen de la Virgen. Una historia conocida por generaciones de habitantes y visitantes de la Sierra de Francia.
 
-Pero al buscar sus orígenes, sus fuentes y la evolución del relato, empezamos a encontrar referencias que nos conducían fuera de la comarca.
+Nuestra primera pregunta parecía sencilla:
 
-Francia. Portugal.
+**¿Quién fue realmente Simón Vela?**
+
+Pero al buscar los testimonios más antiguos, la investigación comenzó a adquirir otra dimensión.
+
+Encontramos referencias a documentos del siglo XV, a la administración del santuario, a personajes vinculados con la Corona de Castilla y a la intervención de la Orden de Predicadores.
+
+Una de las pistas más interesantes es la referencia a un poder otorgado por Simón el 3 de julio de 1434 a Juan de Bonilla.
+
+El documento podría ayudarnos a comprender quién era Simón y qué responsabilidades ejercía en aquel momento. Sin embargo, todavía necesitamos examinar directamente los testimonios conservados, comprobar su transmisión y establecer exactamente qué permiten demostrar.
+
+Aquella pista abrió nuevas preguntas.
+
+¿Quién era Juan de Bonilla?
+
+¿Qué relación mantenía con Simón?
+
+¿Qué funciones desempeñaba este último?
+
+¿Qué ocurrió cuando se reorganizó la administración del santuario?
+
+Y, mientras investigábamos su identidad, aparecieron otras cuestiones relacionadas con su supuesto origen francés y con la transmisión de su biografía.
+
+La investigación comenzaba a alejarse de la montaña.
+
+Francia.
+
+Portugal.
 
 Y después, mucho más lejos.
 
 **Brasil. Filipinas.**
 
-De repente, aquella pregunta sobre un personaje vinculado a una montaña salmantina nos enfrentaba a una historia de circulación de nombres, imágenes, devociones y relatos entre territorios separados por océanos.
+De pronto, una pregunta sobre un personaje vinculado a una montaña salmantina nos conducía hacia la circulación internacional de una advocación religiosa.
 
-¿Cómo se difundió esa advocación?
+¿Cómo llegó el nombre de Nuestra Señora de la Peña de Francia a otros territorios?
 
-¿Qué personas, instituciones o comunidades participaron en su transmisión?
+¿Qué personas, instituciones o comunidades participaron en esa difusión?
 
-¿En qué momentos aparecen las primeras referencias en cada lugar?
+¿En qué momento comenzaron a aparecer imágenes, templos y tradiciones vinculados a esta advocación?
 
-¿Conservaron las comunidades receptoras el mismo relato o desarrollaron tradiciones propias?
+¿Se transmitió también la historia de Simón Vela o únicamente la devoción mariana?
 
-¿Hasta qué punto puede demostrarse una relación histórica directa con el santuario salmantino?
+¿Conservaron esas comunidades los relatos recibidos o desarrollaron tradiciones propias?
 
-Estas preguntas son tan importantes como la identidad del propio Simón Vela.
+Y, sobre todo, ¿qué vínculos históricos pueden demostrarse entre esos lugares y el santuario salmantino?
 
-Porque no basta con encontrar el mismo nombre en dos lugares para demostrar que existe una relación histórica concreta. Necesitamos reconstruir los caminos de transmisión, identificar testimonios y distinguir coincidencias, influencias documentadas y tradiciones posteriores.
+Estas preguntas no son una desviación de nuestra investigación.
 
-Pero tampoco debemos ignorar una conexión potencialmente significativa solo porque nos lleve demasiado lejos de nuestro punto de partida.
+Son parte de lo que hemos descubierto al realizarla.
+
+Debemos distinguir la historia documental de Simón Vela, la formación de los relatos sobre su vida y la expansión de la advocación mariana. La coincidencia de nombres no demuestra por sí sola una transmisión directa, y las tradiciones de distintos lugares pueden haber evolucionado de manera independiente.
+
+Pero esas precauciones no disminuyen el interés del descubrimiento.
+
+Lo aumentan.
 
 **Si una pregunta nacida en la Peña de Francia nos conduce hasta Brasil o Filipinas, iremos hasta allí documentalmente.**
 
@@ -92,15 +134,13 @@ No porque busquemos una historia espectacular.
 
 Sino porque queremos saber qué ocurrió.
 
-Y porque el descubrimiento de esas relaciones transforma nuestra percepción del lugar del que partimos.
-
 La Peña de Francia sigue siendo la misma montaña.
 
 Pero nuestra comprensión de su historia ya no puede limitarse a lo que sucedió en su cima.
 
 ---
 
-## Investigar todo el territorio
+## Investigar el territorio, comprender sus conexiones
 
 La investigación no es una actividad separada del resto de este atlas.
 
@@ -108,9 +148,7 @@ Es la forma en que queremos construirlo.
 
 Cada página dedicada a un pueblo, un paisaje, una especie, una tradición o un acontecimiento histórico forma parte de un mismo trabajo de conocimiento.
 
-Investigamos La Alberca, Mogarraz, San Martín del Castañar, Miranda del Castañar, Sequeros y los demás pueblos de la Sierra de Francia.
-
-Investigamos la Peña de Francia, Las Batuecas, los bosques, los cursos de agua y los ecosistemas que forman este territorio.
+Investigamos La Alberca, Mogarraz y los demás pueblos de la Sierra de Francia. Investigamos la Peña de Francia, Las Batuecas, los bosques, los cursos de agua y los ecosistemas que forman este territorio.
 
 Y estudiamos sus relaciones con Las Hurdes, Ciudad Rodrigo y otros lugares cuando esas relaciones ayudan a comprender lo que estamos investigando.
 
@@ -118,51 +156,29 @@ No pretendemos que todo esté conectado con todo.
 
 Queremos descubrir **qué conexiones existen realmente**, cuáles pueden demostrarse y cuáles siguen siendo hipótesis.
 
-Una ordenanza concejil puede aportar información sobre el uso histórico de un bosque.
+Una ordenanza concejil puede aportar información sobre el aprovechamiento histórico de un bosque.
 
-Un documento sobre pastos puede ayudarnos a comprender las relaciones entre dos comunidades.
+Un documento sobre pastos puede revelar relaciones económicas entre comunidades.
 
-Un pleito puede revelar la situación de personas cuya vida apenas aparece en otros testimonios.
+Un pleito puede permitirnos conocer a personas cuya vida apenas aparece en otros testimonios.
 
-Una investigación sobre un santuario puede conducirnos a la historia de los caminos, las peregrinaciones, las instituciones religiosas o la circulación internacional de una devoción.
+Una investigación sobre un santuario puede conducirnos a la historia de los caminos, las instituciones religiosas o la circulación internacional de una devoción.
 
-Y un dato encontrado al estudiar un pueblo puede modificar nuestra interpretación de otro.
+Pero los datos aislados, aunque sean correctos, no siempre ofrecen una explicación suficiente.
 
-Por eso no queremos construir una colección de páginas independientes.
+Podemos conocer la fecha de un documento sin comprender su significado.
 
-**Queremos construir un conocimiento territorial que pueda relacionarse, contrastarse y enriquecerse continuamente.**
-
----
-
-## El valor de mirar el conjunto
-
-Los datos aislados pueden ser correctos y, aun así, resultar insuficientes.
-
-Podemos conocer la fecha de un documento sin comprender plenamente su significado.
-
-Podemos identificar a una persona sin saber qué papel desempeñó.
-
-Podemos encontrar una tradición escrita en una obra antigua sin conocer cuándo comenzó a transmitirse.
+Podemos encontrar una tradición escrita en una obra antigua sin saber cuándo comenzó a transmitirse.
 
 Incluso podemos disponer de varias fuentes aparentemente coincidentes y descubrir después que todas dependen de un único testimonio anterior.
 
-La investigación profunda exige algo más que acumular referencias.
+Por eso necesitamos comparar documentos, reconstruir cronologías, examinar contradicciones y estudiar las relaciones entre personas, instituciones y lugares.
 
-Exige comparar, contextualizar y relacionar.
+Una contradicción puede revelar un error. Pero también puede indicar que estamos confundiendo dos acontecimientos, dos personas o dos momentos históricos.
 
-Una fecha adquiere significado cuando conocemos los acontecimientos que la rodean.
+Y una fuente encontrada durante una investigación puede ayudarnos a resolver una pregunta que había quedado abierta en otra.
 
-Un nombre puede adquirir otra dimensión cuando aparece en documentos de diferentes lugares.
-
-Una contradicción puede indicar un error, pero también revelar que estamos confundiendo dos personas, dos acontecimientos o dos momentos históricos.
-
-En ocasiones, una fuente encontrada durante una investigación permite resolver una pregunta que había quedado abierta en otra.
-
-Ese es uno de los grandes valores de estudiar el territorio como un conjunto.
-
-Cada nueva investigación puede aportar conocimiento a las anteriores.
-
-Y cada conclusión debe permanecer abierta a las evidencias que puedan aparecer después.
+**No queremos construir una colección de páginas independientes. Queremos construir un conocimiento territorial que pueda relacionarse, contrastarse y enriquecerse continuamente.**
 
 ---
 
@@ -170,7 +186,7 @@ Y cada conclusión debe permanecer abierta a las evidencias que puedan aparecer 
 
 Queremos investigar con exigencia.
 
-Buscar documentos originales siempre que sea posible. Identificar autores, fechas y contextos. Contrastar las interpretaciones anteriores. Reconocer las limitaciones de las fuentes.
+Buscar documentos originales siempre que sea posible. Identificar autores, fechas y contextos. Contrastar interpretaciones anteriores. Reconocer las limitaciones de las fuentes.
 
 Distinguir lo que sabemos de lo que suponemos.
 
@@ -216,7 +232,11 @@ Pero ¿qué relación histórica existe entre esta sierra y Francia?
 
 ¿Estamos ante una explicación histórica demostrable, una interpretación posterior o una cuestión más compleja?
 
-Investigaremos el origen del nombre sin dar por válida de antemano ninguna respuesta.
+Investigar el origen del nombre exige buscar sus primeras apariciones documentales, estudiar su contexto y comprobar cómo evolucionó su significado.
+
+No queremos elegir una explicación antes de examinar las evidencias.
+
+Queremos descubrir qué explicación puede sostenerse.
 
 **[Investigar el origen del nombre Sierra de Francia](/investigacion/por-que-sierra-de-francia/)**
 
@@ -228,15 +248,21 @@ Y, sin embargo, reconstruir su identidad histórica plantea interrogantes fundam
 
 ¿Quién fue?
 
+¿De dónde procedía?
+
 ¿Qué testimonios permiten situarlo en una época y un lugar?
 
-¿Cuándo aparecen las primeras narraciones sobre su vida?
+¿Qué sabemos realmente de su actividad en 1434?
 
-¿Cómo evolucionó su historia?
+¿Cómo evolucionó su historia en las narraciones posteriores?
 
-¿Qué relación existe entre el personaje, el santuario y la difusión posterior de la advocación mariana?
+¿Qué relación existe entre el personaje, el santuario y la difusión internacional de la advocación mariana?
 
-Esta investigación comienza en la Peña de Francia, pero no tiene por qué terminar allí.
+Nuestro expediente reúne fuentes, referencias archivísticas, hipótesis y contradicciones. Algunas pistas son especialmente prometedoras, pero todavía necesitan comprobación documental directa.
+
+No queremos convertir las incertidumbres en certezas.
+
+Tampoco queremos abandonar una pregunta porque resulte difícil responderla.
 
 **[Investigar quién fue Simón Vela](/investigacion/simon-vela/)**
 
@@ -258,7 +284,9 @@ Y una referencia encontrada a miles de kilómetros nos hace mirar de otra manera
 
 Por eso nuestras investigaciones no son textos definitivamente cerrados.
 
-Conservaremos las fuentes, las preguntas pendientes, las hipótesis y las revisiones importantes. Cuando una conclusión cambie, explicaremos qué nuevas evidencias lo justifican.
+Conservaremos las fuentes, las preguntas pendientes, las hipótesis y las revisiones importantes.
+
+Cuando una conclusión cambie, explicaremos qué nuevas evidencias lo justifican.
 
 También compartiremos los resultados que aparezcan por el camino, aunque no respondan directamente a la pregunta original.
 
