@@ -1,4 +1,3 @@
-
 # La Sierra de Francia
 # Configuración principal de Jekyll
 
@@ -35,12 +34,15 @@ aux_links:
 
 aux_links_new_tab: true
 
+
 # Footer
 footer_content: >-
   © 2026 La Sierra de Francia.
   Proyecto propiedad de
   <a href="https://campingsierradefrancia.com">
   Camping Sierra de Francia</a>.
+  ·
+  <a href="/sitemap/">Mapa del sitio</a>.
 
 # SEO y sitemap
 plugins:
