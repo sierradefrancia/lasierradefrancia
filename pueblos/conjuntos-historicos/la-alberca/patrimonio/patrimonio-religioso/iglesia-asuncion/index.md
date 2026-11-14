@@ -2,7 +2,7 @@
 layout: default
 title: Iglesia de Nuestra Señora de la Asunción
 parent: Patrimonio religioso
-grand_parent: La Alberca
+grand_parent: Patrimonio
 nav_order: 1
 description: "Historia y patrimonio de la iglesia de Nuestra Señora de la Asunción de La Alberca: el templo anterior, la reconstrucción del siglo XVIII, Manuel de Larra Churriguera, la torre y sus bienes artísticos."
 permalink: /pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/
