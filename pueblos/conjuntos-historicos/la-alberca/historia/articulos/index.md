@@ -4,8 +4,10 @@ title: "Artículos de Historia"
 parent: Historia
 grand_parent: La Alberca
 nav_order: 9
+parent: Historia
+grand_parent: La Alberca
+has_children: true
 nav_exclude: false
-has_children: false
 description: "Investigaciones y relatos históricos documentados sobre La Alberca: justicia, vida cotidiana, guerra, epidemias, instituciones y educación desde el siglo XVI hasta el XX."
 permalink: /pueblos/conjuntos-historicos/la-alberca/historia/articulos/
 ---
