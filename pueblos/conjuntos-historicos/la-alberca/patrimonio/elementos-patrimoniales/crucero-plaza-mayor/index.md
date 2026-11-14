@@ -1,8 +1,10 @@
 ---
+
+---
 layout: default
 title: Crucero de la Plaza Mayor
 parent: Elementos patrimoniales
-grand_parent: La Alberca
+grand_parent: Patrimonio
 nav_order: 1
 description: "Historia del crucero de la Plaza Mayor de La Alberca: su iconografía, el antiguo emplazamiento atribuido al Tablado, la tormenta de 1928 y la restauración y traslado tradicionalmente fechados en 1940."
 permalink: /pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/crucero-plaza-mayor/
