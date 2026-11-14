@@ -4,7 +4,7 @@ title: Conjunto histórico
 parent: La Alberca
 grand_parent: Conjuntos históricos
 nav_order: 2
-has_children: true
+has_children: false
 description: "El conjunto histórico de La Alberca: declaración de 1940, ámbito protegido, conservación del caserío, arquitectura urbana y evolución de su protección patrimonial."
 permalink: /pueblos/conjuntos-historicos/la-alberca/conjunto-historico/
 ---
@@ -42,6 +42,30 @@ La protección se justificaba principalmente por el carácter del conjunto urban
 Este planteamiento refleja una concepción patrimonial en la que la agrupación de viviendas, las calles, el ambiente urbano y el paisaje podían poseer un valor histórico y artístico propio.
 
 El lenguaje del decreto responde a la sensibilidad estética y al contexto institucional de 1940. Sus apreciaciones deben interpretarse como parte de la documentación histórica, no como una descripción científica contemporánea del pueblo.
+
+### Los antecedentes académicos de la declaración
+
+La documentación de la **Comisión Central de Monumentos de la Real Academia de Bellas Artes de San Fernando** permite precisar dos pasos anteriores al decreto:
+
+- **29 de abril de 1940:** la Comisión encargó a **Manuel Gómez-Moreno** informar sobre la propuesta de declaración de La Alberca.
+- **17 de junio de 1940:** Gómez-Moreno presentó un informe favorable, que fue aprobado por la Comisión.
+
+Estas noticias proceden de la transcripción de las actas de la Comisión. Son evidencia de la tramitación académica, **no equivalen a disponer del informe íntegro**. La propia transcripción requiere cotejo con los manuscritos originales para una edición documental definitiva.
+
+La Academia conserva en su inventario del Archivo General la referencia **5-282-1**, correspondiente a *Comisión Central de Monumentos. Informes. Propuestas de declaración de monumentos nacionales*. En la **entrada 45** figura expresamente el **pueblo de La Alberca (Salamanca)**, dentro de un legajo con fechas extremas 1940–1949.
+
+Esta identificación es una vía concreta de consulta: todavía no se ha comprobado el contenido material del expediente ni si incluye el texto completo del informe, la petición municipal, fotografías o correspondencia.
+
+**Fuentes:**
+
+- [Transcripción de las actas de la Comisión Central de Monumentos, 1940–1941](https://www.realacademiabellasartessanfernando.com/wp-content/uploads/2026/04/Transcripcion-Actas-Comision-de-Monumentos-1940-1941.pdf).
+- [Inventario del Fondo General del Archivo de la Academia, actualización 2026, signatura 5-282-1](https://www.realacademiabellasartessanfernando.com/wp-content/uploads/2026/01/Inventario-archivo-general.-2026-1.pdf).
+
+### Un debate patrimonial contemporáneo
+
+Las actas del **16 de diciembre de 1940**, posteriores a la declaración albercana, recogen un debate sobre las consecuencias de proteger ciudades o núcleos urbanos enteros. La discusión surgió en relación con otro expediente, el de **Sevilla**, y no puede presentarse como motivación directa de la declaración de La Alberca.
+
+Sí permite situar la protección de conjuntos urbanos en una discusión institucional de su tiempo: cómo preservar la fisonomía histórica de una población y, a la vez, afrontar sus necesidades de transformación.
 
 ### Denominación original
 
@@ -269,29 +293,38 @@ La protección patrimonial de La Alberca debe analizarse también desde el plane
 
 Los instrumentos de planeamiento pueden establecer determinaciones sobre usos, edificaciones, parcelas, alturas, materiales, intervenciones y otros aspectos relevantes para la conservación del conjunto.
 
-### La modificación anunciada en 2024
+### El planeamiento de 2008–2009
 
-El 30 de julio de 2024 se publicó un anuncio de información pública relativo a una modificación de las Normas Urbanísticas Municipales de La Alberca.
+Una publicación administrativa de noviembre de 2024 identifica como planeamiento general de referencia las **Normas Urbanísticas Municipales aprobadas el 25 de junio de 2008 y publicadas el 26 de febrero de 2009**. Esta identificación permite distinguir el planeamiento general de sus modificaciones posteriores.
 
-El expediente, identificado como **43/2018**, tenía por objeto la protección cultural del conjunto histórico en relación con las obligaciones establecidas por la legislación autonómica entonces aplicable.
+### La tramitación de 2024 y la aprobación de 2025
 
-Este anuncio acredita la existencia de una tramitación administrativa, pero no demuestra por sí solo que la modificación haya obtenido aprobación definitiva.
+El **30 de julio de 2024** se publicó un anuncio de información pública relativo a una modificación de las Normas Urbanísticas Municipales de La Alberca para la protección cultural del conjunto histórico. El anuncio utilizaba la referencia **43/2018**.
 
-Por tanto, no debe presentarse como normativa urbanística vigente sin comprobar las resoluciones posteriores.
+La tramitación **no quedó limitada a ese anuncio**. La **Comisión Territorial de Medio Ambiente y Urbanismo de Salamanca** acordó el **30 de enero de 2025** la aprobación definitiva de una modificación de las Normas Urbanísticas Municipales para la protección del Conjunto Histórico de La Alberca. La resolución se publicó en el *Boletín Oficial de Castilla y León* el **12 de febrero de 2025**, bajo la referencia administrativa **22-206**.
 
-### Documentación pendiente de incorporar
+Por tanto, el estado de esta modificación debe describirse como **aprobación definitiva publicada en 2025**, y no como un expediente del que solo se conoce la fase de información pública.
 
-Para completar el análisis actual será necesario localizar y contrastar:
+Las referencias **43/2018** y **22-206** proceden de documentos y administraciones distintos. Su relación temática está identificada, pero no se debe afirmar sin cotejo del expediente que ambas numeraciones sean equivalentes o designen exactamente la misma unidad administrativa.
 
-1. El instrumento urbanístico vigente.
-2. La documentación del expediente 43/2018.
-3. Las resoluciones de aprobación que correspondan.
-4. Los planos oficiales de delimitación.
-5. El catálogo de elementos protegidos.
-6. Las normas específicas de intervención.
-7. Las modificaciones posteriores, si existen.
+**Fuente:** [Resolución publicada en el BOCYL de 12 de febrero de 2025](https://bocyl.jcyl.es/boletines/2025/02/12/pdf/BOCYL-D-12022025-22.pdf).
 
-Hasta disponer de esa documentación, esta página no debe utilizarse como guía para autorizar obras o determinar las condiciones urbanísticas de una parcela concreta.
+### Qué acredita la aprobación y qué no
+
+La publicación de una aprobación definitiva constituye un avance documental importante. **No sustituye la consulta de la documentación urbanística aprobada**, especialmente de los planos, las determinaciones normativas y el catálogo.
+
+Por ello, todavía no podemos ofrecer desde esta página:
+
+1. Una delimitación parcelaria actual comprobada.
+2. El inventario completo de inmuebles y elementos catalogados.
+3. Los grados de protección de cada inmueble.
+4. Las condiciones específicas aplicables a una intervención concreta.
+5. La relación completa entre el expediente municipal 43/2018 y el autonómico 22-206.
+6. Las modificaciones o actuaciones posteriores, si las hubiera.
+
+No debemos convertir la referencia de **quinientos metros de 1940** en un plano jurídico actual por simple extrapolación geométrica.
+
+Para conocer el régimen de una parcela concreta hay que acudir al planeamiento y a la administración competentes, no a una síntesis histórica como esta.
 
 ---
 
@@ -317,6 +350,8 @@ Del mismo modo, las manifestaciones de patrimonio inmaterial, como La Loa, requi
 
 | Fecha | Acontecimiento |
 |---|---|
+| 29 de abril de 1940 | Encargo a Manuel Gómez-Moreno del informe sobre la propuesta de declaración |
+| 17 de junio de 1940 | Presentación y aprobación académica del informe favorable |
 | 6 de septiembre de 1940 | Decreto de declaración de La Alberca como Monumento Histórico-Artístico |
 | 18 de septiembre de 1940 | Publicación del decreto en el BOE |
 | 11 de diciembre de 1940 | Orden de constitución de una junta de conservación |
@@ -325,7 +360,11 @@ Del mismo modo, las manifestaciones de patrimonio inmaterial, como La Loa, requi
 | 27 de abril de 2000 | Declaración independiente del Valle de Las Batuecas como Sitio Histórico |
 | 11 de julio de 2002 | Ley de Patrimonio Cultural de Castilla y León |
 | 20 de junio de 2024 | Ley 7/2024 de Patrimonio Cultural de Castilla y León |
+| 25 de junio de 2008 | Aprobación de las Normas Urbanísticas Municipales |
+| 26 de febrero de 2009 | Publicación de las Normas Urbanísticas Municipales |
 | 30 de julio de 2024 | Información pública sobre modificación urbanística para la protección cultural del conjunto histórico |
+| 30 de enero de 2025 | Aprobación definitiva de la modificación para protección del conjunto histórico |
+| 12 de febrero de 2025 | Publicación de la aprobación definitiva en el BOCYL |
 
 Esta cronología recoge hitos documentales identificados. No constituye todavía una reconstrucción completa de todas las actuaciones de conservación y planeamiento realizadas desde 1940.
 
@@ -337,7 +376,7 @@ Esta sección se ampliará mediante estudios específicos sobre:
 
 ### La declaración de 1940
 
-Análisis del expediente, el decreto, el informe de la Real Academia de Bellas Artes de San Fernando y el contexto histórico de la declaración.
+Consulta del expediente académico 5-282-1, entrada 45, y cotejo del informe de Manuel Gómez-Moreno con las actas y el decreto. Se conocen los hitos de abril y junio de 1940, pero no se ha examinado el informe íntegro.
 
 ### La Junta de conservación
 
@@ -353,7 +392,7 @@ Análisis de planos, fotografías históricas, parcelario y transformaciones del
 
 ### Protección y planeamiento actual
 
-Estudio del régimen jurídico vigente, los instrumentos urbanísticos y el catálogo de protección.
+Estudio de la modificación aprobada definitivamente en 2025, sus planos, normas, catálogo y relación con los expedientes 43/2018 y 22-206.
 
 ### Conservación del caserío
 
@@ -387,6 +426,16 @@ Los artículos de investigación podrán profundizar en documentos, intervencion
 
 [Consultar el documento original](https://www.boe.es/gazeta/dias/1940/09/18/pdfs/BOE-1940-262.pdf).
 
+### Tramitación académica de 1940
+
+**Real Academia de Bellas Artes de San Fernando.** Transcripción de las actas de la Comisión Central de Monumentos de 1940–1941. Sesiones de 29 de abril, 17 de junio y 16 de diciembre de 1940.
+
+[Consultar las actas](https://www.realacademiabellasartessanfernando.com/wp-content/uploads/2026/04/Transcripcion-Actas-Comision-de-Monumentos-1940-1941.pdf).
+
+**Real Academia de Bellas Artes de San Fernando (2026).** *Inventario del Fondo General del Archivo*, signatura **5-282-1**, entrada **45**, «Pueblo de La Alberca (Salamanca)».
+
+[Consultar el inventario](https://www.realacademiabellasartessanfernando.com/wp-content/uploads/2026/01/Inventario-archivo-general.-2026-1.pdf).
+
 ### Junta de conservación
 
 **Ministerio de Educación Nacional (1940).** Orden de 11 de diciembre de 1940 por la que se nombra una Junta para el cuidado y conservación del pueblo de La Alberca. *Boletín Oficial del Estado*, 29 de diciembre, p. 8962.
@@ -407,6 +456,14 @@ Los artículos de investigación podrán profundizar en documentos, intervencion
 
 [Texto legal](https://www.boe.es/buscar/act.php?id=BOE-A-2024-15102).
 
+### Planeamiento urbanístico
+
+**Comisión Territorial de Medio Ambiente y Urbanismo de Salamanca (2025).** Acuerdo de 30 de enero de 2025 de aprobación definitiva de una modificación de las Normas Urbanísticas Municipales para la protección del Conjunto Histórico de La Alberca. *Boletín Oficial de Castilla y León*, 12 de febrero de 2025, expediente 22-206.
+
+[Consultar publicación oficial](https://bocyl.jcyl.es/boletines/2025/02/12/pdf/BOCYL-D-12022025-22.pdf).
+
+Queda pendiente examinar íntegramente la documentación técnica y normativa aprobada, así como cotejar su relación con el expediente municipal 43/2018.
+
 ### Patrimonio territorial relacionado
 
 **Junta de Castilla y León (2000).** Decreto 92/2000, de 27 de abril, de declaración del Valle de Las Batuecas como Bien de Interés Cultural con categoría de Sitio Histórico.
@@ -421,6 +478,6 @@ La protección patrimonial de La Alberca debe estudiarse distinguiendo los docum
 
 Una declaración histórica acredita el régimen establecido en su fecha, pero no permite reconstruir automáticamente todas las actuaciones posteriores.
 
-De igual modo, un anuncio de información pública no acredita la aprobación definitiva de un instrumento urbanístico.
+De igual modo, un anuncio de información pública no acredita por sí solo la aprobación definitiva de un instrumento urbanístico. En el caso estudiado, la aprobación de 2025 se documenta mediante una publicación posterior específica.
 
 Esta sección se ampliará conforme se incorporen expedientes, planos, inventarios y estudios especializados que permitan comprender la evolución real del conjunto histórico y los valores que justifican su conservación.
