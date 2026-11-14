@@ -1,6 +1,4 @@
 ---
-
----
 layout: default
 title: Crucero de la Plaza Mayor
 parent: Elementos patrimoniales
