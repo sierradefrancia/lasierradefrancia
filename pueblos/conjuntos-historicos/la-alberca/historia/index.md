@@ -4,329 +4,316 @@ title: Historia
 parent: La Alberca
 grand_parent: Conjuntos históricos
 nav_order: 1
+nav_exclude: false
 has_children: true
-description: "Historia documentada de La Alberca (Salamanca): orígenes, Edad Media, concejo, ordenanzas, relaciones con Las Hurdes, vida cotidiana, conflictos, transformaciones contemporáneas y fuentes históricas."
+description: "Historia documentada de La Alberca (Salamanca): orígenes medievales, concejo y ordenanzas, relaciones con Las Hurdes, vida cotidiana, conflictos, epidemias y transformaciones contemporáneas."
 permalink: /pueblos/conjuntos-historicos/la-alberca/historia/
 ---
 
 # Historia de La Alberca
 
-La historia de **La Alberca**, en la Sierra de Francia (Salamanca), no puede comprenderse únicamente a través de sus edificios, sus tradiciones o su reconocimiento como conjunto histórico.
+La historia de **La Alberca**, en la Sierra de Francia (Salamanca), se extiende mucho más allá de sus calles, sus edificios tradicionales y las costumbres que han llegado hasta nuestros días.
 
-Es también la historia de una comunidad que organizó su territorio, defendió sus derechos, estableció normas de convivencia, aprovechó los recursos de los montes y mantuvo relaciones económicas, jurídicas y sociales con otras poblaciones.
+Durante siglos, sus habitantes organizaron el aprovechamiento de los montes, establecieron normas de convivencia, defendieron derechos territoriales, mantuvieron relaciones con otras comunidades y afrontaron guerras, enfermedades y dificultades económicas.
 
-La documentación conservada permite estudiar aspectos de esa trayectoria durante varios siglos. Los privilegios medievales, las ordenanzas del concejo, los pleitos, las referencias fiscales y los testimonios de épocas posteriores ofrecen una perspectiva histórica que va más allá de las narraciones tradicionales.
+Esa historia puede reconstruirse parcialmente a través de privilegios medievales, ordenanzas, documentos judiciales, acuerdos del concejo, registros fiscales y testimonios de épocas posteriores.
 
-Esta sección reúne las investigaciones dedicadas a esa historia, desde los problemas relacionados con los orígenes del poblamiento hasta las transformaciones de los siglos XIX y XX.
+Entre los asuntos mejor documentados destacan las relaciones históricas con Las Hurdes, las ordenanzas de 1515, la organización concejil, las consecuencias locales de la Guerra de Sucesión y las transformaciones de los siglos XIX y XX.
 
-Nuestro propósito es distinguir los hechos documentados de las interpretaciones historiográficas y de las tradiciones que, aunque forman parte de la memoria local, no siempre pueden demostrarse históricamente.
-
----
-
-## Investigar la historia de La Alberca
-
-La Alberca conserva una identidad histórica especialmente reconocible, pero su pasado no debe interpretarse como una realidad inmóvil.
-
-La comunidad, sus instituciones, sus actividades económicas y sus relaciones territoriales experimentaron transformaciones.
-
-Para comprenderlas es necesario formular preguntas concretas:
-
-- ¿Qué sabemos realmente sobre los primeros asentamientos?
-- ¿Cuándo aparece La Alberca en la documentación escrita?
-- ¿Cómo se organizó su comunidad durante la Edad Media?
-- ¿Qué derechos ejercía sobre montes, pastos y dehesas?
-- ¿Cómo funcionaba su concejo?
-- ¿Qué obligaciones y posibilidades tenían sus habitantes?
-- ¿Cómo afectaron los conflictos, las enfermedades y las crisis económicas?
-- ¿Qué transformaciones experimentó el pueblo durante la época contemporánea?
-
-Las investigaciones siguientes abordan estas cuestiones a partir de fuentes identificables.
+Esta sección reúne ocho investigaciones que permiten recorrer la evolución de La Alberca, acompañadas de artículos dedicados a episodios y protagonistas concretos.
 
 ---
 
-## Las ocho investigaciones históricas
+## Ocho investigaciones para comprender La Alberca
 
 ### 1. Orígenes de La Alberca
 
 **Poblamiento, toponimia, primeras referencias y tradiciones sobre su fundación.**
 
-El origen de La Alberca plantea diferentes problemas históricos.
+¿Cuándo comenzó a existir La Alberca como comunidad reconocible?
 
-La existencia de ocupación humana antigua en la comarca no demuestra por sí sola una continuidad de poblamiento en el emplazamiento actual del pueblo.
+La presencia humana antigua en la comarca no permite establecer por sí sola una continuidad de poblamiento en el emplazamiento actual. Las primeras referencias escritas, la formación de la localidad y el origen de su nombre plantean problemas históricos diferentes.
 
-También es necesario diferenciar la antigüedad de un topónimo, la primera aparición documental de una localidad y la formación de una comunidad organizada.
+Esta investigación examina los testimonios medievales tempranos, las hipótesis toponímicas y las tradiciones que relacionan el origen del pueblo con pobladores procedentes de Francia.
 
-Esta investigación examina las referencias medievales tempranas, las hipótesis sobre el nombre de La Alberca y las tradiciones relativas a pobladores procedentes de Francia.
-
-**[Leer: Orígenes de La Alberca](/pueblos/conjuntos-historicos/la-alberca/historia/origenes/)**
+**[Explorar los orígenes de La Alberca](/pueblos/conjuntos-historicos/la-alberca/historia/origenes/)**
 
 ### 2. La Alberca medieval
 
-**Organización territorial, derechos sobre las dehesas, privilegios y relaciones de poder.**
+**Derechos territoriales, privilegios y relaciones de poder.**
 
-La documentación medieval permite aproximarse a la formación institucional de La Alberca y a sus relaciones con otros territorios.
+La documentación medieval permite estudiar la posición de La Alberca dentro de las estructuras territoriales de su época.
 
-Especial importancia tienen los testimonios sobre los aprovechamientos de Jurde y Batuecas, las relaciones con Granadilla y los privilegios de mediados del siglo XIV.
+Especial importancia tienen los testimonios relacionados con las dehesas de Jurde y Batuecas, los derechos de aprovechamiento y las relaciones con Granadilla.
 
-La investigación también estudia las limitaciones de las fuentes y las dificultades de interpretación de determinados documentos.
+Los documentos fechados en torno a 1288–1291 presentan cuestiones de datación e interpretación que merecen un examen específico. También se investigan los privilegios de mediados del siglo XIV.
 
-**[Leer: La Alberca medieval](/pueblos/conjuntos-historicos/la-alberca/historia/edad-media/)**
+**[Explorar La Alberca medieval](/pueblos/conjuntos-historicos/la-alberca/historia/edad-media/)**
 
 ### 3. Concejo y ordenanzas
 
-**El gobierno de la comunidad y las normas que regulaban su vida.**
+**El gobierno del pueblo y las reglas de la vida comunitaria.**
 
-Las ordenanzas históricas constituyen una fuente fundamental para comprender cómo se organizaba La Alberca.
+Las ordenanzas de 1515 constituyen uno de los testimonios más importantes para conocer la organización histórica de La Alberca.
 
-Las ordenanzas de 1515, conocidas a través de su transmisión documental y estudiadas por Gabrielle Berrogain, permiten investigar asuntos como los aprovechamientos forestales, el ganado, los colmenares, el agua, el abastecimiento, las obligaciones vecinales y la actuación de las autoridades locales.
+Regulaban asuntos relacionados con los montes, el ganado, los colmenares, el agua, el abastecimiento, los aprovechamientos comunales y las responsabilidades de los oficiales.
 
-No describen necesariamente todo lo que sucedía en la práctica, pero muestran qué conductas y actividades consideraba necesario regular la comunidad.
+Su texto, conservado mediante una copia de 1668 y publicado por Gabrielle Berrogain en 1930, permite estudiar cómo una comunidad establecía normas para administrar sus recursos y resolver problemas colectivos.
 
-**[Leer: Concejo y ordenanzas](/pueblos/conjuntos-historicos/la-alberca/historia/concejo-ordenanzas/)**
+**[Explorar el concejo y las ordenanzas](/pueblos/conjuntos-historicos/la-alberca/historia/concejo-ordenanzas/)**
 
 ### 4. La Alberca y Las Hurdes
 
-**Una relación histórica construida alrededor del territorio y sus aprovechamientos.**
+**Una relación histórica construida alrededor del territorio.**
 
-Las relaciones entre La Alberca y Las Hurdes forman parte de una historia territorial compartida que no puede reducirse a los límites administrativos actuales.
+Las relaciones entre La Alberca y Las Hurdes forman parte de una historia compartida que precede a los límites administrativos actuales.
 
-Los derechos de aprovechamiento, los contratos, los conflictos y los cambios jurisdiccionales permiten estudiar las relaciones entre comunidades y los recursos que resultaban esenciales para su economía.
+Los derechos sobre dehesas, los contratos de aprovechamiento, los conflictos y los cambios jurisdiccionales permiten estudiar los vínculos económicos y jurídicos entre ambas comunidades.
 
-Entre los asuntos investigados figuran los documentos medievales sobre las dehesas y la enfiteusis de 1531.
+Entre los documentos relevantes se encuentra la enfiteusis de 1531, fundamental para investigar las relaciones históricas con el territorio hurdano.
 
-La investigación distingue los derechos documentados de las interpretaciones posteriores y evita trasladar automáticamente conceptos actuales de propiedad y jurisdicción a las relaciones históricas.
-
-**[Leer: La Alberca y Las Hurdes](/pueblos/conjuntos-historicos/la-alberca/historia/alberca-hurdes/)**
+**[Explorar La Alberca y Las Hurdes](/pueblos/conjuntos-historicos/la-alberca/historia/alberca-hurdes/)**
 
 ### 5. Sociedad y vida cotidiana
 
-**Familias, mujeres, oficios, alimentación, trabajo y organización comunitaria.**
+**Familias, mujeres, oficios, alimentación y trabajo.**
 
-La historia de un pueblo no está formada únicamente por sus instituciones y sus acontecimientos políticos.
+La vida albercana también puede estudiarse a través de sus actividades cotidianas.
 
-También se encuentra en las actividades cotidianas de sus habitantes, en las relaciones familiares, en los trabajos agrícolas y artesanales y en las formas de cooperación y conflicto.
+Las ordenanzas, los documentos judiciales y los testimonios etnográficos ofrecen información sobre las relaciones familiares, los trabajos agrícolas y artesanales, las actividades textiles, la alimentación y las celebraciones.
 
-Las ordenanzas, los documentos judiciales y las fuentes etnográficas permiten reconstruir algunos aspectos de esa vida social.
+Una parte especialmente interesante corresponde a la historia de las mujeres, cuya presencia puede rastrearse en privilegios, litigios y otros documentos.
 
-Esta investigación aborda, entre otros asuntos, la situación de las mujeres, las actividades textiles, los oficios, la alimentación y las celebraciones familiares.
-
-**[Leer: Sociedad y vida cotidiana](/pueblos/conjuntos-historicos/la-alberca/historia/sociedad-vida-cotidiana/)**
+**[Explorar la sociedad y la vida cotidiana](/pueblos/conjuntos-historicos/la-alberca/historia/sociedad-vida-cotidiana/)**
 
 ### 6. Conflictos y crisis
 
-**Guerra, obligaciones militares, enfermedades, escasez y dificultades económicas.**
+**Guerras, obligaciones militares, enfermedades y dificultades económicas.**
 
-La historia de La Alberca también estuvo marcada por situaciones de conflicto y vulnerabilidad.
+La Alberca también sufrió las consecuencias de conflictos que se desarrollaban mucho más allá de su territorio.
 
-La documentación permite estudiar episodios vinculados a las obligaciones militares durante la Guerra de Sucesión, así como dificultades económicas, sanitarias y fiscales registradas en otras épocas.
+Durante la Guerra de Sucesión, la presencia de tropas y las exigencias militares afectaron a la comunidad.
 
-Las crisis deben interpretarse atendiendo a sus circunstancias concretas y evitando extrapolar automáticamente situaciones generales de Castilla o de España a la realidad local.
+A finales del siglo XVIII, las enfermedades, la mortalidad y la escasez provocaron dificultades económicas que quedaron reflejadas en documentación fiscal.
 
-Esta investigación examina los acontecimientos para los que existen testimonios identificables y señala los límites de nuestro conocimiento.
+Esta investigación reconstruye esos episodios y sus consecuencias locales.
 
-**[Leer: Conflictos y crisis](/pueblos/conjuntos-historicos/la-alberca/historia/conflictos-crisis/)**
+**[Explorar los conflictos y las crisis](/pueblos/conjuntos-historicos/la-alberca/historia/conflictos-crisis/)**
 
 ### 7. Siglos XIX y XX
 
-**Población, servicios públicos, transformaciones económicas y protección patrimonial.**
+**Cambios demográficos, educación, servicios públicos y protección patrimonial.**
 
-Durante la época contemporánea, La Alberca experimentó cambios que afectaron a su población, sus comunicaciones, sus instituciones y sus actividades económicas.
+La Alberca contemporánea experimentó transformaciones en su población, sus comunicaciones, sus instituciones y sus actividades económicas.
 
-Los censos históricos permiten estudiar la evolución demográfica, mientras que otros testimonios documentan intervenciones en edificios públicos, servicios y equipamientos.
+Los censos, los expedientes administrativos y otros testimonios permiten estudiar esos cambios.
 
-Entre los hitos investigados figuran las escuelas inauguradas en 1935 y la declaración patrimonial de 1940.
+Entre los acontecimientos destacados figuran la inauguración de las escuelas públicas en 1935 y la declaración de protección patrimonial de 1940.
 
-El desarrollo del turismo y los cambios en la utilización del espacio urbano forman parte de una transformación que debe estudiarse sin presentar el pueblo como una realidad detenida en el pasado.
+La posterior evolución del turismo y del espacio urbano forma parte de una historia que continuó mucho después de la protección del conjunto.
 
-**[Leer: Siglos XIX y XX](/pueblos/conjuntos-historicos/la-alberca/historia/siglos-xix-xx/)**
+**[Explorar los siglos XIX y XX](/pueblos/conjuntos-historicos/la-alberca/historia/siglos-xix-xx/)**
 
 ### 8. Documentos y cronología
 
-**Las fuentes que permiten reconstruir y revisar la historia.**
+**Las fuentes que permiten reconstruir la historia albercana.**
 
-Esta investigación reúne una guía de los principales testimonios documentales utilizados en la sección.
+Los documentos conservados son el punto de partida para estudiar la evolución del pueblo.
 
-Incluye referencias a privilegios medievales, ordenanzas, pleitos, publicaciones históricas, documentación demográfica y otras fuentes.
+Esta sección reúne referencias a privilegios medievales, ordenanzas, pleitos, documentación demográfica, publicaciones históricas y otros testimonios.
 
-También identifica problemas de datación, interpretaciones que necesitan comprobación y cuestiones abiertas.
+También presenta una cronología de los principales acontecimientos y señala los problemas documentales que todavía necesitan investigación.
 
-No se trata únicamente de ordenar acontecimientos por fechas, sino de mostrar qué sabemos, cómo lo sabemos y qué permanece sin resolver.
+**[Consultar documentos y cronología](/pueblos/conjuntos-historicos/la-alberca/historia/documentos-cronologia/)**
 
-**[Leer: Documentos y cronología](/pueblos/conjuntos-historicos/la-alberca/historia/documentos-cronologia/)**
+---
+
+## Artículos de historia: cinco episodios documentados
+
+Además de las investigaciones generales, hemos dedicado artículos a acontecimientos concretos que permiten acercarnos a las personas y a los problemas de cada época.
+
+### 1558 · El camino que las mujeres no estaban obligadas a recorrer
+
+Un privilegio del duque de Alba evitaba que las mujeres de La Alberca tuvieran que desplazarse a Granadilla para declarar ante la justicia, debido a la dificultad y peligrosidad del camino.
+
+**[Leer el artículo](/pueblos/conjuntos-historicos/la-alberca/historia/articulos/las-mujeres-y-el-camino-a-granadilla/)**
+
+### 1707 · La guerra que llegó a La Alberca
+
+Durante la Guerra de Sucesión, las obligaciones militares, el alojamiento de soldados franceses y las exigencias de suministros alteraron la vida del pueblo.
+
+**[Leer el artículo](/pueblos/conjuntos-historicos/la-alberca/historia/articulos/la-guerra-que-llego-a-la-alberca/)**
+
+### Hacia 1756–1760 · Cuando servir al concejo acababa en los tribunales
+
+Agustín de Puerto y otros vecinos litigaron contra el concejo para determinar si estaban obligados a desempeñar la mayordomía municipal.
+
+**[Leer el artículo](/pueblos/conjuntos-historicos/la-alberca/historia/articulos/los-mayordomos-del-concejo/)**
+
+### 1791 · Cuando La Alberca pidió al rey que escuchara su miseria
+
+Después de varios años de enfermedades, muertes y dificultades económicas, las autoridades locales intentaron conseguir un alivio de las obligaciones fiscales.
+
+**[Leer el artículo](/pueblos/conjuntos-historicos/la-alberca/historia/articulos/la-alberca-1791-epidemia-hambre-impuestos/)**
+
+### 1935 · Una escuela nueva para una Alberca antigua
+
+La inauguración de las nuevas escuelas públicas representó una transformación de los espacios educativos y de las condiciones de enseñanza.
+
+**[Leer el artículo](/pueblos/conjuntos-historicos/la-alberca/historia/articulos/las-escuelas-de-1935/)**
+
+**[Explorar todos los artículos históricos](/pueblos/conjuntos-historicos/la-alberca/historia/articulos/)**
 
 ---
 
 ## Grandes etapas de la historia albercana
 
-### Los problemas del poblamiento y los primeros documentos
+### Los primeros testimonios y la comunidad medieval
 
-La historia más antigua de La Alberca debe investigarse diferenciando los testimonios arqueológicos de la comarca, las referencias documentales y las tradiciones de origen.
+Los orígenes de La Alberca siguen planteando interrogantes sobre el poblamiento, el nombre del lugar y la formación de la comunidad.
 
-La atribución de una fundación concreta o de una procedencia determinada a sus primeros habitantes exige pruebas que no pueden sustituirse por la repetición de relatos tradicionales.
+Las referencias medievales permiten comenzar a reconstruir su historia documental, especialmente a través de los derechos territoriales y las relaciones con otros lugares.
 
-Las referencias medievales tempranas son importantes, pero deben estudiarse en su contexto y con atención a la identificación del lugar mencionado.
+Los testimonios relativos a las dehesas de Jurde y Batuecas son fundamentales para comprender la organización histórica de este territorio.
 
-### La comunidad medieval y su territorio
+### El concejo y la administración de los recursos
 
-Durante la Edad Media aparecen testimonios sobre derechos territoriales, relaciones de dependencia y privilegios que permiten investigar la posición de La Alberca dentro de estructuras políticas más amplias.
+Durante la Edad Moderna, el concejo desempeñó un papel central en la regulación de la vida comunitaria.
 
-La relación con las dehesas de Jurde y Batuecas constituye uno de los asuntos documentales centrales.
+Las ordenanzas de 1515 muestran la importancia de los aprovechamientos forestales, la ganadería, el abastecimiento y las obligaciones vecinales.
 
-Existen discrepancias en las fechas transmitidas o utilizadas por distintas referencias historiográficas, especialmente en torno a 1288, 1289 y 1291. Su resolución requiere comprobar las escrituras y sus transcripciones, teniendo en cuenta los sistemas históricos de datación.
+Otros documentos permiten conocer la administración económica, la elección de oficiales y las responsabilidades asociadas a determinados cargos.
 
-Los privilegios de mediados del siglo XIV y otros testimonios posteriores permiten continuar la reconstrucción de esta etapa.
+La revisión de cuentas de 1528 y la organización concejil documentada en 1625 ofrecen ejemplos concretos.
 
-### El concejo y la regulación de los recursos
+### Las relaciones con Granadilla y Las Hurdes
 
-Las ordenanzas de 1515 ofrecen una perspectiva excepcional sobre las preocupaciones de la comunidad.
+La historia de La Alberca estuvo estrechamente relacionada con las jurisdicciones y comunidades vecinas.
 
-La regulación de los recursos naturales, los animales, los espacios productivos, el abastecimiento y las obligaciones vecinales revela la importancia de una organización colectiva.
+Granadilla ocupaba una posición relevante dentro de la organización señorial de la que dependía La Alberca.
 
-Sin embargo, una norma no demuestra por sí sola su cumplimiento ni permite describir sin más la conducta cotidiana de todos los habitantes.
+Las relaciones con Las Hurdes estuvieron marcadas por derechos de aprovechamiento, acuerdos, obligaciones y conflictos territoriales.
 
-Por eso las ordenanzas deben contrastarse con pleitos, cuentas, acuerdos y otros documentos cuando estén disponibles.
+Estos vínculos ayudan a comprender una geografía histórica diferente de la división administrativa actual.
 
-### Relaciones territoriales y conflictos
+### Guerras, enfermedades y crisis
 
-La historia de La Alberca estuvo relacionada con la de las comunidades vecinas.
+Los conflictos militares y las dificultades económicas también dejaron huella en el pueblo.
 
-Las relaciones con Las Hurdes, los derechos sobre determinados terrenos y las controversias sobre su aprovechamiento muestran que los límites y las relaciones territoriales tienen una historia propia.
+Durante la Guerra de Sucesión, las tropas y las obligaciones impuestas a la población afectaron a los recursos locales.
 
-También las guerras y las obligaciones impuestas por las autoridades superiores afectaron a la vida local.
+En 1791, la documentación muestra una comunidad debilitada por enfermedades, mortalidad y problemas económicos, que intentaba negociar sus cargas fiscales.
 
-Cada episodio necesita su contexto específico para comprender sus causas y consecuencias.
+### La Alberca contemporánea
 
-### Transformaciones contemporáneas
+Durante los siglos XIX y XX se produjeron cambios demográficos, económicos e institucionales.
 
-Los siglos XIX y XX permiten estudiar cambios demográficos, institucionales y económicos mediante fuentes de naturaleza diferente.
+La construcción de equipamientos públicos, como las escuelas inauguradas en 1935, refleja algunas de esas transformaciones.
 
-Los censos, las estadísticas, los expedientes administrativos, la prensa y las fotografías históricas ofrecen posibilidades de investigación que no existen para épocas anteriores.
+En 1940, la protección patrimonial del conjunto urbano abrió otra etapa de su historia.
 
-La protección patrimonial del núcleo urbano en 1940 constituye un hito importante, pero no representa el final de su historia.
-
-La Alberca continuó transformándose y adaptándose a nuevas circunstancias.
+La conservación de su arquitectura tradicional convivió desde entonces con nuevas actividades económicas y con la evolución de la vida cotidiana.
 
 ---
 
-## Cronología histórica orientativa
+## Cronología histórica
 
-Esta cronología selecciona algunos testimonios y acontecimientos tratados en las investigaciones. No pretende ser una relación exhaustiva.
+La siguiente tabla reúne algunos de los principales testimonios y acontecimientos estudiados en esta sección.
 
-| Fecha o periodo | Testimonio o acontecimiento |
+| Fecha | Acontecimiento o testimonio |
 |---|---|
-| Siglos XIII-XIV | Primeras referencias medievales y documentación sobre derechos territoriales que requieren análisis crítico |
-| 1288-1291 | Fechas presentes en las referencias sobre las dehesas de Jurde y Batuecas; datación pendiente de comprobación documental definitiva |
-| 1352-1355 | Privilegios medievales estudiados en la documentación histórica de La Alberca |
-| 1515 | Ordenanzas del concejo, conocidas mediante su transmisión documental |
-| 1531 | Referencias documentales a la enfiteusis relacionada con el territorio de Las Hurdes |
-| 1558 | Privilegio tratado en la investigación sobre la sociedad albercana |
-| 1707 | Episodios relacionados con las obligaciones militares durante la Guerra de Sucesión |
-| 1791 | Testimonios sobre dificultades sanitarias, económicas y fiscales |
-| Siglo XIX | Transformaciones administrativas y demográficas documentadas en fuentes históricas |
-| 1935 | Inauguración de las escuelas estudiadas en la investigación contemporánea |
+| Siglos XIII–XIV | Primeras referencias medievales y documentación sobre derechos territoriales |
+| 1288–1291 | Fechas presentes en las referencias sobre las dehesas de Jurde y Batuecas; datación pendiente de comprobación definitiva |
+| 1352–1355 | Privilegios medievales relacionados con la historia de La Alberca |
+| 1515 | Ordenanzas del concejo |
+| 1528 | Revisión de las cuentas concejiles de 1526 y 1527 |
+| 1531 | Documentación sobre la enfiteusis relacionada con Las Hurdes |
+| 1558 | Privilegio relativo a las declaraciones judiciales de las mujeres albercanas |
+| 1625 | Elección documentada de oficiales del concejo |
+| 1707 | Presencia de tropas y obligaciones militares durante la Guerra de Sucesión |
+| Hacia 1756–1760 | Pleito de Agustín de Puerto y otros vecinos sobre la mayordomía |
+| 1791 | Documentación sobre crisis sanitaria, dificultades económicas y fiscalidad |
+| Siglo XIX | Transformaciones administrativas y demográficas |
+| 1935 | Inauguración de las nuevas escuelas públicas |
 | 1940 | Declaración de protección patrimonial del conjunto urbano |
 
-Para conocer el alcance de cada fecha, sus fuentes y las incertidumbres existentes, debe consultarse [Documentos y cronología](/pueblos/conjuntos-historicos/la-alberca/historia/documentos-cronologia/).
+La [cronología documental](/pueblos/conjuntos-historicos/la-alberca/historia/documentos-cronologia/) desarrolla las referencias y los problemas de interpretación de cada etapa.
 
 ---
 
-## Fuentes para estudiar La Alberca
+## Fuentes para estudiar la historia de La Alberca
 
-La investigación histórica de La Alberca cuenta con diferentes tipos de fuentes, cada una con posibilidades y limitaciones propias.
+La investigación se apoya en documentos de diferentes épocas y procedencias.
 
-### Documentación medieval
+### Privilegios y documentación medieval
 
-Los privilegios, las escrituras y los documentos relativos a derechos territoriales permiten investigar las relaciones jurídicas y políticas de la comunidad.
+Los documentos relativos a derechos territoriales, jurisdicciones y aprovechamientos permiten reconstruir las relaciones políticas y económicas de la comunidad.
 
-Es necesario distinguir los originales conservados de las copias, los traslados y las transcripciones publicadas.
-
-También deben comprobarse los sistemas de datación utilizados en cada documento.
+Entre las cuestiones pendientes se encuentra la comprobación definitiva de determinadas fechas medievales, especialmente las transmitidas en torno a 1288–1291.
 
 ### Ordenanzas municipales
 
-Las ordenanzas constituyen una fuente especialmente valiosa para estudiar la organización comunitaria.
+Una de las principales fuentes es la edición de las ordenanzas de 1515 publicada por **Gabrielle Berrogain** en 1930, en el *Anuario de Historia del Derecho Español*.
 
-Una referencia fundamental es el trabajo de **Gabrielle Berrogain**, publicado en 1930 en el *Anuario de Historia del Derecho Español*, sobre las ordenanzas de La Alberca.
+[Consultar el estudio de Berrogain en el BOE](https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-H-1930-10038100441)
 
-[Consultar la publicación de Berrogain en la Biblioteca Jurídica Digital del BOE](https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-H-1930-10038100441)
+### Documentación judicial y concejil
 
-### Estudios históricos
+Los pleitos, acuerdos municipales, protocolos notariales y libros de cuentas permiten investigar el funcionamiento del concejo y las relaciones entre sus habitantes.
 
-Las investigaciones de diferentes autores permiten contextualizar e interpretar los testimonios conservados.
+Entre los fondos relevantes se encuentran el Archivo de La Alberca, el Archivo de la Real Chancillería de Valladolid y documentación del Archivo Ducal de Alba.
 
-Entre ellas se encuentran los estudios sobre las relaciones entre La Alberca y Las Hurdes, los trabajos dedicados a acontecimientos militares y las investigaciones de historia local.
+### Fuentes contemporáneas
 
-La interpretación de un historiador debe distinguirse del contenido literal de la fuente que utiliza.
+Los censos históricos del Instituto Nacional de Estadística, los expedientes administrativos, la prensa y las fotografías antiguas ayudan a estudiar las transformaciones de los siglos XIX y XX.
 
-### Fuentes demográficas y administrativas
+### Memoria y tradición
 
-Los censos históricos del Instituto Nacional de Estadística, los expedientes administrativos y otras series documentales permiten investigar los cambios de población, servicios e instituciones.
+Los testimonios orales, las tradiciones y los estudios etnográficos permiten comprender cómo la comunidad ha transmitido y reinterpretado su pasado.
 
-Las cifras deben utilizarse respetando las definiciones y los límites territoriales de cada fuente.
-
-### Memoria, etnografía y testimonios orales
-
-Las tradiciones y los testimonios transmitidos por la comunidad son fundamentales para estudiar la memoria local.
-
-Sin embargo, su valor como testimonio cultural no equivale necesariamente a la demostración de los hechos históricos que narran.
-
-La investigación debe identificar su procedencia, su contexto y las posibles transformaciones que hayan experimentado.
+Su estudio complementa la documentación histórica y forma parte del conocimiento del patrimonio cultural albercano.
 
 ---
 
-## Cuestiones históricas abiertas
+## Investigaciones abiertas
 
-El conocimiento de La Alberca puede ampliarse mediante nuevas investigaciones documentales.
+Todavía existen cuestiones relevantes que requieren nuevas consultas documentales.
 
-Entre las cuestiones que merecen especial atención se encuentran:
+Entre ellas destacan:
 
-- La identificación y comprobación de las primeras menciones documentales del pueblo.
-- La interpretación de las tradiciones sobre sus pobladores y su nombre.
-- La datación precisa de los documentos medievales sobre Jurde y Batuecas.
-- La evolución de los derechos territoriales y su ejercicio efectivo.
-- Las diferencias entre las normas del concejo y las prácticas de sus habitantes.
-- La reconstrucción de las actividades económicas y las relaciones sociales a partir de documentación local.
+- La identificación y datación de las primeras menciones documentales de La Alberca.
+- El origen de su topónimo y la formación de la comunidad medieval.
+- La comprobación de los documentos sobre las dehesas de Jurde y Batuecas.
+- La evolución de los derechos territoriales y de las relaciones con Las Hurdes.
+- El funcionamiento efectivo de las ordenanzas y de los oficios concejiles.
+- La reconstrucción de la vida cotidiana a partir de documentación local.
+- El estudio de las crisis demográficas y económicas.
 - La evolución de la población y de las viviendas durante los siglos XIX y XX.
-- La identificación de acontecimientos que todavía no cuentan con estudios documentales suficientes.
 
-Estas cuestiones no se resolverán mediante hipótesis presentadas como hechos.
-
-Cuando aparezcan nuevas evidencias, las investigaciones podrán revisarse y ampliarse.
+Las investigaciones podrán ampliarse cuando se localicen nuevos testimonios o se comprueben documentos que todavía no han sido consultados directamente.
 
 ---
 
-## Relaciones con el resto del atlas
+## La Alberca en su territorio
 
-La historia de La Alberca está relacionada con otras dimensiones de su patrimonio y con la historia de los territorios vecinos.
+La historia del pueblo está vinculada a la de la Sierra de Francia y a la de las comarcas vecinas.
 
 - [La Alberca](/pueblos/conjuntos-historicos/la-alberca/): monografía general del pueblo.
-- [Patrimonio de La Alberca](/pueblos/conjuntos-historicos/la-alberca/patrimonio/): edificios, inscripciones y testimonios materiales.
-- [Conjuntos históricos de la Sierra de Francia](/pueblos/conjuntos-historicos/): contexto territorial de los pueblos protegidos.
+- [Patrimonio de La Alberca](/pueblos/conjuntos-historicos/la-alberca/patrimonio/): arquitectura, edificios y testimonios materiales.
+- [Conjuntos históricos de la Sierra de Francia](/pueblos/conjuntos-historicos/): contexto de los pueblos protegidos.
 
-Las investigaciones cuyo objeto principal sea el valle de Las Batuecas, su convento, su geografía o su patrimonio natural corresponden a la sección territorial propia de Las Batuecas.
+Las relaciones con Las Hurdes y Las Batuecas se estudian aquí cuando ayudan a comprender la historia de La Alberca.
 
-Aquí se estudian las relaciones históricas de La Alberca con ese territorio cuando son relevantes para comprender la historia de la comunidad.
-
-Del mismo modo, las relaciones con Las Hurdes deben comprenderse desde ambas perspectivas territoriales, sin reducir la historia de una comarca a la de otra.
+Las investigaciones centradas específicamente en el valle de Las Batuecas, su convento, su geografía o su patrimonio natural pertenecen a la monografía territorial propia de Las Batuecas.
 
 ---
 
-## Nuestro criterio histórico
+## Una historia que continúa investigándose
 
-La historia de La Alberca merece algo más que una sucesión de fechas, leyendas y acontecimientos conocidos.
+La Alberca no es únicamente el conjunto de edificios y tradiciones que hoy conocemos.
 
-Queremos comprender cómo vivieron sus habitantes, qué decisiones tomaron, qué conflictos afrontaron y cómo se relacionaron con el territorio.
+Es el resultado de siglos de decisiones, relaciones territoriales, trabajos, conflictos y transformaciones protagonizados por sus habitantes.
 
-Para ello distinguimos:
+Los documentos conservados permiten recuperar una parte de esa trayectoria. Otros episodios siguen esperando nuevas investigaciones.
 
-- **Hechos documentados:** afirmaciones respaldadas por testimonios identificables.
-- **Interpretaciones históricas:** explicaciones propuestas a partir de las fuentes.
-- **Tradiciones y memoria:** relatos y prácticas transmitidos por la comunidad.
-- **Hipótesis:** posibilidades que requieren investigación adicional.
-- **Cuestiones desconocidas:** asuntos para los que todavía no disponemos de evidencia suficiente.
-
-La historia no es una narración cerrada.
-
-Cada documento puede confirmar, matizar o cuestionar lo que creíamos saber.
-
-**Conocer La Alberca significa también reconocer los límites de nuestro conocimiento y mantener abierta la investigación.**
+**El propósito de esta sección es conocer y comprender esa historia a partir de sus testimonios, sin confundir lo documentado con lo que todavía permanece por descubrir.**
