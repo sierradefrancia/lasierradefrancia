@@ -1,3 +1,4 @@
+
 # La Sierra de Francia
 # Configuración principal de Jekyll
 
@@ -43,6 +44,12 @@ footer_content: >-
   Camping Sierra de Francia</a>.
   ·
   <a href="/sitemap/">Mapa del sitio</a>.
+  ·
+  <a href="/aviso-legal/">Aviso legal</a>.
+  ·
+  <a href="/politica-de-privacidad/">Política de privacidad</a>.
+  ·
+  <a href="/politica-de-cookies/">Política de cookies</a>.
 
 # SEO y sitemap
 plugins:
