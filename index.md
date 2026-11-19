@@ -4,6 +4,7 @@ title: La Sierra de Francia
 nav_order: 0
 description: "Descubre la Sierra de Francia, sus pueblos, la Peña de Francia, Las Batuecas, rutas, naturaleza, historia y gastronomía. Un atlas abierto y riguroso para conocer Salamanca y su entorno."
 permalink: /
+last_modified_at: 2026-11-19
 ---
 
 # La Sierra de Francia
@@ -23,6 +24,26 @@ Es también la historia de sus habitantes, sus tradiciones, sus formas de vida, 
 **Esta web nace para ayudarte a descubrirla, conocerla y comprenderla.**
 
 Tanto si estás preparando una visita como si quieres profundizar en su historia, su naturaleza o su patrimonio, queremos que encuentres aquí información útil, rigurosa y accesible.
+
+---
+
+## Un territorio de extraordinaria riqueza
+
+La Sierra de Francia reúne una concentración notable de patrimonio histórico, natural, cultural y paisajístico.
+
+Seis conjuntos históricos declarados, la Peña de Francia, el valle de Las Batuecas, bosques, ríos, montañas y paisajes agrícolas forman parte de un territorio donde la naturaleza y la historia humana mantienen relaciones profundas.
+
+Su riqueza no reside únicamente en cada uno de esos lugares.
+
+También está en su proximidad, en la diversidad de ambientes, en la arquitectura que responde al paisaje, en los caminos que comunican los pueblos y en las huellas de generaciones que han vivido y trabajado esta tierra.
+
+Los reconocimientos patrimoniales y ambientales documentan diferentes dimensiones de ese valor. Pero comprender la Sierra exige ir más allá de enumerar monumentos, especies o espacios protegidos.
+
+**Lo extraordinario es también el conjunto: la concentración, la diversidad y las relaciones entre sus valores naturales y humanos.**
+
+Hemos dedicado una investigación específica a estudiar esa riqueza global, sus fundamentos documentales, sus relaciones territoriales y las preguntas que todavía permanecen abiertas.
+
+**[Descubrir la riqueza de la Sierra de Francia](/valor-global/)**
 
 ---
 
@@ -208,6 +229,10 @@ Y cada investigación deberá contribuir a comprender mejor el conjunto.
 
 **Desarrollar lo general, profundizar en lo específico y conectar todo el conocimiento.**
 
+Esa conexión también nos permite investigar el territorio desde una perspectiva global: comprender cómo se relacionan sus valores naturales, históricos y culturales, y qué revela su conjunto sobre la singularidad de la Sierra de Francia.
+
+No estudiamos únicamente lugares y acontecimientos aislados. También investigamos las relaciones que dan sentido al territorio.
+
 Esa es nuestra manera de trabajar.
 
 ### El rigor es parte del camino
@@ -283,6 +308,10 @@ Y aportar, con nuestro trabajo y nuestra experiencia, algo que permanezca, que r
 ## Nuestro horizonte
 
 > Conocer, comprender, preservar y compartir la Sierra de Francia y su entorno mediante un conocimiento abierto, riguroso, accesible y en permanente evolución, manteniendo siempre nuestra identidad, nuestra cercanía y el respeto por la verdad y por el territorio.
+
+Conocer la Sierra de Francia también significa comprender el valor de su conjunto: cómo se relacionan sus pueblos, sus montañas, sus bosques, sus paisajes culturales y la memoria de quienes la han habitado.
+
+Cuanto mejor comprendamos esas relaciones, más argumentos tendremos para valorar, conservar y compartir su patrimonio.
 
 Ese es el propósito que guía este atlas.
 
