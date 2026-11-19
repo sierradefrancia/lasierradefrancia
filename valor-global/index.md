@@ -1,4 +1,3 @@
-
 ---
 layout: default
 title: La riqueza de la Sierra de Francia
