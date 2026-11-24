@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: Geografía y paisaje
 nav_order: 8
@@ -28,6 +29,12 @@ Nuestro objetivo no es presentar únicamente una colección de paisajes.
 Queremos comprender cómo se han formado, qué relaciones existen entre ellos y cómo han condicionado la historia natural y humana de la Sierra de Francia.
 
 ---
+
+## Del territorio regional a la escala local
+
+[La Alberca](/pueblos/conjuntos-historicos/la-alberca/geografia-territorio/) · [Mogarraz](/pueblos/conjuntos-historicos/mogarraz/geografia-territorio/) · [Miranda del Castañar](/pueblos/conjuntos-historicos/miranda-del-castanar/geografia-territorio/) · [San Martín del Castañar](/pueblos/conjuntos-historicos/san-martin-del-castanar/geografia-territorio/) · [Sequeros](/pueblos/conjuntos-historicos/sequeros/geografia-territorio/) · [Villanueva del Conde](/pueblos/conjuntos-historicos/villanueva-del-conde/geografia-territorio/)
+
+Para comprender la montaña, consulta la [geología de la Peña](/lugares/pena-de-francia/geologia/), su [geografía](/lugares/pena-de-francia/geografia-territorio/) y su [clima](/lugares/pena-de-francia/clima-observacion/). El [valle de Las Batuecas](/lugares/las-batuecas/) ofrece otra escala de análisis. La [hidrografía de La Alberca](/pueblos/conjuntos-historicos/la-alberca/geografia-territorio/hidrografia/) y los [bancales de Villanueva](/pueblos/conjuntos-historicos/villanueva-del-conde/patrimonio/bancales/) permiten relacionar agua, relieve y aprovechamientos humanos.
 
 ## Qué es geográficamente la Sierra de Francia
 
