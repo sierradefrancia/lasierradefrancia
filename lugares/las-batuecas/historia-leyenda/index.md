@@ -34,6 +34,8 @@ La presencia de arte rupestre demuestra actividad humana prehistórica, pero no 
 
 Una nueva referencia académica sitúa moradores procedentes de Batuecas en documentación de arrendamiento de 1455, según Valiente Martín (2024, p. 56), que remite a Fernández Gómez (1984, p. 76). Su cotejo queda pendiente; véase [historia territorial](/lugares/las-batuecas/historia-territorial/).
 
+La edición de Fernández Gómez de 1994 confirma la noticia de 1455 y distingue Batuecas de las majadas. Su estudio de 1984 identifica además una posible mención del topónimo en 1192 (Tumbo B, folio 134, Catedral de Santiago). Son referencias anteriores al monasterio, no pruebas de continuidad demográfica. Véase [historia territorial](/lugares/las-batuecas/historia-territorial/).
+
 ## Tres cronologías que no deben confundirse
 
 | Objeto | Evidencia necesaria |

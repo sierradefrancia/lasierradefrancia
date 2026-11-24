@@ -54,6 +54,20 @@ La edición está localizada en la Biblioteca Jurídica del BOE. Los intentos an
 
 El título de la edición acredita el ámbito nominal del conjunto documental, pero no que cada disposición se aplicara de igual manera a todos los lugares mencionados. El análisis deberá conservar las fechas y ámbitos de cada ordenanza, distinguir las disposiciones originales de las notas editoriales y comprobar si existen confirmaciones o reformas posteriores.
 
+## El topónimo de 1192 y la documentación de 1455
+
+Luciano Fernández Gómez, en Mélanges de la Casa de Velázquez 20 (1984), p. 74, nota 38, identifica una referencia de 1192 al deslindar Herguijuela y Sotoserrano. Remite al Archivo de la Catedral de Santiago, Tumbo B, folio 134, y a Julio González (1943, p. 240), quien interpreta «Batacas» como una lectura errónea de Batocas, identificada con Batuecas. La identificación es historiográfica: falta cotejar el manuscrito. La mención de un hito territorial no demuestra por sí misma residencia permanente.
+
+La edición del estudio publicada en Alcántara (1994), pp. 137–160, confirma directamente la referencia historiográfica al arrendamiento de 1455. Fernández Gómez identifica diez procedencias de los moradores contratantes, entre ellas Batuecas, y distingue el valle de las majadas propiamente dichas. Esta lectura refuerza la pista recuperada en la tesis de 2024, pero ambas dependen de Fernández Gómez y no son testimonios independientes del contrato. No conocemos todavía los nombres de los firmantes ni el lugar preciso de sus viviendas.
+
+Existe además una tensión interpretativa: la tesis La producción geosimbólica de Las Hurdes (vol. I, pp. 46–47 y discusión posterior) acepta la referencia contractual pero sostiene que el valle permaneció despoblado desde la Edad del Bronce hasta el establecimiento carmelitano. Para valorar esa afirmación deben distinguirse el ámbito del topónimo, la procedencia declarada, la residencia permanente y el posible uso temporal. La ausencia de una aldea identificada no equivale a ausencia de actividad humana.
+
+### Documentación recuperada
+
+- [Fernández Gómez, 1984, pp. 63–82, DOI 10.3406/casa.1984.2411](https://www.persee.fr/doc/casa_0076-230x_1984_num_20_1_2411): consultado extracto de p. 74 y nota 38; transcripción automática no revisada.
+- [Fernández Gómez, 1994, Alcántara 31–32, pp. 137–160](https://archivo.dip-caceres.es/wp-content/uploads/2024/01/03-031-032-009-Las_Hurdes.pdf): extracto sobre arrendamiento de 1455.
+- [La producción geosimbólica de Las Hurdes, vol. I](https://dehesa.unex.es/server/api/core/bitstreams/ba74bb2a-3931-4273-a9b5-babc00dfdc23/content): extracto sobre contrato y aprovechamientos; interpretación de despoblamiento pendiente de cotejo íntegro.
+
 ## 1291 y 1455: nuevas referencias territoriales
 
 Esteban Corral García, en su estudio sobre potestad concejil (p. 66), fecha el 8 de enero de 1291 la concesión de las dehesas de Las Hurdes y Las Batuecas por el concejo y comunidad de Granadilla. Una transcripción parcial reproducida en un estudio del Centro de Historia de Trujillo remite a José Pablo Blanco Carrasco (2008, pp. 49–50) y contiene una fecha de era 1327, correspondiente aritméticamente a 1289 si se emplea la era hispánica. Por tanto, existe una discrepancia 1289–1291 que requiere cotejar la escritura completa y su tradición documental. No debe identificarse automáticamente esta concesión con la noticia eclesiástica de 1288.
@@ -99,6 +113,8 @@ La investigación debe distinguir caminos históricos, vías pecuarias, accesos 
 
 | Fecha | Referencia | Estado |
 |---|---|---|
+| 1192 | Batacas en deslinde | Referencia archivística indirecta; identificación historiográfica |
+| 1455 | Procedencia de moradores | Estudio de Fernández Gómez cotejado en extracto; contrato pendiente |
 | 1288 | Privilegio con el topónimo Batuecas | Testimonio indirecto transmitido por Feijoo |
 | 1574 | Relaciones topográficas | Edición localizada, contenido local pendiente |
 | 1599 | Fundación carmelitana | Fuentes institucionales, originales pendientes |
