@@ -248,8 +248,11 @@ Candidatos provisionales; comprobar duplicados y homónimos antes de asignar fic
 
 | ID | Persona | Relación documental |
 |---|---|---|
-| PER-MOG-061 | Juan Antonio Melón | Intelectual nacido en Mogarraz el 27 de mayo de 1758 según La Peña, legado escolar testamentario referido |
+| PER-MOG-061 | [Juan Antonio Melón](/personajes/juan-antonio-melon/) | Nacido el 29 de marzo de 1758 según partida citada por Andioc; legado educativo documentado |
 | PER-MOG-062 | Jacinto Maíllo Criado | Fotógrafo citado en la revista local |
 | PER-MOG-063 | Ángel Díez Cascón | Médico citado en la revista local |
 
 Fuente: [La Peña de Mogarraz 2009, p. 71](https://mogarraz.es/_mgz_pdf/mogarraz_2009.pdf), extracto recuperado el 24-11-2026. Altas provisionales; pendiente comprobar biografías, testamento y patronato en documentación independiente.
+
+
+PER-MOG-064: Antonio Calama, vecino ilustrado de Mogarraz citado en el Semanario Erudito y Curioso de Salamanca, n.º 409, 14-02-1797, según Rodríguez de la Flor (1990, p. 97). Identificación provisional; original pendiente.
