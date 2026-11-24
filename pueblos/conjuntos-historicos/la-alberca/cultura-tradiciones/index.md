@@ -126,7 +126,7 @@ Su estudio arquitectónico e histórico corresponde a la sección de Patrimonio 
 
 ---
 
-## El marrano de San Antón
+## [El marrano de San Antón](./marrano-san-anton/)
 
 El **marrano de San Antón** constituye una tradición comunitaria singular de La Alberca.
 
@@ -229,7 +229,7 @@ Su texto, procedencia y transmisión documental deberán verificarse antes de ut
 
 La cultura albercana incluye romerías y celebraciones vinculadas a ermitas, imágenes religiosas y lugares del territorio municipal.
 
-### Romería de Majadas Viejas
+### [Romería de Majadas Viejas](./majadas-viejas/)
 
 La romería de Majadas Viejas está vinculada a una ermita situada en el entorno natural del municipio.
 
@@ -259,7 +259,7 @@ Su historia y continuidad deberán investigarse mediante programas, testimonios 
 
 El calendario cultural de La Alberca comprende celebraciones que merecen investigaciones diferenciadas.
 
-### Los Patahenos
+### [Los Patahenos](./patahenos/)
 
 Los Patahenos forman parte de las expresiones carnavalescas descritas en las fuentes locales.
 
@@ -282,6 +282,8 @@ La identificación de sus orígenes, rituales y transformaciones se realizará a
 ---
 
 ## Música, danzas y tradición oral
+
+[Inventario de fuentes sonoras y memoria oral](./fuentes-sonoras/).
 
 La música tradicional forma parte de numerosas celebraciones albercanas.
 
