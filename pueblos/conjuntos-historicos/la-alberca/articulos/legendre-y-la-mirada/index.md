@@ -19,3 +19,13 @@ Legendre fue un observador situado en su época, no una voz definitiva sobre los
 **Pista documental:** [Berrogain, Ordenanzas, p. 382](https://revistas.mjusticia.gob.es/index.php/AHDE/article/download/5060/5060/4833); [economía tradicional](../../sociedad-economia/economia-tradicional/).
 
 *Nota editorial: ensayo narrativo o experiencial basado en los expedientes internos del atlas; no se han cotejado de nuevo las fuentes externas ni realizado observaciones de campo en esta fase.*
+
+## Un hospital visto desde Las Hurdes
+
+En el capítulo VII de Les Jurdes, Legendre describe el hospital albercano y sus relaciones con tierras hurdanas. El expediente del atlas recoge doce camas y espacios para viajeros, además de rentas vinculadas a tierras y censos. Es una descripción histórica mediada por su investigación, no un inventario actual del edificio.
+
+Su relato permite entender que una institución situada en La Alberca podía sostener relaciones económicas con lugares alejados del caserío. También obliga a contrastar su cronología: una delimitación aparece fechada en 1559 en la transmisión francesa y en 1549 en una investigación posterior. No hemos resuelto la discrepancia mediante el original.
+
+El busto de Legendre documentado en el pueblo constituye otro objeto de estudio, diferente de su obra escrita. [Hospital de Menesterosos](../../patrimonio/patrimonio-civil/hospital/) · [Busto de Maurice Legendre](../../patrimonio/elementos-patrimoniales/busto-mauricio-legendre/) · [Les Jurdes, capítulo VII](https://lashurdescentrodedocumentacion.eu/files/pdf-libro/13.pdf).
+
+*Ampliación basada en los expedientes existentes del atlas, sin nuevo cotejo externo.*
