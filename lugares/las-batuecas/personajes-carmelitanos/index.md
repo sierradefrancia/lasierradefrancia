@@ -50,3 +50,5 @@ Los nombres religiosos pueden coincidir entre individuos de épocas diferentes. 
 La tabla es un punto de partida para expedientes individuales, no una biografía colectiva cerrada.
 
 [Volver a Las Batuecas](/lugares/las-batuecas/)
+
+Los propietarios particulares, intermediarios y promotores del siglo XIX y XX se registran en [Desamortización y recuperación del Desierto](/lugares/las-batuecas/desamortizacion-recuperacion/), con las identidades pendientes de cotejo notarial.

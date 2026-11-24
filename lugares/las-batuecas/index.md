@@ -29,6 +29,8 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 
 ## Estudios e inventarios
 
+- [Desamortización y recuperación del Desierto](/lugares/las-batuecas/desamortizacion-recuperacion/): transmisiones patrimoniales, propietarios y retorno religioso.
+
 - [Restauración del monasterio](/lugares/las-batuecas/restauracion-monasterio/): pérdidas, fases de obra y documentación técnica.
 
 - [Biblioteca histórica](/lugares/las-batuecas/biblioteca-carmelitana/): patrimonio bibliográfico y lecturas.

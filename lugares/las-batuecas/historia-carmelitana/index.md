@@ -46,7 +46,7 @@ La ficha ministerial afirma que el monasterio sirvió de refugio a vecinos de La
 
 Las fuentes utilizan 1835 y 1836 para referirse al proceso de exclaustración y clausura. El relato de la orden añade que el padre Cadete permaneció hasta 1843. La existencia de una disposición legal, el cese de la comunidad y la salida de su último residente no son necesariamente acontecimientos simultáneos.
 
-La recuperación de expedientes de desamortización, ventas e inventarios puede aclarar tanto la transmisión de la propiedad como el destino de los bienes muebles. Permanecen sin examinar los títulos originales.
+La nueva documentación permite identificar una subasta en 1842 y sucesivas transmisiones particulares; véase [Desamortización y recuperación del Desierto](/lugares/las-batuecas/desamortizacion-recuperacion/). La recuperación de expedientes de desamortización, ventas e inventarios puede aclarar tanto la transmisión de la propiedad como el destino de los bienes muebles. Permanecen sin examinar los títulos originales.
 
 ## Recuperación de la vida religiosa
 
