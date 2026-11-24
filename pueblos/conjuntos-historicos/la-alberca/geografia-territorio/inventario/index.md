@@ -89,3 +89,15 @@ Fuentes de procedencia interna: H = [Hidrografía](../hidrografia/); T = [Toponi
 - Priorizar cotejo de referencias originales, nomenclátor IGN, geometrías oficiales y cartografía histórica. Registrar fecha, sistema de referencia, precisión y procedencia de cada geometría antes de incorporarla.
 
 Total inicial: 46 registros, incluidos candidatos. No representa un recuento de lugares físicamente comprobados.
+
+## Relaciones cruzadas de inventario
+
+| Registro geográfico | Registro naturalista | Relación |
+|---|---|---|
+| ALB-GEO-003 | ALB-NAT-040 | Humedal y solicitud hidráulica O-0165/2025 |
+| ALB-GEO-043 | — | Lugar de interés geológico CI077; no equivale al valle completo |
+| ALB-GEO-045 y 046 | ALB-NAT-033 | Unidades forestales: correspondencia exacta pendiente |
+
+Consultar el [inventario naturalista](../../naturaleza/inventario/). Se mantienen los 46 identificadores sin altas ficticias.
+
+*Integración de referencias existentes; sin nuevo cotejo externo.*
