@@ -1,4 +1,5 @@
 ---
+description: "Las labranderas de Mogarraz: bordado, trabajo femenino y transmisión de conocimientos artesanales."
 layout: default
 title: Las mujeres que recuperaron el traje serrano
 parent: Artículos de Mogarraz
