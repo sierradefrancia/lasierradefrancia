@@ -17,3 +17,5 @@ Fuente: [Aratikos, catálogo arqueológico, 2006](https://www.lasalina.es/docume
 ## Preguntas de investigación
 
 Distinguir petición, autorización, financiación y resultado jurídico. Buscar la documentación de la Corona y del obispado; no inferir unanimidad vecinal ni cambio efectivo de jurisdicción a partir de una solicitud. Comparar con el señorío nobiliario de Miranda únicamente cuando estén documentados ambos regímenes.
+
+El extracto recuperado del [informe de 2006](https://www.lasalina.es/documentacion/normasurbanisticas/286_1_Informe%20Arqueol%C3%B3gico.pdf) sitúa la instauración del señorío en el XIII y remite a información regia hacia 1580. La referencia original no está identificada por signatura en el extracto; no permite confirmar la petición de 1574.
