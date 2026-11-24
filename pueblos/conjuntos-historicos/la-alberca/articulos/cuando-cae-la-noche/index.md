@@ -1,4 +1,5 @@
 ---
+description: "La esquila de la Moza de Ánimas de La Alberca: promesas, oración por los difuntos y memoria comunitaria en las calles del pueblo."
 layout: default
 title: "Cuando cae la noche y suena la esquila"
 parent: Artículos
