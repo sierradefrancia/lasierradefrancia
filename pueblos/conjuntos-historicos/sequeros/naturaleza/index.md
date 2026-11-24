@@ -2,6 +2,7 @@
 layout: default
 title: "Naturaleza de Sequeros"
 parent: "Sequeros"
+grand_parent: Conjuntos históricos
 nav_order: 6
 last_modified_at: 2026-11-24
 permalink: /pueblos/conjuntos-historicos/sequeros/naturaleza/
