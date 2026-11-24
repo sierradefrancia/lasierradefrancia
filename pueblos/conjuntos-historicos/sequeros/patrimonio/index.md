@@ -11,6 +11,8 @@ permalink: /pueblos/conjuntos-historicos/sequeros/patrimonio/
 
 # Patrimonio de Sequeros
 
+El patrimonio de Sequeros reúne arquitectura religiosa, instituciones municipales y judiciales, viviendas, espacios comerciales y culturales. Las monografías permiten seguir las relaciones entre esos ámbitos: del [villazgo](../historia/villazgo/) al Concejo, del [partido judicial](../historia/partido-judicial/) a la alhóndiga y el teatro, y del Robledo a la [tradición de la Moza Santa](../cultura-tradiciones/moza-santa/).
+
 Inventario inicial, no exhaustivo. Los identificadores distinguen edificios, espacios y bienes; no equivalen a declaraciones BIC individuales.
 
 - SEQ-PAT-001: [Robledo](./robledo/)
@@ -26,7 +28,7 @@ Inventario inicial, no exhaustivo. Los identificadores distinguen edificios, esp
 - SEQ-PAT-011: [Alhóndiga](./justicia/)
 - SEQ-PAT-012: [Juzgado](./justicia/)
 - SEQ-PAT-013: [Cárcel](./justicia/)
-- SEQ-PAT-014: Casa del escribano
+- SEQ-PAT-014: Casa del escribano (documentación específica pendiente; sin monografía)
 - SEQ-PAT-015: [Casa de Melchor García](./calle-calzada/)
 - SEQ-PAT-016: [Casa de Gil Sánchez](./calle-calzada/)
 - SEQ-PAT-017: [Casa de José María Anaya](./calle-calzada/)
