@@ -241,6 +241,12 @@ También es importante investigar cómo afectó a las viviendas, las reformas, l
 
 No debemos confundir el reconocimiento legal con una conservación automática de todos los edificios.
 
+
+La [investigación del crucero de la Plaza Mayor](../../patrimonio/elementos-patrimoniales/crucero-plaza-mayor/) examina la relación entre protección patrimonial de 1940 y actuaciones materiales cuya cronología sigue abierta. El acto de declaración no acredita por sí mismo obras concretas.
+
+
+El decreto publicado en el [BOE de 18 de septiembre de 1940, p. 6476](https://www.boe.es/gazeta/dias/1940/09/18/pdfs/BOE-1940-262.pdf), art. 1, declara Monumento Histórico-Artístico el pueblo, incluyendo casco y extrarradio de 500 metros. El art. 2 impone obligaciones de observancia de la legislación aplicable a la corporación y propietarios. El preámbulo menciona informe favorable de la Real Academia de Bellas Artes de San Fernando. No equivale a la delimitación urbanística vigente ni acredita obras concretas. 
+
 ### Una investigación independiente
 
 El expediente de declaración, sus fundamentos jurídicos, el ámbito protegido y la evolución posterior de la normativa se desarrollan en la monografía de **Conjunto histórico**.
@@ -510,13 +516,3 @@ Y la segunda mitad del siglo XX estuvo caracterizada por una transformación dem
 Quedan preguntas esenciales por responder sobre la emigración, el trabajo, la escuela, las comunicaciones y el turismo.
 
 **Conocer la historia contemporánea de La Alberca significa estudiar cómo cambió la vida de sus habitantes, no solamente cómo cambió la imagen del pueblo ante quienes lo visitaban.**
-
-
-## Conexiones documentales y actualización
-
-La [investigación del crucero de la Plaza Mayor](../../patrimonio/elementos-patrimoniales/crucero-plaza-mayor/) examina la relación entre protección patrimonial de 1940 y actuaciones materiales cuya cronología sigue abierta. El acto de declaración no acredita por sí mismo obras concretas.
-
-
-## Avance documental — 24 de noviembre de 2026
-
-El decreto publicado en el [BOE de 18 de septiembre de 1940, p. 6476](https://www.boe.es/gazeta/dias/1940/09/18/pdfs/BOE-1940-262.pdf), art. 1, declara Monumento Histórico-Artístico el pueblo, incluyendo casco y extrarradio de 500 metros. El art. 2 impone obligaciones de observancia de la legislación aplicable a la corporación y propietarios. El preámbulo menciona informe favorable de la Real Academia de Bellas Artes de San Fernando. No equivale a la delimitación urbanística vigente ni acredita obras concretas. Texto localizado y extracto cotejado el 24-11-2026.
