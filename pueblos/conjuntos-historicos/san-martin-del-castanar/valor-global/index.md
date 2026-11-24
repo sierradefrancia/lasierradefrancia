@@ -39,3 +39,11 @@ La reutilización del castillo como espacio interpretativo plantea una relación
 - [Fuentes y límites documentales](../fuentes/)
 
 Esta síntesis propone relaciones de investigación a partir del corpus del atlas; no constituye una nueva verificación de sus fuentes externas.
+
+## Una perspectiva comparada
+
+San Martín permite contrastar el poder episcopal con el [condado de Miranda](/pueblos/conjuntos-historicos/miranda-del-castanar/historia/condado/). La solicitud vecinal de 1574 introduce una dimensión social de esa historia: el régimen jurisdiccional no debe interpretarse únicamente desde los edificios de autoridad.
+
+El [relicario de la Santa Espina](../patrimonio/relicario/) vincula el convento de Gracia con Mogarraz mediante una trayectoria de procedencia que aún necesita completarse. La Legoriza ofrece una línea distinta, arqueológica, para investigar la ocupación antigua de la comarca.
+
+La economía histórica tampoco se limita al señorío. Las referencias a intercambios de vino y lino por cereal en 1752 y al proyecto de recuperación de molinos de 2016 permiten formular preguntas sobre dos momentos muy diferentes de la relación entre comunidad y recursos. El valor de reunirlos reside en reconocer las transformaciones del territorio, no en afirmar una continuidad económica que todavía no está demostrada.
