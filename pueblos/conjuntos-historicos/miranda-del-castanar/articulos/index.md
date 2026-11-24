@@ -1,4 +1,5 @@
 ---
+description: "Artículos sobre Miranda del Castañar: historia, documentos, memoria, paisaje y patrimonio de la villa."
 layout: default
 title: "Artículos de Miranda del Castañar"
 parent: Miranda del Castañar
