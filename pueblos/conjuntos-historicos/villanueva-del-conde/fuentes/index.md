@@ -26,3 +26,7 @@ Consulta 24-11-2026.
 - VDC-FUE-006: [Informe de sostenibilidad ambiental](https://www.lasalina.es/documentacion/normasurbanisticas/355_1_InformeSostenibilidadAmbiental.pdf), extracto p. 55.
 - VDC-FUE-007: [Sierras de Salamanca](https://www.sierrasdesalamanca.es/villanueva-del-conde/), relato cooperativo coincidente con municipal.
 - VDC-FUE-008: [ACEVIN](https://acevin.es/villanueva-del-conde), referencia al Rufete local; fuente promocional.
+
+- VDC-FUE-009: [Registro provincial de planeamiento](https://www.lasalina.es/Aplicaciones/GestorInter.jsp?codMunicipio=355&funcion=VerNormasUrbanisticas&nombre=Villanueva+del+Conde&prestacion=NormasUrbanisticas), consultado: aprobación provisional 12-06-2025; no acredita definitiva.
+- VDC-FUE-010: [Orden de 1988](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-9628), inclusión en zona histórica de vinos de mesa.
+- VDC-FUE-011: [Base ministerial de planeamiento, mayo 2025](https://cdn.mivau.gob.es/portal-web-mivau/urbanismo-suelo/planeamiento-urbanistico/Castilla%20y%20Le%C3%B3n.pdf).
