@@ -70,3 +70,11 @@ La diferencia entre 1655 y 1665 debe investigarse recuperando el testimonio refe
 La cofradía vincula culto, asistencia funeraria y organización comunitaria. Los [toques de campanas](../campanas-reloj-matraca/) y las prácticas de [Ánimas](../../animas/) aportan contextos relacionados, sin que ambas instituciones deban confundirse.
 
 *Síntesis del corpus documental existente; sin nuevo cotejo externo en esta ampliación.*
+
+## Tres cronologías que deben mantenerse separadas
+
+La ejecución de la escultura, el origen del relato devocional y la constitución de la cofradía son acontecimientos diferentes. La fecha de 1655 transmitida en la publicación de 1883 y la de 1665 de referencias modernas deben contrastarse con el testimonio atribuido a Coria. La fecha fundacional de 1685 requiere las constituciones originales.
+
+Los seis sermones catalogados por el Archivo Histórico Dominicano ofrecen una vía para estudiar la difusión posterior de la advocación y el calendario festivo. El número de 33 hermanos tiene un paralelo en los 33 golpes atribuidos a la cofradía en el [expediente de campanas](../campanas-reloj-matraca/). La correspondencia simbólica no acredita que ambos usos surgieran simultáneamente.
+
+*Síntesis de referencias ya registradas; sin nuevo cotejo externo en este bloque.*
