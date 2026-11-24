@@ -1,4 +1,5 @@
 ---
+description: "María Bausá Alcalde y la investigación micológica de La Alberca, en relación con los estudios posteriores del parque natural."
 layout: default
 title: "La mujer que buscaba un mundo invisible"
 parent: Artículos
