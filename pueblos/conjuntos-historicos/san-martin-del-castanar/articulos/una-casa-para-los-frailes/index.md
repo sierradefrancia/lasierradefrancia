@@ -20,10 +20,19 @@ Queda una manera distinta de acercarnos a aquel mundo: seguir los objetos que al
 
 Las ruinas no contienen todas las respuestas. Los archivos, los testimonios históricos y las piezas dispersas permiten reconstruir otras dimensiones del convento, sin convertir aquello que ignoramos en una certeza.
 
+
+## La institución y sus objetos
+
+La donación atribuida al obispo Sancho permite conectar el convento con la historia del [señorío episcopal](../../historia/senorio-episcopal/), aunque la comunidad franciscana y la administración jurisdiccional eran instituciones diferentes. La ratificación capitular de 1437 ofrece una pista sobre el proceso jurídico de establecimiento.
+
+El relicario estudiado por Herrera-Vicente reúne un portapaz y un receptáculo de vidrio. Seguir su trayectoria exige distinguir fabricación, donación, presencia conventual y custodia posterior. La conservación en Mogarraz no demuestra por sí sola cuándo ni cómo salió de Gracia.
+
+Las referencias a enseñanza y noviciado permiten mirar el convento como lugar de formación. Los recuentos de frailes tampoco equivalen a cifras de estudiantes. Recuperar las actas y los inventarios permitiría acercarnos a esa actividad sin inventar escenas de la vida cotidiana.
+
 ## Fuentes
 
 - [PARES, autoridad institucional 6087](https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/6087).
 - [Informe arqueológico municipal, 2006](https://www.lasalina.es/documentacion/normasurbanisticas/286_1_Informe%20Arqueol%C3%B3gico.pdf).
 - [Herrera-Vicente, Cuadernos Medievales 36 (2024)](https://fh.mdp.edu.ar/revistas/index.php/cm/article/view/7808/8154).
 
-Extractos consultados en esta ejecución. Escrituras originales pendientes. [Expediente del convento](../../patrimonio/convento-gracia/) y [relicario](../../patrimonio/relicario/).
+Referencias del registro anterior pendientes de cotejo reproducible. Escrituras originales pendientes. [Expediente del convento](../../patrimonio/convento-gracia/) y [relicario](../../patrimonio/relicario/).
