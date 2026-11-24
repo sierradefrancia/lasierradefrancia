@@ -34,6 +34,21 @@ Queremos ayudarte a elegir experiencias que realmente merezcan la pena para ti.
 
 ---
 
+## Guías para preparar tu estancia
+
+[Itinerarios según el tiempo disponible](/turismo/segun-tu-tiempo/) · [Rutas y caminos](/rutas/) · [Visitar la Peña de Francia](/lugares/pena-de-francia/visitar/) · [Conocer Las Batuecas](/lugares/las-batuecas/)
+
+| Pueblo | Qué descubrir | Preparar la visita |
+|---|---|---|
+| [La Alberca](/pueblos/conjuntos-historicos/la-alberca/) | Ordenanzas, arquitectura, tradiciones y memoria oral | [Guía](/pueblos/conjuntos-historicos/la-alberca/visitar/) |
+| [Mogarraz](/pueblos/conjuntos-historicos/mogarraz/) | Retratos, artesanía y memoria fotográfica | [Guía](/pueblos/conjuntos-historicos/mogarraz/visitar/) |
+| [Miranda del Castañar](/pueblos/conjuntos-historicos/miranda-del-castanar/) | Condado, castillo y recinto amurallado | [Guía](/pueblos/conjuntos-historicos/miranda-del-castanar/visitar/) |
+| [San Martín del Castañar](/pueblos/conjuntos-historicos/san-martin-del-castanar/) | Señorío episcopal, castillo y arqueología | [Guía](/pueblos/conjuntos-historicos/san-martin-del-castanar/visitar/) |
+| [Sequeros](/pueblos/conjuntos-historicos/sequeros/) | Villazgo, teatro y santuario del Robledo | [Guía](/pueblos/conjuntos-historicos/sequeros/visitar/) |
+| [Villanueva del Conde](/pueblos/conjuntos-historicos/villanueva-del-conde/) | Huertas interiores, bancales y viticultura | [Guía](/pueblos/conjuntos-historicos/villanueva-del-conde/visitar/) |
+
+Las guías locales complementan esta visión comarcal: consulta cada una para organizar el recorrido por el pueblo, y vuelve al itinerario regional para combinar destinos.
+
 ## ¿Qué te gustaría hacer en la Sierra de Francia?
 
 No todos los visitantes buscan lo mismo.
