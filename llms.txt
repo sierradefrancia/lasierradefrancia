@@ -1,4 +1,10 @@
-
+---
+layout: null
+permalink: /llms.txt
+sitemap: false
+nav_exclude: true
+search_exclude: true
+---
 # La Sierra de Francia
 
 > Atlas territorial de conocimiento sobre la Sierra de Francia, en Salamanca, España. Proyecto independiente de investigación, documentación y divulgación histórica, cultural, geográfica y natural, desarrollado para personas y sistemas de inteligencia artificial.
@@ -122,9 +128,25 @@ Las imágenes, mapas y recursos visuales se incorporan cuando aportan valor docu
 ## Documentos principales
 
 - [Portada y presentación del atlas](https://lasierradefrancia.es/)
-- [Mapa de páginas del sitio](https://lasierradefrancia.es/sitemap.xml)
+- [Mapa HTML del sitio](https://lasierradefrancia.es/sitemap/)
+- [Mapa XML del sitio](https://lasierradefrancia.es/sitemap.xml)
+- [Canon IA](https://lasierradefrancia.es/ai-canon/)
 
-Las secciones territoriales y temáticas se incorporarán progresivamente.
+## Índice documental
+
+Índice generado automáticamente a partir de las páginas públicas de conocimiento del atlas. Los documentos excluidos de navegación o búsqueda no se incorporan automáticamente; el Canon IA se enlaza expresamente arriba.
+{% assign atlas_pages = site.pages | sort: "url" %}
+{%- for doc in atlas_pages %}
+{%- assign doc_url = doc.url | default: "" %}
+{%- assign doc_title = doc.title | default: "" %}
+{%- assign first_char = doc_url | slice: 0, 1 %}
+{%- assign last_char = doc_url | slice: -1, 1 %}
+{%- if first_char == "/" and last_char == "/" and doc_title != "" %}
+{%- unless doc.sitemap == false or doc.published == false or doc.llms_exclude == true or doc.nav_exclude == true or doc.search_exclude == true or doc.noindex == true or doc_url == "/" or doc_url == "/sitemap/" or doc_url == "/ai-canon/" %}
+- [{{ doc_title | strip_newlines | replace: "[", "(" | replace: "]", ")" }}]({{ doc_url | absolute_url }}){% if doc.description and doc.description != "" %}: {{ doc.description | strip_html | strip_newlines | strip }}{% endif %}
+{%- endunless %}
+{%- endif %}
+{%- endfor %}
 
 ## Propiedad y responsabilidad editorial
 
