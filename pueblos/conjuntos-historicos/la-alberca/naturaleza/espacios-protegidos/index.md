@@ -40,3 +40,9 @@ La [documentación turística comarcal](https://www.sierrasdesalamanca.es/la-alb
 ## Límites y continuidad
 
 Referencias identificadas en el expediente; cotejo directo pendiente de acreditación.
+
+## Protección superpuesta, no acumulativa
+
+Los códigos ES4150107 y ES4150005 identifican figuras Natura 2000 diferentes; SA-09 identifica un humedal en documentación histórica. El parque micológico PMSA-50001 responde a otra finalidad de gestión. La coincidencia espacial de figuras no permite sumar sus hectáreas ni deducir restricciones idénticas. Véanse [micología](../micologia/) e [hidrografía](../../geografia-territorio/hidrografia/).
+
+*Integración de referencias existentes; sin nuevo cotejo externo.*
