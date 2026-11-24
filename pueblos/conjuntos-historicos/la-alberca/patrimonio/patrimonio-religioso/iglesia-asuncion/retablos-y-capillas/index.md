@@ -47,3 +47,11 @@ La presentación de Lo sagrado de José Luis Puerto (2022) [7] anuncia documento
 8. [Investigaciones Históricas, 44 (2024), pp. 853–858](https://revistas.uva.es/index.php/invehisto/article/download/9513/6396/25901).
 
 Extractos recuperados el 24-11-2026. No se han inspeccionado las obras ni consultado los expedientes originales.
+
+## Patronazgo y circulación de recursos
+
+Las atribuciones a Juan Manuel de los Hoyos y Antonio González Pavón plantean dos expedientes de patronazgo que deben reconstruirse por separado. La trayectoria americana atribuida al segundo abre una investigación sobre transferencias de recursos y vínculos eclesiásticos. El relato publicado en 1883 no equivale a un testamento ni a una cuenta de fábrica.
+
+El retablo del Rosario y el denominado de los Espejos asociado al [Cristo del Sudor](../cristo-del-sudor/) comparten un recurso decorativo, pero no deben identificarse entre sí. La restauración de 2022 documentada para el primero no puede extenderse al segundo.
+
+*Síntesis del corpus documental existente; sin nuevo cotejo externo en esta ampliación.*
