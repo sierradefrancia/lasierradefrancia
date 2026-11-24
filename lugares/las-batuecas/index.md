@@ -290,7 +290,7 @@ Entre ellos se encuentran:
 14. Canchal de Villita.
 15. Canchal de las Torres.
 
-Esta relación procede del expediente oficial de protección patrimonial.
+Esta relación procede del expediente oficial de protección patrimonial de 1999 y no constituye un catálogo exhaustivo. La ficha geológica CI077 menciona más de noventa abrigos, cavidades y puntos con registros pictóricos; las unidades de recuento no son directamente comparables. Véase el [inventario arqueológico documental](/lugares/las-batuecas/inventario-arqueologico/).
 
 **Que un abrigo esté documentado no significa que sea de acceso público o que exista un sendero habilitado para visitarlo.**
 

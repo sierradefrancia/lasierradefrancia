@@ -32,6 +32,16 @@ La resolución de 26 de enero de 1999 permite establecer una base nominal compro
 | BAT-ARQ-014 | Canchal de Villita |
 | BAT-ARQ-015 | Canchal de las Torres |
 
+## Quince entradas administrativas y más de noventa puntos pictóricos
+
+La ficha [CI077 del Inventario Español de Lugares de Interés Geológico](https://info.igme.es/ielig/LIGInfo.aspx?codigo=CI077), creada en 2016, menciona más de noventa abrigos, cavidades y puntos con registros pictóricos. La relación administrativa de 1999 contiene quince entradas nominales. Las unidades de recuento no son necesariamente equivalentes: una denominación puede agrupar varios abrigos y cada abrigo puede contener varios paneles. Tampoco consta aquí que los ámbitos espaciales de ambos inventarios coincidan exactamente.
+
+No es posible deducir de estas cifras cuántos descubrimientos se produjeron después de 1999, ni calcular el número de yacimientos supuestamente desprotegidos. Para ello se necesita una concordancia entre inventarios, sus fechas de observación, criterios de inclusión y delimitaciones.
+
+La ficha geológica menciona asimismo daños de origen humano en paneles. Esta observación constituye una línea de investigación sobre conservación, pero no permite por sí sola establecer el estado actual de cada abrigo. Debe recuperarse la documentación técnica que sustenta la observación, incluida la investigación doctoral mencionada en la ficha, cuya identificación permanece pendiente.
+
+El inventario nominal de esta página es, por tanto, una base histórica de trabajo, no un catálogo exhaustivo del arte rupestre del valle.
+
 ## Diferencias de escala
 
 El nombre de un abrigo no identifica automáticamente una figura concreta. Para comparar publicaciones históricas será preciso diferenciar enclave, sector, panel, motivo y documento gráfico. Tampoco se debe deducir la presencia de una especie animal a partir del topónimo de un canchal.
