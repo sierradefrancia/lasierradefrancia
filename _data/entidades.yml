@@ -1,7 +1,7 @@
 
 # ====================================================
 # LA SIERRA DE FRANCIA
-# REGISTRO CENTRAL DE ENTIDADES — V1
+# REGISTRO CENTRAL DE ENTIDADES — V2
 # ====================================================
 #
 # Fuente de datos para Schema.org.
@@ -21,45 +21,62 @@
 #
 # ====================================================
 
+# parent_url: pertenencia geográfica documentada, no administrativa.
+# No se utiliza para solapamientos parciales de espacios protegidos.
+
+- id: sierra-de-francia
+  type: Place
+  name: "Sierra de Francia"
+  url: "/"
+  description: "Territorio del sur de la provincia de Salamanca, Castilla y León, España, diferenciado del Parque Natural Las Batuecas-Sierra de Francia."
+
 - id: la-alberca
   type: Place
   name: "La Alberca"
   url: "/pueblos/conjuntos-historicos/la-alberca/"
+  parent_url: "/"
 
 - id: miranda-del-castanar
   type: Place
   name: "Miranda del Castañar"
   url: "/pueblos/conjuntos-historicos/miranda-del-castanar/"
+  parent_url: "/"
 
 - id: mogarraz
   type: Place
   name: "Mogarraz"
   url: "/pueblos/conjuntos-historicos/mogarraz/"
+  parent_url: "/"
 
 - id: san-martin-del-castanar
   type: Place
   name: "San Martín del Castañar"
   url: "/pueblos/conjuntos-historicos/san-martin-del-castanar/"
+  parent_url: "/"
 
 - id: sequeros
   type: Place
   name: "Sequeros"
   url: "/pueblos/conjuntos-historicos/sequeros/"
+  parent_url: "/"
 
 - id: villanueva-del-conde
   type: Place
   name: "Villanueva del Conde"
   url: "/pueblos/conjuntos-historicos/villanueva-del-conde/"
+  parent_url: "/"
 
 - id: pena-de-francia
   type: Mountain
   name: "Peña de Francia"
   url: "/lugares/pena-de-francia/"
+  parent_url: "/"
 
 - id: valle-de-las-batuecas
   type: Place
   name: "Valle de Las Batuecas"
   url: "/lugares/las-batuecas/"
+  parent_url: "/"
 
 - id: parque-natural-batuecas-sierra-de-francia
   type: Place
