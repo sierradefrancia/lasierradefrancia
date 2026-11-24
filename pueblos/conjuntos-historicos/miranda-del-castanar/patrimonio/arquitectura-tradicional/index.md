@@ -1,4 +1,5 @@
 ---
+description: "Arquitectura tradicional de Miranda del Castañar: viviendas serranas, materiales y relación con la trama urbana de la villa."
 layout: default
 title: "Arquitectura tradicional de Miranda"
 parent: "Patrimonio de Miranda del Castañar"
