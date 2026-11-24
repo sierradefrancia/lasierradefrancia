@@ -30,3 +30,11 @@ Guía editorial basada en los expedientes del atlas; no constituye una comprobac
 ## Prioridades según tus intereses
 
 En una visita breve, la separación entre iglesia y torre y los retratos ofrecen dos lecturas diferentes del patrimonio. Con más tiempo, la fuente de Arriba y el Humilladero permiten incorporar la historia del agua, mientras el museo, si está abierto, añade la dimensión artesanal. Para una jornada completa, los aproximadamente nueve kilómetros publicados del Camino del Agua requieren reservar tiempo suficiente y no tratar la ruta como una extensión breve del paseo urbano. Consulta [senderismo](../senderismo/) y [gastronomía](../../gastronomia/) para preparar ambas actividades.
+
+## Organizar la jornada
+
+- **Una o dos horas:** plaza, exterior de iglesia y torre, calles con retratos. Prioriza disfrutar del casco sin prisa.
+- **Media jornada:** incorpora Humilladero, fuentes y museo si está abierto. Deja margen para observar los detalles de las casas.
+- **Jornada completa:** combina la visita urbana con una comida y una caminata si el grupo dispone de preparación y luz suficiente. Si deseas visitar varios interiores, considera separar el senderismo en otra jornada.
+
+Estos intervalos son propuestas editoriales, no tiempos medidos. No presuponen un punto de aparcamiento ni un itinerario señalizado. Mogarraz puede combinarse con La Alberca o Miranda del Castañar, pero dedicarle tiempo propio permite descubrir su identidad sin reducirlo a una parada fotográfica.

@@ -26,3 +26,9 @@ Guía editorial basada en los expedientes del atlas; no constituye una comprobac
 ## Antes de salir
 
 Confirma si deseas visitar interiores o únicamente recorrer el casco: el acceso a la iglesia y al museo puede depender de horarios y actividades. Si coincide con San Blas o el ofertorio de agosto, consulta el programa del año correspondiente, no las crónicas históricas. Para caminar hacia Monforte, prepara agua, calzado y tiempo de luz; las fuentes del casco no tienen potabilidad confirmada en este atlas. La [guía de senderismo](../senderismo/) separa esta salida de la visita urbana.
+
+## Qué decidir antes de llegar
+
+La visita exterior a los retratos y la arquitectura no depende de una entrada al museo. Si tu interés principal son los oficios, confirma la apertura de los espacios expositivos con el Ayuntamiento y consulta la [ficha del museo](https://www.sierrasdesalamanca.es/museo-etnografico-casa-de-las-artesanias/).
+
+En una visita familiar puede resultar más interesante buscar detalles de las fachadas, reconocer herramientas y observar las fuentes que intentar completar una lista de monumentos. Evita bloquear accesos residenciales y respeta la señalización de estacionamiento. No se han comprobado plazas disponibles ni itinerarios accesibles.
