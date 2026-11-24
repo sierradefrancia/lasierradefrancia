@@ -1,4 +1,5 @@
 ---
+description: "Arquitectura tradicional de San Martín del Castañar: viviendas serranas, entramados y relación con las calles y plazas."
 layout: default
 title: "Arquitectura tradicional de San Martín"
 parent: Patrimonio de San Martín del Castañar
