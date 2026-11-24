@@ -51,3 +51,9 @@ Se resumen los datos publicados, sin reproducir las transcripciones originales. 
 3. [Revista de Folklore, núm. 526, ficha 5264](https://www.funjdiaz.net/folklore/07ficha.php?ID=5264&NUM=526), apartado La cruz de Santo Toribio en La Alberca. Datos bibliográficos completos pendientes de cotejo.
 
 Extractos recuperados el 24-11-2026. Pendientes: libro de Puerto, inventario diocesano, marcas e inscripciones, documentación de encargos y donaciones, identificación individual y estado de conservación. No se publican localizaciones de custodia detalladas ni fotografías no autorizadas.
+
+## Una vestidura descrita en el siglo XIX
+
+Vicente de la Fuente describe una casulla de tejido carmesí con bordado dorado y recoge la tradición de su confección a partir de una prenda de Juan II. La fecha de 1455 que atribuye al episodio es incompatible con la muerte del monarca en 1454. La descripción material y la atribución histórica deben evaluarse por separado. No se ha identificado aquí la ubicación actual de la pieza.
+
+Fuente cotejada el 24-11-2026: Vicente de la Fuente, *Expedición científica y artística a la Sierra de Francia*, BRAH 3 (1883), pp. 165–167, [edición digital](https://www.cervantesvirtual.com/obra-visor/boletin-de-la-real-academia-de-la-historia--23/html/02531a66-82b2-11df-acc7-002185ce6064_49.html). Consulta del pasaje publicado, no de los objetos ni manuscritos originales.
