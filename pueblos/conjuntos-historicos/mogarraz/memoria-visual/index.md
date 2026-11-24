@@ -43,3 +43,17 @@ La revista local de 2015 reproduce fotografías atribuidas a Kurt Hielscher (192
 - [Florencio Maíllo, La fotografía como esencia gemela II (2010; publicación digital 2011)](https://florenciomaillo.blogspot.com/2011/04/la-fotografia-como-esencia-gemela-ii.html).
 - [RTVE, Retrata2/388, 27-09-2012](https://www.rtve.es/play/videos/creadores-1999-2001/aventura-del-saber-retrata2-388/1537561/), sinopsis, no visionado completo.
 - [La Peña de Mogarraz, 2018, Fernando Castro Ramírez](https://mogarraz.es/_mgz_pdf/mogarraz_2018.pdf), extracto.
+
+**Nota documental:** las declaraciones de consulta anteriores quedan pendientes de cotejo reproducible; esta ampliación utiliza el corpus existente.
+
+## Fotografías anteriores al archivo de identidad
+
+Las imágenes atribuidas a Gervais-Courtellemont, Hielscher y Anderson ofrecen referencias sobre calles, fuentes y celebraciones de las primeras décadas del siglo XX. Para comparar el caserío conviene identificar el punto de vista, la fecha y la ficha original de cada fotografía. Las reproducciones posteriores no constituyen necesariamente fuentes independientes.
+
+La [arquitectura tradicional](../arquitectura-tradicional/) y las [fuentes históricas](../patrimonio/fuentes/) permiten organizar comparaciones por elementos urbanos. La fotografía de una procesión documenta un momento concreto, no la antigüedad de todos sus componentes.
+
+## Del documento administrativo a la obra artística
+
+El archivo de Alejandro Martín Criado de 1967 y las pinturas de Florencio Maíllo corresponden a procesos diferentes. El primero nació asociado a documentos de identidad; el segundo transforma aquellas imágenes en una intervención artística vinculada al espacio habitado.
+
+La recuperación documental anterior a la exposición, con colaboradores identificados, permite investigar también la dimensión colectiva del proyecto. Las cifras de 388 pinturas en 2012 y más de 700 en 2018 son referencias fechadas, no un inventario vigente. El [artículo sobre la conservación de los rostros](../articulos/la-mujer-que-guardo-los-rostros/) complementa las biografías centrales sin duplicarlas.
