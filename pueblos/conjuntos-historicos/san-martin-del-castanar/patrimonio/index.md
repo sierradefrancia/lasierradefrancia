@@ -1,4 +1,5 @@
 ---
+description: "Patrimonio de San Martín del Castañar: castillo, iglesia, convento, plazas, arqueología y arquitectura tradicional."
 layout: default
 title: "Patrimonio de San Martín del Castañar"
 parent: "San Martín del Castañar"
