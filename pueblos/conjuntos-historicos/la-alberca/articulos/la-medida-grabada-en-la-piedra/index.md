@@ -1,4 +1,5 @@
 ---
+description: "Las medidas históricas y sus testimonios materiales en La Alberca, en relación con el comercio y la regulación concejil."
 layout: default
 title: "La medida que buscaba acabar con las disputas"
 parent: Artículos
