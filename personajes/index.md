@@ -145,3 +145,15 @@ Fuentes y límites en [memoria visual](/pueblos/conjuntos-historicos/mogarraz/me
 | PER-MOG-019 | Luis R. Miguel | [Propietario citado en la descripción del marfil](/pueblos/conjuntos-historicos/mogarraz/patrimonio/marfil/); identidad completa pendiente |
 
 Manuel Gómez-Moreno, ya registrado en el inventario comarcal, incorpora una nueva relación con [Mogarraz y su marfil](/pueblos/conjuntos-historicos/mogarraz/patrimonio/marfil/). No se duplica su identidad.
+
+
+### Recuperación de la procedencia del marfil
+
+| ID | Persona | Relación |
+|---|---|---|
+| PER-MOG-020 | María Nieves Maíllo Vicente | Investigación de procedencia, noticia de 2009 |
+| PER-MOG-021 | Ignacio Pastor | Investigación de procedencia, noticia de 2009 |
+| PER-MOG-022 | Concha Hernández | Gestiones municipales, noticia de 2009 |
+| PER-MOG-023 | J. Pierpont Morgan | Colección y donación museística de 1917 |
+
+Fuente y límites: [expediente del marfil](/pueblos/conjuntos-historicos/mogarraz/patrimonio/marfil/). Identidades provisionales; verificar variantes y evitar duplicados antes de crear fichas individuales.
