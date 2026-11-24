@@ -29,6 +29,9 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 
 ## Estudios e inventarios
 
+- [La vida acuática del río Batuecas](/lugares/las-batuecas/vida-acuatica/): datos de macroinvertebrados y diatomeas.
+- [Continuidad y restauración del río Batuecas](/lugares/las-batuecas/restauracion-fluvial/): inventario inicial de azudes y actuaciones previstas.
+
 - [El río Batuecas y su reserva natural fluvial](/lugares/las-batuecas/rio-batuecas/): régimen, sedimentos, evaluación ecológica y protección.
 - [Vegetación y bosques de Las Batuecas](/lugares/las-batuecas/vegetacion/): comunidades ribereñas, mediterráneas y especies exóticas.
 

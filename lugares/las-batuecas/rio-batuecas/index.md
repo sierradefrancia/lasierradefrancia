@@ -56,3 +56,8 @@ La reserva permite estudiar conjuntamente la continuidad del cauce, el transport
 Quedan pendientes los afluentes individualizados, la delimitación cartográfica de la cuenca, los datos del anexo de muestreos y la comparación de códigos de masas. Los documentos ministeriales se han consultado mediante extractos, no íntegramente.
 
 [Volver a Las Batuecas](/lugares/las-batuecas/)
+
+## Estudios complementarios
+
+- [La vida acuática del río Batuecas](/lugares/las-batuecas/vida-acuatica/): datos de macroinvertebrados y diatomeas.
+- [Continuidad y restauración del río Batuecas](/lugares/las-batuecas/restauracion-fluvial/): inventario inicial de azudes y actuaciones previstas.
