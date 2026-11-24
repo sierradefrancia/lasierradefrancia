@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: Parque Natural
 nav_order: 4
@@ -28,6 +29,14 @@ No pretendemos reproducir una guía turística ni sustituir la información ofic
 Queremos construir una base de conocimiento territorial, documentada y en permanente evolución.
 
 ---
+
+## Conoce los enclaves y sus estudios ambientales
+
+- [Valle de Las Batuecas](/lugares/las-batuecas/).
+- [Naturaleza de la Peña de Francia](/lugares/pena-de-francia/naturaleza/) y [geología](/lugares/pena-de-francia/geologia/).
+- [Espacios protegidos](/pueblos/conjuntos-historicos/la-alberca/naturaleza/espacios-protegidos/) y [conservación](/pueblos/conjuntos-historicos/la-alberca/naturaleza/conservacion/) en el ámbito de La Alberca.
+
+Los estudios municipales de naturaleza ayudan a comprender el entorno del parque, pero sus límites no coinciden necesariamente con los del espacio protegido: [La Alberca](/pueblos/conjuntos-historicos/la-alberca/naturaleza/) · [Mogarraz](/pueblos/conjuntos-historicos/mogarraz/naturaleza/) · [Miranda del Castañar](/pueblos/conjuntos-historicos/miranda-del-castanar/naturaleza/) · [San Martín del Castañar](/pueblos/conjuntos-historicos/san-martin-del-castanar/naturaleza/) · [Sequeros](/pueblos/conjuntos-historicos/sequeros/naturaleza/) · [Villanueva del Conde](/pueblos/conjuntos-historicos/villanueva-del-conde/naturaleza/).
 
 ## Qué es el Parque Natural Las Batuecas–Sierra de Francia
 
