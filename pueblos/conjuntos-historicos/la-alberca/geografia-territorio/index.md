@@ -266,6 +266,8 @@ La ruta cultural contemporánea no debe confundirse automáticamente con un úni
 
 ## Toponimia del territorio albercano
 
+La [investigación de toponimia y paisaje](./toponimia-paisaje/) reúne los nombres identificados en la descripción de 1989, candidatos cartográficos de 2019 y las precauciones necesarias ante homónimos de la antigua jurisdicción albercana.
+
 La investigación geográfica debe prestar especial atención a los nombres locales.
 
 Entre los topónimos identificados en las fuentes consultadas se encuentran:
