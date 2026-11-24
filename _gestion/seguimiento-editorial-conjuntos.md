@@ -1,13 +1,13 @@
 # Seguimiento editorial de conjuntos históricos
 
-Corte verificable: cf8c363007a72de52714af9c3612a84f429034fd
+Corte verificable: 2d6eca8e9b331a98104573efa9c115e1ef40aaeb
 Base del ciclo: 5d36dd2ed27285a5b0b02885e2909821c708c520
 
-Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No equivale a validación científica ni técnica. Excluir gestión y personajes del denominador territorial.
+Recuento de rutas Markdown existentes con diferencias de SHA de blob entre árboles completos. No equivale a validación científica ni técnica. Excluir gestión y personajes del denominador territorial.
 
 | Pueblo | Rutas modificadas | Total existente |
 |---|---:|---:|
-| la-alberca | 130 | 142 |
+| la-alberca | 140 | 142 |
 | miranda-del-castanar | 32 | 32 |
 | mogarraz | 39 | 39 |
 | san-martin-del-castanar | 26 | 26 |
@@ -28,6 +28,7 @@ Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No
 - articulos/el-derecho-a-ser-escuchado/index.md
 - articulos/el-pueblo-que-no-termina-en-sus-casas/index.md
 - articulos/fotografias-que-hacen-preguntas/index.md
+- articulos/index.md
 - articulos/la-alberca-del-manana/index.md
 - articulos/la-casa-como-documento/index.md
 - articulos/la-cruz-que-no-siempre-estuvo-alli/index.md
@@ -51,6 +52,11 @@ Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No
 - articulos/un-mundo-invisible/index.md
 - articulos/un-pueblo-cuando-llueve/index.md
 - articulos/un-pueblo-de-tejedores/index.md
+- articulos/un-pueblo-no-es-un-censo/index.md
+- articulos/una-hora-sin-prisa/index.md
+- articulos/una-pregunta-para-llevarse/index.md
+- articulos/vestirse-de-memoria/index.md
+- articulos/volver-a-la-alberca/index.md
 - conjunto-historico/index.md
 - cultura-tradiciones/ciclo-vital/index.md
 - cultura-tradiciones/corpus/index.md
@@ -71,7 +77,11 @@ Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No
 - geografia-territorio/toponimia-paisaje/index.md
 - historia/alberca-hurdes/index.md
 - historia/articulos/index.md
+- historia/articulos/la-alberca-1791-epidemia-hambre-impuestos/index.md
+- historia/articulos/la-guerra-que-llego-a-la-alberca/index.md
 - historia/articulos/las-escuelas-de-1935/index.md
+- historia/articulos/las-mujeres-y-el-camino-a-granadilla/index.md
+- historia/articulos/los-mayordomos-del-concejo/index.md
 - historia/concejo-ordenanzas/index.md
 - historia/conflictos-crisis/index.md
 - historia/documentos-cronologia/index.md
@@ -149,21 +159,12 @@ Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No
 
 ## Pendientes
 
-- articulos/index.md
-- articulos/un-pueblo-no-es-un-censo/index.md
-- articulos/una-hora-sin-prisa/index.md
-- articulos/una-pregunta-para-llevarse/index.md
-- articulos/vestirse-de-memoria/index.md
-- articulos/volver-a-la-alberca/index.md
-- historia/articulos/la-alberca-1791-epidemia-hambre-impuestos/index.md
-- historia/articulos/la-guerra-que-llego-a-la-alberca/index.md
-- historia/articulos/las-mujeres-y-el-camino-a-granadilla/index.md
-- historia/articulos/los-mayordomos-del-concejo/index.md
-- index.md
-- valor-global/index.md
+- pueblos/conjuntos-historicos/index.md
+- pueblos/conjuntos-historicos/la-alberca/index.md
+- pueblos/conjuntos-historicos/la-alberca/valor-global/index.md
 
 ## Procedimiento
 
-Comparar desde base fija hasta HEAD; comprobar límite API de 300 archivos y comparar árboles si se alcanza. No sumar manualmente. Los cambios revertidos no cuentan como diferencias netas. Pendiente auditoría de enlaces y fuentes.
+Comparar árboles completos desde base fija hasta HEAD por ruta y SHA de blob; verificar que no estén truncados. La API compare alcanzó 300 archivos en bloque 43 y se sustituyó por comparación de árboles. No sumar manualmente. Pendiente auditoría de enlaces y fuentes.
 
-Bloques 39–42: treinta y dos artículos divulgativos ampliados mediante expedientes existentes; sin nuevo cotejo externo. Bloque 38: separación de guía local y comarcal.
+Bloques 39–43: revisión de artículos divulgativos e históricos mediante expedientes existentes; sin nuevo cotejo externo. Bloque 38: separación de guía local y comarcal.
