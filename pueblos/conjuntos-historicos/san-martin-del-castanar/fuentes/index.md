@@ -29,3 +29,7 @@ Cotejo efectivo de pp. 14–20 del catálogo y p. 32808 del BOE en esta ejecuci�
 - SMC-FUE-006. [Ayuntamiento: yacimiento visigodo](https://xn--sanmartindelcastaar-c4b.es/yacimiento-visigodo/). Extracto consultado; interpretación municipal.
 
 La consulta de estas tres fuentes y la ficha técnica y tabla arqueológica del catálogo de 2006 sí cuenta con resultados recuperables en esta ejecución. Las certificaciones anteriores no se extienden automáticamente al resto de pasajes o decretos.
+
+## Rectificación de trazabilidad
+
+No se dispone en esta sesión de resultados externos que permitan acreditar las consultas directas declaradas anteriormente. Todas esas certificaciones quedan suspendidas hasta cotejo reproducible, incluidas las referencias legales y arqueológicas. Se conservan como pistas; esta nota prevalece sobre declaraciones previas. Los expedientes urbanos nuevos derivan de la ficha general, no de nuevas lecturas externas.
