@@ -91,6 +91,8 @@ La investigación distinguirá las prácticas documentadas históricamente de la
 
 ## Agricultura y aprovechamientos del territorio
 
+La investigación de [Economía tradicional](./economia-tradicional/) reúne datos sobre el lino y los telares entre 1693 y 1845, la protección de los castañares de El Endrinal en 1461 y 1464 y la complementariedad económica con los valles meridionales. Las fuentes distinguen producción doméstica y comercial sin permitir aún cuantificar su peso relativo.
+
 Las actividades agrícolas han formado parte de la relación histórica entre los habitantes de La Alberca y su término municipal.
 
 La documentación geográfica local identifica sectores antiguamente cultivados, praderas, robledales adehesados y otros espacios de aprovechamiento.
