@@ -1,4 +1,5 @@
 ---
+description: "El Pendón y el Trago de La Alberca: tradición festiva, memoria histórica y documentación sobre sus orígenes."
 layout: default
 title: Día del Pendón y Día del Trago
 parent: Cultura y tradiciones
