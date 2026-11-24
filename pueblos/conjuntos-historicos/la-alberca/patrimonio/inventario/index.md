@@ -545,14 +545,28 @@ Todos los registros siguientes se relacionan con ALB-PAT-004. E1: identificació
 
 Se mantienen ALB-PAT-004, 005, 006 y 015 sin duplicación. La cruz procesional de cobre dorado permanece candidata hasta verificar su identificación. La cofradía, los toques y la tradición de 1655/1665 son entidades o testimonios relacionados, no bienes materiales adicionales. Las inscripciones de 1519 y 1571 quedan asociadas a la torre hasta individualizar su lectura. Pendientes: originales, inventario diocesano, estado material, catálogo urbanístico y estudio íntegro de las bóvedas. Véase también [José Luis Puerto](/personajes/jose-luis-puerto/).
 
+### Ermitas y Ánimas — 24 de noviembre de 2026
+
+| ID | Bien | Evidencia | Estudio |
+|---|---|---|---|
+| ALB-PAT-049 | Ermita de San Blas | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/san-blas/) |
+| ALB-PAT-050 | Cruz de Ánimas de La Puente | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/animas/) |
+| ALB-PAT-051 | Cruz grabada en columna de la plaza | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/animas/) |
+| ALB-PAT-052 | Cruz de Pedragal | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/animas/) |
+| ALB-PAT-053 | Cruz del Mochito (1843) | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/animas/) |
+| ALB-PAT-054 | Cruz del Navajo | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/animas/) |
+| ALB-PAT-055 | Cruz del camino de Majadas | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/animas/) |
+| ALB-PAT-056 | Cruz del Alto del Ortigal (dedicación provisional) | E1 provisional | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/animas/) |
+
+Las cruces se registran según Mixticismos, p. 89; posibles equivalencias con bienes anteriores pendientes. Se mantienen los identificadores históricos si se fusionan. ALB-PAT-007–012 cuentan ahora con estudios enlazados en el índice religioso, sin aumento automático del grado de evidencia. Candidatos nuevos: plaza de toros de Majadas, Cristo de los Humillados, imagen del Humilladero y pendón; individualización pendiente. Total: 56 registros. Cinco artículos nuevos y el Humilladero previo completan la fase inicial de ermitas y Ánimas. No se afirma exhaustividad ni validación de despliegue.
+
 ### Consolidación de candidatos (24 de noviembre de 2026)
 
 Los siguientes nombres proceden del registro de transferencia y de las búsquedas de noviembre. No se les asigna identificador permanente hasta recuperar una fuente concreta o resolver su identidad.
 
 | Candidato | Investigación pendiente |
 |---|---|
-| Ermita de San Blas / de la Bandera | Identidad y ficha técnica |
-| Hornacina y cruces de Ánimas de La Puente, Pedragal y Mochito | Distinguir del osario y cruceros; iniciales A B y fecha atribuida 1843 |
+| Identidad material de las cruces de Ánimas | Distinguir registros nuevos de cruceros anteriores; verificar lecturas in situ |
 | Puentes, caminos, pavimentos, viviendas, dinteles, escudos, columnas, relieves y memoriales | Individualización documental y material |
 | Traje de Vistas, joyería, ajuar, oficios, fiestas, Moza de Ánimas y marrano vivo | Relaciones con cultura y tradiciones; separar objetos y prácticas |
 
