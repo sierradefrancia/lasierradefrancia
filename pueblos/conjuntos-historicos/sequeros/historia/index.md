@@ -4,6 +4,7 @@ title: "Historia de Sequeros"
 parent: Sequeros
 grand_parent: Conjuntos históricos
 nav_order: 1
+has_children: true
 last_modified_at: 2026-11-24
 permalink: /pueblos/conjuntos-historicos/sequeros/historia/
 ---
@@ -16,3 +17,8 @@ La guía provincial (páginas PDF 1 y 7) sitúa la capitalidad judicial en 1834 
 
 - [Resolución de 2002](https://boe.es/diario_boe/txt.php?id=BOE-A-2002-13556).
 - [Guía urbana provincial](https://www.lasalina.es/m/ru/sequeros/qr-espa/pdf/sequeros-ES.pdf).
+
+## Investigaciones
+
+- [Villazgo de 1756](./villazgo/)
+- [Partido judicial](./partido-judicial/)
