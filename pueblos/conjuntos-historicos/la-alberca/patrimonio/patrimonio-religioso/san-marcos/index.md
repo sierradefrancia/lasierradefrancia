@@ -27,3 +27,11 @@ La noticia de 2016 identifica una fotografía antigua de danzantes atribuida a K
 - [Vanesa Martins, noticia de 2026](https://salamancartvaldia.es/noticia/2026-04-27-fotos-el-tesoro-oculto-del-siglo-xviii-que-resiste-entre-los-robles-de-la-sierra-de-la-alberca-389504?rc=18).
 
 Consulta de extractos indexados: 24-11-2026. Estudio inicial abierto; no se han examinado íntegramente los documentos ni realizado inspección de campo.
+
+## La ruina como documento
+
+La fecha atribuida de 1703 debe contrastarse con contratos, libros de fábrica o visitas eclesiásticas. La fotografía de danzantes atribuida a Kurt Hielscher puede aportar información sobre el uso del lugar y su configuración anterior, siempre que se confirme la identificación y la fecha del original. No basta la fecha de publicación de una reproducción moderna.
+
+El estudio de los muros conservados debería distinguir huecos, arranques de cubierta, juntas y pérdidas, sin reconstruir elementos ausentes por analogía. La proximidad de la laguna y del [santuario de Majadas Viejas](../majadas-viejas/) permite interpretar el paisaje recorrido por el Camino de las Raíces. No acredita que ambos edificios compartieran financiación o calendario. La noticia de 2026 no sustituye un diagnóstico estructural ni acredita seguridad de acceso a la ruina.
+
+*Síntesis de documentación previamente registrada; sin nuevo cotejo externo.*
