@@ -234,3 +234,11 @@ El [ara votiva](./ara-votiva/) conserva un testimonio romano reutilizado en el c
 Esta diversidad impide clasificar los bienes por apariencia o antigüedad supuesta. El [inventario](../inventario/) mantiene la identidad de cada elemento y sus relaciones con edificios y espacios urbanos.
 
 *Revisión del corpus existente; sin nuevo cotejo externo.*
+
+## Una secuencia material de larga duración
+
+El ara romana reutilizada en el templo, los cruceros de cronología abierta y el monumento al marrano atribuido a 1996 ilustran procesos distintos de incorporación de objetos al paisaje albercano. El busto de Legendre añade la conmemoración de la investigación territorial. Las fuentes muestran otra dimensión, la infraestructura cotidiana.
+
+La comparación no constituye una secuencia cronológica completa. Cada pieza mantiene su expediente y su identidad en el [inventario patrimonial](../inventario/). Los signos incorporados a edificios se relacionan con [inscripciones y símbolos](../arquitectura-tradicional/inscripciones-y-simbolos/).
+
+*Síntesis de fuentes previamente registradas; sin nuevo cotejo externo.*
