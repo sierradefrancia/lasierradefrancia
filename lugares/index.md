@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: Lugares de interés
 nav_order: 2
@@ -22,6 +23,14 @@ No pretendemos elaborar únicamente una lista de destinos turísticos.
 Queremos explicar qué hace singular a cada lugar, cómo se ha formado, qué historia conserva y qué relaciones mantiene con el conjunto de la Sierra de Francia.
 
 ---
+
+## Explora los lugares del atlas
+
+- [Peña de Francia](/lugares/pena-de-francia/): [geología](/lugares/pena-de-francia/geologia/), [historia](/lugares/pena-de-francia/historia/), [santuario](/lugares/pena-de-francia/santuario-patrimonio/) y [visita](/lugares/pena-de-francia/visitar/).
+- [Valle de Las Batuecas](/lugares/las-batuecas/): paisaje, patrimonio y naturaleza del valle.
+- [Parque Natural Las Batuecas–Sierra de Francia](/parque-natural/): contexto ambiental de ambos enclaves.
+
+Combina estos lugares con los [pueblos históricos](/pueblos/conjuntos-historicos/) y los [itinerarios por duración](/turismo/segun-tu-tiempo/).
 
 ## Nuestros primeros lugares
 
