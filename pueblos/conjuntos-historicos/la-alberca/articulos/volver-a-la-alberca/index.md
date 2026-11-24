@@ -1,4 +1,5 @@
 ---
+description: "Tres perspectivas para una nueva visita a La Alberca: arquitectura doméstica, patrimonio religioso y caminos del bosque."
 layout: default
 title: "Volver a un lugar que creías conocer"
 parent: Artículos
