@@ -58,3 +58,11 @@ La datación amplia entre los siglos XVIII y XIX no permite asociar el instrumen
 El [patrimonio sonoro](../campanas-reloj-matraca/) estudia señales colectivas y rituales; el órgano pertenece principalmente al acompañamiento musical del culto. El armonio mencionado en los recuerdos requiere identificación separada.
 
 *Síntesis del corpus documental existente; sin nuevo cotejo externo en esta ampliación.*
+
+## Instrumentos, intérpretes y memoria
+
+El órgano y el armonio requieren inventarios separados. El recuerdo de Jesús y José María Requejo permite orientar entrevistas y búsquedas de documentación parroquial, mientras las referencias a don Leandro y Aníbal Sánchez Fraile abren relaciones musicales supralocales todavía no demostradas en cuanto a actuaciones concretas.
+
+El anuncio de restauración de 2022 proporciona una fecha de seguimiento, no una fecha de reapertura. Una memoria técnica permitiría distinguir componentes históricos, sustituciones y elementos recuperados. La [historia sonora de la iglesia](../campanas-reloj-matraca/) complementa esta investigación: las campanas organizaban señales públicas, mientras el órgano intervenía en la celebración interior según los recuerdos recogidos.
+
+*Síntesis de referencias ya registradas; sin nuevo cotejo externo en este bloque.*
