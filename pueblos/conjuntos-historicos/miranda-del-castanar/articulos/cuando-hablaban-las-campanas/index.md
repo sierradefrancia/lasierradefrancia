@@ -1,4 +1,5 @@
 ---
+description: "Las campanas de Miranda del Castañar como testimonio de la comunicación comunitaria y la memoria religiosa de la villa."
 layout: default
 title: "Cuando hablaban las campanas"
 parent: Artículos de Miranda del Castañar
