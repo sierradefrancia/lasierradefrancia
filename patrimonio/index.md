@@ -32,6 +32,17 @@ Queremos comprender cómo surgieron, qué funciones desempeñaron, cómo se han 
 
 ---
 
+## Explora el patrimonio por pueblos
+
+- [Patrimonio de La Alberca](/pueblos/conjuntos-historicos/la-alberca/patrimonio/)
+- [Patrimonio de Mogarraz](/pueblos/conjuntos-historicos/mogarraz/patrimonio/)
+- [Patrimonio de Miranda del Castañar](/pueblos/conjuntos-historicos/miranda-del-castanar/patrimonio/)
+- [Patrimonio de San Martín del Castañar](/pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/)
+- [Patrimonio de Sequeros](/pueblos/conjuntos-historicos/sequeros/patrimonio/)
+- [Patrimonio de Villanueva del Conde](/pueblos/conjuntos-historicos/villanueva-del-conde/patrimonio/)
+
+Para comparar manifestaciones concretas, comienza por el [castillo de Miranda](/pueblos/conjuntos-historicos/miranda-del-castanar/patrimonio/castillo/), la [Casa de las Artesanías de Mogarraz](/pueblos/conjuntos-historicos/mogarraz/patrimonio/casa-artesanias/), el [convento de Gracia](/pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/convento-gracia/), el [teatro de Sequeros](/pueblos/conjuntos-historicos/sequeros/patrimonio/teatro/), las [Huertitas](/pueblos/conjuntos-historicos/villanueva-del-conde/patrimonio/manzana-huertitas/) y la [Plaza Mayor de La Alberca](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/plaza-mayor/).
+
 ## Patrimonio compartido y manifestaciones locales
 
 Esta sección es la sede temática de las investigaciones comparativas sobre arquitectura serrana, bordado, indumentaria, joyería, música, danzas, religiosidad, oficios y tradición oral. El alcance de cada fenómeno se determinará mediante fuentes, sin presuponer que se practica en todos los pueblos ni que es exclusivo de la comarca.
