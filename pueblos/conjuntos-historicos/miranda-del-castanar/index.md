@@ -33,6 +33,7 @@ Conocer Miranda significa descubrir cómo la geografía, las necesidades defensi
 - [Historia](./historia/).
 - [Conjunto histórico](./conjunto-historico/).
 - [Patrimonio](./patrimonio/).
+- [Geografía y territorio](./geografia-territorio/).
 
 ## Información general
 
