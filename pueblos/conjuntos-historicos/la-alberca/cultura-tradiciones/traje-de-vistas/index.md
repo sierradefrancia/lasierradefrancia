@@ -35,3 +35,9 @@ Consulta documental: 24-11-2026. Investigación abierta.
 ## Ámbito territorial
 
 Este estudio se limita al conjunto albercano y sus usos documentados. La comparación de indumentaria, joyería y bordado entre pueblos corresponde a [Patrimonio y cultura de la Sierra de Francia](/patrimonio/). No se presupone exclusividad de las técnicas o motivos.
+
+## El conjunto y sus usos
+
+El registro MT-064676-85 identifica un conjunto concreto. La distinción entre salida de la iglesia y variante interior con serenero permite estudiar cambios de indumentaria dentro del ritual nupcial. Los usos en [Corpus](../corpus/) y [Diagosto](../diagosto/) corresponden a otros contextos. Los registros notariales de cruces de Santo Toribio entre 1670 y 1824, estudiados en [bienes litúrgicos](../../patrimonio/patrimonio-religioso/iglesia-asuncion/orfebreria-y-bienes-liturgicos/), aportan evidencia de circulación doméstica de objetos devocionales sin demostrar que pertenecieran al conjunto museístico.
+
+*Síntesis de referencias existentes; sin nuevo cotejo externo.*
