@@ -4,6 +4,7 @@ title: Iglesia de Nuestra Señora de la Asunción
 parent: Patrimonio religioso
 grand_parent: Patrimonio
 nav_order: 1
+has_children: true
 last_modified_at: 2026-11-24
 description: "Historia y patrimonio de la iglesia de Nuestra Señora de la Asunción de La Alberca: el templo anterior, la reconstrucción del siglo XVIII, Manuel de Larra Churriguera, la torre y sus bienes artísticos."
 permalink: /pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/
@@ -22,6 +23,12 @@ Su arquitectura principal responde a una reconstrucción emprendida en el siglo 
 Durante siglos, este lugar fue mucho más que el espacio donde los albercanos celebraban sus ceremonias religiosas. La documentación histórica permite relacionarlo también con la organización de la comunidad, sus reuniones, sus recursos económicos y sus prácticas funerarias.
 
 Para comprender la iglesia actual es necesario comenzar por aquella que desapareció.
+
+## Ámbitos de investigación del templo
+
+Esta monografía integra la historia general del edificio. Los estudios especializados se incorporarán como páginas subordinadas cuando exista documentación suficiente: torre y heráldica; campanas, reloj y matraca; bóvedas y técnicas constructivas; púlpito policromado; Cristo del Sudor; retablos y capillas; órgano histórico; orfebrería y bienes litúrgicos.
+
+El osario y las Ánimas se investigarán también en relación con el patrimonio funerario y devocional del conjunto del pueblo. Las piezas ya estudiadas en otras secciones conservarán sus ubicaciones e identificadores, con enlaces cruzados en lugar de duplicaciones.
 
 ## Antes de la iglesia actual
 
