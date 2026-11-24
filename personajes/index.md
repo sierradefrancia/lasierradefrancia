@@ -303,3 +303,7 @@ Nicolás Antonio Díez de Ledesma y Diego de la Peña (escribanos, [Ms. 2765](ht
 ### San Martín del Castañar — investigación arqueológica
 
 Ángel L. Palomino Lázaro y Óscar González Díez, redactores del catálogo arqueológico de 2006; Pilar Pérez Fernández, redactora de las normas urbanísticas. Fuente: [ficha técnica, p. 2](https://www.lasalina.es/documentacion/normasurbanisticas/286_1_Informe%20Arqueol%C3%B3gico.pdf), consultada el 24-11-2026. Relaciones de autoría, no biografías completas.
+
+### San Martín — arqueología y fuentes históricas
+
+José Antonio Gómez Gandullo (dirección de excavaciones de La Legoriza desde 2004), L. Barbero Castro (prospección de 1999), Markel Gorbea Pérez (revisión de 2002), Díez Elcuaz (obra de 1995, identidad y referencia completas pendientes). [Catálogo de 2006, pp. 14–19](https://www.lasalina.es/documentacion/normasurbanisticas/286_1_Informe%20Arqueol%C3%B3gico.pdf). Relaciones comprobadas en el informe, no biografías.
