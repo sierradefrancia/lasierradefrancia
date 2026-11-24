@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: Artículos de la Sierra de Francia
 nav_order: 12
@@ -32,6 +33,27 @@ Queremos construir una colección de artículos útiles, rigurosos y accesibles 
 Cada artículo deberá aportar conocimiento, despertar curiosidad o ayudar a comprender mejor el territorio.
 
 ---
+
+## Artículos disponibles por territorio
+
+- [Artículos de La Alberca](/pueblos/conjuntos-historicos/la-alberca/articulos/)
+- [Artículos de Mogarraz](/pueblos/conjuntos-historicos/mogarraz/articulos/)
+- [Artículos de Miranda del Castañar](/pueblos/conjuntos-historicos/miranda-del-castanar/articulos/)
+- [Artículos de San Martín del Castañar](/pueblos/conjuntos-historicos/san-martin-del-castanar/articulos/)
+- [Artículos de Sequeros](/pueblos/conjuntos-historicos/sequeros/articulos/)
+- [Artículos de Villanueva del Conde](/pueblos/conjuntos-historicos/villanueva-del-conde/articulos/)
+- [Artículos de la Peña de Francia](/lugares/pena-de-francia/articulos/).
+
+### Una selección para empezar
+
+- [Las mujeres y el camino a Granadilla](/pueblos/conjuntos-historicos/la-alberca/historia/articulos/las-mujeres-y-el-camino-a-granadilla/).
+- [Antes de los retratos](/pueblos/conjuntos-historicos/mogarraz/articulos/antes-de-los-retratos/).
+- [Un pleito entre la villa y la Peña](/pueblos/conjuntos-historicos/miranda-del-castanar/articulos/un-pleito-entre-la-villa-y-la-pena/).
+- [Una casa para los frailes](/pueblos/conjuntos-historicos/san-martin-del-castanar/articulos/una-casa-para-los-frailes/).
+- [De la alhóndiga al teatro](/pueblos/conjuntos-historicos/sequeros/articulos/alhondiga-teatro/).
+- [Del bancal a la bodega](/pueblos/conjuntos-historicos/villanueva-del-conde/articulos/bancal-bodega/).
+
+Consulta también las [investigaciones monográficas](/investigacion/) y el [directorio de personajes](/personajes/).
 
 ## Una forma diferente de descubrir la Sierra de Francia
 
