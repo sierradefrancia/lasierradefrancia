@@ -1,4 +1,5 @@
 ---
+description: "Del bancal a la bodega en Villanueva del Conde: paisaje agrícola, viticultura y espacios de elaboración."
 layout: default
 title: "Del bancal a la bodega"
 parent: "Artículos de Villanueva del Conde"
