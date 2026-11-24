@@ -42,6 +42,43 @@ La presencia de arte rupestre demuestra actividad humana prehistórica, pero no 
 
 Una investigación rigurosa debe relacionar estas cronologías sin sustituir una por otra. Las fechas de publicación no son fechas de los acontecimientos narrados. Una tradición repetida en varios textos tampoco constituye necesariamente evidencia independiente: los autores pueden depender de una misma fuente.
 
+## La transmisión editorial de la defensa de 1693
+
+La reproducción de la portada en la Bibliografía gráfica de la Biblioteca Nacional, entrada 580, identifica a Antonio de Zafra como impresor madrileño y a Antonio Álvarez de Toledo, duque de Alba, como destinatario de la dedicatoria. El autor se presenta como bachiller y presbítero vecino de La Alberca. Vecindad no equivale necesariamente a lugar de nacimiento.
+
+La Gaceta de Madrid de 11 de agosto de 1797, página 708, anuncia una segunda edición en octavo a cuatro reales, distribuida en dos librerías madrileñas y una salmantina. Este anuncio acredita una nueva circulación comercial del texto más de un siglo después de la primera edición. No acredita su tirada ni el número de compradores.
+
+El catálogo de publicaciones de la Diputación de Salamanca de 2019, página 55, identifica una edición facsimilar de 1999, ISBN 84-7797-143-9, con un volumen de estudio de 96 páginas y otro facsimilar de 118. Incluye un prólogo de José Luis Puerto y un epílogo de Fernando Rodríguez de la Flor. La edición constituye una vía concreta para recuperar el texto y su estudio moderno.
+
+## Feijoo y los documentos que debemos recuperar
+
+En el tomo IV del Teatro crítico universal, sección IV, párrafos 12–17 del discurso dedicado a esta tradición, Benito Jerónimo Feijoo transmite argumentos atribuidos a González de Manuel. Entre ellos identifica:
+
+| Referencia transmitida | Pregunta documental |
+|---|---|
+| Escrituras relativas a pagos en perdices por residencia en la dehesa de Surde | Localizar contratos, sujetos, fechas y condiciones |
+| Libros bautismales y un breviario antiguo vistos en Nuñomoral | Identificar fondos parroquiales y su cronología |
+| Privilegio de era 1326, equivalente a 1288 | Recuperar original o traslado, beneficiario y delimitación |
+| Monedas atribuidas a Trajano halladas en Batuequillas | Identificar piezas, contexto y documentación de Coria |
+| Descripción de Las Batuecas de 1665 | Localizar documento y autor |
+| Camino real hacia Salamanca | Contrastar cartografía e itinerarios históricos |
+
+La conversión de era hispánica 1326 a 1288 es aritméticamente coherente. Sin embargo, no acredita por sí misma la autenticidad, fecha o contenido del privilegio. Feijoo atribuye a González de Manuel la noticia de una concesión a la iglesia de La Alberca en la que aparece el topónimo Batuecas. La cadena de transmisión es, por ahora, documento medieval referido por un autor de 1693 y recogido posteriormente por Feijoo. No se han cotejado los dos primeros eslabones.
+
+La noticia numismática tampoco permite fechar un asentamiento romano sin contexto arqueológico. Debe distinguirse el lugar de hallazgo de una moneda del lugar de residencia de quienes la utilizaron. La referencia a Francisco Zapata y Mendoza, obispo de Coria según Feijoo, ofrece una pista archivística para buscar la descripción de 1665 y las piezas mencionadas.
+
+## Una edición documental de referencia
+
+La Biblioteca Jurídica del BOE identifica a Gabrielle Berrogain como autora de la edición de las ordenanzas de La Alberca y sus términos Las Hurdes y Las Batuecas, publicada en 1930, páginas 381–441, referencia ANU-H-1930-10038100441. La ficha proporciona acceso al PDF. El contenido íntegro de las ordenanzas queda pendiente de cotejo: su título no basta para atribuir una disposición concreta al valle.
+
+### Nuevos localizadores comprobados
+
+- [Feijoo, Teatro crítico universal IV, § IV, 12–17](https://www.cervantesvirtual.com/portales/benito_jeronimo_feijoo/obra-visor/teatro-critico-universal-o-discursos-varios-en-todo-genero-de-materias-para-desengano-de-errores-comunes-tomo-iv--0/html/ff1fdf64-82b1-11df-acc7-002185ce6064_14.html): extracto consultado.
+- [Gaceta de Madrid, 11 de agosto de 1797](https://www.boe.es/diario_gazeta/comun/pdf.php?do=1&p=1797%2F08%2F11%2Fpdfs%2FGMD-1797-64.pdf): anuncio, p. 708.
+- [Bibliografía gráfica, volumen 2](https://upload.wikimedia.org/wikipedia/commons/4/40/Bibliograf%C3%ADa_gr%C3%A1fica_-_bdh0000175786_-_Volumen_2.pdf): reproducción de portada, entrada 580.
+- [Catálogo Diputación de Salamanca, p. 55](https://www.lasalina.es/opencms/opencms/lasalina/cultura/cultura/difusionypublicaciones/virtualcatalogoediciones/55/): ficha facsímil de 1999.
+- [Berrogain, ficha BOE](https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-H-1930-10038100441&lang=ca): identificación bibliográfica.
+
 ## Fuentes y alcance
 
 - Tomás González de Manuel, obra de 1693: referencia bibliográfica identificada anteriormente; edición original pendiente de cotejo.
