@@ -84,6 +84,10 @@ El [marrano de piedra](/pueblos/conjuntos-historicos/la-alberca/patrimonio/eleme
 
 El [busto de Mauricio Legendre](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/busto-mauricio-legendre/) recuerda al hispanista francés vinculado a La Alberca, la Peña de Francia y la investigación geográfica de Las Hurdes.
 
+## Patrimonio del agua
+
+El estudio de las [fuentes y patrimonio del agua](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/fuentes/) reúne seis fuentes identificadas y registra su arquitectura, usos y relaciones con la vida cotidiana.
+
 ## Inscripciones y fechas grabadas
 
 Uno de los testimonios más interesantes de la arquitectura tradicional de La Alberca se encuentra en sus dinteles y fachadas.
