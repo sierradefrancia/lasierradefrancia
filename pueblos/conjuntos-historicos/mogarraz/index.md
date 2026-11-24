@@ -42,6 +42,8 @@ Su arquitectura, sus tradiciones, su historia y su relación con el paisaje perm
 
 - [Arquitectura tradicional de Mogarraz](./arquitectura-tradicional/).
 
+[Personajes vinculados a Mogarraz: inventario comarcal](/personajes/#personajes-identificados-durante-la-investigación-de-mogarraz).
+
 ## Información general
 
 | Dato | Información |
