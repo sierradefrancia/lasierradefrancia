@@ -18,6 +18,15 @@ La interpretación municipal destaca las evidencias metalúrgicas. La hipótesis
 
 La Legoriza invita a mirar la Sierra de Francia antes de sus castillos y conjuntos históricos. No es necesario atribuirle una continuidad directa con el pueblo actual para reconocer su importancia.
 
+
+## Lo que permanece de una comunidad
+
+Las viviendas, enterramientos y residuos productivos plantean preguntas diferentes. Los muros permiten investigar la distribución del espacio; la cerámica ayuda a establecer cronologías relativas; los signos inscritos abren una vía hacia las prácticas de registro. Ninguno de estos materiales explica por separado la totalidad de la vida del asentamiento.
+
+La comparación con las pizarras de Mogarraz ofrece una perspectiva comarcal, pero requiere conocer los contextos de hallazgo y las características de cada conjunto. La semejanza de soporte no prueba que existiera una misma administración ni una actividad económica compartida.
+
+El [inventario arqueológico de San Martín](../../patrimonio/arqueologia/) conserva otras localizaciones y referencias a estelas romanas. La historia del territorio es más amplia que la de un solo yacimiento. El reto consiste en relacionar las evidencias sin llenar con una narración imaginada los intervalos que separan unas de otras.
+
 ## Fuentes
 
-[Expediente arqueológico](../../patrimonio/legoriza/), [estudio en Zephyrus](https://revistas.usal.es/uno/index.php/0514-7336/es/article/download/5656/5692/19425), [interpretación municipal](https://xn--sanmartindelcastaar-c4b.es/yacimiento-visigodo/) y [registro bibliográfico de Gómez Gandullo](https://dialnet.unirioja.es/metricas/documentos/ARTREV/2315401). Extractos cotejados el 24-11-2026; publicación original de excavaciones pendiente de lectura.
+[Expediente arqueológico](../../patrimonio/legoriza/), [estudio en Zephyrus](https://revistas.usal.es/uno/index.php/0514-7336/es/article/download/5656/5692/19425), [interpretación municipal](https://xn--sanmartindelcastaar-c4b.es/yacimiento-visigodo/) y [registro bibliográfico de Gómez Gandullo](https://dialnet.unirioja.es/metricas/documentos/ARTREV/2315401). Referencias del registro anterior pendientes de cotejo reproducible; publicación original de excavaciones pendiente de lectura.
