@@ -1,4 +1,5 @@
 ---
+description: "Sociedad y economía de San Martín del Castañar: evolución demográfica, actividades productivas y continuidad de la comunidad."
 layout: default
 title: "Sociedad y economía de San Martín"
 parent: "San Martín del Castañar"
