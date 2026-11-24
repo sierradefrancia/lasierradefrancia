@@ -24,3 +24,7 @@ BOE-A-1998-8051: texto completo recuperado. Met 17.190.142: ficha recuperada, di
 ## Cierre editorial provisional
 
 Inventario comprobado en árbol main: 39 Markdown, 91384 bytes antes del cierre; diez categorías principales, nueve artículos, 70 identificadores personales provisionales y 18 patrimoniales según registros de trabajo (no equivalen a identidades verificadas). BOE y Met consultados directamente en esta sesión; el vínculo de procedencia del marfil queda abierto. Las demás afirmaciones de consulta anteriores no cuentan con evidencia recuperable suficiente y deben tratarse como referencias pendientes hasta su cotejo. Prioridades: villazgo, fuentes de La Peña, Melón y fundación, filiación del marfil, demografía oficial, imágenes y validación de navegación publicada. No atribuir posiciones SEO ni visibilidad IA sin medición. Se permite avanzar a Miranda del Castañar manteniendo este expediente abierto.
+
+## Rectificación de trazabilidad — 24-11-2026
+
+No se dispone de resultados externos recuperables que acrediten las declaraciones anteriores de consulta directa, incluidos BOE, USAL, PARES y, para Mogarraz, Metropolitan Museum. Se retira su certificación hasta cotejo reproducible. Las referencias se conservan como pistas de investigación, no como pruebas verificadas. Esta nota prevalece sobre estados anteriores contradictorios.
