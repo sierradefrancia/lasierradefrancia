@@ -1,4 +1,5 @@
 ---
+description: "Catálogo de testimonios sonoros de La Alberca: grabaciones de 1984, informantes, repertorios y estado de investigación."
 layout: default
 title: Fuentes sonoras y memoria oral
 parent: Cultura y tradiciones
