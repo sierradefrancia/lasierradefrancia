@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: Flora y fauna
 nav_order: 7
@@ -28,6 +29,12 @@ También debemos estudiar las relaciones entre los organismos, sus hábitats, el
 Esta sección del atlas está dedicada a conocer esas relaciones y a construir progresivamente una base de conocimiento naturalista rigurosa, accesible y documentada.
 
 ---
+
+## Estudios de naturaleza por territorio
+
+[La Alberca](/pueblos/conjuntos-historicos/la-alberca/naturaleza/) · [Mogarraz](/pueblos/conjuntos-historicos/mogarraz/naturaleza/) · [Miranda del Castañar](/pueblos/conjuntos-historicos/miranda-del-castanar/naturaleza/) · [San Martín del Castañar](/pueblos/conjuntos-historicos/san-martin-del-castanar/naturaleza/) · [Sequeros](/pueblos/conjuntos-historicos/sequeros/naturaleza/) · [Villanueva del Conde](/pueblos/conjuntos-historicos/villanueva-del-conde/naturaleza/)
+
+Consulta también la [naturaleza de la Peña de Francia](/lugares/pena-de-francia/naturaleza/), el [valle de Las Batuecas](/lugares/las-batuecas/) y los estudios albercanos de [vegetación](/pueblos/conjuntos-historicos/la-alberca/naturaleza/vegetacion/), [fauna](/pueblos/conjuntos-historicos/la-alberca/naturaleza/fauna/) y [micología](/pueblos/conjuntos-historicos/la-alberca/naturaleza/micologia/). Las observaciones locales no constituyen automáticamente inventarios de toda la comarca.
 
 ## Un territorio de gran diversidad ecológica
 
