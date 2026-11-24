@@ -68,6 +68,8 @@ Su organización urbana y los aprovechamientos agrarios tradicionales están est
 
 ## Villanueva del Conde, Conjunto Histórico desde 2016
 
+[Ampliar información](./conjunto-historico/)
+
 Villanueva del Conde fue declarada Bien de Interés Cultural, con categoría de Conjunto Histórico, mediante el **Acuerdo 10/2016, de 11 de febrero**, de la Junta de Castilla y León.
 
 La declaración se publicó en el Boletín Oficial del Estado el 9 de marzo de 2016.
@@ -101,6 +103,8 @@ Un conjunto de viviendas, caminos y huertas puede tener un valor excepcional cua
 ---
 
 ## Una estructura urbana extraordinaria
+
+[Ampliar información](./patrimonio/manzana-huertitas/)
 
 El elemento más característico de Villanueva del Conde es su gran manzana central.
 
@@ -137,6 +141,8 @@ La documentación arquitectónica sitúa el cierre completo del perímetro en un
 ---
 
 ## Las huertitas
+
+[Ampliar información](./patrimonio/manzana-huertitas/)
 
 Las **huertitas** son uno de los elementos más representativos del patrimonio de Villanueva del Conde.
 
@@ -184,6 +190,8 @@ La posibilidad de observarlas desde determinados accesos no autoriza a entrar en
 
 ## Las callejinas y los pasajes
 
+[Ampliar información](./patrimonio/manzana-huertitas/)
+
 El acceso al espacio interior se realiza mediante pasos conocidos localmente como **callejinas**.
 
 Algunos atraviesan las construcciones y conectan las calles exteriores con el interior de la manzana.
@@ -219,6 +227,8 @@ Conviene respetar la señalización y evitar atravesar espacios privados.
 ---
 
 ## La arquitectura tradicional
+
+[Ampliar información](./patrimonio/arquitectura/)
 
 Villanueva del Conde conserva numerosos ejemplos de arquitectura popular serrana.
 
@@ -257,6 +267,8 @@ Su distribución estaba relacionada con las necesidades familiares, el clima y l
 ---
 
 ## La vivienda serrana y sus plantas
+
+[Ampliar información](./patrimonio/arquitectura/)
 
 La documentación oficial describe una organización tradicional de las viviendas especialmente interesante.
 
@@ -298,6 +310,8 @@ Las reformas y los cambios de uso han producido numerosas variaciones.
 
 ## Historia de Villanueva del Conde
 
+[Ampliar información](./historia/)
+
 ### El poblamiento del territorio
 
 La historia de Villanueva del Conde debe situarse dentro de la evolución de los asentamientos de la Sierra de Francia.
@@ -332,6 +346,8 @@ La organización del espacio urbano refleja esa relación.
 
 ### Los siglos XIX y XX
 
+La [cooperativa vitivinícola](./sociedad-economia/cooperativa/) y las [obras de abastecimiento](./patrimonio/agua/) permiten estudiar dos transformaciones concretas del siglo XX.
+
 La localidad experimentó cambios relacionados con la economía rural, las comunicaciones, la emigración y la transformación de las actividades agrarias.
 
 La conservación del patrimonio y su reconocimiento oficial en 2016 forman parte de su historia reciente.
@@ -339,6 +355,8 @@ La conservación del patrimonio y su reconocimiento oficial en 2016 forman parte
 ---
 
 ## Iglesia de San Fabián y San Sebastián
+
+[Ampliar información](./patrimonio/iglesia/)
 
 La iglesia parroquial es uno de los principales edificios religiosos de Villanueva del Conde.
 
@@ -378,6 +396,8 @@ Su relación con la plaza ayuda a comprender la organización del núcleo urbano
 
 ## La ermita del Humilladero
 
+[Ampliar información](./patrimonio/humilladero/)
+
 La ermita del Humilladero es otro de los edificios religiosos destacados.
 
 Se encuentra en un sector históricamente relacionado con uno de los accesos al pueblo.
@@ -410,6 +430,8 @@ Este proceso muestra cómo la evolución del pueblo modificó la relación entre
 
 ## La Plaza de las Eras
 
+[Ampliar información](./patrimonio/plazas/)
+
 La Plaza de las Eras es uno de los principales espacios públicos de Villanueva del Conde.
 
 En ella se encuentran la iglesia parroquial y el Ayuntamiento.
@@ -434,6 +456,8 @@ La relación entre los edificios, la plaza y las actividades comunitarias permit
 
 ## La Plaza del Obispo
 
+[Ampliar información](./patrimonio/plazas/)
+
 La Plaza del Obispo constituye otro de los espacios representativos del núcleo histórico.
 
 La documentación patrimonial destaca su carácter porticado.
@@ -455,6 +479,8 @@ También conserva una organización de espacios colectivos con funciones propias
 ---
 
 ## Los bancales y las terrazas de cultivo
+
+[Ampliar información](./patrimonio/bancales/)
 
 Uno de los grandes valores patrimoniales de Villanueva del Conde se encuentra fuera de las calles.
 
@@ -496,6 +522,8 @@ Conservar este patrimonio requiere comprender también los usos que le dieron or
 
 ## El paisaje de Villanueva del Conde
 
+[Ampliar información](./naturaleza/)
+
 El entorno presenta contrastes entre superficies relativamente abiertas y laderas abruptas.
 
 La red fluvial ha contribuido a modelar valles y barrancos.
@@ -527,6 +555,8 @@ La relación entre espacios cultivados, bosques y zonas rocosas contribuye a la 
 ---
 
 ## La red hidrográfica
+
+[Ampliar información](./geografia-territorio/)
 
 El agua ha desempeñado un papel fundamental en la configuración del paisaje y en las actividades agrarias.
 
@@ -636,6 +666,8 @@ Los recorridos detallados se desarrollarán en la sección de [Rutas](/rutas/).
 
 ## Tradiciones y vida cultural
 
+[Ampliar información](./cultura-tradiciones/)
+
 Villanueva del Conde conserva celebraciones relacionadas con su historia religiosa y comunitaria.
 
 ### San Fabián y San Sebastián
@@ -709,6 +741,8 @@ Permiten descubrir la relación entre el pueblo y su entorno.
 ---
 
 ## Cómo visitar Villanueva del Conde
+
+[Ampliar información](./visitar/)
 
 ### Recorrer el pueblo a pie
 
@@ -802,6 +836,8 @@ Todos estos elementos forman parte de una misma historia.
 
 ## Conservación y futuro
 
+[Ampliar información](./valor-global/)
+
 La conservación de Villanueva del Conde plantea desafíos específicos.
 
 ### Mantener la estructura urbana
@@ -831,6 +867,8 @@ Las técnicas constructivas y agrarias tradicionales constituyen un patrimonio q
 ---
 
 ## Fuentes y documentación
+
+[Registro documental y estado de verificación](./fuentes/).
 
 ### Declaración patrimonial
 
