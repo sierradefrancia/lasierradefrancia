@@ -46,3 +46,6 @@ Localizar el privilegio de villazgo, documentación fiscal del siglo XVIII y pri
 ## Ilustración y educación
 
 [Juan Antonio Melón González](/personajes/juan-antonio-melon/) (1758–1843) dispuso en su testamento de 1840 la transmisión de bienes a una escuela de Mogarraz tras la muerte de su heredera. La transcripción publicada por René Andioc permite estudiar el proyecto; su ejecución efectiva y trayectoria institucional requieren investigación propia.
+
+
+[Expediente de la Fundación Melón y educación](./fundacion-melon/).
