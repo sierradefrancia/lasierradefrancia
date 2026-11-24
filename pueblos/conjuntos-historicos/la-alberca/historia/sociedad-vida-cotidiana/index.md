@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: Sociedad y vida cotidiana
 parent: Historia
@@ -491,3 +492,8 @@ Privilegio ducal de 1558, legajo 1, según la referencia publicada por Mancebo G
 **Archivo de la Real Chancillería de Valladolid.**
 
 Causas judiciales de 1724–1725 y 1779, con las referencias identif
+
+
+## Conexiones documentales y actualización
+
+Para estudiar cambios en las prácticas familiares durante el siglo XX, véase [Cano Herrera y Sanz García (1989), pp. 67–84](https://uvadoc.uva.es/handle/10324/42925) y [ciclo vital](../../cultura-tradiciones/ciclo-vital/). No extrapolar testimonios del siglo XX a la sociedad regulada por las ordenanzas de 1515.
