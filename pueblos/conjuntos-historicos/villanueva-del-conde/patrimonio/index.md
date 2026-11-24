@@ -4,6 +4,7 @@ title: "Patrimonio de Villanueva del Conde"
 parent: Villanueva del Conde
 grand_parent: Conjuntos históricos
 nav_order: 3
+has_children: true
 last_modified_at: 2026-11-24
 permalink: /pueblos/conjuntos-historicos/villanueva-del-conde/patrimonio/
 ---
@@ -30,3 +31,10 @@ Inventario inicial de entidades, no de declaraciones individuales:
 Pendiente individualizar inmuebles, accesos y bienes muebles.
 
 [Declaración oficial](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2397) · [Incoación](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-568).
+
+## Monografías
+
+- [Manzana, huertitas y callejinas](../patrimonio/manzana-huertitas/)
+- [Iglesia de San Fabián y San Sebastián](../patrimonio/iglesia/)
+- [Ermita del Humilladero](../patrimonio/humilladero/)
+- [Arquitectura doméstica y esgrafiados](../patrimonio/arquitectura/)
