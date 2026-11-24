@@ -62,3 +62,11 @@ La Diputación anunció el 15 de julio de 2022 que José Luis Puerto aporta info
 7. [Diputación de Salamanca, presentación de Lo sagrado](https://www.dipsanet.es/lasalina/cultura/noticias/laalbercamemoriaypatrimoniolosagrado.html), 15-07-2022.
 
 Extractos consultados el 24-11-2026. No se han recuperado los originales de las constituciones, el certificado de la reliquia, el expediente artístico ni el capítulo íntegro de Puerto. No se reproducen imágenes de terceros.
+
+## La tradición y sus testimonios fechados
+
+La diferencia entre 1655 y 1665 debe investigarse recuperando el testimonio referido en Coria, si se conserva. La publicación de 1883 es anterior a las crónicas modernas, pero esa prioridad no garantiza que su fecha sea correcta. Los sermones catalogados entre 1835 y 1860 ofrecen otra vía para estudiar la transmisión de la advocación, sin constituir testimonios contemporáneos del episodio.
+
+La cofradía vincula culto, asistencia funeraria y organización comunitaria. Los [toques de campanas](../campanas-reloj-matraca/) y las prácticas de [Ánimas](../../animas/) aportan contextos relacionados, sin que ambas instituciones deban confundirse.
+
+*Síntesis del corpus documental existente; sin nuevo cotejo externo en esta ampliación.*
