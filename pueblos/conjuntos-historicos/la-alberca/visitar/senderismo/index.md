@@ -24,3 +24,11 @@ Son excursiones de montaña que requieren planificación propia. No improvises d
 Lleva agua, calzado adecuado y cartografía utilizable sin cobertura. Si el tiempo cambia, regresar es una buena decisión. Consulta [Geografía y caminos](../../geografia-territorio/caminos-comunicaciones/) y [Naturaleza](../../naturaleza/). No ofrecemos todavía tracks comprobados ni clasificación técnica de dificultad.
 
 [Volver a Visitar La Alberca](../)
+
+## Dos propuestas con objetivos diferentes
+
+**Camino de las Raíces:** una circular que permite interpretar el bosque y las obras de arte junto a los lugares de devoción. Según el [folleto provincial](https://turismo.lasalina.es/web001/turismo/wtur/archivo/pdf/020_Camino_Raices_es.pdf), el trazado enlaza Montón de Cantos, Majadas Viejas, San Marcos y Fuente Castaño. Dedica tiempo a distinguir las intervenciones artísticas de los testimonios históricos. [Majadas Viejas](../../patrimonio/patrimonio-religioso/majadas-viejas/) y [San Marcos](../../patrimonio/patrimonio-religioso/san-marcos/) explican estos lugares.
+
+**Senda a San Martín:** la [ficha municipal](https://laalberca.com/rutas/senda-la-alberca-san-martin/) indica 7,86 km de ida y dificultad media-baja. Parte de la plaza de San Antonio, cruza el entorno de Arroyohuevo y el río Francia y pasa cerca del monasterio de Gracia. Si vuelves por el mismo camino son 15,72 km, sin contar desvíos. Organiza transporte si no quieres duplicar la distancia. La dificultad publicada no sustituye la valoración del firme ni del desnivel.
+
+Fuentes consultadas el 24 de noviembre de 2026. Estado del sendero y desniveles pendientes de comprobación.
