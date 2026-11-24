@@ -31,3 +31,8 @@ El caso permite estudiar memoria familiar, usos de la casa, alimentación, almac
 - [Diputación de Salamanca](https://turismo.lasalina.es/es/destinos/sierra-de-francia/que-hacer/artesania-y-vida-rural/casa-museo-satur-juanela).
 
 Consulta de fuentes y extractos: 2026-11-24. Investigación abierta.
+
+
+## Personas relacionadas
+
+[Saturnino Hoyos (Sátur Juanela)](/personajes/satur-juanela/), nacido y criado en la casa según su testimonio de 2025, y Mari, copromotores del museo. Distinguir al promotor de su abuelo homónimo.
