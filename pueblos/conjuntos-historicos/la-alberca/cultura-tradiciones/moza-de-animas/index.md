@@ -1,4 +1,5 @@
 ---
+description: "La Moza de Ánimas de La Alberca: recorrido devocional, esquila, promesas y memoria de los difuntos."
 layout: default
 title: Moza de Ánimas
 parent: Cultura y tradiciones
