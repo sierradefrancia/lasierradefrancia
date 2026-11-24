@@ -24,3 +24,5 @@ Historias nacidas de la investigación, con sus fuentes y preguntas abiertas.
 - [La tía Adela y un cuento de otros siglos](./la-tia-adela/).
 
 - [Las mujeres que recuperaron el traje serrano](./las-labranderas/).
+
+- [La huella de los zapateros de Mogarraz](./los-zapateros/).
