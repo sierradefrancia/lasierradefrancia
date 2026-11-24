@@ -25,3 +25,15 @@ Para necesidades sensoriales, considera horarios tranquilos, pausas y alternativ
 No disponemos de una auditoría de campo de pendientes, anchuras, rebajes, superficies, bancos, aseos ni accesos interiores. No clasificamos ningún itinerario como universalmente accesible. Esta página se ampliará con mediciones y comprobaciones específicas.
 
 [Volver a Visitar La Alberca](../)
+
+## Elegir destinos antes que kilómetros
+
+| Experiencia | Qué preguntar antes de ir |
+|---|---|
+| Plaza Mayor | Acceso desde el aparcamiento, pendiente y pavimento |
+| Iglesia | Escalones de entrada y posibilidad de asiento |
+| Casa Satur Juanela | Escaleras entre plantas y alternativas interpretativas |
+| Fiestas de agosto | Aglomeraciones, zonas de descanso y cortes de calles |
+| Camino de las Raíces | Firme, obstáculos, desnivel y posibilidades de retorno |
+
+Para una persona con movilidad reducida, puede ser preferible concentrar la visita en un solo entorno y disfrutar de los detalles descritos en [primera visita](../primera-visita/). Para quien necesita evitar ruido o multitudes, una jornada fuera de grandes celebraciones ofrece otra opción, sin garantizar ausencia de afluencia. Consulta [información práctica](../informacion-practica/) para contactar con el municipio. No se certifica la accesibilidad de ninguno de estos destinos.
