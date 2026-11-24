@@ -61,3 +61,11 @@ No se considera este inventario exhaustivo. Quedan pendientes otros pasos urbano
 5. [IPCE, catálogo documental](https://catalogos.cultura.gob.es/opac/doc?fo=and&fq=mssearch_materials&fv=Conjuntos+hist%C3%B3ricos&q=%2A%3A%2A&rows=1&sort=msstored_title+desc&start=185), signatura PI - 557 - 5. Enlace de consulta sujeto a cambios de ordenación; identificar por signatura.
 
 Referencias consultadas el 24 de noviembre de 2026. No se han examinado los originales archivísticos ni reproducido fotografías.
+
+## Pasos urbanos y caminos intermunicipales
+
+La Puente debe estudiarse junto a los elementos devocionales de su entorno, recogidos en [Ánimas](../../patrimonio-religioso/animas/). La proximidad espacial no demuestra que puente y hornacina se construyeran simultáneamente. La denominación Pedragal requiere identificar el lugar antes de incorporarlo al inventario de pasos.
+
+La conexión hacia San Martín tiene un expediente complementario en el [puente y calzada de San Martín](/pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/puente-calzada/). Las atribuciones romana y medieval de ese puente siguen pendientes de cotejo; no se trasladan al puente albercano. La [geografía de las comunicaciones](../../../geografia-territorio/caminos-comunicaciones/) reúne la escala territorial, mientras esta ficha conserva la dimensión material e histórica.
+
+*Ampliación de síntesis del corpus existente; no constituye un nuevo cotejo externo.*
