@@ -45,7 +45,7 @@ La protección histórica no garantiza por sí sola la continuidad de una comuni
 - [Geografía y territorio](../geografia-territorio/)
 - [Naturaleza](../naturaleza/)
 - [Sociedad y economía](../sociedad-economia/)
-- [Cuarenta ensayos y relatos de descubrimiento](../articulos/)
+- [Cuarenta ensayos y cinco relatos históricos](../articulos/)
 - [Preparar una visita](../visitar/)
 
 Esta síntesis interpreta los expedientes existentes; no constituye una comparación cuantitativa con otros conjuntos históricos ni una nueva validación de sus fuentes. El conocimiento permanece abierto a correcciones, testimonios y nuevas investigaciones.
