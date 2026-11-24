@@ -135,3 +135,13 @@ Fuentes y límites en [memoria visual](/pueblos/conjuntos-historicos/mogarraz/me
 | ID | Persona | Relación |
 |---|---|---|
 | PER-MOG-017 | Héctor Minguela García | Autor de El limón serrano, revista local de 2018; [referencia](/pueblos/conjuntos-historicos/mogarraz/gastronomia/) |
+
+
+### Investigación histórica y patrimonio disperso
+
+| ID | Persona | Relación |
+|---|---|---|
+| PER-MOG-018 | Joaquín Rodríguez Arzúa | [Monografía sobre Mogarraz en el siglo XVIII](/pueblos/conjuntos-historicos/mogarraz/sociedad-economia/) |
+| PER-MOG-019 | Luis R. Miguel | [Propietario citado en la descripción del marfil](/pueblos/conjuntos-historicos/mogarraz/patrimonio/marfil/); identidad completa pendiente |
+
+Manuel Gómez-Moreno, ya registrado en el inventario comarcal, incorpora una nueva relación con [Mogarraz y su marfil](/pueblos/conjuntos-historicos/mogarraz/patrimonio/marfil/). No se duplica su identidad.
