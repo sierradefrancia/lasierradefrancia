@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: Concejo y ordenanzas
 parent: Historia
@@ -418,7 +419,7 @@ La introducción explica que determinadas dehesas y recursos de estos territorio
 
 Se mencionan aprovechamientos de colmenas, corcho, pastos, cabras y olivos.
 
-### La donación de 1291
+### La fecha discutida de la donación medieval
 
 Berrogain señala que el registro contenía una donación de Las Hurdes y Las Batuecas realizada por el concejo de Granadilla al de La Alberca.
 
@@ -590,3 +591,8 @@ El concejo intervenía en su administración y establecía mecanismos para defen
 Aquellas disposiciones reflejan también las desigualdades, las restricciones y las relaciones de poder propias de su época.
 
 **Conocer las ordenanzas no significa idealizar el pasado, sino comprender cómo se organizaba La Alberca y cómo esa organización afectaba a sus habitantes y a los territorios relacionados con ella.**
+
+
+## Conexiones documentales y actualización
+
+La [ficha editorial del BOE](https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-H-1930-10038100441) confirma autoría, título, año y páginas 381–441 de Berrogain. No constituye una segunda edición independiente del PDF ministerial. La [provisión de 1547 publicada por el Ayuntamiento](https://laalberca.com/tradiciones/dia-del-pendon/) permite estudiar una autorización posterior de gasto concejil para fiestas y romerías; no confundirla con las ordenanzas de 1515. Véase [Pendón y Trago](../../cultura-tradiciones/pendon-y-trago/).
