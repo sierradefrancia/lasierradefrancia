@@ -26,32 +26,19 @@ Su arquitectura, sus tradiciones, su historia y su relación con el paisaje perm
 
 ---
 
-## Investigaciones sobre Mogarraz
+## Descubrir Mogarraz
 
-- [Conjunto histórico de Mogarraz](./conjunto-historico/).
-- [Historia de Mogarraz](./historia/).
-- [Artesanía y oficios de Mogarraz](./artesania/).
-- [Memoria visual de Mogarraz](./memoria-visual/).
-- [Patrimonio de Mogarraz](./patrimonio/).
-
----
-
-- [Sociedad y economía de Mogarraz](./sociedad-economia/).
-- [Paisaje y caminos de Mogarraz](./paisaje-y-caminos/).
-- [Cultura y tradiciones de Mogarraz](./cultura-tradiciones/).
-
-- [Arquitectura tradicional de Mogarraz](./arquitectura-tradicional/).
-
-[Personajes vinculados a Mogarraz: inventario comarcal](/personajes/#personajes-identificados-durante-la-investigación-de-mogarraz).
-
-- [Geografía y territorio de Mogarraz](./geografia-territorio/).
-- [Naturaleza de Mogarraz](./naturaleza/).
-
-- [Gastronomía de Mogarraz](./gastronomia/).
-
+- [Historia](./historia/).
+- [Conjunto histórico](./conjunto-historico/).
+- [Patrimonio](./patrimonio/).
+- [Cultura y tradiciones](./cultura-tradiciones/).
+- [Geografía y territorio](./geografia-territorio/).
+- [Naturaleza](./naturaleza/).
+- [Sociedad y economía](./sociedad-economia/).
 - [Visitar Mogarraz](./visitar/).
-- [Artículos de Mogarraz](./articulos/).
-- [Fuentes e investigación de Mogarraz](./fuentes/).
+- [Artículos](./articulos/).
+
+[Fuentes e investigación](./fuentes/) · [Personajes](/personajes/)
 
 ## Información general
 
