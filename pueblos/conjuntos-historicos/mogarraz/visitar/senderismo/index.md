@@ -16,3 +16,7 @@ El Camino del Agua relaciona Mogarraz con Monforte de la Sierra y permite descub
 No hemos inspeccionado recientemente el trazado. Comprueba señalización, estado del firme y meteorología. Lleva agua y calzado adecuado; no presupongas la potabilidad de las fuentes.
 
 Guía editorial basada en los expedientes del atlas; no constituye una comprobación de campo ni de horarios actuales.
+
+## Qué encontrarás en el Camino del Agua
+
+La ficha registrada describe un circuito de unos nueve kilómetros entre Mogarraz y Monforte, con referencias al Bocino, Los Molinos, Pontón y valle del Milanos. Las intervenciones artísticas incluyen obras atribuidas a Miguel Poza, Virginia Calvo y Florencio Maíllo, entre otros autores. El [expediente paisajístico](../../paisaje-y-caminos/) reúne sus títulos y referencias. No se ha comprobado el estado de cada obra ni el desnivel actualizado. Consulta la información local antes de elegir sentido, duración o variantes del recorrido.
