@@ -36,3 +36,13 @@ Consulta de fuentes y extractos: 2026-11-24. Investigación abierta.
 ## Personas relacionadas
 
 [Saturnino Hoyos (Sátur Juanela)](/personajes/satur-juanela/), nacido y criado en la casa según su testimonio de 2025, y Mari, copromotores del museo. Distinguir al promotor de su abuelo homónimo.
+
+## Una vivienda concreta frente a un modelo general
+
+La distribución publicada sitúa la cuadra debajo de las alcobas y la cocina por encima de estas, con horno y sequero en el nivel superior. Esta secuencia permite comparar un caso individual con la descripción de Fuentes Hernández, que sitúa dormitorios y cocina en plantas sucesivas. La coincidencia parcial no identifica ambas viviendas ni demuestra que toda casa albercana tuviera cuatro niveles.
+
+El paso de cuadra a recepción y tienda constituye un cambio de uso documentado en la descripción museística. Para comprender la intervención interesa distinguir los espacios conservados, los adaptados y los objetos incorporados para interpretar la vida doméstica. Los muebles y enseres pueden proceder de épocas distintas.
+
+La historia familiar de [Sátur Juanela](/personajes/satur-juanela/) es parte del valor de la casa. El testimonio de sus habitantes puede aportar nombres de espacios y usos que un levantamiento arquitectónico por sí solo no registra. Véase [interior y economía doméstica](../vida-domestica/) y [conservación](../conservacion/).
+
+*Síntesis del corpus documental existente; sin nuevo cotejo externo.*
