@@ -38,6 +38,7 @@ San Martín del Castañar no es solamente un conjunto monumental. Es una localid
 - [Naturaleza de San Martín](./naturaleza/).
 - [Sociedad y economía de San Martín](./sociedad-economia/).
 - [Visitar San Martín del Castañar](./visitar/).
+- [Artículos](./articulos/).
 - [San Martín en su conjunto](./valor-global/).
 - [Fuentes de San Martín del Castañar](./fuentes/).
 
