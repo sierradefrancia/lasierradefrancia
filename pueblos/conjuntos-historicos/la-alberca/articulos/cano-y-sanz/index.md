@@ -1,4 +1,5 @@
 ---
+description: "La vida familiar, las bodas y la memoria de los difuntos en La Alberca a través del estudio etnográfico de Mercedes Cano Herrera y María Sanz García de 1989."
 layout: default
 title: "Dos investigadoras ante la vida y la muerte"
 parent: Artículos
