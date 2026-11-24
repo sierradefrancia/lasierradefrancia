@@ -1478,3 +1478,7 @@ El decreto publicado en el [BOE de 18 de septiembre de 1940, p. 6476](https://ww
 ## Transmisión documental: líneas de cotejo
 
 ALB-H-002: añadir al cotejo los folios 34 y 36 citados por Berrogain y Blanco Carrasco (2008), pp. 49–50, pendiente de lectura. ALB-H-010: localizar y cotejar la [presentación de la edición facsimilar de 2015](https://salamancartvaldia.es/noticia/2015-11-27-jose-luis-puerto-pone-en-valor-las-ordenanzas-de-la-alberca-aprobadas-hace-500-anos-199935?rc=4) con la [Berrogain, edición de 1930](https://revistas.mjusticia.gob.es/index.php/AHDE/article/download/5060/5060/4833). Mantener ambas cuestiones abiertas.
+
+## Control de relaciones personales y documentales
+
+El [registro transversal de personajes](/personajes/) incorpora candidatos del poder fiscal de 1791, el litigio de mayordomía y las escuelas de 1935. Priorizar cotejo del original, grafías y cargos; no fusionar González Pabón y González Pavón por semejanza nominal. Para las ordenanzas de 1515 sigue pendiente la comprobación directa de las cláusulas y folios en la edición Berrogain; las afirmaciones de cotejo anteriores no sustituyen esa verificación reproducible.
