@@ -1,7 +1,7 @@
 
 # ====================================================
 # LA SIERRA DE FRANCIA
-# REGISTRO CENTRAL DE ENTIDADES — V5
+# REGISTRO CENTRAL DE ENTIDADES — V6
 # ====================================================
 #
 # Fuente de datos para Schema.org.
@@ -207,3 +207,51 @@
   name: "Santuario de Nuestra Señora del Robledo"
   url: "/pueblos/conjuntos-historicos/sequeros/patrimonio/robledo/"
   parent_url: "/pueblos/conjuntos-historicos/sequeros/"
+
+- id: iglesia-santiago-san-gines-miranda
+  type: Place
+  name: "Iglesia de Santiago y San Ginés"
+  url: "/pueblos/conjuntos-historicos/miranda-del-castanar/patrimonio/iglesia/"
+  parent_url: "/pueblos/conjuntos-historicos/miranda-del-castanar/"
+
+- id: muralla-miranda
+  type: Place
+  name: "Recinto amurallado de Miranda del Castañar"
+  url: "/pueblos/conjuntos-historicos/miranda-del-castanar/patrimonio/muralla/"
+  parent_url: "/pueblos/conjuntos-historicos/miranda-del-castanar/"
+
+- id: plaza-mayor-miranda
+  type: Place
+  name: "Plaza Mayor de Miranda del Castañar"
+  url: "/pueblos/conjuntos-historicos/miranda-del-castanar/patrimonio/plaza-mayor/"
+  parent_url: "/pueblos/conjuntos-historicos/miranda-del-castanar/"
+
+- id: humilladero-mogarraz
+  type: Place
+  name: "Conjunto del Humilladero de Mogarraz"
+  url: "/pueblos/conjuntos-historicos/mogarraz/patrimonio/humilladero/"
+  parent_url: "/pueblos/conjuntos-historicos/mogarraz/"
+
+- id: iglesia-san-martin-tours
+  type: Place
+  name: "Iglesia de San Martín de Tours"
+  url: "/pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/iglesia/"
+  parent_url: "/pueblos/conjuntos-historicos/san-martin-del-castanar/"
+
+- id: plaza-toros-san-martin
+  type: Place
+  name: "Plaza de toros de San Martín del Castañar"
+  url: "/pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/plaza-toros/"
+  parent_url: "/pueblos/conjuntos-historicos/san-martin-del-castanar/"
+
+- id: iglesia-martires-sequeros
+  type: Place
+  name: "Iglesia de los Mártires de Sequeros"
+  url: "/pueblos/conjuntos-historicos/sequeros/patrimonio/iglesia/"
+  parent_url: "/pueblos/conjuntos-historicos/sequeros/"
+
+- id: humilladero-villanueva
+  type: Place
+  name: "Ermita del Humilladero de Villanueva del Conde"
+  url: "/pueblos/conjuntos-historicos/villanueva-del-conde/patrimonio/humilladero/"
+  parent_url: "/pueblos/conjuntos-historicos/villanueva-del-conde/"
