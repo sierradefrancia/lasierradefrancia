@@ -1,4 +1,5 @@
 ---
+description: "Arquitectura civil de Miranda del Castañar: edificios históricos, espacios públicos y funciones de la villa."
 layout: default
 title: "Arquitectura civil y espacios públicos"
 parent: "Patrimonio de Miranda del Castañar"
