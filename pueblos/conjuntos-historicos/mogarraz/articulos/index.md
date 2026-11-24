@@ -26,3 +26,7 @@ Historias nacidas de la investigación, con sus fuentes y preguntas abiertas.
 - [Las mujeres que recuperaron el traje serrano](./las-labranderas/).
 
 - [La huella de los zapateros de Mogarraz](./los-zapateros/).
+
+## Tres formas de recuperar la memoria
+
+Los relatos fotográficos estudian la conservación de imágenes y la transformación del espacio urbano. Los dedicados al marfil y los orives siguen objetos y conocimientos que circularon entre territorios. Los artículos sobre Adela, las labranderas, los zapateros y las vendimias recuperan testimonios de trabajo y transmisión oral. Sus bases documentales se reúnen en [fuentes](../fuentes/) y sus protagonistas se relacionan con el [registro de personajes](/personajes/).
