@@ -348,3 +348,8 @@ Altas provisionales de líneas de investigación, no biografías verificadas. Co
 | Regina Polo Martín | Investigadora de la demarcación judicial salmantina |
 
 Simón Vela: mantener la línea existente, sin duplicación. [Fuentes de Sequeros](/pueblos/conjuntos-historicos/sequeros/fuentes/). [Historia municipal del XIX](https://www.sequeros.es/sigloXIX.asp).
+
+## Candidatos de Villanueva del Conde — 24-11-2026
+
+- Carlos Flores López: interpretación arquitectónica citada en la [incoación de 2015](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-568); edición y página originales pendientes. Verificar si ya existe identidad central antes de asignar ID.
+- Antonio Bazquez: grafía municipal del autor atribuido de retablos en 1795; identidad y documentación original pendientes.
