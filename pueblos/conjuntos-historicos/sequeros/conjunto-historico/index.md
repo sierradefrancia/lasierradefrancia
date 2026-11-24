@@ -1,4 +1,5 @@
 ---
+description: "El conjunto histórico de Sequeros: trama urbana, arquitectura serrana y protección patrimonial."
 layout: default
 title: "Conjunto histórico de Sequeros"
 parent: Sequeros
