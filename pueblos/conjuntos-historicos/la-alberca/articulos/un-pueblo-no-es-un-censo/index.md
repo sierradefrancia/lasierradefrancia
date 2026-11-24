@@ -1,4 +1,5 @@
 ---
+description: "Evolución demográfica de La Alberca, número de hogares y estructura de edades a partir de las series censales."
 layout: default
 title: "Un pueblo no es un censo"
 parent: Artículos
