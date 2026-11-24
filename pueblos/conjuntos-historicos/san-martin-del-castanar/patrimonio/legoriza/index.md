@@ -1,4 +1,5 @@
 ---
+description: "El yacimiento de La Legoriza en San Martín del Castañar: arqueología y testimonios del poblamiento antiguo."
 layout: default
 title: "La Legoriza"
 parent: "Patrimonio de San Martín del Castañar"
