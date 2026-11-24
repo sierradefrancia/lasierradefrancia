@@ -270,3 +270,8 @@ PER-MOG-064: Antonio Calama, vecino ilustrado de Mogarraz citado en el Semanario
 Sagrario Sánchez (PER-MOG-037) figura también como nombre de bordadora en 2023; no se presupone identidad con la informante histórica. Nemesio Sánchez Martín (PER-MOG-060): nueva pista de homenaje escolar en 1910.
 
 Fuentes: [Salamanca en el ayer, 2020](https://www.salamancaenelayer.com/2020/03/tres-angel-sesena-escultores-y.html) y [USAL, encuentros 2023](https://apstrad.usal.es/actividades/encuentros/), extractos recuperados el 24-11-2026. Registros provisionales.
+
+
+## Miranda del Castañar: registro inicial de relaciones
+
+Identificadores de relaciones locales, pendientes de reconciliación con las identidades centrales: MIR-REL-001 Alfonso IX (fundación); 002 Diego López de Estúñiga (condado desde 1457); 003 Aldonza de Avellaneda y Arellano (capitulaciones de 1429); 004 Pedro de Estúñiga (padre de Diego); 005 Julio González (edición diplomática); 006 María Asenjo González y 007 José María Monsalvo Antón (investigación histórica); 008 Jesús Álvarez Villar (monografía citada en la nota 15; nombre de pila pendiente de comprobación). Fuentes: [Arkeolan 14, p. 231](https://diarium.usal.es/monsalvo/files/2012/09/arkeolan-cap92006.pdf) y [Monsalvo, nota 67](https://rua.ua.es/dspace/bitstream/10045/68531/1/Historia-Medieval_19_04.pdf). Extractos recuperados el 24-11-2026. No constituyen ocho nuevas identidades canónicas.
