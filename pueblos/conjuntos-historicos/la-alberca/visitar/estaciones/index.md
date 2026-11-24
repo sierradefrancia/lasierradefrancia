@@ -27,3 +27,11 @@ Reduce las distancias, disfruta de los soportales sin obstaculizar el paso y pre
 [Fiestas](../fiestas-y-tradiciones/) · [Senderismo](../senderismo/)
 
 [Volver a Visitar La Alberca](../)
+
+## Cuatro maneras de volver al mismo pueblo
+
+En primavera, combina el caserío con los robledales de Majadas Viejas y consulta la fecha de su romería. En verano, reserva el Diagosto para comprender el traje de vistas, las ofrendas y la Loa, no solo para fotografiar la fiesta. En otoño, el Camino de las Raíces permite comparar robles y castaños y observar el cambio de color sin necesidad de recolectar setas. En invierno, el patrimonio urbano y una visita cultural abierta ofrecen alternativas a la montaña cuando hay hielo o viento.
+
+[Calendario festivo](../fiestas-y-tradiciones/) · [Vegetación](../../naturaleza/vegetacion/) · [Micología](../../naturaleza/micologia/).
+
+Si llueve, no conviertas automáticamente los soportales en refugio durante horas: deja libres los accesos a viviendas y comercios. Una visita a la casa museo, si abre, puede ayudar a entender cómo se organizaba la vida dentro de las casas serranas.
