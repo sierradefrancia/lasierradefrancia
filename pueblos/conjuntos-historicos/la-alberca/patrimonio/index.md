@@ -23,7 +23,7 @@ La declaración y protección del núcleo urbano como unidad patrimonial se desa
 
 ---
 
-## Arquitectura tradicional albercana
+## [Arquitectura tradicional albercana](/pueblos/conjuntos-historicos/la-alberca/patrimonio/arquitectura-tradicional/)
 
 La arquitectura tradicional constituye uno de los rasgos patrimoniales más reconocibles de La Alberca.
 
