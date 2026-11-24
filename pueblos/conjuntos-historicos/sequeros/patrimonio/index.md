@@ -1,4 +1,5 @@
 ---
+description: "Patrimonio de Sequeros: Robledo, teatro, iglesia, arquitectura tradicional y testimonios de su historia administrativa."
 layout: default
 title: "Patrimonio de Sequeros"
 parent: Sequeros
