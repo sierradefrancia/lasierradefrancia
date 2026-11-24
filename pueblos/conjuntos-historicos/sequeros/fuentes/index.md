@@ -1,4 +1,5 @@
 ---
+description: "Fuentes documentales y bibliográficas para investigar la historia y el patrimonio de Sequeros."
 layout: default
 title: "Fuentes de Sequeros"
 parent: Sequeros
