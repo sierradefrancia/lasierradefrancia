@@ -89,3 +89,11 @@ Identificar los documentos de propiedad y transferencia municipal; recuperar la 
 8. [Revista La Alberca, Fiestas 2024](https://laalberca.com/wp-content/uploads/2024/08/revista-la-alberca-2024.pdf), p. 8.
 
 Referencias consultadas mediante extractos accesibles el 24 de noviembre de 2026. Los originales archivísticos, la memoria técnica íntegra y el recorte histórico no han sido examinados directamente. No se reproducen fotografías ni planos sin licencia comprobada.
+
+## Inventario material y fases de reutilización
+
+La descripción de 1997 permite distinguir cinco apoyos no incorporados a muros y siete incorporados, por diferencia respecto al total de doce. Esta distribución corresponde a la descripción del proyecto, no a un recuento de campo actual. Para cada apoyo interesa registrar posición, sección, material, basa, capitel, motivos y relación con la fábrica adyacente. La numeración debe esperar a un plano comprobado.
+
+La secuencia cuartel–teatro presenta un problema concreto: la construcción de otro cuartel en 1908 no acredita su ocupación inmediata. La noticia de 1919 debe recuperarse con cabecera, fecha y página para distinguir anuncio, adjudicación y comienzo efectivo. La [Plaza Mayor](../plaza-mayor/) conserva el testimonio atribuido a 1911. El artículo [Un edificio, muchas vidas](../../../articulos/un-edificio-muchas-vidas/) interpreta esta reutilización sin resolver artificialmente las discrepancias.
+
+*Ampliación de síntesis del corpus existente; no constituye un nuevo cotejo externo.*
