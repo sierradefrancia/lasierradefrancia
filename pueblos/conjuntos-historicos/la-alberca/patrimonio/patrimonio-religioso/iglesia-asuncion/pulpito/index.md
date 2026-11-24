@@ -47,3 +47,11 @@ Son desconocidos el autor, el encargo, el precio, las dimensiones, la fecha de t
 4. Andrés Barés Calama, [El púlpito](https://salamancartvaldia.es/noticia/2016-01-19-el-pulpito-195634), Salamanca RTV al Día, 19 de enero de 2016.
 
 No se reproducen fotografías de terceros ni se presenta una lectura epigráfica de campo.
+
+## Un mueble anterior a la reconstrucción
+
+La datación de 1572 propuesta por Alba Rebollar Antúnez precede en 157 años al contrato del nuevo templo. Esa diferencia hace especialmente relevante investigar su instalación original y su eventual traslado. No demuestra que haya permanecido siempre en la misma posición.
+
+La comparación con Cantalpino y Alba de Tormes debe centrarse en estructura, iconografía y epigrafía, sin atribuir un taller común. La [monografía del templo](../) proporciona el contexto constructivo y el estudio de [retablos](../retablos-y-capillas/) permite distinguir programas iconográficos de épocas diferentes.
+
+*Síntesis del corpus documental existente; sin nuevo cotejo externo en esta ampliación.*
