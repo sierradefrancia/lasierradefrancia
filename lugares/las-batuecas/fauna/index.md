@@ -71,3 +71,8 @@ Este índice zoológico inicial separa las escalas territoriales. Se ampliará �
 Marco de gestión: [Protección ambiental y gestión territorial](/lugares/las-batuecas/proteccion-ambiental/).
 
 Estudio histórico: [Historia de la recuperación de fauna](/lugares/las-batuecas/recuperacion-fauna/).
+
+Estudios complementarios:
+
+- [El lince ibérico: memoria y evidencia](/lugares/las-batuecas/lince-iberico/).
+- [Buitre negro y cigüeña negra](/lugares/las-batuecas/aves-conservacion/).

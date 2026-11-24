@@ -61,3 +61,5 @@ El expediente SA-FOR-2/2024 de la Junta distingue el monte Santuario de la Peña
 Consultados textos y extractos; no se ha realizado análisis SIG ni verificado la normativa posterior a la orden de revisión. Véanse [protección patrimonial](/lugares/las-batuecas/proteccion-patrimonial/), [río Batuecas](/lugares/las-batuecas/rio-batuecas/) y [aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-tradicionales/).
 
 Antecedentes de conservación: [Historia de la recuperación de fauna](/lugares/las-batuecas/recuperacion-fauna/).
+
+El [inventario estatal de la ZEPA ES4150005](https://iepnb.gob.es/areas-tematicas/espacios-protegidos/ES4150005_ZEPA/las-batuecas-sierra-de-francia--zepa) indica 1998 y 30.195,16 ha. La diferencia de 25,90 ha respecto a la cifra de 30.221,06 ha exige cotejo cartográfico. La designación del espacio actual no debe confundirse con el antecedente Arca y Buitrera de 1987.

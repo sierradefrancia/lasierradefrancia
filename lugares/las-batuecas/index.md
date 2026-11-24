@@ -33,6 +33,9 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 
 ## Estudios e inventarios
 
+- [El lince ibérico: memoria y evidencia](/lugares/las-batuecas/lince-iberico/).
+- [Buitre negro y cigüeña negra](/lugares/las-batuecas/aves-conservacion/).
+
 - [Historia de la recuperación de fauna](/lugares/las-batuecas/recuperacion-fauna/): reintroducciones, memoria profesional y conservación.
 
 - [Protección ambiental y gestión territorial](/lugares/las-batuecas/proteccion-ambiental/): figuras de protección, planificación y montes.
