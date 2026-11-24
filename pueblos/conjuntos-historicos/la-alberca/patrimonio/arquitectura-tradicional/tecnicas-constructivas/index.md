@@ -1,4 +1,5 @@
 ---
+description: "Técnicas constructivas de La Alberca: entramados, muros de piedra, madera de castaño y estructura de las casas tradicionales."
 layout: default
 title: Materiales y técnicas constructivas
 parent: Arquitectura tradicional
