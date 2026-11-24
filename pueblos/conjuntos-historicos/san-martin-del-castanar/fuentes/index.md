@@ -19,3 +19,5 @@ permalink: /pueblos/conjuntos-historicos/san-martin-del-castanar/fuentes/
 ## Pendientes
 
 Catálogo urbanístico, diplomas episcopales, inventarios parroquiales, cartografía y series demográficas. No se certifican fuentes no consultadas.
+
+Cotejo efectivo de pp. 14–20 del catálogo y p. 32808 del BOE en esta ejecución. El catálogo contiene errores en las referencias legales de p. 20; prevalece la disposición original para el número 3233/1982. No constituye lectura íntegra.
