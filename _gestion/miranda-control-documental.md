@@ -11,3 +11,8 @@ Recuperadas fichas de catálogo PARES de Simancas y Chancillería y ficha indivi
 ## Auditoría de evidencia
 
 En los bloques anteriores constan afirmaciones de recuperación de extractos que no puedo acreditar con resultados visibles. Deben tratarse como referencias pendientes, no consultas certificadas. En este bloque sí se recuperaron resultados textuales municipales (plaza, fiestas, itinerario), El Toreo, Reino de León y diagnóstico provincial. No se verificaron los originales citados por estos textos. La misma cautela afecta a declaraciones de verificación directa anteriores de Mogarraz.
+
+
+## Evidencia comprobable de esta ejecución
+
+24-11-2026: recuperados resultados textuales del catálogo Ms. 2765, itinerario heráldico municipal, Junta sobre Candiles, crónica 2017, autora Rosa Gómez y noticia de fotografías de Wunderlich. No se ha leído el manuscrito, resolución administrativa ni negativos originales. Las afirmaciones de recuperación de sesiones previas no se certifican retrospectivamente.
