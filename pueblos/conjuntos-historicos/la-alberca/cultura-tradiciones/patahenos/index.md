@@ -1,4 +1,5 @@
 ---
+description: "Los patahenos de La Alberca en la documentación etnográfica de José Luis Puerto y las preguntas sobre su continuidad."
 layout: default
 title: Los Patahenos
 parent: Cultura y tradiciones
