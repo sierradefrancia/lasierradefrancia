@@ -27,6 +27,7 @@ Inventario inicial de entidades, no de declaraciones individuales:
 | VDC-PAT-010 | Bancales |
 | VDC-PAT-011 | Esgrafiados |
 | VDC-PAT-012 | Infraestructura taurina temporal |
+| VDC-PAT-013 | Pilares y abastecimiento |
 
 Pendiente individualizar inmuebles, accesos y bienes muebles.
 
@@ -38,3 +39,9 @@ Pendiente individualizar inmuebles, accesos y bienes muebles.
 - [Iglesia de San Fabián y San Sebastián](../patrimonio/iglesia/)
 - [Ermita del Humilladero](../patrimonio/humilladero/)
 - [Arquitectura doméstica y esgrafiados](../patrimonio/arquitectura/)
+
+- [Plazas y Ayuntamiento](./plazas/)
+- [Bancales](./bancales/)
+- [Fuentes y abastecimiento](./agua/)
+
+El informe ambiental, p. 55, refiere un catálogo de 80 edificios, fichas 79 iglesia y 80 ermita; recuperar catálogo íntegro antes de individualizar. [Informe](https://www.lasalina.es/documentacion/normasurbanisticas/355_1_InformeSostenibilidadAmbiental.pdf).
