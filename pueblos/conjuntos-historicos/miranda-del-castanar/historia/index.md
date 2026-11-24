@@ -11,6 +11,27 @@ permalink: /pueblos/conjuntos-historicos/miranda-del-castanar/historia/
 
 # Historia de Miranda del Castañar
 
+## De la villa regia a la cabecera señorial
+
+Las referencias de 1213 y 1215 permiten distinguir la formación de la villa y la fijación de su territorio. La investigación académica registrada remite al reinado de Alfonso IX y a un diploma publicado por Julio González. La separación posterior de Montemayor muestra que aquella organización territorial no permaneció inmutable.
+
+La estimación académica de dieciocho lugares y unos 250 kilómetros cuadrados corresponde a la tierra histórica de Miranda, no al municipio contemporáneo. Reconstruir sus límites exige identificar los lugares dependientes en cada periodo.
+
+## El siglo XV y la formación de la casa nobiliaria
+
+La concesión condal de 1457 se relaciona con la trayectoria de los Estúñiga y los Avellaneda. La [investigación del condado](./condado/) distingue el título nobiliario de los derechos jurisdiccionales concretos. El [castillo](../patrimonio/castillo/) ofrece una dimensión material de este periodo, aunque sus fases constructivas no pueden fecharse únicamente por la concesión del título.
+
+## Gobierno y transformación territorial
+
+Las [ordenanzas](./ordenanzas/) y los [documentos de archivo](./archivo-jurisdiccional/) permiten investigar el abastecimiento, los caminos, los recursos forestales y los conflictos entre instituciones.
+
+La emancipación atribuida a [Villanueva del Conde en 1755](../../villanueva-del-conde/historia/) y la de [Sequeros en 1756](../../sequeros/historia/villazgo/) abren una etapa diferente. La posterior formación del partido judicial de Sequeros en 1834 pertenece a otra organización administrativa. Ambas transformaciones deben estudiarse sin confundir jurisdicción señorial y justicia estatal.
+
+## Registro documental anterior
+
+Las referencias y estados de consulta siguientes proceden del expediente previo; su cotejo reproducible sigue pendiente.
+
+
 ## Cronología y jurisdicción
 
 La web municipal atribuye a una inscripción parroquial la fecha de 1213 (era hispánica 1251) y refiere una carta de términos de 8 de octubre de 1215. Son pistas para buscar la inscripción y el diploma, no una comprobación de sus originales. La misma fuente fecha el condado el 9 de febrero de 1457, bajo Enrique IV, a favor de Diego López de Zúñiga. La ficha turística provincial del castillo indica 1547: discrepancia pendiente de cotejo del privilegio.
