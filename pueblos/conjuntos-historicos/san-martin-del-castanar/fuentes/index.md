@@ -33,3 +33,7 @@ La consulta de estas tres fuentes y la ficha técnica y tabla arqueológica del 
 ## Rectificación de trazabilidad
 
 No se dispone en esta sesión de resultados externos que permitan acreditar las consultas directas declaradas anteriormente. Todas esas certificaciones quedan suspendidas hasta cotejo reproducible, incluidas las referencias legales y arqueológicas. Se conservan como pistas; esta nota prevalece sobre declaraciones previas. Los expedientes urbanos nuevos derivan de la ficha general, no de nuevas lecturas externas.
+
+## Verificación posterior a la rectificación
+
+En esta ejecución del 24-11-2026 sí se recuperaron los textos originales: RD 3233/1982, disposición 31276, [p. 32808](https://www.boe.es/boe/dias/1982/11/29/pdfs/A32808-32808.pdf) y [p. 32809](https://www.boe.es/boe/dias/1982/11/29/pdfs/A32809-32809.pdf), anexo completo; RD 2374/1981, disposición 24597, p. 24806. Se recuperó asimismo la ficha técnica e introducción (pp. 2–3) del catálogo Aratikos de 2006: autoría Palomino Lázaro y González Díez, redacción urbanística Pilar Pérez Fernández, prospección sistemática Arquetipo 2000. Estos estados sustituyen la suspensión anterior únicamente para los pasajes indicados. Resto de referencias pendiente de verificación.
