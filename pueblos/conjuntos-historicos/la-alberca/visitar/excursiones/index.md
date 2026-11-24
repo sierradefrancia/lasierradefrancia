@@ -24,3 +24,13 @@ Puedes ampliar el viaje hacia Las Hurdes, Ciudad Rodrigo o Béjar y Candelario. 
 Consulta la [guía según tu tiempo](../segun-tu-tiempo/) y las secciones territoriales del atlas. Las excursiones no constituyen un itinerario de carretera verificado.
 
 [Volver a Visitar La Alberca](../)
+
+## Qué pueblo elegir según tus intereses
+
+- [Mogarraz](/pueblos/conjuntos-historicos/mogarraz/): retratos en fachadas y relación entre memoria vecinal y arquitectura.
+- [San Martín del Castañar](/pueblos/conjuntos-historicos/san-martin-del-castanar/): castillo, plaza y paisaje de montaña.
+- [Miranda del Castañar](/pueblos/conjuntos-historicos/miranda-del-castanar/): recinto amurallado y arquitectura vinculada a su historia señorial.
+- [Sequeros](/pueblos/conjuntos-historicos/sequeros/): patrimonio urbano y tradición cultural.
+- [Villanueva del Conde](/pueblos/conjuntos-historicos/villanueva-del-conde/): disposición singular del caserío y espacios interiores.
+
+Para un contraste paisajístico, elige la [Peña de Francia](/lugares/pena-de-francia/visitar/) o [Las Batuecas](/lugares/las-batuecas/). La primera invita a mirar el territorio desde la altura; el segundo, a descubrirlo desde el fondo del valle. No los planteamos como una única ruta a pie. Consulta accesos y condiciones antes de cada excursión.
