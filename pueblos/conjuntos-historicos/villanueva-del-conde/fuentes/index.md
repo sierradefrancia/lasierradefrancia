@@ -22,3 +22,7 @@ Consulta 24-11-2026.
 [Declaración oficial](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2397) · [Incoación](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-568).
 
 - VDC-FUE-005: [Guía comarcal](https://laalberca.com/wp-content/uploads/2022/06/sierra-de-francia.pdf), extracto sobre villazgo de 1755; documento original pendiente.
+
+- VDC-FUE-006: [Informe de sostenibilidad ambiental](https://www.lasalina.es/documentacion/normasurbanisticas/355_1_InformeSostenibilidadAmbiental.pdf), extracto p. 55.
+- VDC-FUE-007: [Sierras de Salamanca](https://www.sierrasdesalamanca.es/villanueva-del-conde/), relato cooperativo coincidente con municipal.
+- VDC-FUE-008: [ACEVIN](https://acevin.es/villanueva-del-conde), referencia al Rufete local; fuente promocional.
