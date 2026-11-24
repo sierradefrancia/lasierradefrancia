@@ -1,4 +1,5 @@
 ---
+description: "Mogarraz antes de los retratos de sus fachadas: historia, identidad y memoria de sus habitantes."
 layout: default
 title: "Antes de que las fachadas tuvieran ojos"
 parent: Artículos de Mogarraz
