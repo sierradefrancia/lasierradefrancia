@@ -28,7 +28,6 @@ permalink: /pueblos/conjuntos-historicos/miranda-del-castanar/patrimonio/
 | MIR-PAT-011 | Humilladero | Decreto de 1973 |
 | MIR-PAT-012 | Acueducto | Decreto de 1973 |
 | MIR-PAT-013 | Plaza de Armas y uso taurino | Diputación |
-
 | MIR-PAT-014 | Casa del Escribano | Identificación turística provisional |
 | MIR-PAT-015 | Casa de los Tejeda | Identificación turística provisional |
 | MIR-PAT-016 | Carnicería Real | Identificación turística provisional |
@@ -45,7 +44,7 @@ El debate parlamentario de 6 de mayo de 2005 recoge problemas de conservación d
 - [Cortes de Castilla y León, sesión 297, 2005](https://www.ccyl.es/Publicaciones/TextoEntradaDiario?Legislatura=6&NumeroPublicacion=297&SeriePublicacion=DS%28C%29+).
 - [Diputación, Miranda](https://turismo.lasalina.es/es/destinos/sierra-de-francia/nuestros-pueblos/miranda-del-casta%C3%B1ar).
 
-Extractos consultados el 24-11-2026. Inventario provisional, no exhaustivo.
+Referencias de trabajo pendientes de cotejo directo reproducible. La atribución de cada elemento al decreto debe verificarse en el texto íntegro. Inventario provisional, no exhaustivo.
 
 
 ## Expedientes
