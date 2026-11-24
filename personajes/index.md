@@ -363,3 +363,21 @@ Relaciones artísticas pendientes de reconciliación: Miguel Poza, Virginia Calv
 ## La Alberca: Junta de conservación de 1940
 
 La Orden de 11 de diciembre, [BOE de 29 de diciembre de 1940, p. 8962](https://www.boe.es/gazeta/dias/1940/12/29/pdfs/BOE-1940-364.pdf), cotejada el 24-11-2026, confirma el nombramiento de Ismael Blat Monzón, pintor (ampliar la relación existente de Ismael Blat), Isidro Puerto González, farmacéutico; Luciano Barcala Mazo, médico; Pedro Gómez Luis, maestro cantero; y César González, maestro nacional. El alcalde y el párroco figuran por cargo. Registrar estas relaciones sin duplicar identidades; investigar actas y trayectorias antes de atribuir obras específicas.
+
+## La Alberca: representación concejil y fiscal en 1791
+
+Candidatos identificados en el [poder de 5 de junio de 1791](/pueblos/conjuntos-historicos/la-alberca/historia/articulos/la-alberca-1791-epidemia-hambre-impuestos/), según la investigación existente. Original no cotejado en esta revisión.
+
+| Persona | Relación documental |
+|---|---|
+| Manuel Maíllo de Juan | Alcalde |
+| Antonio de los Hoyos y Huebla | Alcalde |
+| Juan de los Hoyos de Manuel | Regidor |
+| Manuel Calama de Pedro | Regidor |
+| Antonio González Pabón | Procurador síndico general del común |
+| Joseph de los Hoyos | Apoderado |
+| Juan del Puerto | Apoderado |
+| Juan Antonio Pies | Apoderado |
+| Francisco García Pascual Ambrón | Administrador principal de rentas de Plasencia y su partido |
+
+Agustín de Puerto: litigante en el expediente sobre [mayordomía concejil](/pueblos/conjuntos-historicos/la-alberca/historia/articulos/los-mayordomos-del-concejo/), hacia 1756–1760. Esteban Sánchez: contratista de las [escuelas de 1935](/pueblos/conjuntos-historicos/la-alberca/historia/articulos/las-escuelas-de-1935/), según Puerto (2015). Joaquín Secall y Domingo: candidato a la identificación del arquitecto citado como Secall, no autoría confirmada. No fusionar Antonio González Pabón con Antonio González Pavón sin cotejar identidad y cronología. Tampoco inferir parentescos a partir de apellidos o fórmulas nominales.
