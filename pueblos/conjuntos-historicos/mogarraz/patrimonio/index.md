@@ -18,6 +18,13 @@ permalink: /pueblos/conjuntos-historicos/mogarraz/patrimonio/
 - [Torre campanario de Mogarraz](./torre/)
 - [Humilladero, cruz y fuente](./humilladero/)
 
+- [Fuentes](./fuentes/).
+- [Casa de las Artesanías](./casa-artesanias/).
+
+## Patrimonio por localizar
+
+Antonio Cea Gutiérrez menciona una plaqueta de marfil atribuida al siglo XI en su pregón de 2011, publicado en [La Peña de Mogarraz de 2012](https://mogarraz.es/_mgz_pdf/mogarraz_2012.pdf). La ficha del Metropolitan Museum y la procedencia están pendientes de identificación. Extracto localizado el 24-11-2026.
+
 ## Iglesia y torre
 
 El expediente parlamentario de 2005 atribuye al maestro cantero Miguel del Peral la torre exenta, con obras entre febrero de 1684 y febrero de 1687. La revista local de 2009 también menciona el inicio en 1684. Debe comprobarse su posible dependencia de una fuente común y localizar contratos de obra.
@@ -42,6 +49,10 @@ La Peña de Mogarraz de 2009 enumera seis ermitas: Santa Lucía, San Blas, San P
 | MOG-PAT-010 | Retablo mayor | Restauración citada en 2005 |
 | MOG-PAT-011 | Losas funerarias | Descripción parlamentaria |
 | MOG-PAT-012 | Virgen del Arenal | Referencia local de 2011 |
+| MOG-PAT-013 | Fuente de Arriba | Fecha atribuida 1672 |
+| MOG-PAT-014 | Fuente de Cabolaldea | Fecha atribuida 1672 |
+| MOG-PAT-015 | Dinteles del Altozano | Interpretación comercial pendiente |
+| MOG-PAT-016 | Plaqueta de marfil | Procedencia pendiente |
 
 ## Fuentes
 
