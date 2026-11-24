@@ -30,8 +30,8 @@ Inventario inicial, no exhaustivo. Los identificadores distinguen edificios, esp
 - SEQ-PAT-015: [Casa de Melchor García](./calle-calzada/)
 - SEQ-PAT-016: [Casa de Gil Sánchez](./calle-calzada/)
 - SEQ-PAT-017: [Casa de José María Anaya](./calle-calzada/)
-- SEQ-PAT-018: Parque del Barrero
-- SEQ-PAT-019: Cabezuela
+- SEQ-PAT-018: [Parque del Barrero](./barrero-cabezuela/)
+- SEQ-PAT-019: [Cabezuela](./barrero-cabezuela/)
 - SEQ-PAT-020: [Arquitectura doméstica](./arquitectura-tradicional/)
 
 Anexo BOE y guía provincial, páginas PDF 2–11. La alhóndiga y el juzgado pueden corresponder a fases del mismo inmueble; conservar la relación sin duplicar edificios físicos.
