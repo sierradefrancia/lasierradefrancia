@@ -33,3 +33,11 @@ Los edificios civiles y espacios públicos permiten conocer la organización mun
 Primera serie de seis monografías incorporada. Permanecen abiertas la revisión de fuentes, la ampliación del inventario y las investigaciones específicas de cada inmueble.
 
 Los [elementos patrimoniales](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/) asociados se estudian en sus propias monografías.
+
+## Leer las instituciones a través de sus espacios
+
+La publicación de las ordenanzas de 1515 bajo el pórtico parroquial y la custodia del archivo en la iglesia descrita en 1857 muestran que la historia administrativa no se limita al Ayuntamiento. La inscripción consistorial de 1774 pertenece a una secuencia material distinta.
+
+La Casa Ducal reúne usos atribuidos de abastecimiento, cuartel y teatro; el hospital relaciona asistencia y rentas hurdanas; las escuelas permiten estudiar la transición entre organización docente y arquitectura específica. Los caminos conectan estos espacios con el territorio. Para comparar sus cronologías, véase [documentos y cronología](../../historia/documentos-cronologia/) y el [inventario patrimonial](../inventario/).
+
+*Ampliación de síntesis del corpus existente; no constituye un nuevo cotejo externo.*
