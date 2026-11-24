@@ -1,13 +1,13 @@
 # Seguimiento editorial de conjuntos históricos
 
-Corte verificable: 82441aa40e260ad99377c7a10a4e7045ca4966e7
+Corte verificable: ad656effdfa7b0aa7b9dc4b458a2d86d1b9cb242
 Base del ciclo: 5d36dd2ed27285a5b0b02885e2909821c708c520
 
-Recuento de rutas Markdown únicas con diferencias netas entre ambos commits (API compare de GitHub). No equivale a validación científica ni técnica. Excluir gestión y personajes del denominador territorial.
+Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No equivale a validación científica ni técnica. Excluir gestión y personajes del denominador territorial.
 
 | Pueblo | Rutas modificadas | Total existente |
 |---|---:|---:|
-| la-alberca | 60 | 142 |
+| la-alberca | 68 | 142 |
 | miranda-del-castanar | 32 | 32 |
 | mogarraz | 39 | 39 |
 | san-martin-del-castanar | 26 | 26 |
@@ -33,9 +33,17 @@ Recuento de rutas Markdown únicas con diferencias netas entre ambos commits (AP
 - cultura-tradiciones/pendon-y-trago/index.md
 - cultura-tradiciones/traje-de-vistas/index.md
 - historia/alberca-hurdes/index.md
+- historia/articulos/index.md
+- historia/articulos/las-escuelas-de-1935/index.md
 - historia/concejo-ordenanzas/index.md
+- historia/conflictos-crisis/index.md
 - historia/documentos-cronologia/index.md
 - historia/edad-media/index.md
+- historia/index.md
+- historia/investigaciones-pendientes/index.md
+- historia/origenes/index.md
+- historia/siglos-xix-xx/index.md
+- historia/sociedad-vida-cotidiana/index.md
 - patrimonio/arquitectura-tradicional/arquitectura-y-clima/index.md
 - patrimonio/arquitectura-tradicional/casa-satur-juanela/index.md
 - patrimonio/arquitectura-tradicional/conservacion/index.md
@@ -79,6 +87,6 @@ Recuento de rutas Markdown únicas con diferencias netas entre ambos commits (AP
 
 ## Procedimiento
 
-Actualizar mediante comparación desde la base fija hasta el nuevo HEAD; comprobar límite API de 300 archivos y comparar árboles si se alcanza. No sumar manualmente. Los cambios revertidos no cuentan como diferencias netas. Pendiente auditoría de enlaces y fuentes.
+Comparar desde base fija hasta HEAD; comprobar límite API de 300 archivos y comparar árboles si se alcanza. No sumar manualmente. Los cambios revertidos no cuentan como diferencias netas. Pendiente auditoría de enlaces y fuentes.
 
-Bloque 32: doce archivos culturales intervenidos, uno ya incluido (Pendón y Trago). Sin nuevo cotejo externo.
+Bloques 33–34: ocho intervenciones territoriales y una transversal en personajes; sin nuevo cotejo externo.
