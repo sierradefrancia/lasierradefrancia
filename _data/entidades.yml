@@ -1,7 +1,7 @@
 
 # ====================================================
 # LA SIERRA DE FRANCIA
-# REGISTRO CENTRAL DE ENTIDADES — V4
+# REGISTRO CENTRAL DE ENTIDADES — V5
 # ====================================================
 #
 # Fuente de datos para Schema.org.
@@ -159,3 +159,51 @@
   name: "Iglesia de San Fabián y San Sebastián de Villanueva del Conde"
   url: "/pueblos/conjuntos-historicos/villanueva-del-conde/patrimonio/iglesia/"
   parent_url: "/pueblos/conjuntos-historicos/villanueva-del-conde/"
+
+- id: ayuntamiento-la-alberca
+  type: Place
+  name: "Casa consistorial de La Alberca"
+  url: "/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/ayuntamiento/"
+  parent_url: "/pueblos/conjuntos-historicos/la-alberca/"
+
+- id: casa-ducal-la-alberca
+  type: Place
+  name: "Casa Ducal y Teatro Municipal Dolores Mateos"
+  url: "/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/casa-ducal/"
+  parent_url: "/pueblos/conjuntos-historicos/la-alberca/"
+
+- id: hospital-la-alberca
+  type: Place
+  name: "Antiguo Hospital de Menesterosos y Peregrinos de La Alberca"
+  url: "/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/hospital/"
+  parent_url: "/pueblos/conjuntos-historicos/la-alberca/"
+
+- id: ermita-san-blas-la-alberca
+  type: Place
+  name: "Ermita de San Blas de La Alberca"
+  url: "/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/san-blas/"
+  parent_url: "/pueblos/conjuntos-historicos/la-alberca/"
+
+- id: ermita-san-antonio-la-alberca
+  type: Place
+  name: "Ermita de San Antonio de La Alberca"
+  url: "/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/san-antonio/"
+  parent_url: "/pueblos/conjuntos-historicos/la-alberca/"
+
+- id: alhondiga-miranda
+  type: Place
+  name: "Alhóndiga de Miranda del Castañar"
+  url: "/pueblos/conjuntos-historicos/miranda-del-castanar/patrimonio/alhondiga/"
+  parent_url: "/pueblos/conjuntos-historicos/miranda-del-castanar/"
+
+- id: convento-gracia-san-martin
+  type: Place
+  name: "Conjunto del antiguo convento de Nuestra Señora de Gracia"
+  url: "/pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/convento-gracia/"
+  parent_url: "/pueblos/conjuntos-historicos/san-martin-del-castanar/"
+
+- id: santuario-robledo-sequeros
+  type: Place
+  name: "Santuario de Nuestra Señora del Robledo"
+  url: "/pueblos/conjuntos-historicos/sequeros/patrimonio/robledo/"
+  parent_url: "/pueblos/conjuntos-historicos/sequeros/"
