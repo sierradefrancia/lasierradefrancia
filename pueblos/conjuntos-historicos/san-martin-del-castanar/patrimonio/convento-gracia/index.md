@@ -1,4 +1,5 @@
 ---
+description: "El convento de Nuestra Señora de Gracia de San Martín del Castañar: historia religiosa, documentación y restos patrimoniales."
 layout: default
 title: "Convento de Nuestra Señora de Gracia"
 parent: "Patrimonio de San Martín del Castañar"
