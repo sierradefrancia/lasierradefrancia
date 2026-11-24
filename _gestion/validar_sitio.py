@@ -40,8 +40,9 @@ class Page(HTMLParser):
             self.h1_count += 1
         if tag == "meta" and a.get("name", "").lower() == "viewport":
             self.viewport = True
-        if tag == "title":
+        if tag == "title" and not getattr(self, "title_seen", False):
             self.in_title = True
+            self.title_seen = True
         if tag == "html":
             self.lang = a.get("lang", "")
         if tag == "meta" and a.get("name", "").lower() == "description":
