@@ -13,3 +13,7 @@ permalink: /pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/conv
 SMC-PAT-012. El estudio municipal (p. 15) atribuye la fundación franciscana a 1430, registra enseñanza de gramática desde 1523 y noviciado desde 1770. Investigar el destino de biblioteca, imágenes y demás bienes tras el abandono decimonónico.
 
 Fuente: [Aratikos, catálogo arqueológico, 2006](https://www.lasalina.es/documentacion/normasurbanisticas/286_1_Informe%20Arqueol%C3%B3gico.pdf), pasajes indicados cotejados el 24-11-2026. Fuente secundaria para los acontecimientos históricos.
+
+## Protección del enclave
+
+La inclusión de las ruinas de Gracia en el conjunto histórico está acreditada por el [anexo del RD 3233/1982](https://www.boe.es/boe/dias/1982/11/29/pdfs/A32809-32809.pdf), p. 32809, cotejado directamente el 24-11-2026. Esto no acredita por sí solo la cronología fundacional ni una declaración monumental independiente.
