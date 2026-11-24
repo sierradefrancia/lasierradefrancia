@@ -10,6 +10,27 @@ permalink: /pueblos/conjuntos-historicos/miranda-del-castanar/patrimonio/muralla
 
 # Muralla y puertas
 
+## Un recinto que organiza la villa
+
+La muralla permite leer la relación entre el emplazamiento, los accesos y la estructura urbana de Miranda. Las cuatro puertas identificadas en el expediente constituyen puntos de comunicación diferenciados. La tabla de orientaciones conserva las atribuciones municipales, pendientes de comprobación cartográfica.
+
+La cronología amplia del catálogo técnico y la atribución municipal al XIII no permiten fechar todos los lienzos. Las medidas de perímetro y altura requieren identificar el método de medición y los tramos incluidos.
+
+## Puertas y relaciones territoriales
+
+San Ginés se relaciona espacialmente con el [castillo](../castillo/). La puerta de Nuestra Señora de la Cuesta conecta la lectura del recinto con el camino hacia la [ermita](../ermitas/). Los blasones atribuidos a distintas familias deben contrastarse con la investigación de [heráldica](../heraldica/).
+
+La comparación con la [manzana central de Villanueva del Conde](/pueblos/conjuntos-historicos/villanueva-del-conde/patrimonio/manzana-huertitas/) permite distinguir un recinto de muralla independiente de un perímetro formado por viviendas. No demuestra que ambos respondieran a una misma finalidad militar.
+
+## Un patrimonio sujeto a intervenciones
+
+Las referencias al plan director de 2003, las actuaciones mencionadas en 2007 y los riesgos recogidos por el Procurador del Común permiten orientar una cronología de conservación. Deben distinguirse proyectos, obras ejecutadas y diagnósticos. Ninguna de esas referencias sustituye una inspección actual ni permite garantizar el acceso a los pasos de ronda.
+
+## Registro documental anterior
+
+Las referencias y estados de consulta siguientes proceden del expediente previo; su cotejo reproducible sigue pendiente.
+
+
 MIR-PAT-002 a 006. El Ayuntamiento atribuye el recinto al XIII y cifra su perímetro sin castillo en 631 m, altura 7–10 m. El catálogo técnico SA-032b asigna cronología principal 1100–1369. No son fechas de cada tramo.
 
 | Puerta | Orientación | Particularidad según Ayuntamiento |
