@@ -29,6 +29,8 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 
 ## Estudios e inventarios
 
+- [Geología y relieve](/lugares/las-batuecas/geologia/): dimensiones del inventario CI077, estructura, erosión y soporte rupestre.
+
 - [Protección patrimonial de Las Batuecas](/lugares/las-batuecas/proteccion-patrimonial/): evolución jurídica, delimitación y fuentes originales.
 - [Inventario arqueológico de Las Batuecas](/lugares/las-batuecas/inventario-arqueologico/): registro documental de los quince conjuntos del expediente de 1999.
 
