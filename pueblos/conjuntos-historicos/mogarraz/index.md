@@ -4,7 +4,8 @@ title: Mogarraz
 parent: Conjuntos históricos
 grand_parent: Pueblos
 nav_order: 3
-has_children: false
+has_children: true
+last_modified_at: 2026-11-24
 description: "Descubre Mogarraz, en la Sierra de Francia: conjunto histórico, retratos de Florencio Maíllo, arquitectura tradicional, patrimonio, historia, naturaleza y consejos para visitarlo."
 permalink: /pueblos/conjuntos-historicos/mogarraz/
 ---
@@ -22,6 +23,16 @@ A este patrimonio se suma una intervención artística contemporánea que ha tra
 Pero Mogarraz es mucho más que el conocido «pueblo de las caras».
 
 Su arquitectura, sus tradiciones, su historia y su relación con el paisaje permiten conocer una parte importante de la identidad cultural de la Sierra de Francia.
+
+---
+
+## Investigaciones sobre Mogarraz
+
+- [Conjunto histórico de Mogarraz](./conjunto-historico/).
+- [Historia de Mogarraz](./historia/).
+- [Artesanía y oficios de Mogarraz](./artesania/).
+- [Memoria visual de Mogarraz](./memoria-visual/).
+- [Patrimonio de Mogarraz](./patrimonio/).
 
 ---
 
