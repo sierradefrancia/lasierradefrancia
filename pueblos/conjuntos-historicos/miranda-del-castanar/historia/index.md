@@ -41,3 +41,6 @@ Extractos académicos recuperados el 24-11-2026. Los diplomas originales siguen 
 
 - [La Casa y el condado de Miranda](./condado/).
 - [Documentos de la villa y su tierra](./archivo-jurisdiccional/).
+
+
+- [Las ordenanzas de Miranda](./ordenanzas/).
