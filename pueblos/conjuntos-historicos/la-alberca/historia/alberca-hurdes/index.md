@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: La Alberca y Las Hurdes
 parent: Historia
@@ -647,3 +648,8 @@ Las resoluciones favorables a La Alberca tampoco eliminan la necesidad de estudi
 Comprender esta historia exige reconocer los derechos documentados, las desigualdades existentes, las decisiones judiciales y las experiencias de las poblaciones afectadas.
 
 **La finalidad de esta investigación no es juzgar retrospectivamente a dos comunidades, sino explicar con documentos cómo se relacionaron, qué conflictos afrontaron y cómo cambió su organización territorial.**
+
+
+## Conexiones documentales y actualización
+
+La fecha 1289 es la preferida provisionalmente por la equivalencia de la era 1327 (menos 38 años); no se ha cotejado el pergamino. Véase [discusión cronológica](../edad-media/).
