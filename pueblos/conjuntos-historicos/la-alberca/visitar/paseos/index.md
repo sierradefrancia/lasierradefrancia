@@ -24,3 +24,11 @@ Pregunta por los accesos al Camino de las Raíces y considera caminar solo un tr
 Estas son propuestas de paseo, no circuitos medidos. No hemos comprobado todavía distancias, pendientes ni continuidad de aceras. Si buscas una caminata más larga, consulta [Senderismo](../senderismo/).
 
 [Volver a Visitar La Alberca](../)
+
+## Tres paseos con una historia diferente
+
+**La plaza y el poder concejil.** Plaza Mayor, Ayuntamiento y Casa Ducal: compara los soportales y busca la inscripción de 1774. La [historia de la plaza](../../patrimonio/patrimonio-civil/plaza-mayor/) explica por qué este espacio fue mucho más que un mercado.
+
+**Agua y memoria.** Busca el crucero y la fuente de Barrio Nuevo en el entorno de la calle Hospicio. Compara el pilón con la fuente de la plaza y descubre cómo las cruces se integran en el espacio cotidiano. [Crucero de Barrio Nuevo](../../patrimonio/elementos-patrimoniales/crucero-barrio-nuevo/).
+
+**Devoción en los bordes del pueblo.** Elige San Antonio o San Blas como destino, sin necesidad de unir ambos. En San Antonio busca el dintel fechado en 1670; en San Blas, conoce la relación con el Pendón. Regresa por calles públicas señalizadas. No se han medido estos recorridos.
