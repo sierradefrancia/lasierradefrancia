@@ -65,6 +65,14 @@ Ensayos narrativos basados en los expedientes del atlas, con límites documental
 - [La voz de Tomás Hoyos](./la-voz-de-tomas-hoyos/)
 - [Cuando las castañas también hablaban de amor](./castanas-y-bodas/)
 
+### Historias de otros siglos
+
+- [La medida que buscaba acabar con las disputas](./la-medida-grabada-en-la-piedra/)
+- [Un día de septiembre de 1515](./un-dia-de-septiembre-de-1515/)
+- [Las colmenas que llegaron a los tribunales](./las-colmenas-que-llegaron-a-los-tribunales/)
+- [El año que no cuadraba](./el-ano-que-no-cuadraba/)
+- [El derecho a ser escuchado](./el-derecho-a-ser-escuchado/)
+
 ### Historias documentales
 
 - [La Alberca en 1791](../historia/articulos/la-alberca-1791-epidemia-hambre-impuestos/)
