@@ -1,4 +1,5 @@
 ---
+description: "La tradición religiosa de Majadas Viejas en La Alberca: romería, relatos de origen y memoria de la restauración de la ermita."
 layout: default
 title: Romería de Majadas Viejas
 parent: Cultura y tradiciones
