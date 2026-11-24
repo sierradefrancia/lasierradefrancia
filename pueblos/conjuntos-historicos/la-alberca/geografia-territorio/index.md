@@ -356,3 +356,9 @@ https://turismo.lasalina.es/es/que-hacer/actividades-en-la-naturaleza/senderismo
 Las explicaciones generales sobre geología, climatología, hidrología y geomorfología se desarrollarán en las secciones temáticas de la Sierra de Francia.
 
 Esta página se reserva para el territorio específico de La Alberca y sus relaciones documentadas.
+
+## Unidades territoriales y escalas de análisis
+
+Los montes de utilidad pública 48 y 49, el municipio INE 37010 y el Sitio Histórico de Las Batuecas representan delimitaciones de distinta naturaleza. La superficie de 2505,66 ha atribuida al monte Las Batuecas por Micocyl no permite calcular la extensión municipal de los castañares ni la del valle. El [inventario geográfico](./inventario/) identifica las unidades y el [inventario naturalista](../naturaleza/inventario/) recoge sus relaciones ecológicas y administrativas.
+
+*Integración de referencias existentes; sin nuevo cotejo externo.*
