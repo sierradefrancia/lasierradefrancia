@@ -65,3 +65,11 @@ Queda por conocer quiénes participaron concretamente en la talla, cómo se elig
 
 - [Patrimonio de La Alberca](/pueblos/conjuntos-historicos/la-alberca/patrimonio/).
 - [Elementos patrimoniales](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/).
+
+## La creación de patrimonio después de 1940
+
+La atribución de la talla a la Escuela Taller en 1996 abre una investigación sobre formación profesional, cantería y encargos públicos. Interesa recuperar la memoria del programa, identificar participantes y distinguir autoría colectiva de dirección técnica. El trabajo universitario de 2010 proporciona un límite documental de existencia, no la fecha exacta de ejecución.
+
+La diferencia entre junio y julio en las descripciones del inicio del ciclo debe conservarse: el calendario municipal y el testimonio etnográfico sitúan la bendición el 13 de junio. La [ermita de San Antonio](../../patrimonio-religioso/san-antonio/) pertenece a la advocación de Padua; su relación concreta con la ceremonia requiere documentación.
+
+*Revisión del corpus existente; sin nuevo cotejo externo.*
