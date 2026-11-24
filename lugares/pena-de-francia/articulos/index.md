@@ -40,6 +40,9 @@ La historia de la Peña de Francia todavía ofrece numerosas oportunidades para 
 
 ### La estación meteorológica que transmitía en código Morse
 
+[Leer el artículo: La montaña que hablaba en código Morse](/lugares/pena-de-francia/articulos/la-montana-que-hablaba-en-morse/).
+
+
 En 1966, una estación automática instalada en la cumbre comenzó a transmitir observaciones meteorológicas mediante señales Morse.
 
 Conocemos el indicativo de la estación, sus instrumentos, la fecha de las primeras transmisiones y los problemas causados por el hielo y el viento.

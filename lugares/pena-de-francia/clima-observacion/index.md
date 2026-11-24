@@ -104,6 +104,9 @@ Esto resultaba especialmente útil en una montaña cuyo acceso podía complicars
 
 ## La Peña de Francia transmitía datos por código Morse
 
+[Leer el artículo: La montaña que hablaba en código Morse](/lugares/pena-de-francia/articulos/la-montana-que-hablaba-en-morse/).
+
+
 La estación estaba diseñada para emitir sus observaciones automáticamente.
 
 Las transmisiones se realizaban cada tres horas, tanto de día como de noche.
