@@ -11,6 +11,8 @@ permalink: /pueblos/conjuntos-historicos/la-alberca/geografia-territorio/hidrogr
 
 # Hidrografía de La Alberca
 
+**Estado documental:** síntesis provisional. Las referencias y cifras requieren cotejo directo antes de considerarse verificadas; no se acredita aquí una consulta externa completa.
+
 Las vertientes septentrional y meridional conectan con sistemas fluviales diferentes de la demarcación del Tajo. Los cauces y sus cuencas desbordan los límites municipales.
 
 ## Reservas naturales fluviales
@@ -46,4 +48,4 @@ El índice geográfico recoge Endrinales, Arrohuevo/Arroyohuevo y Alberca como n
 
 Las reservas, masas de agua, cuencas y término municipal son entidades diferentes. Priorizar la intersección de sus geometrías antes de calcular longitudes o superficies locales.
 
-Fuentes ministeriales y BOE consultados el 24-11-2026. No se ha realizado análisis SIG ni trabajo de campo.
+Referencias identificadas en el expediente; cotejo directo pendiente de acreditación.
