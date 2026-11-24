@@ -1,4 +1,5 @@
 ---
+description: "El valor integrado de Miranda del Castañar: historia condal, fortificaciones, cultura, paisaje y continuidad de la comunidad."
 layout: default
 title: "Miranda en su conjunto"
 parent: Miranda del Castañar
