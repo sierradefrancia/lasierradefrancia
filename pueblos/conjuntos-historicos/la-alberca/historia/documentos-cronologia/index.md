@@ -709,3 +709,10 @@ Pero ninguna de estas fuentes contiene, por sí sola, toda la historia del puebl
 | 1989 | [Cano Herrera y Sanz García (1989), pp. 67–84](https://uvadoc.uva.es/handle/10324/42925); ficha universitaria confirmada, cotejo íntegro pendiente |
 
 La provisión de 1547 recoge una petición sobre vino concejil y tres celebraciones. No identifica explícitamente a las mujeres como protagonistas de la captura del pendón.
+
+
+## Avance documental — 24 de noviembre de 2026
+
+Un estudio sobre Las Hurdes identifica la visita catastral a La Alberca el 6 de octubre de 1753, con trece informantes albercanos y diez de cada uno de los concejos de Nuñomoral y Caminomorisco. Remite a AGS, Dirección General de Rentas, primera remesa, Respuestas Generales, libro 135, ff. 469r–531r y libro 140, ff. 494r–502r para el conjunto de operaciones estudiadas; pendiente asignar cada intervalo a su localidad mediante el manuscrito. [Estudio, nota 2](https://www.edmilenio.com/media/docs/9788497433617_L33_23.pdf). Autoría y título completo pendientes de cotejo. El artículo «Las Hurdes en el siglo XVIII: ¿alquerías aisladas entre bosques…?», Boletín de la Real Sociedad Geográfica, CLX (2023), pp. 179–218, p. 187, recoge 421 vecinos de La Alberca, no habitantes individuales. [Artículo](https://www.boletinrsg.com/index.php/boletinrsg/article/download/180/189/). No se ha cotejado el manuscrito; no asumir independencia de ambos estudios, basados en el mismo corpus.
+
+El decreto publicado en el [BOE de 18 de septiembre de 1940, p. 6476](https://www.boe.es/gazeta/dias/1940/09/18/pdfs/BOE-1940-262.pdf), art. 1, declara Monumento Histórico-Artístico el pueblo, incluyendo casco y extrarradio de 500 metros. El art. 2 impone obligaciones de observancia de la legislación aplicable a la corporación y propietarios. El preámbulo menciona informe favorable de la Real Academia de Bellas Artes de San Fernando. No equivale a la delimitación urbanística vigente ni acredita obras concretas. Texto localizado y extracto cotejado el 24-11-2026.
