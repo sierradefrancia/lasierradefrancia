@@ -10,6 +10,29 @@ permalink: /pueblos/conjuntos-historicos/miranda-del-castanar/historia/ordenanza
 
 # Las ordenanzas de Miranda
 
+## Una norma transmitida a través de copias
+
+El manuscrito registrado como BG/Ms. 2765 permite distinguir tres niveles de investigación: las disposiciones originales, sus traslados y la copia certificada de 1755. La intervención de Nicolás Antonio Díez de Ledesma y Diego de la Peña corresponde a la transmisión documental; no demuestra que fueran autores de las normas.
+
+La diferencia entre 1620 y 1630 en las referencias debe resolverse mediante lectura de la certificación. También deben distinguirse las fechas de 1561 y 1570, que podrían corresponder a momentos normativos diferentes.
+
+## Recursos, caminos y agricultura
+
+Los estudios secundarios registrados mencionan disposiciones sobre castaños, madera, viñedo, caminos y puentes. Estas referencias ofrecen una perspectiva territorial: las ordenanzas regulaban actividades que no se limitaban al interior de la muralla.
+
+La investigación deberá identificar el texto de cada disposición, sus destinatarios, excepciones y sanciones. No procede reconstruir los 189 artículos mencionados por un estudio a partir de referencias parciales.
+
+## La villa y los lugares de su tierra
+
+Los expedientes de Simancas sobre Miranda, Cepeda, Monforte y Madroñal, registrados en el [inventario archivístico](../archivo-jurisdiccional/), permiten investigar la aplicación territorial de las normas. La relación con el [condado](../condado/) deberá precisar qué autoridades intervenían en su aprobación y cumplimiento.
+
+La recuperación del índice de los folios 333r–350v constituye una prioridad porque permitirá organizar la lectura temática sin atribuir al manuscrito contenidos todavía no comprobados.
+
+## Registro documental anterior
+
+Las referencias y estados de consulta siguientes proceden del expediente previo; su cotejo reproducible sigue pendiente.
+
+
 ## Manuscrito BG/Ms. 2765
 
 El registro bibliográfico del Fondo Antiguo de la USAL, reproducido en la Biblioteca Virtual Miguel de Cervantes, identifica una copia certificada el 3 de febrero de 1755 por Nicolás Antonio Díez de Ledesma, a partir de un traslado autorizado por Diego de la Peña el 5 de enero de 1620. Consta de 350 folios y tres hojas adicionales. El índice ocupa los folios 333r–350v. La fecha de copia no equivale a la de promulgación de las ordenanzas.
