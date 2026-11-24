@@ -1,7 +1,7 @@
 
 # ====================================================
 # LA SIERRA DE FRANCIA
-# REGISTRO CENTRAL DE ENTIDADES — V6
+# REGISTRO CENTRAL DE ENTIDADES — V7
 # ====================================================
 #
 # Fuente de datos para Schema.org.
@@ -255,3 +255,51 @@
   name: "Ermita del Humilladero de Villanueva del Conde"
   url: "/pueblos/conjuntos-historicos/villanueva-del-conde/patrimonio/humilladero/"
   parent_url: "/pueblos/conjuntos-historicos/villanueva-del-conde/"
+
+- id: humilladero-la-alberca
+  type: Place
+  name: "Ermita del Santo Cristo del Humilladero"
+  url: "/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/humilladero/"
+  parent_url: "/pueblos/conjuntos-historicos/la-alberca/"
+
+- id: majadas-viejas
+  type: Place
+  name: "Ermita de Majadas Viejas"
+  url: "/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/majadas-viejas/"
+  parent_url: "/pueblos/conjuntos-historicos/la-alberca/"
+
+- id: crucero-plaza-mayor-la-alberca
+  type: Place
+  name: "Crucero de la Plaza Mayor de La Alberca"
+  url: "/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/crucero-plaza-mayor/"
+  parent_url: "/pueblos/conjuntos-historicos/la-alberca/"
+
+- id: torre-campanas-miranda
+  type: Place
+  name: "Torre de las campanas de Miranda del Castañar"
+  url: "/pueblos/conjuntos-historicos/miranda-del-castanar/patrimonio/torre-campanas/"
+  parent_url: "/pueblos/conjuntos-historicos/miranda-del-castanar/"
+
+- id: torre-campanario-mogarraz
+  type: Place
+  name: "Torre campanario de Mogarraz"
+  url: "/pueblos/conjuntos-historicos/mogarraz/patrimonio/torre/"
+  parent_url: "/pueblos/conjuntos-historicos/mogarraz/"
+
+- id: calvario-sequeros
+  type: Place
+  name: "Calvario de Sequeros"
+  url: "/pueblos/conjuntos-historicos/sequeros/patrimonio/calvario/"
+  parent_url: "/pueblos/conjuntos-historicos/sequeros/"
+
+- id: manzana-huertitas-villanueva
+  type: Place
+  name: "Manzana histórica y Huertitas de Villanueva del Conde"
+  url: "/pueblos/conjuntos-historicos/villanueva-del-conde/patrimonio/manzana-huertitas/"
+  parent_url: "/pueblos/conjuntos-historicos/villanueva-del-conde/"
+
+- id: legoriza-san-martin
+  type: Place
+  name: "Yacimiento arqueológico de La Legoriza"
+  url: "/pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/legoriza/"
+  parent_url: "/pueblos/conjuntos-historicos/san-martin-del-castanar/"
