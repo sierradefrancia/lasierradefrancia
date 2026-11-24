@@ -853,3 +853,29 @@ Ambas formas de conocimiento tienen valor cuando son precisas y verificables.
 | ALB-PAT-057 | Casa Museo Satur Juanela, calle Mesón 7 | E1 | [Ficha](/pueblos/conjuntos-historicos/la-alberca/patrimonio/arquitectura-tradicional/casa-satur-juanela/) |
 
 Total acumulado previsto: 57 registros, sujeto a revisión de duplicidades. Nueva monografía climática sin identificador material. Fuentes institucionales consultadas; no se acredita protección individual ni antigüedad constructiva.
+
+## Concordancia editorial de expedientes revisados
+
+Esta concordancia enlaza registros existentes con sus estudios principales. No modifica identificadores ni eleva automáticamente estados de evidencia.
+
+| Registros | Expediente |
+|---|---|
+| ALB-PAT-001 | [Plaza Mayor](../patrimonio-civil/plaza-mayor/) |
+| ALB-PAT-002, 003 | [Ayuntamiento](../patrimonio-civil/ayuntamiento/) |
+| ALB-PAT-004 | [Iglesia parroquial](../patrimonio-religioso/iglesia-asuncion/) |
+| ALB-PAT-005 | [Torre y heráldica](../patrimonio-religioso/iglesia-asuncion/torre-y-heraldica/) |
+| ALB-PAT-006 | [Púlpito](../patrimonio-religioso/iglesia-asuncion/pulpito/) |
+| ALB-PAT-007 | [Humilladero](../patrimonio-religioso/humilladero/) |
+| ALB-PAT-008, 009 | [San Antonio](../patrimonio-religioso/san-antonio/) |
+| ALB-PAT-010 | [Majadas Viejas](../patrimonio-religioso/majadas-viejas/) |
+| ALB-PAT-011 | [San Marcos](../patrimonio-religioso/san-marcos/) |
+| ALB-PAT-012 | [Osario y Ánimas](../patrimonio-religioso/animas/) |
+| ALB-PAT-014 | [Marrano de piedra](../elementos-patrimoniales/marrano-de-piedra/) |
+| ALB-PAT-015 | [Ara votiva](../elementos-patrimoniales/ara-votiva/) |
+| ALB-PAT-016 | [Crucero de San Antonio](../elementos-patrimoniales/crucero-san-antonio/) |
+| ALB-PAT-049 | [San Blas](../patrimonio-religioso/san-blas/) |
+| ALB-PAT-057 | [Casa Satur Juanela](../arquitectura-tradicional/casa-satur-juanela/) |
+
+Concordancia parcial: los restantes registros conservan sus descripciones y requieren revisión individual de correspondencias. Las ampliaciones editoriales no sustituyen la comprobación de fuentes originales.
+
+*Revisión del corpus existente; sin nuevo cotejo externo.*
