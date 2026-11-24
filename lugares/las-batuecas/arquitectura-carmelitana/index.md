@@ -76,3 +76,5 @@ Las memorias y planos completos quedan pendientes de examen. La existencia de un
 Este catálogo no establece condiciones de visita ni incluye planos de acceso al recinto religioso. Véase la [historia del Desierto](/lugares/las-batuecas/historia-carmelitana/).
 
 [Volver a Las Batuecas](/lugares/las-batuecas/)
+
+Para la comparación de cifras de ermitas y el registro provisional BAT-CAR-018, véase [Ermitas y vida eremítica](/lugares/las-batuecas/vida-eremitica/).

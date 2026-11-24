@@ -77,3 +77,9 @@ El estudio continúa en [Arquitectura del Desierto de San José](/lugares/las-ba
 [Volver a Las Batuecas](/lugares/las-batuecas/)
 
 Estudio complementario: [Historia territorial de Las Batuecas](/lugares/las-batuecas/historia-territorial/).
+
+## Estudios complementarios
+
+- [Biblioteca histórica](/lugares/las-batuecas/biblioteca-carmelitana/): patrimonio bibliográfico y lecturas.
+- [Ermitas y vida eremítica](/lugares/las-batuecas/vida-eremitica/): organización del retiro e inventarios históricos.
+- [Personajes y fundación](/lugares/las-batuecas/personajes-carmelitanos/): promotores y protagonistas.

@@ -29,6 +29,10 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 
 ## Estudios e inventarios
 
+- [Biblioteca histórica](/lugares/las-batuecas/biblioteca-carmelitana/): patrimonio bibliográfico y lecturas.
+- [Ermitas y vida eremítica](/lugares/las-batuecas/vida-eremitica/): organización del retiro e inventarios históricos.
+- [Personajes y fundación](/lugares/las-batuecas/personajes-carmelitanos/): promotores y protagonistas.
+
 - [Fauna vertebrada](/lugares/las-batuecas/fauna/): contexto regional y evidencias locales.
 - [Reptiles y lagartija batueca](/lugares/las-batuecas/reptiles/): investigaciones y registros herpetológicos.
 
