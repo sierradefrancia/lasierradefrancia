@@ -288,3 +288,8 @@ Relaciones locales de Miranda y Villanueva del Conde: artistas del Camino de los
 - María Concepción Quintanilla Raso, investigadora de la casa condal.
 
 [Autoridades y descripción PARES](https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12761016); [estudio académico](https://www.academia.edu/49757256/). Extractos recuperados el 24-11-2026. Relaciones pendientes de reconciliar con identidades canónicas; no nuevas fichas duplicadas.
+
+
+### Corrección bibliográfica de Miranda
+
+Julián Álvarez Villar, autor de *La Villa Condal de Miranda del Castañar*, identificado por [El Toreo](https://www.escaleradelexito.com/PDFs/revistas/Los_Sabios_del_Toreo_35.pdf). Corrige la atribución provisional a Jesús Álvarez Villar; pendiente cotejo de la edición original. No crear una segunda identidad.
