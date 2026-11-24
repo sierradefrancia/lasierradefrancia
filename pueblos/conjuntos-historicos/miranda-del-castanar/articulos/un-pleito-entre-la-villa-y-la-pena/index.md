@@ -1,4 +1,5 @@
 ---
+description: "Un litigio histórico entre Miranda del Castañar y la Peña de Francia, sus protagonistas y su contexto jurisdiccional."
 layout: default
 title: "Un pleito entre la villa y la Peña"
 parent: Artículos de Miranda del Castañar
