@@ -1,4 +1,5 @@
 ---
+description: "La economía de La Alberca más allá del turismo: industria alimentaria, alojamiento, comercio, cuidados y empleo municipal."
 layout: default
 title: "La Alberca que trabaja mientras la visitamos"
 parent: Artículos
