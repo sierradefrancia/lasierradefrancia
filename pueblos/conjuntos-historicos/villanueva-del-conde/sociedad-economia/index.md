@@ -16,3 +16,7 @@ La relación material entre vivienda, cultivo y conservación de alimentos es ob
 [Declaración oficial](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2397) · [Incoación](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-568).
 
 - [Cooperativa vitivinícola](./cooperativa/)
+
+## Viticultura
+
+La orden de 4 de abril de 1988 incluyó el municipio en La Sierra de Salamanca para vinos de mesa. ACEVIN identifica el Rufete como variedad destacada y vincula el municipio al enoturismo. Pendiente pliego oficial vigente y serie INE (código 37355). [Orden](https://www.boe.es/buscar/doc.php?id=BOE-A-1988-9628) · [ACEVIN](https://www.acevin.es/villanueva-del-conde).
