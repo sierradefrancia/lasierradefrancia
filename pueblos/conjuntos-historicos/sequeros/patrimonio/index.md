@@ -14,10 +14,10 @@ permalink: /pueblos/conjuntos-historicos/sequeros/patrimonio/
 Inventario inicial, no exhaustivo. Los identificadores distinguen edificios, espacios y bienes; no equivalen a declaraciones BIC individuales.
 
 - SEQ-PAT-001: [Robledo](./robledo/)
-- SEQ-PAT-002: Humilladero del Cristo de las Batallas
-- SEQ-PAT-003: Iglesia parroquial
-- SEQ-PAT-004: Casas del Concejo
-- SEQ-PAT-005: Torre y reloj
+- SEQ-PAT-002: [Humilladero del Cristo de las Batallas](./humilladero/)
+- SEQ-PAT-003: [Iglesia parroquial](./iglesia/)
+- SEQ-PAT-004: [Casas del Concejo](./concejo/)
+- SEQ-PAT-005: [Torre y reloj](./concejo/)
 - SEQ-PAT-006: [Teatro del Liceo](./teatro/)
 - SEQ-PAT-007: Calvario
 - SEQ-PAT-008: Plaza del Altozano
@@ -27,9 +27,9 @@ Inventario inicial, no exhaustivo. Los identificadores distinguen edificios, esp
 - SEQ-PAT-012: Juzgado
 - SEQ-PAT-013: Cárcel
 - SEQ-PAT-014: Casa del escribano
-- SEQ-PAT-015: Casa de Melchor García
-- SEQ-PAT-016: Casa de Gil Sánchez
-- SEQ-PAT-017: Casa de José María Anaya
+- SEQ-PAT-015: [Casa de Melchor García](./calle-calzada/)
+- SEQ-PAT-016: [Casa de Gil Sánchez](./calle-calzada/)
+- SEQ-PAT-017: [Casa de José María Anaya](./calle-calzada/)
 - SEQ-PAT-018: Parque del Barrero
 - SEQ-PAT-019: Cabezuela
 - SEQ-PAT-020: Arquitectura doméstica
