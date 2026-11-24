@@ -1,4 +1,5 @@
 ---
+description: "El señorío episcopal de San Martín del Castañar: poder jurisdiccional, documentación y organización histórica de la villa."
 layout: default
 title: "El señorío episcopal"
 parent: "Historia de San Martín del Castañar"
