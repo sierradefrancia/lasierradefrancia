@@ -39,3 +39,13 @@ No hemos de imaginar lo que Tomás dijo. Tenemos una oportunidad mejor: buscar s
 [Fundación Joaquín Díaz, Archivo de la Tradición Oral, ATO 102](https://funjdiaz.net/fonoteca-listado.php?id=103&qry=la), ficha consultada el 24-11-2026. No se ha escuchado el audio.
 
 [Fuentes sonoras](../../cultura-tradiciones/fuentes-sonoras/).
+
+## Un día en el archivo sonoro
+
+El registro de Tomás Hoyos no está aislado. El catálogo recoge una boda albercana de los días 21 y 22 de junio de 1984 (ATO 101) y otro registro asociado al Corpus del día 21 (ATO 103), con Sebastián Luis Luis, Catalina y Tomás entre los informantes identificados en el expediente.
+
+Estas fichas permiten relacionar recuerdos individuales, repertorios y acontecimientos de un mismo periodo de recogida. No demuestran que todos los participantes estuvieran juntos en cada grabación ni que cada fragmento se registrara a la misma hora.
+
+El trabajo de Mercedes Cano Herrera conecta además con el estudio etnográfico publicado junto a María Sanz García en 1989. [Dos investigadoras ante la vida y la muerte](../cano-y-sanz/) explica por qué esas fuentes pueden complementarse. El audio permanece pendiente de escucha y transcripción.
+
+*Ampliación a partir de expedientes existentes; sin nuevo cotejo externo.*
