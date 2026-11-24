@@ -30,6 +30,8 @@ A su alrededor aparecen calles tradicionales, edificios religiosos, fuentes, ban
 
 ## Explorar Villanueva del Conde
 
+- [Historia](./historia/)
+
 - [Conjunto histórico](./conjunto-historico/)
 - [Patrimonio](./patrimonio/)
 - [Geografía y territorio](./geografia-territorio/)
