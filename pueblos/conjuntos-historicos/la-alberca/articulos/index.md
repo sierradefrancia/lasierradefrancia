@@ -81,6 +81,14 @@ Ensayos narrativos basados en los expedientes del atlas, con límites documental
 - [El día en que un pueblo se viste de memoria](./vestirse-de-memoria/)
 - [La Loa: cuando la fe se convierte en teatro](./cuando-la-fe-se-convierte-en-teatro/)
 
+### Los secretos de la naturaleza
+
+- [La mujer que buscaba un mundo invisible](./un-mundo-invisible/)
+- [Los árboles que no caben en una generación](./los-arboles-y-el-tiempo/)
+- [La laguna que también necesita cuidados](./el-agua-que-necesita-cuidados/)
+- [El bosque después del fuego](./el-bosque-despues-del-fuego/)
+- [El bosque que también construyeron nuestros antepasados](./el-bosque-que-heredamos/)
+
 ### Historias documentales
 
 - [La Alberca en 1791](../historia/articulos/la-alberca-1791-epidemia-hambre-impuestos/)
