@@ -1,4 +1,5 @@
 ---
+description: "Excursiones desde La Alberca a los conjuntos históricos de la Sierra de Francia, la Peña de Francia y el valle de Las Batuecas."
 layout: default
 title: Más allá de La Alberca
 parent: Visitar La Alberca
