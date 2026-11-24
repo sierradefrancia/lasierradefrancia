@@ -15,7 +15,7 @@ permalink: /pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/
 
 | ID | Elemento | Estado |
 |---|---|---|
-| SMC-PAT-001 | Iglesia parroquial | Decreto comprobado |
+| SMC-PAT-001 | Iglesia parroquial | Referencia legal pendiente de cotejo |
 | SMC-PAT-002 | Castillo | Ficha previa, cotejo pendiente |
 | SMC-PAT-003 | Plaza de toros | Ficha previa |
 | SMC-PAT-004 | Plaza de la Iglesia | Ficha previa |
@@ -27,7 +27,7 @@ permalink: /pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/
 | SMC-PAT-010 | Humilladero | Ficha previa |
 | SMC-PAT-011 | Ermita del Socorro | Ficha previa |
 | SMC-PAT-012 | Convento de Gracia | Ficha previa |
-| SMC-PAT-013 | Estelas romanas | Dos piezas, catálogo p. 14 |
+| SMC-PAT-013 | Estelas romanas | Número y referencia pendientes de cotejo |
 | SMC-PAT-014 | La Legoriza | Catálogo p. 19 |
 | SMC-PAT-015 | Hospital y capilla | Catálogo p. 16 |
 
