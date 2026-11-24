@@ -1,4 +1,5 @@
 ---
+description: "El castaño en Miranda del Castañar: aprovechamientos históricos, economía rural y paisaje."
 layout: default
 title: "El valor de un castaño"
 parent: Artículos de Miranda del Castañar
