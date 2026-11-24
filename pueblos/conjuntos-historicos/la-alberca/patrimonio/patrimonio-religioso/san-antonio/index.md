@@ -1,4 +1,5 @@
 ---
+description: "Ermita de San Antonio de La Alberca: arquitectura, inscripción de 1670 y relación con el entorno histórico del Tablado."
 layout: default
 title: Ermita de San Antonio
 parent: Patrimonio religioso
