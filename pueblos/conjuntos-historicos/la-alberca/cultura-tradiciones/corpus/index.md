@@ -1,4 +1,5 @@
 ---
+description: "La celebración del Corpus Christi en La Alberca, sus manifestaciones religiosas, indumentaria y testimonios sonoros históricos."
 layout: default
 title: Corpus Christi
 parent: Cultura y tradiciones
