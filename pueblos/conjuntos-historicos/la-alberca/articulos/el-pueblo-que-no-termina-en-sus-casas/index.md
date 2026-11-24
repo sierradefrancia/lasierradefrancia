@@ -1,4 +1,5 @@
 ---
+description: "Las relaciones históricas de La Alberca con sus montes, caminos y aprovechamientos territoriales más allá del casco urbano."
 layout: default
 title: "El pueblo que no termina en sus casas"
 parent: Artículos
