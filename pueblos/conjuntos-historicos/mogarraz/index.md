@@ -40,6 +40,8 @@ Su arquitectura, sus tradiciones, su historia y su relación con el paisaje perm
 - [Paisaje y caminos de Mogarraz](./paisaje-y-caminos/).
 - [Cultura y tradiciones de Mogarraz](./cultura-tradiciones/).
 
+- [Arquitectura tradicional de Mogarraz](./arquitectura-tradicional/).
+
 ## Información general
 
 | Dato | Información |
