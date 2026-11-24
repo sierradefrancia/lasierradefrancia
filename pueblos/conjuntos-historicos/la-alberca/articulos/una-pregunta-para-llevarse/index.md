@@ -1,4 +1,5 @@
 ---
+description: "Tres investigaciones abiertas sobre La Alberca: el traslado del crucero, las grabaciones de Tomás Hoyos y el blanqueo de lienzos."
 layout: default
 title: "Una pregunta para llevarse a casa"
 parent: Artículos
