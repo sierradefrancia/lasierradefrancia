@@ -6,6 +6,7 @@ grand_parent: Conjuntos históricos
 nav_order: 16
 last_modified_at: 2026-11-24
 permalink: /pueblos/conjuntos-historicos/mogarraz/fuentes/
+nav_exclude: true
 ---
 
 # Fuentes e investigación de Mogarraz
