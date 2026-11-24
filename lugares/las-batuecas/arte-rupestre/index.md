@@ -55,3 +55,9 @@ Fuentes de partida: [BOE, declaración de 2000](https://www.boe.es/diario_boe/tx
 - [Protección patrimonial de Las Batuecas](/lugares/las-batuecas/proteccion-patrimonial/).
 
 [Volver a Las Batuecas](/lugares/las-batuecas/).
+
+
+## Expedientes individuales de abrigos
+
+- [Covacho del Pallón](/lugares/las-batuecas/arte-rupestre/pallon/) — expediente inicial.
+- [Corral de Morcilla](/lugares/las-batuecas/arte-rupestre/corral-morcilla/) — expediente inicial.
