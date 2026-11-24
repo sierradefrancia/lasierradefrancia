@@ -30,6 +30,14 @@ Esta sección del atlas pretende conocer esas diferencias, investigar sus oríge
 
 ---
 
+## Productos y cultura alimentaria en los pueblos
+
+- [Gastronomía de Mogarraz](/pueblos/conjuntos-historicos/mogarraz/gastronomia/) y [vendimias y arrieros](/pueblos/conjuntos-historicos/mogarraz/articulos/vendimias-y-arrieros/).
+- [Gastronomía y visita a La Alberca](/pueblos/conjuntos-historicos/la-alberca/visitar/gastronomia/) y [economía tradicional](/pueblos/conjuntos-historicos/la-alberca/sociedad-economia/economia-tradicional/).
+- [Del bancal a la bodega en Villanueva del Conde](/pueblos/conjuntos-historicos/villanueva-del-conde/articulos/bancal-bodega/) y [su cooperativa](/pueblos/conjuntos-historicos/villanueva-del-conde/sociedad-economia/cooperativa/).
+
+Estos estudios complementan la cocina regional con ejemplos locales; no implican que cada producto sea exclusivo de un pueblo.
+
 ## Una cocina vinculada al paisaje
 
 La diversidad geográfica de la Sierra de Francia ha favorecido diferentes actividades agrícolas y ganaderas.
