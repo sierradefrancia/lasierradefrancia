@@ -47,6 +47,8 @@ Su arquitectura, sus tradiciones, su historia y su relación con el paisaje perm
 - [Geografía y territorio de Mogarraz](./geografia-territorio/).
 - [Naturaleza de Mogarraz](./naturaleza/).
 
+- [Gastronomía de Mogarraz](./gastronomia/).
+
 ## Información general
 
 | Dato | Información |
