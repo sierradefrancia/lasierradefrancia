@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Continuidad y restauración del río Batuecas
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Protección y conservación de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Obstáculos hidráulicos y actuaciones previstas para restaurar la continuidad de la reserva natural fluvial."
 permalink: /lugares/las-batuecas/restauracion-fluvial/

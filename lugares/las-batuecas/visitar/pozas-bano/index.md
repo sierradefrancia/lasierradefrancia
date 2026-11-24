@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "El río, las pozas y el baño en Las Batuecas"
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Visitar Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Pozas de agua cristalina, baño en el río Batuecas y recomendaciones para disfrutar del valle."
 permalink: /lugares/las-batuecas/pozas-bano/

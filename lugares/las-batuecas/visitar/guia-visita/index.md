@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Qué ver y hacer en Las Batuecas en un día"
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Visitar Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Disfruta de un día en Las Batuecas: río, pozas naturales, baño, senderismo, pinturas rupestres y monasterio."
 permalink: /lugares/las-batuecas/guia-visita/

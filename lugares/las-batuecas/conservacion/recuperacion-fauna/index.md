@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Historia de la recuperación de fauna
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Protección y conservación de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Reintroducción de ungulados, refugios de aves y evolución de la gestión de fauna en Las Batuecas."
 permalink: /lugares/las-batuecas/recuperacion-fauna/

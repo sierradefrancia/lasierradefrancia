@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Buitre negro y cigüeña negra
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Protección y conservación de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Referencias históricas y seguimiento regional de aves de interés para la conservación."
 permalink: /lugares/las-batuecas/aves-conservacion/

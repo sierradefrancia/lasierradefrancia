@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Protección ambiental y gestión territorial
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Protección y conservación de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Figuras ambientales, superficies, planificación y gestión de los montes de Las Batuecas."
 permalink: /lugares/las-batuecas/proteccion-ambiental/

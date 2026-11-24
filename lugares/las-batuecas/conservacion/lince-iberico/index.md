@@ -1,8 +1,8 @@
 ---
 layout: default
 title: El lince ibérico: memoria y evidencia
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Protección y conservación de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Presencia histórica y límites de la evidencia del lince ibérico en el espacio protegido."
 permalink: /lugares/las-batuecas/lince-iberico/

@@ -37,6 +37,10 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 - [Monasterio del Desierto de San José](/lugares/las-batuecas/monasterio/).
 - [Cultura, literatura y leyendas de Las Batuecas](/lugares/las-batuecas/cultura-literatura/).
 
+- [Protección y conservación de Las Batuecas](/lugares/las-batuecas/conservacion/).
+- [Visitar Las Batuecas](/lugares/las-batuecas/visitar/).
+- [Artículos de Las Batuecas](/lugares/las-batuecas/articulos/).
+
 ## Cómo visitar Las Batuecas
 
 Las Batuecas es especialmente apropiada para una excursión de un día: caminar junto al río, descubrir las pinturas rupestres, contemplar el monasterio desde el exterior y disfrutar de las pozas naturales, incluido el baño en los meses cálidos.

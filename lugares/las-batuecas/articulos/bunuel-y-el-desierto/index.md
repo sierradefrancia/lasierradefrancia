@@ -1,8 +1,8 @@
 ---
 layout: default
 title: El monasterio que Buñuel quiso comprar
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Artículos de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Una historia documentada sobre el cineasta, el rodaje de Tierra sin pan y el destino del antiguo convento."
 permalink: /lugares/las-batuecas/articulos/bunuel-y-el-desierto/

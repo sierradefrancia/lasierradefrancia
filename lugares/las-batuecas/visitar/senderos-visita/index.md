@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Senderos y recorridos de Las Batuecas
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Visitar Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Diferencias entre el paseo accesible, el acceso rupestre y la ruta desde La Alberca."
 permalink: /lugares/las-batuecas/senderos-visita/
