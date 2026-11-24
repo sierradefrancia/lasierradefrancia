@@ -1,4 +1,5 @@
 ---
+description: "Geografía de San Martín del Castañar: emplazamiento, relieve, caminos y relaciones con el territorio serrano."
 layout: default
 title: "Geografía y territorio de San Martín"
 parent: "San Martín del Castañar"
