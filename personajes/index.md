@@ -213,3 +213,23 @@ Altas provisionales. [Tradición oral](/pueblos/conjuntos-historicos/mogarraz/ar
 | PER-MOG-047 | Pilar Magadán | Contexto de recuperación etnográfica |
 
 Altas provisionales pendientes de deduplicación. [Fuente y alcance](/pueblos/conjuntos-historicos/mogarraz/articulos/las-labranderas/).
+
+
+### Zapatería: candidatos a identificación
+
+| ID | Persona | Relación |
+|---|---|---|
+| PER-MOG-048 | Juan Pérez Melchor | Zapatero en referencia indirecta al Catastro |
+| PER-MOG-049 | Joseph Maíllo Criado | Zapatero en referencia indirecta al Catastro |
+| PER-MOG-050 | Juan Pan y Agua | Zapatero en referencia indirecta al Catastro |
+| PER-MOG-051 | Juan Pérez | Zapatero en referencia indirecta al Catastro |
+| PER-MOG-052 | Manuel Sánchez | Zapatero en referencia indirecta al Catastro |
+| PER-MOG-053 | Manuel Pérez | Zapatero en referencia indirecta al Catastro |
+| PER-MOG-054 | Agustín López Martín | Oficio y memoria del siglo XX |
+| PER-MOG-055 | Horacio de Blas Angulo | Oficio y memoria del siglo XX |
+| PER-MOG-056 | Domingo Sánchez Núñez | Oficio y memoria del siglo XX |
+| PER-MOG-057 | Juan Bello Rodríguez | Oficio y memoria del siglo XX |
+| PER-MOG-058 | Eufemio Puerto Cascón | Autor citado |
+| PER-MOG-059 | Argimiro Calama y Rosellón | Autor citado |
+
+Candidatos provisionales; comprobar duplicados y homónimos antes de asignar fichas canónicas. [Fuentes y límites](/pueblos/conjuntos-historicos/mogarraz/articulos/los-zapateros/).
