@@ -197,3 +197,19 @@ Altas provisionales, pendientes de deduplicación. Fuentes: [orfebrería](/puebl
 | PER-MOG-039 | José María Ruiz Asencio | Investigación de pizarras |
 
 Altas provisionales. [Tradición oral](/pueblos/conjuntos-historicos/mogarraz/articulos/la-tia-adela/) y [arqueología](/pueblos/conjuntos-historicos/mogarraz/historia/pizarras-visigodas/).
+
+
+### Transmisión de la indumentaria
+
+| ID | Persona | Relación |
+|---|---|---|
+| PER-MOG-040 | Alfonsa Herrero Maíllo | Restauración de indumentaria |
+| PER-MOG-041 | Francisca Becerro | Colaboración desde La Alberca |
+| PER-MOG-042 | Conchita Criado Criado | Camisa galana |
+| PER-MOG-043 | Juanita Criado Puerto | Reproducción de mantita |
+| PER-MOG-044 | Aniana Criado | Tradición familiar de bordado |
+| PER-MOG-045 | Jerónima Matea Criado | Magisterio familiar |
+| PER-MOG-046 | Flora Maíllo | Transmisión oral |
+| PER-MOG-047 | Pilar Magadán | Contexto de recuperación etnográfica |
+
+Altas provisionales pendientes de deduplicación. [Fuente y alcance](/pueblos/conjuntos-historicos/mogarraz/articulos/las-labranderas/).
