@@ -23,6 +23,19 @@ El ejemplar albercano conserva su base y coronamiento. Juan Carlos Olivares Pedr
 
 Maluquer de Motes había descrito en 1956 su utilización como soporte de una pila bautismal, según recoge Olivares. Estas referencias documentan la reutilización, pero no permiten establecer cuándo se produjo ni reconstruir toda la secuencia de usos.
 
+## Identificación material y documental
+
+| Dato | Registro |
+|---|---|
+| Identificador del atlas | ALB-PAT-015 |
+| Ubicación descrita en 2006 | Interior de la iglesia, muro izquierdo a la altura del crucero |
+| Campo epigráfico | 33 × 26 cm |
+| Escritura | Cinco líneas; letras de 5 a 6,4 cm |
+| Referencia epigráfica | Ficheiro Epigráfico 84 (2006), n.º 377 |
+| Documentación gráfica | Figuras 1 y 2 de la edición de Olivares |
+
+Estos datos corresponden al examen publicado en 2006, no a una inspección actual del atlas.
+
 ## El nombre de Albinus
 
 Las letras conservadas son irregulares y presentan pérdidas que dificultan su lectura. Sin embargo, dos investigadores que estudiaron la pieza coinciden en reconocer el nombre de Albinus, la persona que realizó la ofrenda.
@@ -40,6 +53,12 @@ En 2006, Olivares publicó otra edición de la inscripción en *Ficheiro Epigrá
 Ilurbeda está documentada en otras inscripciones del occidente hispano. Su identificación en La Alberca situaría esta pieza en el contexto de los cultos indígenas de época romana.
 
 Ambas ediciones incluyen incertidumbres reconocidas por sus autores. La fecha de publicación de las actas tampoco significa que su lectura constituya una respuesta posterior al trabajo de 2006.
+
+La lectura de Olivares incluye una posible filiación a Cilius y considera dudosa la reconstrucción de la fórmula de ofrenda en las líneas intermedias. La última línea, desarrollada como *s(oluit) l(ibens) a(nimo)*, expresa el cumplimiento voluntario del compromiso.
+
+### Historia de las lecturas
+
+Según la nota 2 de Olivares (2006), la lectura parcial publicada por Maluquer en 1956 (p. 136, n.º 78; HAE 1303) pasó al corpus de Alonso y Crespo (1999, p. 93, n.º 174) y, con una variante, al de Hernández Guerra (2001, p. 31, n.º 20). No son por ello tres confirmaciones independientes de una lectura completa. Olivares reconoce además la aportación de A. U. Stylow a la identificación del nombre divino.
 
 ## Dos signos que siguen sin explicación
 
@@ -74,6 +93,14 @@ La historia del altar permanece abierta. Su valor no depende de escoger ahora un
 - Juan Carlos Olivares Pedreño (2007). [*Ara votiva de San Martín del Trevejo (Cáceres) dedicada a la diosa Ilurbeda*](https://www.uc.pt/site/assets/files/1504192/fe_086_2007.pdf). *Ficheiro Epigráfico*, 86, inscripción 391.
 - Ricardo Campos (2018). [*Ilurbeda: A ara do Faião (Sintra, Portugal)*](https://www.ifc-ojs.es/index.php/palaeohispanica/es/article/view/7). *Palaeohispánica*, 18, pp. 25–40.
 - Juan Maluquer de Motes (1956). *Carta arqueológica de España. Provincia de Salamanca*. Referencia indirecta a través de Olivares (2006).
+
+## Referencias bibliográficas anteriores
+
+Referencias recuperadas a través de la edición de 2006, pendientes de consulta directa:
+
+- A. Alonso y S. Crespo (1999). *Corpus de inscripciones romanas de la provincia de Salamanca. Fuentes epigráficas para la historia social de Hispania romana*. Valladolid, p. 93, n.º 174.
+- L. Hernández Guerra (2001). *Epigrafía de época romana de la provincia de Salamanca*. Valladolid, p. 31, n.º 20.
+- J. C. Olivares Pedreño. «Teónimos y pueblos indígenas hispanos: los Vettones», *Iberia*, 4 (2001), p. 64, nota 27; *Los Dioses de la Hispania Céltica* (2002), p. 50, nota 259.
 
 ## Véase también
 
