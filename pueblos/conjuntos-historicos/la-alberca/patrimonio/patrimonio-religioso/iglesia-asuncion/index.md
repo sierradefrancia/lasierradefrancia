@@ -26,21 +26,15 @@ Para comprender la iglesia actual es necesario comenzar por aquella que desapare
 
 ## Ámbitos de investigación del templo
 
+- [Torre y heráldica](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/torre-y-heraldica/): inscripciones de 1519 y 1571, escudo y antiguo campanario del Castillo.
+- [Campanas, reloj y matraca](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/campanas-reloj-matraca/): instrumentos, toques de cofradías y archivo sonoro.
+- [Púlpito policromado](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/pulpito/): datación especializada de 1572, iconografía y epigrafía.
+- [Cristo del Sudor](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/cristo-del-sudor/): atribución artística, cofradía, tradición y Santa Espina.
+- [Retablos y capillas](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/retablos-y-capillas/): Rosario, Dolores, patronazgo y restauración de 2022.
+- [Órgano histórico](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/organo-historico/): cronología atribuida, memoria musical y restauración.
 - [Orfebrería y bienes litúrgicos](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/orfebreria-y-bienes-liturgicos/): alhajas parroquiales y conexiones con joyería devocional.
 
-- [Órgano histórico](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/organo-historico/): cronología atribuida, memoria musical y restauración.
-
-- [Retablos y capillas](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/retablos-y-capillas/): Rosario, Dolores, patronazgo y restauración de 2022.
-
-- [Cristo del Sudor](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/cristo-del-sudor/): atribución artística, cofradía, tradición y Santa Espina.
-
-- [Púlpito policromado](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/pulpito/): datación especializada de 1572, iconografía y epigrafía.
-
-- [Campanas, reloj y matraca](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/campanas-reloj-matraca/): instrumentos, toques de cofradías y archivo sonoro.
-
-- [Torre y heráldica](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/torre-y-heraldica/): inscripciones de 1519 y 1571, escudo y antiguo campanario del Castillo.
-
-Esta monografía integra la historia general del edificio. Los estudios especializados se incorporarán como páginas subordinadas cuando exista documentación suficiente: torre y heráldica; campanas, reloj y matraca; bóvedas y técnicas constructivas; púlpito policromado; Cristo del Sudor; retablos y capillas; órgano histórico; orfebrería y bienes litúrgicos.
+El estudio de bóvedas permanece integrado en esta monografía hasta recuperar el trabajo completo de Liébana Alonso. Los bienes individualizados se recogen en el [inventario patrimonial](/pueblos/conjuntos-historicos/la-alberca/patrimonio/inventario/). Véase también la ficha de [José Luis Puerto](/personajes/jose-luis-puerto/).
 
 El osario y las Ánimas se investigarán también en relación con el patrimonio funerario y devocional del conjunto del pueblo. Las piezas ya estudiadas en otras secciones conservarán sus ubicaciones e identificadores, con enlaces cruzados en lugar de duplicaciones.
 
