@@ -24,3 +24,7 @@ Resultados web visibles cotejados: GREDOS 10366/148215, registro Cervantes Ms 27
 ## Bloque editorial
 
 Cuatro artículos derivados del corpus existente. No se realizaron nuevas consultas externas en esta ejecución. Las afirmaciones de consulta de sesiones anteriores no se consideran certificadas por su mera presencia en el repositorio. Los artículos explicitan el carácter provisional de sus referencias y no sustituyen la lectura de originales.
+
+## Consolidación bibliográfica
+
+Comprobación directa efectiva: ficha USAL 10366/148215 y ficha BOE-A-1973-35347. PARES 12761016 devolvió HTTP 429. No se leyeron los originales. Nuevo índice público de fuentes con estados diferenciados. Recuento previo: 31 Markdown, 73.912 bytes. No se declara cierre de investigación ni despliegue comprobado.
