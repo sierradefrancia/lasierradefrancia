@@ -1473,3 +1473,8 @@ Un estudio sobre Las Hurdes identifica la visita catastral a La Alberca el 6 de 
 ALB-H-031: contraste parcial del decreto original.
 
 El decreto publicado en el [BOE de 18 de septiembre de 1940, p. 6476](https://www.boe.es/gazeta/dias/1940/09/18/pdfs/BOE-1940-262.pdf), art. 1, declara Monumento Histórico-Artístico el pueblo, incluyendo casco y extrarradio de 500 metros. El art. 2 impone obligaciones de observancia de la legislación aplicable a la corporación y propietarios. El preámbulo menciona informe favorable de la Real Academia de Bellas Artes de San Fernando. No equivale a la delimitación urbanística vigente ni acredita obras concretas. Texto localizado y extracto cotejado el 24-11-2026.
+
+
+## Transmisión documental: líneas de cotejo
+
+ALB-H-002: añadir al cotejo los folios 34 y 36 citados por Berrogain y Blanco Carrasco (2008), pp. 49–50, pendiente de lectura. ALB-H-010: localizar y cotejar la [presentación de la edición facsimilar de 2015](https://salamancartvaldia.es/noticia/2015-11-27-jose-luis-puerto-pone-en-valor-las-ordenanzas-de-la-alberca-aprobadas-hace-500-anos-199935?rc=4) con la [Berrogain, edición de 1930](https://revistas.mjusticia.gob.es/index.php/AHDE/article/download/5060/5060/4833). Mantener ambas cuestiones abiertas.
