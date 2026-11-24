@@ -22,3 +22,7 @@ Adapta la visita a las pendientes, pavimentos y necesidades del grupo. No dispon
 La [gastronomía local](../../gastronomia/) ayuda a entender la relación entre la mesa, las bodegas y las celebraciones. Consulta los establecimientos directamente para confirmar disponibilidad.
 
 Guía editorial basada en los expedientes del atlas; no constituye una comprobación de campo ni de horarios actuales.
+
+## Antes de salir
+
+Confirma si deseas visitar interiores o únicamente recorrer el casco: el acceso a la iglesia y al museo puede depender de horarios y actividades. Si coincide con San Blas o el ofertorio de agosto, consulta el programa del año correspondiente, no las crónicas históricas. Para caminar hacia Monforte, prepara agua, calzado y tiempo de luz; las fuentes del casco no tienen potabilidad confirmada en este atlas. La [guía de senderismo](../senderismo/) separa esta salida de la visita urbana.
