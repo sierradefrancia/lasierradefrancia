@@ -1,4 +1,5 @@
 ---
+description: "Qué ver en una primera visita a La Alberca: Plaza Mayor, iglesia, tradiciones y Casa Museo Satur Juanela."
 layout: default
 title: Tu primera vez en La Alberca
 parent: Visitar La Alberca
