@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Artículos
+title: Artículos de la Sierra de Francia
 nav_order: 12
 has_children: true
 description: "Artículos, investigaciones y guías sobre la Sierra de Francia: naturaleza, historia, pueblos, turismo, geografía, gastronomía y patrimonio."
