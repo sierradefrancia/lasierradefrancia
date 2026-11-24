@@ -1,4 +1,5 @@
 ---
+description: "La fundación vinculada a Melón en Mogarraz: documentación histórica, protagonistas y finalidad institucional."
 layout: default
 title: Fundación Melón y educación
 parent: Historia de Mogarraz
