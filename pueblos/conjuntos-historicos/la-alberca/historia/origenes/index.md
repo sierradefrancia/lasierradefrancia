@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: Orígenes de La Alberca
 parent: Historia
@@ -51,9 +52,9 @@ Para establecer una continuidad de ocupación serían necesarios datos arqueoló
 
 Diversas publicaciones divulgativas mencionan restos atribuidos a época romana o visigoda en el entorno de La Alberca.
 
-Entre las referencias difundidas figuran una supuesta ara romana y materiales reutilizados en construcciones religiosas.
+El ara romana conservada en la iglesia parroquial fue estudiada por Juan Carlos Olivares Pedreño en 2006 (*Ficheiro Epigráfico*, 84, inscripción 377, pp. 3–6 del PDF). La edición propone identificar a Albinus como dedicante y a Ilurbeda como divinidad, con incertidumbres en parte de la lectura. La reutilización cristiana de la pieza no permite determinar su emplazamiento antiguo ni demostrar un asentamiento romano bajo el pueblo actual. Véase el [estudio patrimonial del ara](../../patrimonio/elementos-patrimoniales/ara-votiva/).
 
-Estas noticias requieren comprobación individual.
+Las demás atribuciones antiguas requieren comprobación individual.
 
 Para utilizarlas como prueba histórica debemos conocer:
 
@@ -369,7 +370,8 @@ La instalación concreta que habría motivado el nombre todavía no ha sido iden
 | Fecha | Acontecimiento | Grado de certeza |
 |---|---|---|
 | Prehistoria | Presencia humana documentada en distintos lugares de la Sierra de Francia | Acreditada para el entorno, no para el núcleo urbano |
-| Épocas romana y visigoda | Restos atribuidos a estas etapas en publicaciones divulgativas | Requieren verificación arqueológica |
+| Época romana | Ara votiva conservada en la iglesia; procedencia original no establecida | Pieza documentada por Olivares Pedreño (2006) |
+| Época visigoda | Restos atribuidos en noticias divulgativas | Pendientes de verificación arqueológica |
 | Siglos XI–XII | Contexto histórico de Raimundo de Borgoña y los movimientos de población | Contexto documentado; relación local no demostrada |
 | 1188–1230 | Reinado de Alfonso IX | Documentado |
 | 1213 | Población de Miranda del Castañar según inscripción histórica | Referencia epigráfica |
@@ -418,6 +420,8 @@ La investigación arquitectónica detallada corresponderá a la monografía de C
 ---
 
 ## Fuentes y bibliografía
+
+**Olivares Pedreño, Juan Carlos (2006).** «Ara votiva de La Alberca (Salamanca) dedicada a Ilurbeda». *Ficheiro Epigráfico*, 84, inscripción 377. [Edición epigráfica](https://www.uc.pt/site/assets/files/1504192/fe_084_2006.pdf). Texto de la inscripción y descripción consultados el 24-11-2026.
 
 ### Historia de la organización medieval
 
