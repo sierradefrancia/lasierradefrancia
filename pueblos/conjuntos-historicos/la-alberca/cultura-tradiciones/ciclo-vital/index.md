@@ -1,4 +1,5 @@
 ---
+description: "Nacimiento, matrimonio, muerte y relaciones familiares en La Alberca a través de la investigación etnográfica y la memoria oral."
 layout: default
 title: Ciclo vital y vida familiar
 parent: Cultura y tradiciones
