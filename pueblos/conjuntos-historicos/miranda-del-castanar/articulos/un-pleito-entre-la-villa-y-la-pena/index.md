@@ -18,6 +18,13 @@ No conocemos todavía el fallo. Sería tentador convertir esa referencia en una 
 
 Una ejecutoria puede ayudar a comprender la distancia entre las jurisdicciones dibujadas sobre un mapa y las relaciones efectivas entre quienes vivían en ellas. Para ello necesitamos leer el documento, identificar a las partes y situar sus pretensiones en el contexto de la época.
 
+
+## Leer una sentencia sin anticipar su contenido
+
+La signatura registrada permite orientar la búsqueda de la ejecutoria, pero no sustituye la lectura de sus folios. Habrá que distinguir las pretensiones de las partes, los antecedentes que cada una alegaba y la resolución judicial. Incluso una sentencia favorable a una institución no probaría automáticamente que sus derechos se ejercieran después sin oposición.
+
+La [historia del condado](../../historia/condado/) proporciona el contexto señorial. La investigación de la [Peña de Francia](/lugares/pena-de-francia/) aporta una escala religiosa y territorial propia. Mantener ambos expedientes relacionados, pero independientes, permitirá incorporar el resultado del cotejo sin duplicar ni anticipar conclusiones.
+
 ## Documentación y límites
 
 [Corpus jurisdiccional de Miranda](../../historia/archivo-jurisdiccional/). [Referencia PARES](https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12761016), pendiente de comprobación directa en esta edición. No se atribuye un resultado al litigio.
