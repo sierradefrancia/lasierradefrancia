@@ -26,6 +26,8 @@ Para comprender la iglesia actual es necesario comenzar por aquella que desapare
 
 ## Ámbitos de investigación del templo
 
+- [Orfebrería y bienes litúrgicos](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/orfebreria-y-bienes-liturgicos/): alhajas parroquiales y conexiones con joyería devocional.
+
 - [Órgano histórico](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/organo-historico/): cronología atribuida, memoria musical y restauración.
 
 - [Retablos y capillas](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/retablos-y-capillas/): Rosario, Dolores, patronazgo y restauración de 2022.
