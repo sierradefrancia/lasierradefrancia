@@ -1,0 +1,29 @@
+---
+layout: default
+title: "Historia de Mogarraz"
+parent: Mogarraz
+grand_parent: Conjuntos históricos
+nav_order: 2
+last_modified_at: 2026-11-24
+description: "Jurisdicción histórica y cuestiones abiertas sobre el poblamiento de Mogarraz."
+permalink: /pueblos/conjuntos-historicos/mogarraz/historia/
+---
+
+# Historia de Mogarraz
+
+## La jurisdicción de Miranda
+
+En la Comisión de Cultura de las Cortes de Castilla y León del 15 de abril de 2005 se afirmó que Mogarraz perteneció al condado de Miranda hasta obtener jurisdicción propia en 1671 por concesión de Mariana de Austria. La intervención constituye un testimonio institucional moderno, no el privilegio original.
+
+El mismo discurso confunde la fecha de incoación patrimonial (1986) con la declaración definitiva (1998). Esa discrepancia obliga a comprobar sus restantes datos históricos en fuentes independientes.
+
+## Líneas abiertas
+
+Localizar el privilegio de villazgo, documentación fiscal del siglo XVIII y primeras menciones medievales. La tradición de repoblación francesa no acredita por sí sola una fundación concreta.
+
+## Fuentes
+
+- [Diario de sesiones 279, 15 de abril de 2005, p. 5879](https://sirdoc.ccyl.es/sirdoc/PDF/PUBLOFI/DS/COM/6L/DSCOM6L00279A.pdf), extracto localizado el 24-11-2026.
+- [Decreto de 1998](https://www.boe.es/diario_boe/txt.php?id=BOE-A-1998-8051).
+
+[Volver a Mogarraz](../).
