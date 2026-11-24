@@ -1,4 +1,5 @@
 ---
+description: "Las cruces y cruceros de La Alberca, desde Barrio Nuevo y San Antonio hasta las marcas devocionales de El Mochito."
 layout: default
 title: "Las pequeñas cruces que casi nadie mira"
 parent: Artículos
