@@ -29,6 +29,8 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 
 ## Estudios e inventarios
 
+- [Historia territorial de Las Batuecas](/lugares/las-batuecas/historia-territorial/): aprovechamientos, derechos concejiles, documentación medieval y fundación carmelitana.
+
 - [Las Batuecas entre historia y leyenda](/lugares/las-batuecas/historia-leyenda/): tradición literaria y defensa histórica de Tomás González de Manuel.
 
 - [Historia del Desierto de San José](/lugares/las-batuecas/historia-carmelitana/): fundación, derechos territoriales y recuperación religiosa.

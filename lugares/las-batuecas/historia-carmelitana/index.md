@@ -75,3 +75,5 @@ La ficha ministerial sitúa una adquisición de la finca y sus edificios por la 
 El estudio continúa en [Arquitectura del Desierto de San José](/lugares/las-batuecas/arquitectura-carmelitana/).
 
 [Volver a Las Batuecas](/lugares/las-batuecas/)
+
+Estudio complementario: [Historia territorial de Las Batuecas](/lugares/las-batuecas/historia-territorial/).

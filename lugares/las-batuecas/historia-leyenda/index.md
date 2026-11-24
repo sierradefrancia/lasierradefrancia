@@ -90,3 +90,5 @@ La Biblioteca Jurídica del BOE identifica a Gabrielle Berrogain como autora de 
 Esta página es una primera delimitación crítica del problema histórico y literario, no una edición comentada de las fuentes.
 
 [Volver a Las Batuecas](/lugares/las-batuecas/)
+
+Para la documentación económica y jurisdiccional, véase [Historia territorial de Las Batuecas](/lugares/las-batuecas/historia-territorial/).
