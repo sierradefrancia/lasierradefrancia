@@ -719,3 +719,9 @@ Pero ninguna de estas fuentes contiene, por sí sola, toda la historia del puebl
 ## Cotejo puntual de la cadena de transmisión
 
 El 24-11-2026 se recuperaron la [ficha del BOE](https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-H-1930-10038100441) y la [edición digitalizada](https://revistas.mjusticia.gob.es/index.php/AHDE/article/download/5060/5060/4833), pp. 381–383. La nota de la p. 382 localiza la donación medieval en los folios 34 y 36 del registro descrito. Esta referencia concreta orienta la búsqueda del testimonio manuscrito. La edición impresa mantiene la discrepancia entre era 1327 y año 1291; la conversión aritmética da 1289. No se ha recuperado el manuscrito ni se corrige retrospectivamente su datación.
+
+## El archivo concejil observado en 1857
+
+Vicente de la Fuente sitúa el archivo junto al lado de la Epístola del presbiterio y describe un sistema de apertura con tres llaves. Su publicación permite localizar un testimonio histórico de custodia, no la ubicación actual de los fondos. La descripción del privilegio de Pedro I debe distinguirse de una transcripción diplomática completa.
+
+Fuente cotejada el 24-11-2026: Vicente de la Fuente, *Expedición científica y artística a la Sierra de Francia*, BRAH 3 (1883), pp. 165–167, [edición digital](https://www.cervantesvirtual.com/obra-visor/boletin-de-la-real-academia-de-la-historia--23/html/02531a66-82b2-11df-acc7-002185ce6064_49.html). Consulta del pasaje publicado, no de los objetos ni manuscritos originales.
