@@ -1,4 +1,5 @@
 ---
+description: "La cooperativa de Villanueva del Conde y su relación con la viticultura y la organización económica local."
 layout: default
 title: "Cooperativa vitivinícola"
 parent: "Sociedad y economía de Villanueva del Conde"
