@@ -1,4 +1,5 @@
 ---
+description: "Los Cuatro Barquillos de Mogarraz: documentación e interpretación de este elemento del patrimonio local."
 layout: default
 title: "Cuatro piezas de plata para un concejo"
 parent: Patrimonio de Mogarraz
