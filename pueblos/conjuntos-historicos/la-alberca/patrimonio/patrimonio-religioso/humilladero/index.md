@@ -43,3 +43,11 @@ La relación de iglesias y ermitas publicada por la Diócesis de Salamanca en 20
 4. [Diócesis de Salamanca, Iglesias y ermitas](https://www.diocesisdesalamanca.com/wp-content/uploads/2026/05/IGLESIAS-ERMITAS-diocesis-de-salamanca.pdf), entradas de La Alberca.
 
 Extractos recuperados el 24-11-2026. No se han inspeccionado el inmueble ni las imágenes, ni recuperado los documentos fundacionales. Pendientes: cronología, fases, cuentas, cofradías, escultura, pavimentos, carpintería y derechos de reproducción de fotografías.
+
+## El umbral occidental del pueblo
+
+La ubicación en una encrucijada y la proximidad de San Blas permiten estudiar dos edificios religiosos en un mismo sector de acceso, sin deducir una fundación conjunta. El desnivel, los tres peldaños y el pórtico forman parte de la adaptación arquitectónica al terreno. La rejostia permite distinguir el cierre de la capilla de la protección exterior del acceso; su antigüedad necesita examen de carpintería.
+
+La salida del Cristo el Jueves Santo conecta el edificio con el calendario parroquial, pero la imagen no es el [Cristo del Sudor](../iglesia-asuncion/cristo-del-sudor/). Para reconstruir los itinerarios históricos interesa comparar cartografía, testimonios procesionales y la investigación de [puentes y caminos](../../patrimonio-civil/puentes-y-caminos/).
+
+*Síntesis de documentación previamente registrada; sin nuevo cotejo externo.*
