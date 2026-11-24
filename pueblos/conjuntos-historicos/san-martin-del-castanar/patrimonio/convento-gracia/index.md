@@ -10,6 +10,25 @@ permalink: /pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/conv
 
 # Convento de Nuestra Señora de Gracia
 
+## Una institución religiosa, docente y patrimonial
+
+Las referencias reunidas permiten distinguir la donación episcopal de 1430, la aprobación capitular de 1437 y las diferentes dataciones transmitidas para las obras y consagraciones. La divergencia con el boletín episcopal de 1856 merece conservarse como problema historiográfico, sin resolverla mediante una fecha promedio.
+
+La enseñanza de gramática, fechada en 1523 o 1537 según las referencias, y el noviciado atribuido a 1770 abren una línea de historia educativa. Los recuentos de 16 frailes en 1591 y 45 en 1771 registrados por PARES corresponden a dos momentos concretos; no permiten reconstruir una evolución continua ni calcular el alumnado.
+
+## Edificio y bienes dispersos
+
+La descripción arqueológica de 2006 distingue muros, arcos, accesos, huertas y vestigios de torre. La investigación arquitectónica debe relacionar esos elementos con las obras atribuidas a diferentes patrocinadores y con la bóveda fechada en 1718, sin dar por conservadas todas las estructuras descritas.
+
+El [relicario de la Santa Espina](../relicario/) permite seguir una trayectoria patrimonial hacia Mogarraz. Los demás bienes mencionados en el debate parlamentario de 1998 requieren expedientes propios de procedencia. La dispersión de una biblioteca o de imágenes no debe atribuirse a un único episodio sin documentos.
+
+La relación con la [Peña de Francia](/lugares/pena-de-francia/) y Las Batuecas, sugerida por el registro dominicano de 1834, ofrece una investigación territorial que debe partir de la lectura del documento.
+
+## Registro documental anterior
+
+Las afirmaciones de consulta del registro previo quedan pendientes de cotejo reproducible en esta revisión editorial.
+
+
 SMC-PAT-012. Una referencia pendiente de cotejo al estudio municipal (p. 15) atribuye la fundación franciscana a 1430, registra enseñanza de gramática desde 1523 y noviciado desde 1770. Investigar el destino de biblioteca, imágenes y demás bienes tras el abandono decimonónico.
 
 Fuente: [Aratikos, catálogo arqueológico, 2006](https://www.lasalina.es/documentacion/normasurbanisticas/286_1_Informe%20Arqueol%C3%B3gico.pdf), pasajes indicados pendientes de cotejo. Fuente secundaria para los acontecimientos históricos.
