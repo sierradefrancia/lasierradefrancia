@@ -63,3 +63,11 @@ La conmemoración de 2015 destaca la función del edificio en la formación de g
 3. [RUIDERAe, número 20, segundo semestre de 2022](https://revista.uclm.es/index.php/ruiderae/article/view/3268/2574), pasaje relativo a la solicitud de interinidad de 1941. Autoría, página y signatura del expediente pendientes de completar.
 
 Extractos de estas tres fuentes recuperados el 24 de noviembre de 2026. No se han consultado los planos ni el expediente original de 1941. No se incluyen imágenes sin derechos de reutilización comprobados.
+
+## La identificación del arquitecto
+
+El [artículo sobre las escuelas de 1935](../../../historia/articulos/las-escuelas-de-1935/) registra a Joaquín Secall y Domingo como candidato a la identificación del arquitecto citado por José Luis Puerto. La coincidencia de apellido, actividad escolar y periodo orienta la búsqueda, pero no constituye una firma del proyecto albercano. La referencia a Pereña y Santa Cristina de la Polvorosa debe verificarse individualmente, incluyendo la provincia de cada localidad.
+
+La vacante femenina de 1929 demuestra que la organización graduada precedía a la inauguración atribuida a 1935. Para estudiar el cambio material se necesitan planos de ambos emplazamientos y expedientes de traslado. Las 130.000 pesetas del relato retrospectivo no pueden clasificarse todavía como presupuesto de adjudicación o liquidación final.
+
+*Ampliación de síntesis del corpus existente; no constituye un nuevo cotejo externo.*
