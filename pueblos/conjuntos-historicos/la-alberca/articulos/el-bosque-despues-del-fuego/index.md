@@ -1,4 +1,5 @@
 ---
+description: "Restauración forestal en el entorno de La Alberca tras los incendios: voluntariado de 2023, control de la erosión y preguntas sobre la regeneración."
 layout: default
 title: "El bosque después del fuego"
 parent: Artículos
