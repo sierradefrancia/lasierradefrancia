@@ -25,6 +25,12 @@ La descripción de 2013 [2] señala la inclinación de la cabeza hacia su derech
 
 La noticia de 2016 [3] sitúa el origen de la advocación el 1 de septiembre de 1665, cuando una peregrina hacia la Peña de Francia habría observado sudor de sangre en la imagen, y menciona un episodio posterior al día siguiente. Puerto [1] recoge la tradición de sangre y agua procedentes del costado en septiembre de mediados del XVII. No constituyen constataciones independientes del acontecimiento: documentan la transmisión moderna del relato devocional. Falta un testimonio contemporáneo.
 
+## Nuevas referencias históricas (24-11-2026)
+
+El [Boletín de la Real Academia de la Historia, tomo III (1883), p. 165](https://www.cervantesvirtual.com/obra-visor/boletin-de-la-real-academia-de-la-historia--23/html/02531a66-82b2-11df-acc7-002185ce6064_49.html) transmite la fecha de 1 de septiembre de 1655, frente a 1665 de las publicaciones modernas, y refiere un testimonio y corporales en la catedral de Coria. No se han comprobado su existencia actual, autenticidad ni fecha. La contradicción queda abierta.
+
+El [Archivo Histórico Dominicano](https://archivo.dominicoshispania.org/index.php/sermones-del-santisimo-cristo-del-sudor-de-la-alberca) cataloga seis sermones anónimos, datación tentativa 1835–1860, signatura ES 37274.AHDOPE A-B-COR-15-1-10, procedentes del convento de Santo Domingo de La Coruña. La ficha transcribe una referencia a la festividad del domingo posterior a la Ascensión y denomina al retablo de los Espejos. No se han leído los manuscritos completos. La posible procedencia albercana del predicador es hipótesis del archivo.
+
 ## La cofradía
 
 La publicación de 2016 [3] y la guía de 2013 [2] sitúan su origen en 1685. La crónica de 2015 [4] refiere que sus constituciones emplean la denominación Cofradía del Santísimo Cristo. No se han examinado esas constituciones ni el acta fundacional.
