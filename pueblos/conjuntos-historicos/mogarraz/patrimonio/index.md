@@ -3,7 +3,7 @@ layout: default
 title: "Patrimonio de Mogarraz"
 parent: Mogarraz
 grand_parent: Conjuntos históricos
-nav_order: 5
+nav_order: 3
 has_children: true
 last_modified_at: 2026-11-24
 description: "Primer inventario de edificios religiosos, espacios públicos y patrimonio desaparecido."
@@ -70,3 +70,8 @@ La Peña de Mogarraz de 2009 enumera seis ermitas: Santa Lucía, San Blas, San P
 Extractos recuperados el 24-11-2026; inventario provisional.
 
 [Volver a Mogarraz](../).
+
+
+## Explorar esta sección
+
+- [Arquitectura tradicional](../arquitectura-tradicional/).
