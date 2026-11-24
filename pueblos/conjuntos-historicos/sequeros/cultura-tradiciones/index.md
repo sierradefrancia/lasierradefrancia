@@ -1,4 +1,5 @@
 ---
+description: "Cultura y tradiciones de Sequeros: memoria religiosa, literatura, teatro y vida comunitaria."
 layout: default
 title: "Cultura y tradiciones de Sequeros"
 parent: Sequeros
