@@ -1,4 +1,5 @@
 ---
+description: "La Casa Ducal y el Teatro Dolores Mateos de La Alberca: usos históricos, columnas de granito y rehabilitación arquitectónica."
 layout: default
 title: "Un edificio, muchas vidas"
 parent: Artículos
