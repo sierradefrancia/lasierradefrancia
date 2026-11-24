@@ -37,6 +37,7 @@ Su arquitectura, sus tradiciones, su historia y su relación con el paisaje perm
 - [Sociedad y economía](./sociedad-economia/).
 - [Visitar Mogarraz](./visitar/).
 - [Artículos](./articulos/).
+- [Mogarraz en su conjunto](./valor-global/).
 
 [Fuentes e investigación](./fuentes/) · [Personajes](/personajes/)
 
