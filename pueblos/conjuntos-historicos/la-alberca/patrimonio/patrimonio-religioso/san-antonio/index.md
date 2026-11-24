@@ -29,3 +29,11 @@ La relación diocesana de 2026 registra la referencia catastral 4866619QE4846N00
 - [Diócesis, relación de inmuebles](https://www.diocesisdesalamanca.com/wp-content/uploads/2026/05/IGLESIAS-ERMITAS-diocesis-de-salamanca.pdf).
 
 Consulta de extractos indexados: 24-11-2026. Estudio inicial abierto; no se han examinado íntegramente los documentos ni realizado inspección de campo.
+
+## La ermita, la Corredera y la plaza
+
+El dintel con fecha atribuida de 1670 constituye el punto de partida de una investigación epigráfica. Debe registrarse el texto completo y comprobar si el bloque pertenece a la fábrica original o a una intervención posterior. La clasificación como humilladero en el inventario territorial describe una tipología y no sustituye la advocación de San Antonio de Padua.
+
+El [crucero de San Antonio](../../elementos-patrimoniales/crucero-san-antonio/) se encuentra, según las fichas registradas, a unos 159 metros. Los pórticos de la plaza y su inscripción constituyen otros elementos de interés. La relación entre estos lugares debe reconstruirse mediante planos y fotografías, no mediante la mera coincidencia de nombre. San Antonio Abad y el marrano de San Antón pertenecen a otra tradición devocional.
+
+*Síntesis de documentación previamente registrada; sin nuevo cotejo externo.*
