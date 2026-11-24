@@ -1,4 +1,5 @@
 ---
+description: "El conjunto histórico de San Martín del Castañar: castillo, plazas, arquitectura serrana y protección patrimonial."
 layout: default
 title: "Conjunto histórico de San Martín"
 parent: "San Martín del Castañar"
