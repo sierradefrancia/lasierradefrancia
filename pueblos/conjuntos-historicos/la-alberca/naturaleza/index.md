@@ -437,3 +437,9 @@ Una observación pendiente de validación no se presentará como confirmada.
 Y una investigación general solo se incorporará cuando aporte información específica sobre el territorio albercano.
 
 El objetivo no es completar un catálogo por obligación, sino construir conocimiento naturalista real, verificable y útil sobre La Alberca.
+
+## Del registro científico a la gestión territorial
+
+La tesis micológica de 2008, la cita zoológica de Arribas de 2006 y los expedientes forestales de 2022–2023 aportan evidencias de naturaleza diferente. Las publicaciones biológicas permiten investigar organismos y hábitats; los expedientes documentan decisiones y actuaciones. Ninguno sustituye al otro. El [inventario naturalista](./inventario/) distingue estas categorías y el [inventario geográfico](../geografia-territorio/inventario/) permite relacionarlas con entidades territoriales.
+
+*Integración de referencias existentes; sin nuevo cotejo externo.*
