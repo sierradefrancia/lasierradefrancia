@@ -1,4 +1,5 @@
 ---
+description: "Las ermitas de San Martín del Castañar: arquitectura devocional, emplazamientos y memoria local."
 layout: default
 title: "Ermitas y hospital"
 parent: Patrimonio de San Martín del Castañar
