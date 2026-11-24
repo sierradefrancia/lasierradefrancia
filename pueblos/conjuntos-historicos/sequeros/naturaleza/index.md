@@ -1,4 +1,5 @@
 ---
+description: "Naturaleza de Sequeros: paisaje forestal, vegetación y relación entre el núcleo histórico y su entorno."
 layout: default
 title: "Naturaleza de Sequeros"
 parent: "Sequeros"
