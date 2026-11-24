@@ -1,4 +1,5 @@
 ---
+description: "Los zapateros de Mogarraz y la memoria del oficio, sus herramientas y su papel en la economía local."
 layout: default
 title: "La huella de los zapateros de Mogarraz"
 parent: Artículos de Mogarraz
