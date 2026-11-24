@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: "1935: una escuela nueva para una Alberca antigua"
 parent: "Artículos de Historia"
@@ -631,3 +632,7 @@ La investigación podrá ampliarse con fuentes municipales, educativas, arquitec
 ---
 
 [Volver a Historia de La Alberca](/pueblos/conjuntos-historicos/la-alberca/historia/)
+
+## Antecedente administrativo de 1929
+
+La [Gaceta de Madrid de 2 de noviembre de 1929](https://www.boe.es/diario_gazeta/comun/pdf.php?do=1&p=1929%2F11%2F02%2Fpdfs%2FC00025-00040.pdf), referenciada en el [expediente patrimonial de las escuelas](../../../patrimonio/patrimonio-civil/escuelas/), registra una vacante de dirección de escuela graduada femenina. Este antecedente distingue la existencia de una organización escolar anterior de la inauguración del edificio en 1935. No identifica el inmueble donde funcionaba en 1929. Original no vuelto a cotejar en esta revisión.
