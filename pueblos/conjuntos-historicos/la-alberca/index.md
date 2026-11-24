@@ -5,6 +5,7 @@ parent: Conjuntos históricos
 grand_parent: Pueblos
 nav_order: 1
 has_children: true
+last_modified_at: 2026-11-24
 description: "Descubre La Alberca, Salamanca: qué ver, historia, arquitectura tradicional, patrimonio, fiestas, gastronomía, naturaleza y rutas. Una guía para visitar y conocer el pueblo."
 permalink: /pueblos/conjuntos-historicos/la-alberca/
 ---
@@ -24,6 +25,8 @@ Es una comunidad con siglos de historia, un patrimonio extraordinario, tradicion
 Se puede venir a pasar unas horas, recorrer sus calles y disfrutar de su gastronomía. Pero también se puede dedicar mucho más tiempo a conocer sus monumentos, sus costumbres, sus antiguos caminos y los paisajes de los alrededores.
 
 **La Alberca tiene mucho que ofrecer. Y cuanto más la conoces, más motivos encuentras para volver.**
+
+[Comprende La Alberca en su conjunto](./valor-global/).
 
 [Descubre qué ver y hacer en La Alberca](/pueblos/conjuntos-historicos/la-alberca/visitar/).
 
