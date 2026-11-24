@@ -1,4 +1,5 @@
 ---
+description: "Investigación sobre el marfil de Mogarraz y las conexiones históricas que plantea su procedencia."
 layout: default
 title: "El pequeño marfil que cruzó el océano"
 parent: Artículos de Mogarraz
