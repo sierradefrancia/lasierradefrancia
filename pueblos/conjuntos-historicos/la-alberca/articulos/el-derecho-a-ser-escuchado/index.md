@@ -35,3 +35,15 @@ La próxima vez que pienses en el patrimonio de La Alberca, incluye sus document
 **Referencia:** Vicente de la Fuente, relato publicado en el Boletín de la Real Academia de la Historia (1883), identificado en [La Alberca medieval](../../historia/edad-media/), apartados 4–5. Identificación bibliográfica completa y originales pendientes de cotejo.
 
 *Nota documental: síntesis narrativa de los expedientes históricos del atlas. En esta fase se han leído los expedientes internos, no cotejado directamente las fuentes externas ni los originales archivísticos.*
+
+## De los privilegios a la vida cotidiana
+
+Las disposiciones de 1352 y 1353, transmitidas por De la Fuente, permiten distinguir dos problemas: quién tenía competencia para intervenir en un litigio y quién participaba en el reparto de cargas. No eran concesiones equivalentes ni eliminaban la dependencia respecto de Granadilla.
+
+Siglos después, otro documento de 1558 aborda las dificultades del desplazamiento de mujeres albercanas a Granadilla para declarar. La distancia y las condiciones del camino podían afectar al ejercicio práctico de la justicia. No conocemos todavía el procedimiento alternativo completo.
+
+Estos documentos no forman una historia lineal de adquisición de derechos modernos. Sí permiten estudiar cómo una comunidad negociaba las condiciones concretas de su relación con otras autoridades.
+
+Referencia bibliográfica: [Vicente de la Fuente, Boletín de la Real Academia de la Historia, 1883, pp. 165–167](https://www.cervantesvirtual.com/obra-visor/boletin-de-la-real-academia-de-la-historia--23/html/02531a66-82b2-11df-acc7-002185ce6064_49.html). Véase [el camino de las mujeres a Granadilla](../../historia/articulos/las-mujeres-y-el-camino-a-granadilla/).
+
+*Ampliación a partir de expedientes existentes; sin nuevo cotejo externo.*
