@@ -24,3 +24,8 @@ La [ficha provincial](https://www.lasalina.es/Aplicaciones/GestorInter.jsp?codMu
 ## Investigación fiscal histórica
 
 La búsqueda del 24-11-2026 no ha recuperado las respuestas generales específicas de Miranda. El [fondo editorial del Catastro](https://www.catastro.hacienda.gob.es/es-ES/fondo_editorial.html) permite identificar las clases documentales a solicitar: respuestas generales, memoriales, libros de lo real, cabezas de casa y estados. No aporta cifras locales. No se trasladarán datos de otros municipios a Miranda.
+
+
+## Viticultura
+
+El dossier de la asociación vitivinícola incluye Miranda en los 26 municipios de su zona de producción y describe los bancales de las laderas del Alagón y sus afluentes. Es documentación sectorial histórica, no padrón actual de viñedos o bodegas de Miranda. [Dossier, p. 3](https://www.dosierradesalamanca.es/wp-content/uploads/2013/03/dossier_DOP_SSa.pdf), extracto consultado el 24-11-2026. Pendiente cotejo del pliego vigente y datos municipales.
