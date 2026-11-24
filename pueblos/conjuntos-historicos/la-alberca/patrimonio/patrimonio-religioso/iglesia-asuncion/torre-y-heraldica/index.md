@@ -65,7 +65,7 @@ Extractos de las cuatro páginas consultados el 24 de noviembre de 2026. No se h
 
 ## La representación señorial en diferentes espacios
 
-El relato transmitido por Barcala sitúa las armas señoriales en la torre, la antigua capilla mayor y el balcón de autoridades asociado al peso de la harina. Estos emplazamientos vinculan representación religiosa y gobierno local, aunque solo el primero se identifica aquí como conservado según la descripción municipal. El escudo de la [Casa Ducal](../../patrimonio-civil/casa-ducal/) debe compararse mediante descripción heráldica individual, no por una atribución genérica a la nobleza.
+El relato transmitido por Barcala sitúa las armas señoriales en la torre, la antigua capilla mayor y el balcón de autoridades asociado al peso de la harina. Estos emplazamientos vinculan representación religiosa y gobierno local, aunque solo el primero se identifica aquí como conservado según la descripción municipal. El escudo de la [Casa Ducal](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/casa-ducal/) debe compararse mediante descripción heráldica individual, no por una atribución genérica a la nobleza.
 
 La diferencia entre 1519 y 1571 no permite deducir una obra de 52 años. Cada inscripción necesita transcripción, fotografía y análisis de su soporte.
 
@@ -73,7 +73,7 @@ La diferencia entre 1519 y 1571 no permite deducir una obra de 52 años. Cada in
 
 ## Heráldica y topografía del poder
 
-Los tres emplazamientos de armas señoriales transmitidos por González de Manuel permiten comparar espacios de representación: torre, capilla mayor y balcón de autoridades. El último conecta con la [Plaza Mayor](../../patrimonio-civil/plaza-mayor/) y la historia del peso de la harina. Debe comprobarse si los escudos descritos compartían composición, soporte y cronología. La identificación familiar de un escudo no basta para fechar su talla ni atribuir el coste de la fábrica.
+Los tres emplazamientos de armas señoriales transmitidos por González de Manuel permiten comparar espacios de representación: torre, capilla mayor y balcón de autoridades. El último conecta con la [Plaza Mayor](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/plaza-mayor/) y la historia del peso de la harina. Debe comprobarse si los escudos descritos compartían composición, soporte y cronología. La identificación familiar de un escudo no basta para fechar su talla ni atribuir el coste de la fábrica.
 
 Para distinguir las fases de la torre conviene registrar las inscripciones por cara, altura, soporte y relación con juntas de fábrica, sin asumir que ambas fechas corresponden a comienzo y final de una misma obra. El [osario y las Ánimas](../../animas/) aportan el contexto devocional del encuentro con la capilla del Rosario.
 
