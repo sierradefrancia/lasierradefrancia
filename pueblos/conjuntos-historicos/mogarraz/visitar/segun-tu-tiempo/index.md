@@ -26,3 +26,7 @@ Reserva tiempo para comer y para conocer el paisaje. Si quieres realizar el Cami
 Estas propuestas son orientativas, no recorridos cronometrados.
 
 Guía editorial basada en los expedientes del atlas; no constituye una comprobación de campo ni de horarios actuales.
+
+## Prioridades según tus intereses
+
+En una visita breve, la separación entre iglesia y torre y los retratos ofrecen dos lecturas diferentes del patrimonio. Con más tiempo, la fuente de Arriba y el Humilladero permiten incorporar la historia del agua, mientras el museo, si está abierto, añade la dimensión artesanal. Para una jornada completa, los aproximadamente nueve kilómetros publicados del Camino del Agua requieren reservar tiempo suficiente y no tratar la ruta como una extensión breve del paseo urbano. Consulta [senderismo](../senderismo/) y [gastronomía](../../gastronomia/) para preparar ambas actividades.
