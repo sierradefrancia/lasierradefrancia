@@ -1,4 +1,5 @@
 ---
+description: "Artículos sobre Sequeros: historia jurisdiccional, teatro y relaciones con la Peña de Francia."
 layout: default
 title: "Artículos de Sequeros"
 parent: Sequeros
