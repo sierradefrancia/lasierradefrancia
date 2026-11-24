@@ -51,6 +51,7 @@ Su arquitectura, sus tradiciones, su historia y su relación con el paisaje perm
 
 - [Visitar Mogarraz](./visitar/).
 - [Artículos de Mogarraz](./articulos/).
+- [Fuentes e investigación de Mogarraz](./fuentes/).
 
 ## Información general
 
