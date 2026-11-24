@@ -34,3 +34,7 @@ El [estudio de Javier Herrera-Vicente, Cuadernos Medievales 36 (2024), pp. 43–
 - [AHDOPE, ES 37274.AHDOPE A-B-PEÑ-2-6](https://archivo.dominicoshispania.org/index.php/san-martin-del-castanar-salamanca): registro de 20-11-1834 sobre quejas relativas a Gracia, Peña y Batuecas. Interesa para la relación con La Alberca. Solo descripción archivística consultada.
 
 El debate de 1998 atribuye a los marqueses de Cerralvo parte de la biblioteca y menciona bienes en San Martín y Garcibuey; son pistas de procedencia, no inventario contrastado. Consultar el estudio del relicario antes de identificar piezas concretas.
+
+## Patrimonio mueble
+
+El [relicario de la Santa Espina](../relicario/) dispone de expediente individual basado en extractos recuperados del estudio de Herrera-Vicente (2024). Su trayectoria posterior relaciona el convento con Mogarraz.
