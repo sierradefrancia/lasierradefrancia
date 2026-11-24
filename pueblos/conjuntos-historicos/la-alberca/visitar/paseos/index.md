@@ -1,4 +1,5 @@
 ---
+description: "Paseos por La Alberca para descubrir la Plaza Mayor, los barrios históricos, el patrimonio religioso y la arquitectura serrana."
 layout: default
 title: Pasear por La Alberca
 parent: Visitar La Alberca
