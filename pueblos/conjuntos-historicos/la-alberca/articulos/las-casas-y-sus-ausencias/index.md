@@ -1,4 +1,5 @@
 ---
+description: "La evolución de los hogares, la población y la vivienda en La Alberca, con atención a las transformaciones del pueblo habitado."
 layout: default
 title: "Las casas y sus ausencias"
 parent: Artículos
