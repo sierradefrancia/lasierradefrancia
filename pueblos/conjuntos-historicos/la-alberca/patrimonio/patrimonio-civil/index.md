@@ -24,6 +24,8 @@ Los edificios civiles y espacios públicos permiten conocer la organización mun
 
 - [Hospital de Menesterosos y Peregrinos](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/hospital/): asistencia, peregrinaciones y rentas territoriales.
 
+- [Antiguas escuelas](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/escuelas/): organización educativa y edificio de 1935.
+
 ## Líneas abiertas
 
 antiguas escuelas; puentes y comunicaciones históricas.
