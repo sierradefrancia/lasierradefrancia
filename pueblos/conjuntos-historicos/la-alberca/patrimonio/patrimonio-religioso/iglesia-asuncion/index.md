@@ -26,6 +26,8 @@ Para comprender la iglesia actual es necesario comenzar por aquella que desapare
 
 ## Ámbitos de investigación del templo
 
+- [Retablos y capillas](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/retablos-y-capillas/): Rosario, Dolores, patronazgo y restauración de 2022.
+
 - [Cristo del Sudor](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/cristo-del-sudor/): atribución artística, cofradía, tradición y Santa Espina.
 
 - [Púlpito policromado](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/pulpito/): datación especializada de 1572, iconografía y epigrafía.
