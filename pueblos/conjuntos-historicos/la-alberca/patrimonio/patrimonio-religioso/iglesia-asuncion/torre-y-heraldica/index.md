@@ -62,3 +62,11 @@ Pendientes: fotografías epigráficas y heráldicas; edición original de Hoyos 
 4. [Wikipedia: La Alberca (Salamanca)](https://es.wikipedia.org/wiki/La_Alberca_%28Salamanca%29), utilizada exclusivamente para identificar la dependencia textual de la ficha anterior.
 
 Extractos de las cuatro páginas consultados el 24 de noviembre de 2026. No se ha efectuado inspección material ni consulta de los originales históricos.
+
+## La representación señorial en diferentes espacios
+
+El relato transmitido por Barcala sitúa las armas señoriales en la torre, la antigua capilla mayor y el balcón de autoridades asociado al peso de la harina. Estos emplazamientos vinculan representación religiosa y gobierno local, aunque solo el primero se identifica aquí como conservado según la descripción municipal. El escudo de la [Casa Ducal](../../patrimonio-civil/casa-ducal/) debe compararse mediante descripción heráldica individual, no por una atribución genérica a la nobleza.
+
+La diferencia entre 1519 y 1571 no permite deducir una obra de 52 años. Cada inscripción necesita transcripción, fotografía y análisis de su soporte.
+
+*Síntesis del corpus documental existente; sin nuevo cotejo externo en esta ampliación.*
