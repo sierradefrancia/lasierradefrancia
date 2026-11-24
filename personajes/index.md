@@ -101,8 +101,8 @@ Registro provisional procedente de los expedientes del atlas, no de una nueva co
 
 | ID | Persona | Ámbito | Línea documental |
 |---|---|---|---|
-| PER-MOG-001 | Florencio Maíllo | Mogarraz | [Retrata2/388; Camino del Agua](/pueblos/conjuntos-historicos/mogarraz/memoria-visual/) |
-| PER-MOG-002 | Alejandro Martín Criado | Mogarraz | [Archivo fotográfico de 1967; comprobar nombre completo y procedencia](/pueblos/conjuntos-historicos/mogarraz/memoria-visual/) |
+| PER-MOG-001 | [Florencio Maíllo](/personajes/florencio-maillo/) | Mogarraz | [Retrata2/388; Camino del Agua](/pueblos/conjuntos-historicos/mogarraz/memoria-visual/) |
+| PER-MOG-002 | [Alejandro Martín Criado](/personajes/alejandro-martin-criado/) | Mogarraz | [Archivo fotográfico de 1967; comprobar nombre completo y procedencia](/pueblos/conjuntos-historicos/mogarraz/memoria-visual/) |
 | PER-MOG-003 | Antonio Cea Gutiérrez | Mogarraz; La Alberca; Sierra de Francia | [Etnografía, patrimonio, pregón de 2011; bibliografía pendiente](/pueblos/conjuntos-historicos/mogarraz/patrimonio/) |
 | PER-MOG-004 | Miguel del Peral | Mogarraz | [Autoría atribuida de la torre; contratos pendientes](/pueblos/conjuntos-historicos/mogarraz/patrimonio/torre/) |
 | PER-MOG-005 | Ramón Hernández Martín | Mogarraz | [Estudio de la iglesia en revista local de 2011](/pueblos/conjuntos-historicos/mogarraz/patrimonio/iglesia-nieves/) |
@@ -115,3 +115,16 @@ Registro provisional procedente de los expedientes del atlas, no de una nueva co
 ## Registro continuo
 
 En cada bloque de investigación se incorporarán los nuevos nombres relevantes, incluso cuando todavía no permitan redactar una biografía. Antes de asignar un identificador se comprobarán variantes nominales y registros existentes. El prefijo de alta identifica el expediente de origen, no limita el ámbito territorial de la persona. No se duplicarán fichas por municipio. Se registrarán obras, fuentes, colaboradores y relaciones, distinguiendo atribuciones de hechos comprobados.
+
+### Nuevas relaciones documentales de Mogarraz
+
+| ID | Persona | Relación |
+|---|---|---|
+| PER-MOG-011 | Florindo Sánchez Iglesias | Documentación de fotografías, agradecimiento de Maíllo (2010) |
+| PER-MOG-012 | Ángeles de Nacimiento Lorenzo | Documentación y rescate atribuido de negativos |
+| PER-MOG-013 | Isidoro Herrero | Alcalde que habría encargado las fotos, revista 2018 |
+| PER-MOG-014 | Fernando Castro Ramírez | Autor de estudio sobre retratos en revista 2018 |
+| PER-MOG-015 | Kurt Hielscher | Fotografías atribuidas a 1922, revista 2015 |
+| PER-MOG-016 | Alain Huetz de Lemps | Fondo fotográfico referido a 1957, revista 2015 |
+
+Fuentes y límites en [memoria visual](/pueblos/conjuntos-historicos/mogarraz/memoria-visual/). Consulta de extractos el 24-11-2026. Identidades y trayectorias abiertas.
