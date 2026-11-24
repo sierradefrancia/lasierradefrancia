@@ -26,6 +26,8 @@ Para comprender la iglesia actual es necesario comenzar por aquella que desapare
 
 ## Ámbitos de investigación del templo
 
+- [Cristo del Sudor](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/cristo-del-sudor/): atribución artística, cofradía, tradición y Santa Espina.
+
 - [Púlpito policromado](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/pulpito/): datación especializada de 1572, iconografía y epigrafía.
 
 - [Campanas, reloj y matraca](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/campanas-reloj-matraca/): instrumentos, toques de cofradías y archivo sonoro.
