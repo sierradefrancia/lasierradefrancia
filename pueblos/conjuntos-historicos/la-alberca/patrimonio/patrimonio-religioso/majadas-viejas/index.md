@@ -32,3 +32,11 @@ Pozo ALB-PAT-025; ermita de San Marcos ALB-PAT-011; camino de las Raíces. El in
 - [Relación diocesana 2026](https://www.diocesisdesalamanca.com/wp-content/uploads/2026/05/IGLESIAS-ERMITAS-diocesis-de-salamanca.pdf).
 
 Consulta de extractos indexados: 24-11-2026. Estudio inicial abierto; no se han examinado íntegramente los documentos ni realizado inspección de campo.
+
+## Un santuario compartido
+
+La restauración e inauguración atribuidas a 1954 permiten estudiar una fase contemporánea de recuperación, diferenciada de la cronología de la fábrica y de la talla mariana. La Loa compuesta por don Saturnino constituye un documento potencial para conocer cómo se transmitió entonces la tradición. Interesa recuperar su texto, programa inaugural y testimonios de participantes.
+
+La presencia devocional de Mogarraz y Monforte mencionada en la revista de 2024 amplía el ámbito de estudio más allá del municipio. El pozo, el púlpito exterior y la plaza de toros citada por el inventario territorial requieren descripciones diferenciadas: su proximidad no demuestra contemporaneidad. La relación con [San Marcos](../san-marcos/) permite comparar un santuario recuperado y otro conservado como ruina, sin atribuirles una misma trayectoria.
+
+*Síntesis de documentación previamente registrada; sin nuevo cotejo externo.*
