@@ -1,4 +1,5 @@
 ---
+description: "Artículos de investigación y divulgación sobre Mogarraz, sus habitantes, oficios y patrimonio."
 layout: default
 title: "Artículos de Mogarraz"
 parent: Mogarraz
