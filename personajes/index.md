@@ -319,3 +319,7 @@ José Antonio Gómez Gandullo (dirección de excavaciones de La Legoriza desde 2
 - Fray Juan, obispo de Bonavola: consagración de 1437 según el estudio citado; identificación biográfica pendiente.
 
 Ver [expediente de Gracia](/pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/convento-gracia/). Relaciones registradas a partir de extractos recuperados; comprobar duplicados con fichas centrales antes de asignar nuevos identificadores.
+
+### Identificación ampliada: Sancho de Castilla
+
+El estudio de Herrera-Vicente (2024) identifica así al obispo donante del relicario de Gracia. José Ignacio Díez Elcuaz (monografía de 1989), Bartolomé Villalba y Estaña (peregrino de 1577) y Jaime Pinilla González (estudio de 1978) son referencias vinculadas al expediente; originales pendientes. [Expediente del relicario](/pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/relicario/).
