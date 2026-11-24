@@ -1,4 +1,5 @@
 ---
+description: "Naturaleza de Villanueva del Conde: vegetación, paisaje de cultivos y relación entre el pueblo y su entorno."
 layout: default
 title: "Naturaleza de Villanueva del Conde"
 parent: Villanueva del Conde
