@@ -41,3 +41,13 @@ La cruz no pierde valor porque ignoremos parte de su historia. Al contrario: dej
 - [Plaza Mayor](../../patrimonio/patrimonio-civil/plaza-mayor/): evolución del espacio público.
 
 Ensayo documental basado en los expedientes del atlas; pendiente cotejo externo de los originales y fotografías. No se presenta la cronología del traslado como demostrada.
+
+## La plaza antes de la protección
+
+La descripción de Juan de Salamanca de 1911, transmitida por Isidro Barcala, presenta una plaza con escuela, taberna, cuartel, cárcel y actividades de carnicería. Es una imagen funcional del espacio, distinta de la plaza que hoy visita quien llega atraído por su arquitectura.
+
+Las fotografías atribuidas a 1921 y 1925 son especialmente interesantes para investigar el crucero, pero todavía necesitamos examinar sus originales, encuadres y datación. Que una cruz no aparezca en una fotografía no demuestra por sí solo que estuviera ausente de toda la plaza.
+
+La declaración de 1940 y los expedientes posteriores de pavimentación e iluminación muestran que proteger un conjunto histórico no significa congelarlo. La [historia de la Plaza Mayor](../../patrimonio/patrimonio-civil/plaza-mayor/) permite seguir estas transformaciones.
+
+*Ampliación a partir de expedientes existentes; sin nuevo cotejo externo.*
