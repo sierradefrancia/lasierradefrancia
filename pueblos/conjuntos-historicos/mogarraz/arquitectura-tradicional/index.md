@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Arquitectura tradicional de Mogarraz"
-parent: Mogarraz
-grand_parent: Conjuntos históricos
-nav_order: 9
+parent: Patrimonio de Mogarraz
+grand_parent: Mogarraz
+nav_order: 8
 last_modified_at: 2026-11-24
 description: "Entramados, dinteles y espacios domésticos."
 permalink: /pueblos/conjuntos-historicos/mogarraz/arquitectura-tradicional/
