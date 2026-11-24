@@ -4,6 +4,8 @@ title: Artículos
 parent: La Alberca
 grand_parent: Conjuntos históricos
 nav_order: 9
+has_children: true
+last_modified_at: 2026-11-24
 description: "Artículos sobre La Alberca: historia, ciencia, naturaleza, curiosidades, relatos, humor, canciones, investigaciones y otras formas de descubrir y contar el pueblo."
 permalink: /pueblos/conjuntos-historicos/la-alberca/articulos/
 ---
@@ -45,6 +47,23 @@ Lo importante es que tenga sentido, personalidad y una relación auténtica con 
 ---
 
 ## Artículos publicados
+
+### La Alberca que no se ve a primera vista
+
+- [La cruz que no siempre estuvo allí](./la-cruz-que-no-siempre-estuvo-alli/)
+- [Cuando el pueblo escuchaba](./cuando-el-pueblo-escuchaba/)
+- [Un edificio, muchas vidas](./un-edificio-muchas-vidas/)
+- [El pueblo que no termina en sus casas](./el-pueblo-que-no-termina-en-sus-casas/)
+
+Ensayos narrativos basados en los expedientes del atlas, con límites documentales explícitos.
+
+### Historias documentales
+
+- [La Alberca en 1791](../historia/articulos/la-alberca-1791-epidemia-hambre-impuestos/)
+- [La guerra que llegó a La Alberca](../historia/articulos/la-guerra-que-llego-a-la-alberca/)
+- [Las escuelas de 1935](../historia/articulos/las-escuelas-de-1935/)
+- [Las mujeres y el camino a Granadilla](../historia/articulos/las-mujeres-y-el-camino-a-granadilla/)
+- [Los mayordomos del concejo](../historia/articulos/los-mayordomos-del-concejo/)
 
 En este espacio iremos reuniendo nuestras publicaciones sobre La Alberca.
 
