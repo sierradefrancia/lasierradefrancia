@@ -1,4 +1,5 @@
 ---
+description: "Saturnino Hoyos, Sátur Juanela, divulgador de La Alberca y copromotor de la casa museo dedicada a la memoria doméstica serrana."
 layout: default
 title: Sátur Juanela
 parent: Personajes históricos
