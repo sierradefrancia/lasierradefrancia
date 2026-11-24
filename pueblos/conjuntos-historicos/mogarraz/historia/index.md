@@ -35,3 +35,8 @@ Localizar el privilegio de villazgo, documentación fiscal del siglo XVIII y pri
 - [Decreto de 1998](https://www.boe.es/diario_boe/txt.php?id=BOE-A-1998-8051).
 
 [Volver a Mogarraz](../).
+
+
+## Evidencia arqueológica anterior al casco medieval
+
+[Las pizarras visigodas de Mogarraz](./pizarras-visigodas/): expediente territorial, sin inferencia de continuidad urbana.
