@@ -67,3 +67,5 @@ En peces, las nueve especies regionales no constituyen una lista de la comunidad
 Este índice zoológico inicial separa las escalas territoriales. Se ampliará únicamente con registros identificables.
 
 [Volver a Las Batuecas](/lugares/las-batuecas/)
+
+Marco de gestión: [Protección ambiental y gestión territorial](/lugares/las-batuecas/proteccion-ambiental/).

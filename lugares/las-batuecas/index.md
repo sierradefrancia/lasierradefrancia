@@ -33,6 +33,8 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 
 ## Estudios e inventarios
 
+- [Protección ambiental y gestión territorial](/lugares/las-batuecas/proteccion-ambiental/): figuras de protección, planificación y montes.
+
 - [Aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-tradicionales/): economía histórica, normas forestales y usos del paisaje.
 
 - [Granadilla, La Alberca y Las Hurdes](/lugares/las-batuecas/granadilla-hurdes-alberca/): jurisdicciones históricas y aprovechamientos compartidos.
