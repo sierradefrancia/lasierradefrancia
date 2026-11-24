@@ -1,4 +1,5 @@
 ---
+description: "Cómo organizar una visita a La Alberca según el tiempo disponible, desde un paseo breve hasta una exploración pausada del pueblo."
 layout: default
 title: La Alberca según tu tiempo
 parent: Visitar La Alberca
