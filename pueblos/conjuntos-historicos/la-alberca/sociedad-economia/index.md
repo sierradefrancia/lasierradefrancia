@@ -209,6 +209,8 @@ El pueblo se ha convertido en un destino turístico destacado de la Sierra de Fr
 
 No obstante, la evolución económica asociada al turismo debe estudiarse mediante datos, no únicamente a partir de su notoriedad.
 
+El SEPE identifica en 2025 a la industria alimentaria como la división económica con más personas afiliadas (119), seguida de alojamiento (108) y comidas y bebidas (61). La [investigación sobre turismo y transformación económica](./turismo-economia/) desarrolla estos datos y distingue oferta turística de afluencia efectiva.
+
 ### Actividades relacionadas con los visitantes
 
 La investigación deberá examinar la evolución de:
