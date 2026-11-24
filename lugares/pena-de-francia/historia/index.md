@@ -286,6 +286,50 @@ Esta cifra corresponde a una referencia histórica concreta y no debe extrapolar
 
 ---
 
+## La organización material de la comunidad dominicana
+
+La historia institucional de la Peña se comprende mejor al relacionar tres conjuntos documentales: los registros de personas, los instrumentos jurídicos y las cuentas. Cada uno responde a una finalidad diferente. El Libro de Profesiones permite investigar la incorporación de religiosos; el Libro de Privilegios transmite derechos y concesiones; los registros económicos permiten estudiar recursos y gastos en los periodos que efectivamente cubren. Ninguno ofrece por sí solo una descripción completa de la comunidad.
+
+### Dos emplazamientos, una comunidad
+
+La construcción de la Casa Baja de El Maíllo, iniciada según las referencias reunidas en 1516, introduce una dimensión territorial que no puede reducirse a la historia arquitectónica. La residencia invernal de los religiosos permite distinguir la continuidad de una institución de la ocupación permanente de un edificio concreto. No se debe inferir que todos los frailes descendieran simultáneamente ni que el culto en la cumbre quedara necesariamente interrumpido.
+
+La cifra de 22 religiosos atribuida a ese momento requiere comprobar si corresponde a profesos, residentes o al conjunto de personas vinculadas al convento. Es un dato puntual, no una serie demográfica. Su contraste con las profesiones, las defunciones y las relaciones de priores permitiría estudiar la evolución de la comunidad sin confundir incorporaciones con población efectiva.
+
+La [Casa Baja](/lugares/pena-de-francia/santuario-patrimonio/casa-baja/) y el [Pozo Verde descrito en el estudio patrimonial](/lugares/pena-de-francia/santuario-patrimonio/) representan dos escalas complementarias de la organización material: la distribución territorial de la residencia y las necesidades de abastecimiento en la cima. La función hidráulica exacta del segundo permanece pendiente de examen técnico.
+
+### Patrimonio, rentas y jurisdicción
+
+El Libro de Privilegios de 1715 (AHDOPE A-A-PEÑ-1) reúne noticias de donaciones, propiedades y concesiones. Su contenido permite plantear una reconstrucción histórica de los recursos del establecimiento, pero es imprescindible distinguir la propiedad de un inmueble, el derecho a percibir una renta y la competencia jurisdiccional sobre un territorio. La existencia de uno de estos derechos no implica los demás.
+
+El [rollo jurisdiccional](/lugares/pena-de-francia/santuario-patrimonio/rollo-jurisdiccional/) constituye una expresión material de esa última dimensión. La autorización atribuida a 1521 debe estudiarse junto a sus confirmaciones y a la documentación sobre el ejercicio efectivo de las competencias. No basta conocer el símbolo para reconstruir el régimen jurídico del santuario.
+
+Un inventario económico futuro deberá identificar cada bien, su localización histórica, el título de adquisición, la fecha y las obligaciones asociadas. Las denominaciones antiguas no deben trasladarse automáticamente a parcelas actuales. Tampoco debe confundirse la fecha de una copia con la de la adquisición que registra.
+
+### Las cofradías como relación entre el santuario y la sociedad
+
+La documentación de comienzos del siglo XVI mencionada en el catálogo dominicano, incluidas las bulas atribuidas a Alejandro VI y los estatutos aprobados en 1504, ofrece una vía para investigar la participación de personas ajenas a la comunidad conventual.
+
+Una bula, unos estatutos y una relación de miembros son documentos de distinta naturaleza. La primera puede conceder determinados beneficios; los segundos regulan la organización; la tercera permitiría conocer su composición efectiva. Sin consultar sus textos no es posible precisar cuotas, obligaciones, indulgencias, procedencia de los miembros o mecanismos de elección de cargos.
+
+La investigación deberá determinar si las denominaciones de hermandad y cofradía corresponden a una misma organización en las referencias conservadas. También interesa establecer si existían agrupaciones locales vinculadas al santuario y cómo se relacionaban con él. La extensión geográfica de una advocación no acredita por sí sola una estructura asociativa común.
+
+### La ruptura de 1835 como problema económico
+
+La supresión conventual registrada por PARES en 1835 proporciona un punto de referencia institucional. El inventario de José Calvo de 30 de agosto de ese año, conservado según el catálogo dominicano en B-C-SAL-b-14/3-1, ofrece una posibilidad de reconstruir los bienes en torno a esa ruptura. Las copias de 1875 y 1879 deben compararse con el testimonio de 1835, no contarse como inventarios independientes de esos años.
+
+La serie de cuentas B-C-SAL-b-14/3-2 incluye referencias a limosnas de 1859–1867 y contabilidad de 1869–1900. Su cronología impide utilizarla directamente como prueba de la economía medieval o moderna del convento. Su interés reside en estudiar el sostenimiento del santuario después de la exclaustración y relacionarlo con las [obras documentadas desde 1867](/lugares/pena-de-francia/santuario-patrimonio/obras-1867-1902/).
+
+La comparación entre inventarios, cuentas y contratos puede revelar qué recursos permitieron mantener el culto y recuperar los edificios, siempre que los documentos identifiquen ingresos y destinos concretos. No se han transcrito todavía esas series.
+
+### Fuentes y alcance
+
+- [Archivo Histórico Dominicano, fondo de Peña de Francia](https://archivo.dominicoshispania.org/index.php/pena-de-francia-2?sf_culture=es): registros conventuales, privilegios, inventarios y cuentas.
+- [PARES, autoridad del convento](https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/6111): marco institucional.
+- [TERPAT, Junta de Castilla y León, 2022](https://www.jcyl.es/jcyl/patrimoniocultural/TERPAT/SantuariosErmitasHumilladeros/index_htm_files/04-Pena%20de%20Francia%2C%20El%20Cabaco.pdf): contexto patrimonial.
+
+Esta ampliación relaciona referencias ya registradas en el atlas; no presenta nuevos manuscritos examinados ni cuantifica rentas, propiedades o miembros sin evidencia. La difusión internacional requiere un expediente independiente que identifique cada fundación y su relación documental con la Peña salmantina.
+
 ## Peregrinaciones y expansión de la devoción
 
 El santuario atrajo devotos y peregrinos desde los primeros momentos de su desarrollo.
