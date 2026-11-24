@@ -117,7 +117,12 @@ for f in pages:
     for href in set(p.links):
         target = urlsplit(urljoin(url, href))
         if target.netloc == urlsplit(origin).netloc:
-            normalized = origin + target.path
+            path = target.path or "/"
+            if path.endswith("/index.html"):
+                path = path[:-10]
+            elif not path.endswith("/") and (root / unquote(path).lstrip("/") / "index.html").is_file():
+                path += "/"
+            normalized = origin + path
             if normalized != url:
                 incoming.setdefault(normalized, set()).add(url)
         if not exists(urljoin(url, href)):
@@ -165,9 +170,6 @@ for entry in inventory:
         issues.append(f"Sitemap URL without detected incoming links: {url}")
 if not pages:
     issues.append("No generated HTML pages")
-print(f"HTML pages: {len(pages)}; findings: {len(issues)}")
-for issue in sorted(set(issues)):
-    print(issue)
 resources = []
 for f in sorted(root.rglob("*")):
     if f.is_file() and f.suffix.lower() in {".jpg", ".jpeg", ".png", ".webp", ".avif", ".gif", ".svg", ".css", ".js", ".woff", ".woff2"}:
@@ -175,5 +177,8 @@ for f in sorted(root.rglob("*")):
         resources.append({"path": f.relative_to(root).as_posix(), "bytes": size})
         if f.suffix.lower() in {".jpg", ".jpeg", ".png", ".webp", ".avif", ".gif"} and size > 500000:
             issues.append(f"Review image over 500 KB: {f.relative_to(root)} ({size} bytes)")
+print(f"HTML pages: {len(pages)}; findings: {len(set(issues))}")
+for issue in sorted(set(issues)):
+    print(issue)
 Path("seo-audit.json").write_text(json.dumps({"pages": inventory, "resources": resources, "findings": sorted(set(issues))}, ensure_ascii=False, indent=2), encoding="utf-8")
 sys.exit(bool(issues))
