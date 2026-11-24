@@ -10,6 +10,25 @@ permalink: /pueblos/conjuntos-historicos/miranda-del-castanar/sociedad-economia/
 
 # Sociedad y economía de Miranda
 
+## Abastecimiento, comercio y regulación
+
+Las referencias archivísticas de 1501 sobre saca de pan y la inscripción de 1585 atribuida a la [alhóndiga](../patrimonio/alhondiga/) permiten investigar dos momentos distintos del abastecimiento. Los edificios identificados como Carnicerías y Peso Real, tratados en [arquitectura civil](../patrimonio/arquitectura-civil/), amplían las preguntas sobre regulación de productos y medidas.
+
+Las [ordenanzas](../historia/ordenanzas/) ofrecen una vía para estudiar las obligaciones de vecinos y autoridades, aunque todavía no se dispone de su transcripción íntegra.
+
+## Agricultura y paisaje
+
+Las referencias sectoriales a los bancales vitícolas del Alagón y sus afluentes permiten relacionar producción agraria y relieve. Debe distinguirse la inclusión de Miranda en una zona vitivinícola de la superficie realmente cultivada en el municipio. La comparación con la [cooperativa de Villanueva del Conde](/pueblos/conjuntos-historicos/villanueva-del-conde/sociedad-economia/cooperativa/) abre una perspectiva comarcal sin atribuir a Miranda esa misma trayectoria empresarial.
+
+## Población y unidades estadísticas
+
+Las cifras disponibles no permiten todavía reconstruir una evolución demográfica homogénea. El núcleo y el municipio son unidades diferentes, y los datos sin año no deben compararse con cifras fechadas. El Catastro de Ensenada podría aportar una perspectiva histórica sobre hogares, oficios y propiedades, pero sus respuestas locales aún no se han recuperado.
+
+## Registro documental anterior
+
+Las referencias y estados de consulta siguientes proceden del expediente previo; su cotejo reproducible sigue pendiente.
+
+
 ## Instituciones de abastecimiento y comunicación
 
 La [alhóndiga](../patrimonio/alhondiga/) documenta una línea de investigación sobre comercio cerealista y abastecimiento. La [torre de las campanas](../patrimonio/torre-campanas/) permite estudiar financiación vecinal y comunicación pública. Ambas instituciones muestran dimensiones distintas de la organización local. Quedan pendientes las ordenanzas y cuentas originales, Catastro de Ensenada y series demográficas oficiales.
