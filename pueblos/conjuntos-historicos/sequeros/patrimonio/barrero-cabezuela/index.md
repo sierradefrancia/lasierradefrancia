@@ -1,4 +1,5 @@
 ---
+description: "El Barrero y la Cabezuela de Sequeros: espacios históricos y lectura de la configuración urbana."
 layout: default
 title: "Barrero y Cabezuela"
 parent: "Patrimonio de Sequeros"
