@@ -81,3 +81,11 @@ Se recuperaron extractos textuales de estos ocho recursos en esta ejecución. No
 ## Estado de control documental vigente
 
 Las 23 referencias registradas se conservan como localizadores de trabajo. Las declaraciones anteriores de recuperación de extractos no cuentan en esta revisión con evidencia externa reproducible adjunta. No deben interpretarse como certificaciones independientes. Antes de dar por confirmado un dato, recuperar la fuente, registrar el pasaje y distinguir la afirmación de la fuente de la interpretación editorial. Esta nota prevalece sobre las certificaciones anteriores. La revisión actual ha sido interna al repositorio.
+
+## Prioridades para nuevas monografías
+
+- Molinos del Francia: localizar el proyecto municipal de 2016, inventario individual y estado de ejecución.
+- Economía histórica: recuperar las respuestas originales del Catastro de Ensenada antes de desarrollar una monografía.
+- Arte en los caminos: inventario comarcal por obra, autor y emplazamiento, evitando duplicación municipal.
+
+Estas líneas no constituyen nuevas verificaciones. Véanse [sociedad y economía](../sociedad-economia/) y [cultura](../cultura-tradiciones/).
