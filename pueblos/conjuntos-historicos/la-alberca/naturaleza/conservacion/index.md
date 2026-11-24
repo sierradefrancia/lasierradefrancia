@@ -11,6 +11,8 @@ permalink: /pueblos/conjuntos-historicos/la-alberca/naturaleza/conservacion/
 
 # Conservación y transformación ambiental
 
+**Estado documental:** síntesis provisional. Las referencias y cifras requieren cotejo directo antes de considerarse verificadas; no se acredita aquí una consulta externa completa.
+
 ## Incendios documentados
 
 El [Instituto del Patrimonio Cultural de España](https://ipce.cultura.gob.es/conservacion-y-restauracion/inmuebles/historico-religiosa/monasterio-batuecas.html) documenta daños graves en las cubiertas del monasterio de Batuecas por el incendio de 1872. No aporta perímetro forestal ni causa del siniestro.
@@ -35,4 +37,4 @@ La [ficha MITECO del río Batuecas](https://www.miteco.gob.es/es/agua/temas/deli
 
 Comparar vuelos históricos, ortofotos PNOA, cartografía de usos y perímetros de incendios con límites municipales. Distinguir abandono agrícola, sucesión vegetal, tratamientos forestales y efectos del fuego. No cuantificar cambios de cubierta sin comparación espacial homogénea. La presión recreativa requiere indicadores de afluencia e impacto, no inferencias a partir de popularidad turística.
 
-Fuentes: extractos recuperados el 24-11-2026; no se han revisado íntegramente todos los expedientes ni realizado análisis SIG. Relacionar con [Geografía](../../geografia-territorio/), [Economía tradicional](../../sociedad-economia/economia-tradicional/), [Vegetación](../vegetacion/) e [Hidrografía](../../geografia-territorio/hidrografia/).
+Referencias identificadas en el expediente; cotejo directo pendiente de acreditación.
