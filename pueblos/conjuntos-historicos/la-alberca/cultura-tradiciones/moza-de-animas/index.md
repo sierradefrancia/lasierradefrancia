@@ -26,3 +26,8 @@ El recorrido constituye una relación entre espacio habitado, sonido y memoria d
 Pendiente: rutas históricas, variantes de fórmulas, duración y transmisión de mandas, testimonios fechados y documentación de cofradías. No se establece fecha de origen.
 
 Consulta documental: 2026-11-24. Estudio inicial abierto.
+
+
+## Identificación bibliográfica y contraste
+
+[Cano Herrera y Sanz García (1989), Vida y muerte en La Alberca, Cuadernos de Etnología y Etnografía de Navarra 53, pp. 67–84](https://uvadoc.uva.es/handle/10324/42925), [texto](https://dialnet.unirioja.es/descarga/articulo/144772.pdf). Describe una esquila mensual distinta de la cotidiana a finales del siglo XX; no se ha verificado su continuidad actual.
