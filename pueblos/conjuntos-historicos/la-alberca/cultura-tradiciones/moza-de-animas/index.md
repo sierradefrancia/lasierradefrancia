@@ -31,3 +31,11 @@ Consulta documental: 2026-11-24. Estudio inicial abierto.
 ## Identificación bibliográfica y contraste
 
 [Cano Herrera y Sanz García (1989), Vida y muerte en La Alberca, Cuadernos de Etnología y Etnografía de Navarra 53, pp. 67–84](https://uvadoc.uva.es/handle/10324/42925), [texto](https://dialnet.unirioja.es/descarga/articulo/144772.pdf). Describe una esquila mensual distinta de la cotidiana a finales del siglo XX; no se ha verificado su continuidad actual.
+
+## Tres escalas de la memoria funeraria
+
+La esquila cotidiana descrita por el Ayuntamiento, la mensual recogida por Cano y Sanz y los toques de campanas parroquiales constituyen prácticas que deben registrarse separadamente. La ceremonia de inhumación de restos del osario atribuida a 1824 pertenece a otra escala temporal y no fecha el origen de la Moza.
+
+Las pausas en esquinas y las dos peticiones de la fórmula municipal permiten estudiar cómo la oración se vincula al espacio habitado. Para comparar recorridos históricos interesa registrar testimonios fechados sin publicar información privada de participantes. Véanse [Ánimas Benditas](../../patrimonio/patrimonio-religioso/animas/) y [campanas](../../patrimonio/patrimonio-religioso/iglesia-asuncion/campanas-reloj-matraca/).
+
+*Síntesis de referencias existentes; sin nuevo cotejo externo.*
