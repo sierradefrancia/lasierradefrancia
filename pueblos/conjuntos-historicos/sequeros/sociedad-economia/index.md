@@ -1,4 +1,5 @@
 ---
+description: "Sociedad y economía de Sequeros: población, actividades productivas y legado de su función administrativa."
 layout: default
 title: "Sociedad y economía de Sequeros"
 parent: Sequeros
