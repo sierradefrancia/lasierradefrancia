@@ -48,3 +48,9 @@ Fuente: [Monsalvo Antón, Paisajes pastoriles y forestales en tierras salmantina
 El inventario futuro deberá conservar variante literal, fecha, fuente, tipo de entidad, geometría, jurisdicción histórica y estado de identificación. Priorizar nomenclátor IGN, cartografía histórica y testimonios locales. No asignar coordenadas aproximadas como exactas ni deducir la actividad histórica de un lugar exclusivamente de su nombre.
 
 Relacionar con [Hidrografía](../hidrografia/), [Economía tradicional](../../sociedad-economia/economia-tradicional/) y [La Alberca y Las Hurdes](../../historia/alberca-hurdes/).
+
+## Topónimos como testimonios fechados
+
+Endrinales aparece en la documentación de 1455 citada por Monsalvo y en la descripción geográfica de 1989 con referentes potencialmente distintos. La cartografía de la USAL de 2019 constituye una tercera clase de fuente. Conservar la grafía original y la fecha permite comparar usos sin imponer equivalencias modernas. El [inventario](../inventario/) conserva las entidades candidatas y la [historia territorial](../../historia/alberca-hurdes/) aporta el contexto jurisdiccional.
+
+*Integración de referencias existentes; sin nuevo cotejo externo.*
