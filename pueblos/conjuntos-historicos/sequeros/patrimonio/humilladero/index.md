@@ -1,4 +1,5 @@
 ---
+description: "El humilladero de Sequeros: arquitectura devocional y contexto histórico dentro del patrimonio local."
 layout: default
 title: "Humilladero del Cristo de las Batallas"
 parent: "Patrimonio de Sequeros"
