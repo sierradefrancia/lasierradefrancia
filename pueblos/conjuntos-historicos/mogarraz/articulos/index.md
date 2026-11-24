@@ -3,7 +3,7 @@ layout: default
 title: "Artículos de Mogarraz"
 parent: Mogarraz
 grand_parent: Conjuntos históricos
-nav_order: 14
+nav_order: 9
 has_children: true
 last_modified_at: 2026-11-24
 permalink: /pueblos/conjuntos-historicos/mogarraz/articulos/
