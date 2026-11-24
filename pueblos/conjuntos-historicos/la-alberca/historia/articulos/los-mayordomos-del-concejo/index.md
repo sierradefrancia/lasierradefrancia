@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: "Cuando servir al concejo acababa en los tribunales"
 parent: "Artículos de Historia"
@@ -557,3 +558,13 @@ La investigación permanece abierta a la consulta del expediente judicial origin
 ---
 
 [Volver a Historia de La Alberca](/pueblos/conjuntos-historicos/la-alberca/historia/)
+
+## Una fotografía institucional de 1753
+
+El estudio del Catastro de Ensenada recogido en el expediente del Ayuntamiento identifica en 1753 a los alcaldes Francisco Pérez Clara y Manuel Martín Pérez, los regidores Santiago Gómez y Juan Belasco, el síndico Luis Prior y el escribano Antonio Pies de la Huebra.
+
+Esta relación de oficiales es próxima cronológicamente al litigio de Agustín de Puerto, pero no demuestra que esas personas intervinieran en él. Tampoco identifica al mayordomo litigante. Su utilidad consiste en proporcionar nombres y cargos que pueden contrastarse con las actas y el expediente judicial.
+
+[Ayuntamiento](../../../patrimonio/patrimonio-civil/ayuntamiento/) · [Concejo y ordenanzas](../../concejo-ordenanzas/).
+
+*Ampliación a partir de expedientes existentes; sin nuevo cotejo externo.*
