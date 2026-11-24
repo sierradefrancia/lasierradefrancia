@@ -10,6 +10,8 @@ permalink: /pueblos/conjuntos-historicos/miranda-del-castanar/fuentes/
 
 # Fuentes de Miranda del Castañar
 
+**Estado de verificación:** las afirmaciones de consulta anteriores no cuentan en esta revisión con evidencias externas recuperables para certificarlas retrospectivamente. Se conservan como referencias de trabajo pendientes de cotejo reproducible. Esta advertencia prevalece sobre los estados anteriores. Las fichas derivadas de una misma obra no son corroboraciones independientes.
+
 ## Registros prioritarios pendientes de comprobación reproducible
 
 - MIR-FUE-001. Universidad de Salamanca, Biblioteca Histórica, [Ms. 2765](https://gredos.usal.es/handle/10366/148215). Registro de copia de 1755, traslado de 1620, índice ff. 333r–350v. Reproducción PDF disponible, no leída. Véase [ordenanzas](../historia/ordenanzas/).
