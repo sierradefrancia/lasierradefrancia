@@ -67,6 +67,8 @@ Esta relación con el paisaje es uno de sus principales valores.
 
 ## Sequeros, Conjunto Histórico desde 2004
 
+[Investigación específica](./conjunto-historico/)
+
 La villa de Sequeros fue declarada Bien de Interés Cultural, con categoría de Conjunto Histórico, mediante acuerdo de la Junta de Castilla y León de **1 de julio de 2004**.
 
 El expediente de declaración se había iniciado en 2002.
@@ -102,6 +104,8 @@ Conservar Sequeros significa proteger su patrimonio sin separarlo de las persona
 
 ## Historia de Sequeros
 
+[Investigación específica](./historia/)
+
 ### Los orígenes del asentamiento
 
 La historia de Sequeros se relaciona con los procesos medievales de poblamiento y organización territorial de la Sierra de Francia.
@@ -128,6 +132,8 @@ Para comprender su significado es necesario estudiar los derechos, competencias 
 
 ### La importancia administrativa del siglo XIX
 
+El [partido judicial](./historia/partido-judicial/) y la [reutilización de la alhóndiga](./patrimonio/justicia/) permiten estudiar esta transformación institucional.
+
 Sequeros llegó a desempeñar funciones de cabecera judicial y administrativa.
 
 Este papel favoreció la presencia de instituciones, servicios y actividades que influyeron en su desarrollo urbano.
@@ -143,6 +149,8 @@ La conservación de su patrimonio histórico y su actividad cultural forman part
 ---
 
 ## Arquitectura tradicional de Sequeros
+
+[Investigación específica](./patrimonio/arquitectura-tradicional/)
 
 El casco histórico conserva numerosos ejemplos de arquitectura serrana.
 
@@ -188,6 +196,8 @@ No todas las viviendas tienen la misma antigüedad ni siguen idénticas técnica
 
 ## La Plaza del Altozano
 
+[Investigación específica](./patrimonio/plazas/)
+
 La Plaza del Altozano es uno de los espacios urbanos más representativos de Sequeros.
 
 Conserva soportales, balconadas y edificios tradicionales.
@@ -214,6 +224,8 @@ La relación entre soportales, balcones y fachadas permite observar cómo las co
 
 ## La torre del Concejo y el reloj
 
+[Investigación específica](./patrimonio/concejo/)
+
 Uno de los elementos históricos destacados de Sequeros es la torre del Concejo.
 
 Su presencia recuerda las funciones administrativas de la villa.
@@ -238,6 +250,8 @@ Su presencia constituye un testimonio de la historia social y tecnológica.
 
 ## Iglesia de San Sebastián
 
+[Investigación específica](./patrimonio/iglesia/)
+
 La iglesia de San Sebastián forma parte del patrimonio religioso del núcleo urbano de Sequeros.
 
 Su arquitectura refleja intervenciones correspondientes a distintas etapas históricas.
@@ -259,6 +273,8 @@ Ambos forman parte del patrimonio religioso de Sequeros, pero tienen emplazamien
 ---
 
 ## Santuario de Nuestra Señora del Robledo
+
+[Investigación específica](./patrimonio/robledo/)
 
 El santuario de Nuestra Señora del Robledo es uno de los lugares más importantes del patrimonio religioso de Sequeros.
 
@@ -309,6 +325,8 @@ Esta protección individual es distinta de la declaración del conjunto históri
 ---
 
 ## La Moza Santa de Sequeros
+
+[Investigación específica](./cultura-tradiciones/moza-santa/)
 
 Una de las tradiciones más conocidas de Sequeros es la relacionada con Juana Hernández, conocida como **la Moza Santa**.
 
@@ -364,6 +382,8 @@ Más información: [Peña de Francia](/lugares/pena-de-francia/).
 
 ## El Humilladero y el paseo del Robledo
 
+[Investigación específica](./patrimonio/humilladero/)
+
 En el entorno de Sequeros se encuentra la ermita del Humilladero.
 
 Forma parte de un itinerario tradicional relacionado con el santuario del Robledo.
@@ -389,6 +409,8 @@ La experiencia permite comprender cómo determinados espacios naturales adquirie
 ---
 
 ## El Teatro León Felipe
+
+[Investigación específica](./patrimonio/teatro/)
 
 Sequeros conserva un patrimonio escénico especialmente interesante.
 
@@ -423,6 +445,8 @@ Su programación y condiciones de visita deben comprobarse mediante información
 ---
 
 ## León Felipe y Sequeros
+
+[Investigación específica](./cultura-tradiciones/leon-felipe/)
 
 León Felipe, nacido en 1884, fue uno de los poetas españoles más destacados del siglo XX.
 
@@ -483,6 +507,8 @@ La identificación precisa de cumbres y localidades debe apoyarse en cartografí
 ---
 
 ## El paisaje natural de Sequeros
+
+[Investigación específica](./naturaleza/)
 
 El entorno presenta bosques, laderas, espacios cultivados y caminos tradicionales.
 
@@ -621,6 +647,8 @@ Permiten conocer la relación entre el pueblo y su entorno natural.
 
 ## Cómo visitar Sequeros
 
+[Investigación específica](./visitar/)
+
 ### Recorrer el casco histórico
 
 La mejor manera de conocer Sequeros es caminando.
@@ -682,6 +710,8 @@ Conocer varios de ellos ayuda a comprender la diversidad de la comarca.
 
 ## La importancia histórica de Sequeros
 
+[Investigación específica](./valor-global/)
+
 Sequeros ofrece una perspectiva especialmente interesante de la historia territorial.
 
 Mientras otros pueblos destacan por sus castillos o su arquitectura monumental, Sequeros permite estudiar la evolución de las instituciones administrativas, la cultura escénica y las tradiciones religiosas.
@@ -735,6 +765,8 @@ El patrimonio tiene mayor sentido cuando continúa formando parte de una comunid
 ---
 
 ## Fuentes y documentación
+
+[Investigación específica](./fuentes/)
 
 ### Declaración del conjunto histórico
 
