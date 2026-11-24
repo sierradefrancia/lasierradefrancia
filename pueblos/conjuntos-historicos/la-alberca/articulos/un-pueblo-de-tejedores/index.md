@@ -5,6 +5,7 @@ parent: Artículos
 grand_parent: La Alberca
 nav_order: 6
 last_modified_at: 2026-11-24
+description: "Los oficios textiles de La Alberca entre los siglos XVII y XIX y su relación con la economía doméstica."
 permalink: /pueblos/conjuntos-historicos/la-alberca/articulos/un-pueblo-de-tejedores/
 ---
 
@@ -29,6 +30,10 @@ Lo interesante no es imaginar ochenta telares funcionando simultáneamente: no s
 La arquitectura que hoy admiramos fue construida para vivir y trabajar. Conocer la economía de sus habitantes puede ayudarnos a interpretar espacios que una descripción puramente estética dejaría sin explicar.
 
 Quizás algún inventario doméstico, herramienta conservada o documento de compraventa permita seguir el recorrido de una pieza concreta. Del lino al telar; del telar al mercado; del mercado a una casa cuyo nombre aún no conocemos.
+
+## Tres momentos, tres documentos
+
+La descripción de González de Manuel de 1693, el Catastro de 1753 y el interrogatorio de 1791 fueron producidos con distintos fines. La última fuente, según Puerto, relaciona la producción de lino regado con el consumo local. No sabemos qué proporción del tejido vendido se elaboraba con materia prima de fuera. Para reconstruir aquella economía habrá que buscar cuentas, precios y rutas comerciales, no extrapolar el número de artesanos a toda la población.
 
 ### Fuente
 
