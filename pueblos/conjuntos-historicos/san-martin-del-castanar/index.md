@@ -65,6 +65,8 @@ Su emplazamiento contribuyó a configurar tanto la organización histórica del 
 
 ## San Martín del Castañar, Conjunto Histórico desde 1982
 
+[Investigación específica](./conjunto-historico/)
+
 La villa fue declarada Conjunto Histórico-Artístico mediante el **Real Decreto 3233/1982, de 12 de noviembre**.
 
 La declaración reconoce los valores históricos, arquitectónicos y urbanos del núcleo.
@@ -99,7 +101,11 @@ Por ello, la conservación no puede limitarse a mantener fachadas aisladas.
 
 ## Historia de San Martín del Castañar
 
+[Investigación específica](./historia/)
+
 ### Un territorio habitado desde antiguo
+
+[Inventario arqueológico](./patrimonio/arqueologia/) y [La Legoriza](./patrimonio/legoriza/).
 
 El entorno de San Martín conserva testimonios de ocupación y tránsito anteriores a la Edad Media.
 
@@ -159,6 +165,8 @@ La declaración como Conjunto Histórico en 1982 constituyó un hito en el recon
 
 ## El castillo de San Martín del Castañar
 
+[Investigación específica](./patrimonio/castillo/)
+
 El castillo es uno de los monumentos más representativos del pueblo.
 
 Se encuentra en un extremo del núcleo histórico, sobre una elevación que domina el entorno.
@@ -196,6 +204,8 @@ La fortaleza de San Martín permite estudiar esa dimensión política de la arqu
 
 ## El Castillo de la Biosfera
 
+[Investigación específica](./naturaleza/)
+
 El castillo ha sido rehabilitado y adaptado para albergar el **Centro de Interpretación y Recepción de Visitantes de la Reserva de la Biosfera de las Sierras de Béjar y Francia**.
 
 Este nuevo uso relaciona el patrimonio histórico con la divulgación del territorio.
@@ -230,6 +240,8 @@ Antes de planificar una visita interior conviene consultar la información munic
 
 ## La plaza de toros tradicional
 
+[Investigación específica](./patrimonio/plaza-toros/)
+
 Uno de los elementos más singulares de San Martín del Castañar es su plaza de toros, situada junto al castillo.
 
 Ocupa un espacio históricamente relacionado con la fortaleza y su antigua plaza de armas.
@@ -259,6 +271,8 @@ Permite estudiar la evolución de los espacios públicos y de las celebraciones 
 ---
 
 ## Iglesia parroquial de San Martín de Tours
+
+[Investigación específica](./patrimonio/iglesia/)
 
 La iglesia parroquial es uno de los principales monumentos de San Martín del Castañar.
 
@@ -302,6 +316,8 @@ La visita debe respetar su función religiosa.
 
 ## La Plaza de la Iglesia
 
+[Investigación específica](./patrimonio/plazas/)
+
 El espacio situado junto a la iglesia constituye uno de los conjuntos urbanos más interesantes de San Martín.
 
 Su configuración está relacionada con el desarrollo histórico del pueblo.
@@ -327,6 +343,8 @@ Su relación con la Plaza Mayor ofrece una lectura especialmente interesante de 
 ---
 
 ## La Plaza Mayor y el Portalón
+
+[Investigación específica](./patrimonio/plazas/)
 
 La Plaza Mayor es uno de los principales espacios públicos del pueblo.
 
@@ -359,6 +377,8 @@ No todas las construcciones pertenecen a una misma época.
 ---
 
 ## Arquitectura tradicional serrana
+
+[Investigación específica](./patrimonio/arquitectura-tradicional/)
 
 San Martín del Castañar conserva numerosos ejemplos de arquitectura tradicional de la Sierra de Francia.
 
@@ -405,6 +425,8 @@ La arquitectura constituye una fuente para estudiar la vida cotidiana de otras �
 
 ## El puente de piedra y la antigua calzada
 
+[Investigación específica](./patrimonio/puente-calzada/)
+
 En uno de los extremos del pueblo se conserva un puente de piedra relacionado con los caminos históricos.
 
 El entorno también presenta tramos empedrados tradicionalmente asociados a antiguas comunicaciones.
@@ -435,6 +457,8 @@ Su estudio ayuda a comprender la organización territorial de la Sierra de Franc
 
 ## Ermitas y patrimonio religioso
 
+[Investigación específica](./patrimonio/ermitas/)
+
 Además de la iglesia parroquial, San Martín conserva distintos espacios vinculados a la religiosidad popular.
 
 ### Ermita del Humilladero
@@ -451,6 +475,8 @@ La documentación local la sitúa próxima al área del puente y el parque munic
 
 ### Antiguo convento de Nuestra Señora de Gracia
 
+[Historia del convento](./patrimonio/convento-gracia/) y [relicario de la Santa Espina](./patrimonio/relicario/).
+
 Las ruinas del antiguo convento de Gracia forman parte del patrimonio histórico del término municipal.
 
 Su estudio permite ampliar la historia religiosa más allá del núcleo urbano.
@@ -462,6 +488,8 @@ Las ermitas y antiguos espacios conventuales muestran cómo la vida religiosa se
 ---
 
 ## El valle del río Francia
+
+[Investigación específica](./naturaleza/)
 
 El río Francia constituye uno de los elementos fundamentales del entorno natural de San Martín del Castañar.
 
@@ -494,6 +522,8 @@ Su presencia ayuda a comprender la relación entre el pueblo y el territorio.
 ---
 
 ## Bosques y biodiversidad
+
+[Investigación específica](./naturaleza/)
 
 El entorno de San Martín del Castañar forma parte de un territorio de gran diversidad ecológica.
 
@@ -531,6 +561,8 @@ La transformación de los usos agrarios, el abandono de determinadas actividades
 
 ## Rutas desde San Martín del Castañar
 
+[Investigación específica](./visitar/)
+
 El pueblo constituye un punto de partida interesante para conocer diferentes ambientes de la Sierra de Francia.
 
 ### Asentadero — Bosque de los Espejos
@@ -562,6 +594,8 @@ Las rutas se desarrollarán individualmente en nuestra sección de [Rutas](/ruta
 ---
 
 ## Tradiciones y vida cultural
+
+[Investigación específica](./cultura-tradiciones/)
 
 San Martín del Castañar conserva celebraciones y costumbres vinculadas a su historia.
 
@@ -637,6 +671,8 @@ La posición del pueblo permite observar su relación con las montañas y los bo
 
 ## Cómo visitar San Martín del Castañar
 
+[Investigación específica](./visitar/)
+
 ### Recorrer el pueblo a pie
 
 La mejor manera de conocer el casco histórico es caminando.
@@ -703,6 +739,8 @@ Conocer varias de ellas ayuda a comprender mejor la diversidad cultural y paisaj
 
 ## El papel histórico de San Martín en la comarca
 
+[Investigación específica](./valor-global/)
+
 La vinculación de San Martín del Castañar con el obispado de Salamanca constituye un aspecto especialmente interesante.
 
 Permite estudiar una forma de organización territorial diferente de la existente en otras villas señoriales.
@@ -744,6 +782,8 @@ Estos nuevos usos deben respetar los valores históricos de los edificios y cont
 ---
 
 ## Fuentes y documentación
+
+[Investigación específica](./fuentes/)
 
 ### Declaración del conjunto histórico
 
