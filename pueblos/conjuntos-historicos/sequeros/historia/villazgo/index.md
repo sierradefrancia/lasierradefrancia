@@ -1,4 +1,5 @@
 ---
+description: "El villazgo de Sequeros y su transformación jurisdiccional en el siglo XVIII: documentos y contexto histórico."
 layout: default
 title: "Villazgo de 1756"
 parent: "Historia de Sequeros"
