@@ -77,3 +77,7 @@ Fecha de consulta: 24-11-2026. No se certifican otras consultas anteriores ni le
 - SMC-FUE-023. [Municipio: turismo activo](https://xn--sanmartindelcastaar-c4b.es/turismo-activo/), Dehesa y rutas.
 
 Se recuperaron extractos textuales de estos ocho recursos en esta ejecución. No se acredita lectura íntegra ni independencia entre materiales turísticos. Los registros 001–015 necesitan revisión de la evidencia original: sus certificaciones anteriores no se han podido reproducir aquí.
+
+## Estado de control documental vigente
+
+Las 23 referencias registradas se conservan como localizadores de trabajo. Las declaraciones anteriores de recuperación de extractos no cuentan en esta revisión con evidencia externa reproducible adjunta. No deben interpretarse como certificaciones independientes. Antes de dar por confirmado un dato, recuperar la fuente, registrar el pasaje y distinguir la afirmación de la fuente de la interpretación editorial. Esta nota prevalece sobre las certificaciones anteriores. La revisión actual ha sido interna al repositorio.
