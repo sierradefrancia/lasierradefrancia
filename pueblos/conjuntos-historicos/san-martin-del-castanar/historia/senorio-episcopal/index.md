@@ -10,6 +10,10 @@ permalink: /pueblos/conjuntos-historicos/san-martin-del-castanar/historia/senori
 
 # El señorío episcopal
 
-En 1574 hubo una petición vecinal para pasar a jurisdicción regia. El catálogo de 2006 (pp. 15–16) sitúa la iniciativa el 18 de julio y describe una nueva solicitud en septiembre para impedir una futura venta. No prosperó. Queda pendiente identificar los documentos originales y distinguir las posiciones de los vecinos.
+Una referencia de trabajo pendiente de comprobación sitúa en 1574 una petición vecinal para pasar a jurisdicción regia. El catálogo de 2006 (pp. 15–16) sitúa la iniciativa el 18 de julio y describe una nueva solicitud en septiembre para impedir una futura venta. No prosperó. Queda pendiente identificar los documentos originales y distinguir las posiciones de los vecinos.
 
-Fuente: [Aratikos, catálogo arqueológico, 2006](https://www.lasalina.es/documentacion/normasurbanisticas/286_1_Informe%20Arqueol%C3%B3gico.pdf), pasajes indicados cotejados el 24-11-2026. Fuente secundaria para los acontecimientos históricos.
+Fuente: [Aratikos, catálogo arqueológico, 2006](https://www.lasalina.es/documentacion/normasurbanisticas/286_1_Informe%20Arqueol%C3%B3gico.pdf), pasajes indicados pendientes de cotejo. Fuente secundaria para los acontecimientos históricos.
+
+## Preguntas de investigación
+
+Distinguir petición, autorización, financiación y resultado jurídico. Buscar la documentación de la Corona y del obispado; no inferir unanimidad vecinal ni cambio efectivo de jurisdicción a partir de una solicitud. Comparar con el señorío nobiliario de Miranda únicamente cuando estén documentados ambos regímenes.
