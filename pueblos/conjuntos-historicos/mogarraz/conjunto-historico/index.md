@@ -22,3 +22,7 @@ La motivación de la delimitación interpreta el parcelario como indicio de una 
 [BOE-A-1998-8051, Decreto 23/1998](https://www.boe.es/diario_boe/txt.php?id=BOE-A-1998-8051). Texto consultado el 24-11-2026.
 
 [Volver a Mogarraz](../).
+
+## Del parcelario a los edificios
+
+La hipótesis de una cerca desaparecida debe contrastarse con planos históricos, límites de parcelas y evidencias arqueológicas. No equivale a una muralla conservada como la de [Miranda](/pueblos/conjuntos-historicos/miranda-del-castanar/patrimonio/muralla/). En Mogarraz, los [entramados y pasos cubiertos](../arquitectura-tradicional/) y las [fuentes](../patrimonio/fuentes/) permiten estudiar la organización del espacio habitado. Las fotografías históricas pueden aportar referencias anteriores a la incoación de 1986. La declaración de 1998 no fecha individualmente las casas ni acredita el estado actual de conservación.
