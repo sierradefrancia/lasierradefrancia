@@ -1,4 +1,5 @@
 ---
+description: "Los bancales de Villanueva del Conde: muros de piedra, cultivos y construcción histórica del paisaje."
 layout: default
 title: "Bancales y paisaje agrario"
 parent: "Patrimonio de Villanueva del Conde"
