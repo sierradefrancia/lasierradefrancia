@@ -48,6 +48,8 @@ Lo importante es que tenga sentido, personalidad y una relación auténtica con 
 
 ## Artículos publicados
 
+La colección reúne cuarenta ensayos de descubrimiento y cinco relatos históricos extensos. Los ensayos breves son aproximaciones iniciales; sus referencias no equivalen necesariamente a una comprobación directa de los originales.
+
 ### La Alberca que no se ve a primera vista
 
 - [La cruz que no siempre estuvo allí](./la-cruz-que-no-siempre-estuvo-alli/)
@@ -200,6 +202,7 @@ Para conocer los principales aspectos del pueblo, puedes consultar sus secciones
 - [Naturaleza](/pueblos/conjuntos-historicos/la-alberca/naturaleza/).
 - [Sociedad y economía](/pueblos/conjuntos-historicos/la-alberca/sociedad-economia/).
 - [Visitar La Alberca](/pueblos/conjuntos-historicos/la-alberca/visitar/).
+- [La Alberca en su conjunto](../valor-global/).
 
 [Volver a La Alberca](/pueblos/conjuntos-historicos/la-alberca/).
 
