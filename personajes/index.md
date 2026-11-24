@@ -31,6 +31,26 @@ La figura de Simón Vela está vinculada a la tradición del hallazgo de la imag
 
 La investigación de este personaje constituye también una vía para conocer la formación del santuario, su proyección territorial y las relaciones históricas que se han atribuido a Francia.
 
+## Inventario abierto de personajes y líneas de investigación
+
+Este inventario conserva los candidatos identificados hasta ahora. Su inclusión señala una línea de investigación, no una biografía validada ni una atribución histórica definitiva. Se ampliará conforme aparezcan nuevas fuentes.
+
+| Personaje | Línea de investigación |
+|---|---|
+| Mauricio Legendre (Maurice Legendre) | Geografía humana, La Alberca, Las Hurdes, Peña de Francia y relaciones franco-españolas. |
+| Simón Vela | Historia y tradición del hallazgo de la imagen de la Virgen y formación del santuario. |
+| Miguel de Unamuno | Viajes, correspondencia, escritos y percepción histórica del territorio. |
+| Manuel Gómez-Moreno | Arquitectura, patrimonio y protección monumental de La Alberca. |
+| Eduardo Hernández-Pacheco | Geología, geografía y documentación fotográfica histórica. |
+| José Luis Puerto | Etnografía, memoria oral y patrimonio albercano. |
+| Cándido Ansede | Fotografía histórica y documentación visual del territorio. |
+| Luis Buñuel | Representación cinematográfica de Las Hurdes y su repercusión cultural. |
+| Gregorio Marañón | Historia sanitaria y social de Las Hurdes. |
+| Jacques Chevalier | Viajes y relaciones intelectuales franco-españolas vinculadas a Legendre. |
+| Ignacio Hoyos | Conocimiento local y colaboración como guía de Legendre, según testimonios publicados; pendiente de investigación documental propia. |
+
+Las investigaciones deberán identificar las obras, documentos y testimonios concretos de cada persona, comprobar sus vínculos territoriales y recuperar también a sus colaboradores. Se dará cabida a figuras contemporáneas cuando sus aportaciones documentales sean relevantes.
+
 ## Un territorio visto desde distintas perspectivas
 
 La sección se ampliará mediante investigaciones sobre viajeros, geógrafos, naturalistas, historiadores, fotógrafos, religiosos, escritores y personas de la propia comarca que hayan contribuido a transmitir o preservar su conocimiento.
