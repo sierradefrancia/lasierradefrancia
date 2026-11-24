@@ -1,4 +1,5 @@
 ---
+description: "La fuente de Mogarraz vinculada a la memoria de un pintor y su significado en el patrimonio urbano."
 layout: default
 title: "La fuente que recuerda un pintor"
 parent: Artículos de Mogarraz
