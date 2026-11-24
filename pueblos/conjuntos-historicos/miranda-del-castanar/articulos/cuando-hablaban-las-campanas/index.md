@@ -18,6 +18,13 @@ Si aquella financiación se confirma, la pregunta histórica será quién tenía
 
 La torre es así una invitación a estudiar un patrimonio que no se agota en la piedra: el paisaje sonoro de una villa, sus códigos compartidos y la organización de su vida pública. Recuperar ese patrimonio exige buscar tanto documentos como testimonios sobre los usos de las campanas.
 
+
+## El tiempo de la comunidad
+
+La descripción municipal distingue cuatro campanas mayores y dos menores. Esta diversidad material abre una pregunta sobre la combinación de sonidos y sus significados. No conocemos todavía los toques propios de Miranda, por lo que sería incorrecto asignarles un repertorio tomado de otros pueblos.
+
+La referencia a una ordenanza que eximía a los vecinos de determinados pagos permite conectar el sonido con el gobierno de la villa. Las [ordenanzas](../../historia/ordenanzas/) podrían aclarar las condiciones de aquel servicio. En [Sequeros](/pueblos/conjuntos-historicos/sequeros/patrimonio/concejo/), la adquisición de un reloj atribuida a 1636 ofrece otra perspectiva sobre la organización colectiva del tiempo. Son instituciones diferentes, pero ambas invitan a investigar quién sostenía los instrumentos de comunicación pública.
+
 ## Documentación y límites
 
 [Expediente de la torre](../../patrimonio/torre-campanas/). [Ficha municipal](https://www.xn--mirandadelcastaar-txb.es/descubre-su-patrimonio-y-sus-recursos/torre-de-las-campanas/), referencia pendiente de cotejo directo en esta edición. No se reconstruyen toques concretos sin evidencia.
