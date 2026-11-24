@@ -1,4 +1,5 @@
 ---
+description: "El futuro de La Alberca como pueblo habitado: población, vivienda, actividad económica y conservación del patrimonio."
 layout: default
 title: "La Alberca que recibirán las próximas generaciones"
 parent: Artículos
