@@ -63,3 +63,11 @@ Fuentes de partida: [IPCE, monasterio de Las Batuecas](https://ipce.cultura.gob.
 - [Restauración del monasterio de Las Batuecas](/lugares/las-batuecas/restauracion-monasterio/).
 
 [Volver a Las Batuecas](/lugares/las-batuecas/).
+
+
+## Patrimonio y organización material
+
+- [Inventario patrimonial del Desierto de San José](/lugares/las-batuecas/monasterio/inventario/).
+- [La iglesia del Desierto de San José](/lugares/las-batuecas/monasterio/iglesia/).
+- [El recinto carmelitano y su paisaje](/lugares/las-batuecas/monasterio/recinto-paisaje/).
+- [Dependencias, trabajo y economía del monasterio](/lugares/las-batuecas/monasterio/dependencias/).

@@ -3,7 +3,7 @@ layout: default
 title: Ermitas y vida eremítica
 parent: "Monasterio del Desierto de San José"
 grand_parent: Las Batuecas
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Organización histórica del retiro carmelitano, arquitectura de las ermitas y discrepancias de inventario."
 permalink: /lugares/las-batuecas/vida-eremitica/
 ---
@@ -46,3 +46,6 @@ El muro tiene una dimensión funcional y espiritual: delimita el espacio de reti
 Pendientes: inventario nominal completo, plantas, fases de obra y comprobación del estado de conservación. Las cifras históricas no son información sobre disponibilidad actual de alojamiento.
 
 [Volver a Las Batuecas](/lugares/las-batuecas/)
+
+
+[Inventario patrimonial](/lugares/las-batuecas/monasterio/inventario/) · [Recinto y paisaje](/lugares/las-batuecas/monasterio/recinto-paisaje/).

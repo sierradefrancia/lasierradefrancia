@@ -3,7 +3,7 @@ layout: default
 title: Restauración del monasterio de Las Batuecas
 parent: "Monasterio del Desierto de San José"
 grand_parent: Las Batuecas
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Incendios, recuperación arquitectónica y cuatro fases de restauración del Desierto de San José."
 permalink: /lugares/las-batuecas/restauracion-monasterio/
 ---
@@ -65,3 +65,6 @@ La ficha de cuarta fase también conserva una referencia de titularidad a las ca
 Se han consultado las fichas y extractos de los proyectos, no los expedientes completos. Véanse [historia](/lugares/las-batuecas/historia-carmelitana/) y [arquitectura](/lugares/las-batuecas/arquitectura-carmelitana/).
 
 Estudio relacionado: [Incendios forestales y regeneración del paisaje](/lugares/las-batuecas/incendios-regeneracion/).
+
+
+[Estudio de la iglesia](/lugares/las-batuecas/monasterio/iglesia/) · [Inventario patrimonial](/lugares/las-batuecas/monasterio/inventario/).

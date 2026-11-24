@@ -3,7 +3,7 @@ layout: default
 title: Arquitectura del Desierto de San José
 parent: "Monasterio del Desierto de San José"
 grand_parent: Las Batuecas
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Organización espacial del conjunto carmelitano y catálogo inicial de dependencias y ermitas."
 permalink: /lugares/las-batuecas/arquitectura-carmelitana/
 ---
@@ -78,3 +78,6 @@ Este catálogo no establece condiciones de visita ni incluye planos de acceso al
 [Volver a Las Batuecas](/lugares/las-batuecas/)
 
 Para la comparación de cifras de ermitas y el registro provisional BAT-CAR-018, véase [Ermitas y vida eremítica](/lugares/las-batuecas/vida-eremitica/).
+
+
+El [inventario patrimonial independiente](/lugares/las-batuecas/monasterio/inventario/) conserva los códigos originales y añade la concordancia con los estudios de [iglesia](/lugares/las-batuecas/monasterio/iglesia/), [recinto](/lugares/las-batuecas/monasterio/recinto-paisaje/) y [dependencias](/lugares/las-batuecas/monasterio/dependencias/).
