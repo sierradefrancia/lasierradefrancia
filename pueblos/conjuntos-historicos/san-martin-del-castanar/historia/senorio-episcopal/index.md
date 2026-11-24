@@ -19,3 +19,7 @@ Fuente: [Aratikos, catálogo arqueológico, 2006](https://www.lasalina.es/docume
 Distinguir petición, autorización, financiación y resultado jurídico. Buscar la documentación de la Corona y del obispado; no inferir unanimidad vecinal ni cambio efectivo de jurisdicción a partir de una solicitud. Comparar con el señorío nobiliario de Miranda únicamente cuando estén documentados ambos regímenes.
 
 El extracto recuperado del [informe de 2006](https://www.lasalina.es/documentacion/normasurbanisticas/286_1_Informe%20Arqueol%C3%B3gico.pdf) sitúa la instauración del señorío en el XIII y remite a información regia hacia 1580. La referencia original no está identificada por signatura en el extracto; no permite confirmar la petición de 1574.
+
+## Donación regia e identificación toponímica
+
+El estudio [Orígenes históricos y pervivencia de «a fala», Alcántara 68, p. 89](https://archivo.dip-caceres.es/wp-content/uploads/2024/01/04-068-005-orxgenes.pdf) atribuye a Alfonso IX la donación de San Martín a la catedral salmantina y distingue esta localidad de homónimos vinculados a Ciudad Rodrigo y la Orden del Hospital. Extracto recuperado el 24-11-2026; autoría completa y diploma original pendientes. No adjudicar menciones medievales de Sancti Martini a Castanedo sin comprobar diócesis y contexto. La donación patrimonial no basta para determinar todas las competencias jurisdiccionales.
