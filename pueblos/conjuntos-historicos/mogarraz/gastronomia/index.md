@@ -32,3 +32,15 @@ Extractos recuperados mediante búsqueda el 24-11-2026; lectura íntegra pendien
 - [Raúl Mateos, programa de San Blas, 28 de enero de 2016](https://salamancartvaldia.es/noticia/2016-01-28-musica-vino-y-limon-serrano-para-san-blas-194877?rc=4).
 
 [Sociedad y economía](../sociedad-economia/) · [Cultura y tradiciones](../cultura-tradiciones/)
+
+## Una receta compartida y una costumbre local
+
+La relación entre el limón serrano y San Blas permite distinguir el plato, extendido por la comarca, de su contexto festivo mogarreño. La expresión «echar el limón» recogida en 2009 constituye una pista lingüística y social: interesa documentar quién preparaba la comida, cómo se compartía y qué variantes familiares existían. No se dispone de un recetario histórico que permita fijar una fórmula original.
+
+## Las bodegas como espacios de encuentro
+
+El programa de 2016 relaciona la degustación con un recorrido por bodegas. Estas forman parte también de la [arquitectura tradicional](../arquitectura-tradicional/), donde deben estudiarse como espacios de almacenamiento y trabajo, además de sus usos festivos contemporáneos.
+
+El vino, la fruta y las castañas mencionados en la memoria de la arriería conectan alimentación y [economía](../sociedad-economia/). Su presencia en un relato comercial no demuestra que todos se produjeran en cada explotación local. La investigación de [cultura y tradiciones](../cultura-tradiciones/) mantiene diferenciados los testimonios históricos y los programas recientes.
+
+**Alcance documental:** ampliación basada en las referencias ya registradas, pendientes de cotejo reproducible.
