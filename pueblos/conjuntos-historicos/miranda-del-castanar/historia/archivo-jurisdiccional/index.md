@@ -10,6 +10,27 @@ permalink: /pueblos/conjuntos-historicos/miranda-del-castanar/historia/archivo-j
 
 # Documentos de la villa y su tierra
 
+## Qué permite investigar el inventario
+
+Los dos registros de 1501 sobre saca de pan permiten orientar una investigación sobre abastecimiento y circulación de cereal. La existencia de licencias y sobrecartas no acredita por sí sola una situación de hambre ni el volumen efectivamente transportado.
+
+Los expedientes de 1545–1555 mencionan Miranda, Cepeda, Monforte y Madroñal. Su interés reside en la relación entre la villa y los lugares de su tierra. El contenido normativo deberá compararse con el [manuscrito de ordenanzas](../ordenanzas/) conservado en la Universidad de Salamanca.
+
+## Conflictos entre instituciones
+
+La ejecutoria de 1577 relativa al convento de la Peña permite investigar la coexistencia de autoridades señoriales, municipales y religiosas. La descripción archivística identifica participantes, pero no permite conocer el fallo ni reconstruir los argumentos de cada parte.
+
+El registro de 1829 ofrece otra perspectiva sobre la organización territorial anterior a la reforma judicial de 1834. Su comparación con la [investigación de Sequeros](/pueblos/conjuntos-historicos/sequeros/historia/partido-judicial/) requiere leer los documentos y distinguir los tipos de demarcación.
+
+## Método de trabajo
+
+Cada documento conserva su identificador y signatura. Para pasar del inventario a una conclusión histórica será necesario recuperar las imágenes o transcripciones, identificar folios, registrar las lecturas dudosas y separar lo que afirma cada parte de lo que resuelve la autoridad. El catálogo es un instrumento de localización, no un sustituto del documento.
+
+## Registro documental anterior
+
+Las referencias y estados de consulta siguientes proceden del expediente previo; su cotejo reproducible sigue pendiente.
+
+
 ## Inventario archivístico inicial
 
 | ID | Fecha | Signatura | Asunto |
