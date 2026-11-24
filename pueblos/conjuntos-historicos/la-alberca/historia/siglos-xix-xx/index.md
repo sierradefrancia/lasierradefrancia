@@ -516,3 +516,9 @@ Y la segunda mitad del siglo XX estuvo caracterizada por una transformación dem
 Quedan preguntas esenciales por responder sobre la emigración, el trabajo, la escuela, las comunicaciones y el turismo.
 
 **Conocer la historia contemporánea de La Alberca significa estudiar cómo cambió la vida de sus habitantes, no solamente cómo cambió la imagen del pueblo ante quienes lo visitaban.**
+
+## Educación y protección del pueblo habitado
+
+La vacante de dirección de escuela graduada femenina publicada en 1929 precede a la inauguración del edificio escolar de 1935. Por tanto, la historia institucional de la enseñanza no comienza con la construcción del inmueble. El decreto de protección de 1940 introduce otro proceso administrativo, distinto de la evolución censal. La comparación entre ambos expedientes permite estudiar inversión pública y protección del caserío sin atribuirles automáticamente los cambios de población. Véanse [escuelas](../../patrimonio/patrimonio-civil/escuelas/) y [conjunto histórico](../../conjunto-historico/).
+
+*Integración del corpus existente; sin nuevo cotejo externo.*
