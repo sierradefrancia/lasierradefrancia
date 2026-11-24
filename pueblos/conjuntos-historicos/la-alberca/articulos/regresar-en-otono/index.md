@@ -1,4 +1,5 @@
 ---
+description: "Descubrir La Alberca en otoño mediante el paisaje de castaños y robles, el Camino de las Raíces y la observación de hongos."
 layout: default
 title: "Regresar cuando cambian las hojas"
 parent: Artículos
