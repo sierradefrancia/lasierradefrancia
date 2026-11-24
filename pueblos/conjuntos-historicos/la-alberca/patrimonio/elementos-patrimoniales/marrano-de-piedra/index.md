@@ -73,3 +73,11 @@ La atribución de la talla a la Escuela Taller en 1996 abre una investigación s
 La diferencia entre junio y julio en las descripciones del inicio del ciclo debe conservarse: el calendario municipal y el testimonio etnográfico sitúan la bendición el 13 de junio. La [ermita de San Antonio](../../patrimonio-religioso/san-antonio/) pertenece a la advocación de Padua; su relación concreta con la ceremonia requiere documentación.
 
 *Revisión del corpus existente; sin nuevo cotejo externo.*
+
+## Patrimonio contemporáneo y transmisión de un oficio
+
+La atribución a la Escuela Taller Sierra de Francia y la inauguración referida de agosto de 1996 ofrecen una vía para investigar la enseñanza de la cantería a finales del siglo XX. Interesa localizar la memoria del programa, sus responsables y participantes antes de asignar autorías individuales. La mención académica de 2010 establece otro hito documental de la existencia del monumento.
+
+La escultura y la crianza comunitaria son bienes de naturaleza diferente. El ciclo entre junio y enero se desarrolla en [Marrano de San Antón](../../../cultura-tradiciones/marrano-san-anton/). Su relación con la economía doméstica puede estudiarse junto a [la vivienda tradicional](../../arquitectura-tradicional/vida-domestica/), sin atribuir un origen único a la costumbre.
+
+*Síntesis de fuentes previamente registradas; sin nuevo cotejo externo.*
