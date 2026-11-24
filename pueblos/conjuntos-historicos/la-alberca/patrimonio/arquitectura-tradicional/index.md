@@ -34,3 +34,10 @@ Véanse también [Plaza Mayor](/pueblos/conjuntos-historicos/la-alberca/patrimon
 - [Mariano Serrano Pascual, Revista del Ministerio de Fomento, enero 2016, p. 49](https://publicaciones.transportes.gob.es/downloadcustom/sample/1403), extracto sobre trama y casa serranas.
 
 Consulta de fichas y extractos: 24-11-2026. No se afirma lectura íntegra de los trabajos ni inspección propia. Las fotografías de las fuentes no se reproducen sin verificar derechos.
+
+## Ampliación del bloque
+
+- [Arquitectura, clima y recursos naturales](./arquitectura-y-clima/).
+- [Casa Museo Satur Juanela](./casa-satur-juanela/), ALB-PAT-057.
+
+La ficha institucional del TFG de Fuentes Hernández confirma una revisión presencial de una casa albercana. No se identifica con la casa museo sin cotejo.
