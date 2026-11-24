@@ -98,3 +98,9 @@ Las referencias 1 y 4 pertenecen al mismo repertorio. Las referencias 1–6 y 8 
 Eduardo Hernández-Pacheco, BH FOT HP 1155, 1900–1950 (intervalo de catalogación). Diapositiva sobre vidrio, Archivo fotográfico Hernández-Pacheco, Biblioteca Histórica UCM. El catálogo identifica una corrida en una plaza de La Alberca; queda pendiente confirmar visualmente que corresponde a la Plaza Mayor.
 
 [Consultar fotografía original y ficha](https://patrimoniodigital.ucm.es/s/patrimonio/item/1696893). Licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Derechos: Universidad Complutense de Madrid. Ficha comprobada el 24-11-2026; imagen original pendiente de descarga e inspección.
+
+## La plaza antes y después de la protección
+
+La ordenanza VI de 1515, según la edición de Berrogain (1930, pp. 383–386), menciona las gradas de una fuente en un contexto sancionador. Es una referencia anterior a las descripciones del siglo XX, aunque su identificación con el emplazamiento actual requiere evidencia adicional. Véase [ordenanzas](../../../historia/concejo-ordenanzas/).
+
+El decreto de 1940 incluye el caserío y una franja exterior de 500 metros. La posterior constitución de la Junta de conservación ofrece una vía para localizar acuerdos y expedientes de intervención. Ninguno de estos documentos acredita por sí mismo una reforma específica de la plaza. [Decreto y Junta](../../../conjunto-historico/).
