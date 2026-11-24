@@ -1,7 +1,7 @@
 
 # ====================================================
 # LA SIERRA DE FRANCIA
-# REGISTRO CENTRAL DE ENTIDADES — V3
+# REGISTRO CENTRAL DE ENTIDADES — V4
 # ====================================================
 #
 # Fuente de datos para Schema.org.
@@ -117,3 +117,45 @@
   type: Person
   name: "Tomás Hoyos"
   url: "/personajes/tomas-hoyos/"
+
+- id: plaza-mayor-la-alberca
+  type: Place
+  name: "Plaza Mayor de La Alberca"
+  url: "/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/plaza-mayor/"
+  parent_url: "/pueblos/conjuntos-historicos/la-alberca/"
+
+- id: iglesia-asuncion-la-alberca
+  type: Place
+  name: "Iglesia de Nuestra Señora de la Asunción de La Alberca"
+  url: "/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/"
+  parent_url: "/pueblos/conjuntos-historicos/la-alberca/"
+
+- id: castillo-miranda-del-castanar
+  type: Place
+  name: "Castillo de Miranda del Castañar"
+  url: "/pueblos/conjuntos-historicos/miranda-del-castanar/patrimonio/castillo/"
+  parent_url: "/pueblos/conjuntos-historicos/miranda-del-castanar/"
+
+- id: iglesia-nieves-mogarraz
+  type: Place
+  name: "Iglesia de Nuestra Señora de las Nieves de Mogarraz"
+  url: "/pueblos/conjuntos-historicos/mogarraz/patrimonio/iglesia-nieves/"
+  parent_url: "/pueblos/conjuntos-historicos/mogarraz/"
+
+- id: castillo-san-martin-del-castanar
+  type: Place
+  name: "Castillo de San Martín del Castañar"
+  url: "/pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/castillo/"
+  parent_url: "/pueblos/conjuntos-historicos/san-martin-del-castanar/"
+
+- id: teatro-liceo-sequeros
+  type: Place
+  name: "Teatro del Liceo — Teatro León Felipe"
+  url: "/pueblos/conjuntos-historicos/sequeros/patrimonio/teatro/"
+  parent_url: "/pueblos/conjuntos-historicos/sequeros/"
+
+- id: iglesia-villanueva-del-conde
+  type: Place
+  name: "Iglesia de San Fabián y San Sebastián de Villanueva del Conde"
+  url: "/pueblos/conjuntos-historicos/villanueva-del-conde/patrimonio/iglesia/"
+  parent_url: "/pueblos/conjuntos-historicos/villanueva-del-conde/"
