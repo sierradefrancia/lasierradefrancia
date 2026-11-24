@@ -1,4 +1,5 @@
 ---
+description: "La relación entre arquitectura y clima en La Alberca: orientación, solanas, materiales y organización térmica de la vivienda tradicional."
 layout: default
 title: Arquitectura, clima y recursos naturales
 parent: Arquitectura tradicional
