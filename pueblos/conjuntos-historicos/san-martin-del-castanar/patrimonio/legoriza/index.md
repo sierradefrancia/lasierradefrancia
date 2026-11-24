@@ -10,6 +10,23 @@ permalink: /pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/lego
 
 # La Legoriza
 
+## Viviendas, enterramientos y actividades productivas
+
+Las estructuras domésticas y funerarias descritas en el catálogo de 2006 permiten plantear una investigación del asentamiento más amplia que la identificación de una actividad económica. La mampostería granítica, la cerámica, las escorias y las pizarras mencionadas por las referencias disponibles pertenecen a categorías de evidencia distintas.
+
+La presencia de escorias puede orientar el estudio de procesos metalúrgicos, pero determinar qué operaciones se realizaban requiere caracterización de los residuos y de sus contextos. Las pizarras numéricas tampoco pueden identificarse automáticamente como registros de producción minera. Su interpretación exige examinar signos, asociaciones estratigráficas y paralelos.
+
+## Cronología y comparación
+
+La propuesta de los siglos VII–VIII o posteriores recogida en Zephyrus debe distinguirse de la denominación divulgativa de yacimiento visigodo. Una etiqueta cultural no resuelve por sí sola la fecha de cada estructura ni la duración del asentamiento.
+
+La comparación con El Cuquero y las [pizarras de Mogarraz](/pueblos/conjuntos-historicos/mogarraz/historia/pizarras-visigodas/) constituye una vía para estudiar comunidades rurales de la Antigüedad tardía. No demuestra una red de intercambio concreta. El [inventario arqueológico de San Martín](../arqueologia/) mantiene separada esta investigación de la formación del núcleo medieval actual.
+
+## Registro documental anterior
+
+Las afirmaciones de consulta del registro previo quedan pendientes de cotejo reproducible en esta revisión editorial.
+
+
 SMC-PAT-014. El catálogo (pp. 17–19) registra investigaciones dirigidas por José Antonio Gómez Gandullo desde 2004. Describe estructuras domésticas y funerarias y una secuencia de atribuciones desde la Antigüedad tardía hasta época medieval. Se necesita literatura posterior a 2006 para determinar las interpretaciones actuales. No se presupone continuidad con la villa.
 
 Fuente: [Aratikos, catálogo arqueológico, 2006](https://www.lasalina.es/documentacion/normasurbanisticas/286_1_Informe%20Arqueol%C3%B3gico.pdf), pasajes indicados cotejados el 24-11-2026. Fuente secundaria para los acontecimientos históricos.
