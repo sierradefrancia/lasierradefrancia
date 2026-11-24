@@ -116,3 +116,11 @@ La descripción de Maluquer de 1956 y la de Olivares de 2006 permiten distinguir
 La hipótesis de procedencia del convento de Gracia debe contrastarse con el [expediente del convento](/pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/convento-gracia/) y la [arqueología de San Martín](/pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/arqueologia/). La presencia regional de epigrafía romana no identifica el lugar de hallazgo. El nombre de Albinus merece conservarse como testimonio epigráfico, sin reconstruir una biografía desconocida.
 
 *Revisión del corpus existente; sin nuevo cotejo externo.*
+
+## Biografía material de la pieza
+
+Las dimensiones publicadas por Olivares en 2006 (85 × 40 × 34 cm) corresponden al soporte completo, mientras el campo epigráfico ocupa 33 × 26 cm. La cavidad superior de unos nueve centímetros y la utilización como soporte de pila referida en 1956 son testimonios de reutilización que no permiten ordenar todas sus fases. Conviene distinguir la cronología de la inscripción, la modificación física y la incorporación al templo.
+
+La coincidencia de las ediciones en el nombre Albinus no resuelve la identificación de la divinidad. La comunicación del congreso de 2002, publicada en 2007, tampoco debe interpretarse como refutación posterior de Olivares (2006). El contraste requiere las fotografías y transcripciones completas de ambas ediciones. Véase [orígenes de La Alberca](../../../historia/origenes/) y [bienes litúrgicos](../../patrimonio-religioso/iglesia-asuncion/orfebreria-y-bienes-liturgicos/). La procedencia original del ara sigue sin establecerse.
+
+*Síntesis de fuentes previamente registradas; sin nuevo cotejo externo.*
