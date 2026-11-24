@@ -307,3 +307,15 @@ Nicolás Antonio Díez de Ledesma y Diego de la Peña (escribanos, [Ms. 2765](ht
 ### San Martín — arqueología y fuentes históricas
 
 José Antonio Gómez Gandullo (dirección de excavaciones de La Legoriza desde 2004), L. Barbero Castro (prospección de 1999), Markel Gorbea Pérez (revisión de 2002), Díez Elcuaz (obra de 1995, identidad y referencia completas pendientes). [Catálogo de 2006, pp. 14–19](https://www.lasalina.es/documentacion/normasurbanisticas/286_1_Informe%20Arqueol%C3%B3gico.pdf). Relaciones comprobadas en el informe, no biografías.
+
+
+## Relaciones documentales: convento de Gracia
+
+- Sancho, obispo de Salamanca: donante de la residencia episcopal (PARES autoridad 6087); verificar forma completa del nombre.
+- Juan de Castilla, obispo: intervención en capilla mayor atribuida en Cuadernos Medievales 36 (2024).
+- Isabel la Católica: patrocinio económico atribuido en ese estudio.
+- Javier Herrera-Vicente: investigador del relicario y arquitectura conventual.
+- Jesús Málaga Guerrero: intervención parlamentaria de 5-5-1998 sobre el convento.
+- Fray Juan, obispo de Bonavola: consagración de 1437 según el estudio citado; identificación biográfica pendiente.
+
+Ver [expediente de Gracia](/pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/convento-gracia/). Relaciones registradas a partir de extractos recuperados; comprobar duplicados con fichas centrales antes de asignar nuevos identificadores.
