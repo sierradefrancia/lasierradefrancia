@@ -11,6 +11,8 @@ permalink: /pueblos/conjuntos-historicos/miranda-del-castanar/articulos/
 
 # Artículos de Miranda del Castañar
 
+Los artículos interpretan cuestiones concretas de la villa y su territorio. Las referencias y límites se desarrollan en [historia](../historia/), [patrimonio](../patrimonio/) y [fuentes](../fuentes/).
+
 ## Investigaciones narrativas
 
 - [El camino entre dos villas](./el-camino-entre-dos-villas/): arte contemporáneo y paisaje compartido.
