@@ -27,60 +27,77 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 
 ---
 
-## Artículos y relatos documentados
+## Cómo visitar Las Batuecas
 
-- [El monasterio que Buñuel quiso comprar](/lugares/las-batuecas/articulos/bunuel-y-el-desierto/): una historia de cine, propiedad y recuperación religiosa.
+Las Batuecas es especialmente apropiada para una excursión de un día: caminar junto al río, descubrir las pinturas rupestres, contemplar el monasterio desde el exterior y disfrutar de las pozas naturales, incluido el baño en los meses cálidos.
 
-## Estudios e inventarios
+- [El río, las pozas y el baño](/lugares/las-batuecas/pozas-bano/).
 
-- [Incendios forestales y regeneración del paisaje](/lugares/las-batuecas/incendios-regeneracion/): historia del fuego, evidencias y recuperación forestal.
+- [Qué ver y hacer en Las Batuecas en un día](/lugares/las-batuecas/guia-visita/): acceso, accesibilidad y propuestas.
+- [Senderos y recorridos](/lugares/las-batuecas/senderos-visita/): paseo corto y descenso desde La Alberca.
 
-- [El lince ibérico: memoria y evidencia](/lugares/las-batuecas/lince-iberico/).
-- [Buitre negro y cigüeña negra](/lugares/las-batuecas/aves-conservacion/).
 
-- [Historia de la recuperación de fauna](/lugares/las-batuecas/recuperacion-fauna/): reintroducciones, memoria profesional y conservación.
+El acceso habitual se realiza por la carretera SA-201, que conecta La Alberca con el sector de Las Mestas.
 
-- [Protección ambiental y gestión territorial](/lugares/las-batuecas/proteccion-ambiental/): figuras de protección, planificación y montes.
+En el entorno del valle existen áreas de estacionamiento desde las que parten itinerarios señalizados.
 
-- [Aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-tradicionales/): economía histórica, normas forestales y usos del paisaje.
+La disponibilidad de plazas puede ser limitada.
 
-- [Granadilla, La Alberca y Las Hurdes](/lugares/las-batuecas/granadilla-hurdes-alberca/): jurisdicciones históricas y aprovechamientos compartidos.
+Es importante utilizar exclusivamente los espacios autorizados para estacionar y evitar bloquear accesos o caminos.
 
-- [Luis Buñuel y Las Batuecas](/lugares/las-batuecas/luis-bunuel/): rodaje, negociaciones de compra y regreso en 1971.
+### La senda accesible del valle
 
-- [Desamortización y recuperación del Desierto](/lugares/las-batuecas/desamortizacion-recuperacion/): transmisiones patrimoniales, propietarios y retorno religioso.
+La Junta de Castilla y León describe una senda accesible que discurre desde el aparcamiento hacia el entorno del monasterio.
 
-- [Restauración del monasterio](/lugares/las-batuecas/restauracion-monasterio/): pérdidas, fases de obra y documentación técnica.
+El itinerario utiliza una pasarela de madera junto al río y permite conocer algunos de los ambientes naturales del valle.
 
-- [Biblioteca histórica](/lugares/las-batuecas/biblioteca-carmelitana/): patrimonio bibliográfico y lecturas.
-- [Ermitas y vida eremítica](/lugares/las-batuecas/vida-eremitica/): organización del retiro e inventarios históricos.
-- [Personajes y fundación](/lugares/las-batuecas/personajes-carmelitanos/): promotores y protagonistas.
+La ruta oficial figura con una longitud aproximada de 1,5 kilómetros de ida y vuelta (unos 700 metros de senda adaptada por sentido) y dificultad baja.
 
-- [Fauna vertebrada](/lugares/las-batuecas/fauna/): contexto regional y evidencias locales.
-- [Reptiles y lagartija batueca](/lugares/las-batuecas/reptiles/): investigaciones y registros herpetológicos.
+Las condiciones de accesibilidad reales pueden depender del mantenimiento, las condiciones meteorológicas y las necesidades concretas de cada visitante.
 
-- [La vida acuática del río Batuecas](/lugares/las-batuecas/vida-acuatica/): datos de macroinvertebrados y diatomeas.
-- [Continuidad y restauración del río Batuecas](/lugares/las-batuecas/restauracion-fluvial/): inventario inicial de azudes y actuaciones previstas.
+### El camino hacia las pinturas
 
-- [El río Batuecas y su reserva natural fluvial](/lugares/las-batuecas/rio-batuecas/): régimen, sedimentos, evaluación ecológica y protección.
-- [Vegetación y bosques de Las Batuecas](/lugares/las-batuecas/vegetacion/): comunidades ribereñas, mediterráneas y especies exóticas.
+Existen itinerarios señalizados que permiten aproximarse a determinados abrigos rupestres.
 
-- [Historia territorial de Las Batuecas](/lugares/las-batuecas/historia-territorial/): aprovechamientos, derechos concejiles, documentación medieval y fundación carmelitana.
+Sin embargo, no todos los yacimientos son accesibles al público ni todos los caminos presentan la misma dificultad.
 
-- [Las Batuecas entre historia y leyenda](/lugares/las-batuecas/historia-leyenda/): tradición literaria y defensa histórica de Tomás González de Manuel.
+Antes de continuar más allá de la zona del monasterio conviene comprobar las indicaciones vigentes, el estado del sendero y las posibles restricciones.
 
-- [Historia del Desierto de San José](/lugares/las-batuecas/historia-carmelitana/): fundación, derechos territoriales y recuperación religiosa.
-- [Arquitectura del Desierto de San José](/lugares/las-batuecas/arquitectura-carmelitana/): organización espacial e inventario arquitectónico.
+No debemos abandonar los itinerarios permitidos para buscar pinturas u otros restos arqueológicos.
 
-- [Documentos gráficos del arte rupestre](/lugares/las-batuecas/documentos-rupestres/): catálogo de dibujos y láminas históricas.
-- [Conservación de las pinturas rupestres](/lugares/las-batuecas/conservacion-rupestre/): evidencias, soporte, pigmentos y evaluación de daños.
+---
 
-- [Historia de las investigaciones rupestres](/lugares/las-batuecas/historia-investigaciones/): investigadores, publicaciones y patrimonio documental.
+## Cuándo visitar Las Batuecas
 
-- [Geología y relieve](/lugares/las-batuecas/geologia/): dimensiones del inventario CI077, estructura, erosión y soporte rupestre.
+Las condiciones del valle cambian a lo largo del año.
 
-- [Protección patrimonial de Las Batuecas](/lugares/las-batuecas/proteccion-patrimonial/): evolución jurídica, delimitación y fuentes originales.
-- [Inventario arqueológico de Las Batuecas](/lugares/las-batuecas/inventario-arqueologico/): registro documental de los quince conjuntos del expediente de 1999.
+### Primavera
+
+La vegetación experimenta una intensa actividad estacional y el río puede presentar caudales superiores a los de los periodos secos.
+
+Es una época interesante para observar la diversidad vegetal.
+
+Las lluvias pueden dificultar algunos pasos y senderos.
+
+### Verano
+
+Las pozas y la sombra del bosque invitan a disfrutar del río y del baño. Las temperaturas pueden ser elevadas, especialmente durante las horas centrales del día.
+
+La sombra de determinados tramos del valle no elimina el riesgo de calor y deshidratación.
+
+Conviene llevar agua suficiente y evitar recorridos exigentes en las horas de mayor temperatura.
+
+### Otoño
+
+Los cambios estacionales de la vegetación y las condiciones de luz ofrecen paisajes especialmente interesantes.
+
+Las precipitaciones pueden modificar rápidamente el estado de los senderos.
+
+### Invierno
+
+Las temperaturas son generalmente más suaves que en las cumbres de la sierra, aunque pueden producirse episodios de frío, lluvia y otras condiciones adversas.
+
+Los caminos húmedos, las rocas y las pasarelas requieren precaución.
 
 ---
 
@@ -153,7 +170,7 @@ Fuente:
 
 ## El río Batuecas
 
-El río Batuecas es uno de los elementos fundamentales del valle.
+El río Batuecas es uno de los elementos fundamentales del valle. Su régimen permanente, las pozas naturales y los remansos de agua transparente son parte esencial de la experiencia del visitante. En verano, el baño y el descanso junto al agua complementan el paseo. [Conoce las pozas y el baño](/lugares/las-batuecas/pozas-bano/).
 
 Su curso atraviesa un paisaje de fuerte pendiente, con vegetación de ribera y numerosos tramos donde el agua circula entre rocas.
 
@@ -452,80 +469,6 @@ La historia real del lugar es suficientemente interesante sin necesidad de prese
 
 ---
 
-## Cómo visitar Las Batuecas
-
-Las Batuecas es especialmente apropiada para una excursión de un día: caminar junto al río, descubrir las pinturas rupestres, contemplar el monasterio desde el exterior y disfrutar de las pozas naturales, incluido el baño en los meses cálidos.
-
-- [El río, las pozas y el baño](/lugares/las-batuecas/pozas-bano/).
-
-- [Qué ver y hacer en Las Batuecas en un día](/lugares/las-batuecas/guia-visita/): acceso, accesibilidad y propuestas.
-- [Senderos y recorridos](/lugares/las-batuecas/senderos-visita/): paseo corto y descenso desde La Alberca.
-
-
-El acceso habitual se realiza por la carretera SA-201, que conecta La Alberca con el sector de Las Mestas.
-
-En el entorno del valle existen áreas de estacionamiento desde las que parten itinerarios señalizados.
-
-La disponibilidad de plazas puede ser limitada.
-
-Es importante utilizar exclusivamente los espacios autorizados para estacionar y evitar bloquear accesos o caminos.
-
-### La senda accesible del valle
-
-La Junta de Castilla y León describe una senda accesible que discurre desde el aparcamiento hacia el entorno del monasterio.
-
-El itinerario utiliza una pasarela de madera junto al río y permite conocer algunos de los ambientes naturales del valle.
-
-La ruta oficial figura con una longitud aproximada de 1,5 kilómetros y dificultad baja.
-
-Las condiciones de accesibilidad reales pueden depender del mantenimiento, las condiciones meteorológicas y las necesidades concretas de cada visitante.
-
-### El camino hacia las pinturas
-
-Existen itinerarios señalizados que permiten aproximarse a determinados abrigos rupestres.
-
-Sin embargo, no todos los yacimientos son accesibles al público ni todos los caminos presentan la misma dificultad.
-
-Antes de continuar más allá de la zona del monasterio conviene comprobar las indicaciones vigentes, el estado del sendero y las posibles restricciones.
-
-No debemos abandonar los itinerarios permitidos para buscar pinturas u otros restos arqueológicos.
-
----
-
-## Cuándo visitar Las Batuecas
-
-Las condiciones del valle cambian a lo largo del año.
-
-### Primavera
-
-La vegetación experimenta una intensa actividad estacional y el río puede presentar caudales superiores a los de los periodos secos.
-
-Es una época interesante para observar la diversidad vegetal.
-
-Las lluvias pueden dificultar algunos pasos y senderos.
-
-### Verano
-
-Las temperaturas pueden ser elevadas, especialmente durante las horas centrales del día.
-
-La sombra de determinados tramos del valle no elimina el riesgo de calor y deshidratación.
-
-Conviene llevar agua suficiente y evitar recorridos exigentes en las horas de mayor temperatura.
-
-### Otoño
-
-Los cambios estacionales de la vegetación y las condiciones de luz ofrecen paisajes especialmente interesantes.
-
-Las precipitaciones pueden modificar rápidamente el estado de los senderos.
-
-### Invierno
-
-Las temperaturas son generalmente más suaves que en las cumbres de la sierra, aunque pueden producirse episodios de frío, lluvia y otras condiciones adversas.
-
-Los caminos húmedos, las rocas y las pasarelas requieren precaución.
-
----
-
 ## Recomendaciones para una visita responsable
 
 Las Batuecas es un lugar de gran sensibilidad natural y patrimonial.
@@ -609,6 +552,60 @@ Las Batuecas conecta diferentes áreas de conocimiento.
 - [Pueblos](/pueblos/): La Alberca y las localidades relacionadas con el valle.
 
 Estas conexiones permitirán profundizar sin repetir innecesariamente los mismos contenidos.
+
+---
+
+## Investigaciones y documentación del valle
+
+Para profundizar en la historia y naturaleza de Las Batuecas, consulta los estudios especializados del atlas.
+
+### Naturaleza, geología y agua
+
+- [Geología y relieve](/lugares/las-batuecas/geologia/): dimensiones del inventario CI077, estructura, erosión y soporte rupestre.
+- [El río Batuecas y su reserva natural fluvial](/lugares/las-batuecas/rio-batuecas/): régimen, sedimentos, evaluación ecológica y protección.
+- [Vegetación y bosques de Las Batuecas](/lugares/las-batuecas/vegetacion/): comunidades ribereñas, mediterráneas y especies exóticas.
+- [Fauna vertebrada](/lugares/las-batuecas/fauna/): contexto regional y evidencias locales.
+- [Reptiles y lagartija batueca](/lugares/las-batuecas/reptiles/): investigaciones y registros herpetológicos.
+- [La vida acuática del río Batuecas](/lugares/las-batuecas/vida-acuatica/): datos de macroinvertebrados y diatomeas.
+- [Continuidad y restauración del río Batuecas](/lugares/las-batuecas/restauracion-fluvial/): inventario inicial de azudes y actuaciones previstas.
+
+### Conservación y gestión
+
+- [Incendios forestales y regeneración del paisaje](/lugares/las-batuecas/incendios-regeneracion/): historia del fuego, evidencias y recuperación forestal.
+- [El lince ibérico: memoria y evidencia](/lugares/las-batuecas/lince-iberico/).
+- [Buitre negro y cigüeña negra](/lugares/las-batuecas/aves-conservacion/).
+- [Historia de la recuperación de fauna](/lugares/las-batuecas/recuperacion-fauna/): reintroducciones, memoria profesional y conservación.
+- [Protección ambiental y gestión territorial](/lugares/las-batuecas/proteccion-ambiental/): figuras de protección, planificación y montes.
+
+### Arte rupestre y patrimonio
+
+- [Documentos gráficos del arte rupestre](/lugares/las-batuecas/documentos-rupestres/): catálogo de dibujos y láminas históricas.
+- [Conservación de las pinturas rupestres](/lugares/las-batuecas/conservacion-rupestre/): evidencias, soporte, pigmentos y evaluación de daños.
+- [Historia de las investigaciones rupestres](/lugares/las-batuecas/historia-investigaciones/): investigadores, publicaciones y patrimonio documental.
+- [Protección patrimonial de Las Batuecas](/lugares/las-batuecas/proteccion-patrimonial/): evolución jurídica, delimitación y fuentes originales.
+- [Inventario arqueológico de Las Batuecas](/lugares/las-batuecas/inventario-arqueologico/): registro documental de los quince conjuntos del expediente de 1999.
+
+### Historia territorial y literatura
+
+- [Aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-tradicionales/): economía histórica, normas forestales y usos del paisaje.
+- [Granadilla, La Alberca y Las Hurdes](/lugares/las-batuecas/granadilla-hurdes-alberca/): jurisdicciones históricas y aprovechamientos compartidos.
+- [Historia territorial de Las Batuecas](/lugares/las-batuecas/historia-territorial/): aprovechamientos, derechos concejiles, documentación medieval y fundación carmelitana.
+- [Las Batuecas entre historia y leyenda](/lugares/las-batuecas/historia-leyenda/): tradición literaria y defensa histórica de Tomás González de Manuel.
+- [Luis Buñuel y Las Batuecas](/lugares/las-batuecas/luis-bunuel/): rodaje, negociaciones de compra y regreso en 1971.
+
+### El Desierto de San José
+
+- [Desamortización y recuperación del Desierto](/lugares/las-batuecas/desamortizacion-recuperacion/): transmisiones patrimoniales, propietarios y retorno religioso.
+- [Restauración del monasterio](/lugares/las-batuecas/restauracion-monasterio/): pérdidas, fases de obra y documentación técnica.
+- [Biblioteca histórica](/lugares/las-batuecas/biblioteca-carmelitana/): patrimonio bibliográfico y lecturas.
+- [Ermitas y vida eremítica](/lugares/las-batuecas/vida-eremitica/): organización del retiro e inventarios históricos.
+- [Personajes y fundación](/lugares/las-batuecas/personajes-carmelitanos/): promotores y protagonistas.
+- [Historia del Desierto de San José](/lugares/las-batuecas/historia-carmelitana/): fundación, derechos territoriales y recuperación religiosa.
+- [Arquitectura del Desierto de San José](/lugares/las-batuecas/arquitectura-carmelitana/): organización espacial e inventario arquitectónico.
+
+### Artículos y relatos
+
+- [El monasterio que Buñuel quiso comprar](/lugares/las-batuecas/articulos/bunuel-y-el-desierto/): una historia de cine, propiedad y recuperación religiosa.
 
 ---
 
