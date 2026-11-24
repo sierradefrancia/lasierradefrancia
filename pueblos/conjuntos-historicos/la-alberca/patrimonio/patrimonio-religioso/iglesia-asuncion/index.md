@@ -26,6 +26,8 @@ Para comprender la iglesia actual es necesario comenzar por aquella que desapare
 
 ## Ámbitos de investigación del templo
 
+- [Púlpito policromado](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/pulpito/): datación especializada de 1572, iconografía y epigrafía.
+
 - [Campanas, reloj y matraca](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/campanas-reloj-matraca/): instrumentos, toques de cofradías y archivo sonoro.
 
 - [Torre y heráldica](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/torre-y-heraldica/): inscripciones de 1519 y 1571, escudo y antiguo campanario del Castillo.
@@ -214,7 +216,7 @@ La descripción municipal lo atribuye al siglo XVI, lo que plantearía su posibl
 
 Sin embargo, existen otras atribuciones cronológicas publicadas que no coinciden con esa datación.
 
-Mientras no dispongamos de un estudio especializado que resuelva la discrepancia, conviene mantener la fecha como atribución y no como certeza definitiva.
+La tesis de Alba Rebollar Antúnez (Universidad de Valladolid, p. 172) fecha la pieza en 1572. Es la datación especializada preferente, aunque su fundamento documental o epigráfico queda pendiente de cotejo. Véase la monografía del púlpito.
 
 El interés del púlpito no depende de que podamos asignarle inmediatamente un siglo exacto.
 
