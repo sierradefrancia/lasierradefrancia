@@ -4,11 +4,14 @@ title: Iglesia de Nuestra Señora de la Asunción
 parent: Patrimonio religioso
 grand_parent: Patrimonio
 nav_order: 1
+last_modified_at: 2026-11-24
 description: "Historia y patrimonio de la iglesia de Nuestra Señora de la Asunción de La Alberca: el templo anterior, la reconstrucción del siglo XVIII, Manuel de Larra Churriguera, la torre y sus bienes artísticos."
 permalink: /pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/
 ---
 
 # Iglesia de Nuestra Señora de la Asunción de La Alberca
+
+**Identificador patrimonial:** ALB-PAT-004. MonumentalNet: SA-010000100-ALB-IGL-NUE-SRA-ASU.
 
 Hay edificios que permiten contemplar una época. Otros conservan, superpuestas, las huellas de varias.
 
@@ -116,6 +119,14 @@ La relación entre la arquitectura del edificio y sus elementos litúrgicos es e
 
 No se trata de un espacio concebido únicamente para ser contemplado. Sus dimensiones, accesos, capillas y organización responden también a las ceremonias y prácticas religiosas de la comunidad.
 
+### Organización espacial y técnica de las bóvedas
+
+MonumentalNet describe tres naves de tres tramos, además del crucero, separadas mediante pilares cuadrados y arcos semicirculares. Sitúa la construcción en 1730–1731 y su terminación en 1733. Son referencias de un repertorio secundario, compatibles con la contratación de 1729, pero no sustituyen las certificaciones de obra.
+
+Paula Liébana Alonso estudió específicamente las bóvedas del templo en su trabajo de fin de grado de la ETS de Arquitectura de la Universidad Politécnica de Madrid (junio de 2023), dirigido por Ana López Mozo. El resumen depositado en el repositorio institucional describe un modelo tridimensional fotogramétrico utilizado para analizar geometría y aparejo de las bóvedas de arista y de cañón con lunetos.
+
+La autora interpreta las irregularidades geométricas y de las hiladas como indicios de ejecución sin cimbras ni cintreles. Compara esta técnica con los estudios de Auguste Choisy y Vicente Paredes y plantea una hipótesis de difusión constructiva. No constituye una demostración del origen geográfico de los constructores. Se ha consultado el resumen institucional, no el PDF íntegro ni sus modelos; queda pendiente estudiar medidas, detalles y alcance de los resultados.
+
 ### Los accesos y los solanos
 
 La iglesia se relaciona con el trazado urbano mediante dos pórticos laterales.
@@ -212,6 +223,14 @@ No obstante, la noticia de su conservación no permite determinar por sí sola s
 
 La consulta completa del estudio de José Luis Puerto será fundamental para profundizar en estos elementos sin repetir atribuciones incompletas.
 
+### Inventario inicial de bienes y relaciones
+
+La presentación de *Lo sagrado* por la Diputación (15 de julio de 2022) identifica estudios sobre el dorado y retablo de la capilla del Cristo, el órgano entonces en restauración, los ciriales de plata y las azucenas de plata de las andas de la titular. No acredita por sí misma las fechas, autores ni procedencias concretas de estos objetos.
+
+El portal oficial Spain.info identifica además una cruz procesional gótica de cobre dorado y atribuye el Cristo del Sudor a Juan de Juni. Ambas referencias requieren catálogo especializado y contraste documental. El artículo de Andrés Barés Calama (19 de enero de 2016) ofrece dos dataciones incompatibles del púlpito (XVI y XII), junto con datos iconográficos e inscripciones que deberán verificarse en la pieza.
+
+La [ara votiva](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/ara-votiva/) y el [monumento al marrano](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/marrano-de-piedra/) ya cuentan con investigaciones propias. El escudo de la torre (ALB-PAT-005), el púlpito (ALB-PAT-006) y el osario (ALB-PAT-012) conservan sus identificadores independientes.
+
 ## El osario y la memoria de los difuntos
 
 En el entorno de la torre se encuentra el Osario de las Ánimas.
@@ -233,6 +252,8 @@ Pero la documentación y los elementos conservados permiten identificar una cont
 La advocación de Nuestra Señora de la Asunción ocupa un lugar destacado en las celebraciones tradicionales de La Alberca.
 
 La conocida Loa de la Asunción, representada en el contexto de las fiestas patronales, constituye una manifestación cultural estrechamente relacionada con esa devoción.
+
+El Acuerdo 10/2022 de 13 de enero declaró la Loa bien de interés cultural de carácter inmaterial (BOE de 27 de enero de 2022, BOE-A-2022-1316). Esta declaración protege la manifestación cultural, no constituye una declaración individual del templo.
 
 Su estudio pertenece también al patrimonio inmaterial de la localidad, porque en él intervienen la representación, la transmisión comunitaria y la continuidad de las celebraciones.
 
@@ -283,6 +304,8 @@ https://gredos.usal.es/handle/10366/170422
 
 Investigación académica identificada para profundizar en la trayectoria del arquitecto. Su contenido monográfico sobre La Alberca queda pendiente de revisión específica.
 
+**Liébana Alonso, Paula (2023).** [Bóvedas de ladrillo por hojas: la iglesia de La Alberca en Salamanca](https://oa.upm.es/75372/). TFG, ETS Arquitectura, UPM. Directora: Ana López Mozo. Resumen institucional consultado; texto íntegro pendiente.
+
 ### Documentación histórica
 
 **Ordenanzas de La Alberca y sus términos Las Hurdes y Las Batuecas.** Edición publicada en el *Anuario de Historia del Derecho Español*.
@@ -315,6 +338,16 @@ Obra especializada identificada como referencia prioritaria para la iglesia ante
 https://laalberca.com/iglesia-parroquial-de-nuestra-senora-de-la-asuncion/
 
 Descripción de la arquitectura, los accesos, la torre, el escudo y diversos elementos conservados.
+
+### Fuentes complementarias incorporadas el 24 de noviembre de 2026
+
+- [MonumentalNet, iglesia de Nuestra Señora de la Asunción](https://programs.monumentalnet.org/monumento.php?r=SA-010000100-ALB-IGL-NUE-SRA-ASU&seo=iglesia-de-nuestra-senora-de-la-asuncion-la-alberca-salamanca-castilla-y-leon).
+- [Diputación de Salamanca, presentación de Lo sagrado, 15 de julio de 2022](https://webturismo.lasalina.es/cultura/noticias/laalbercamemoriaypatrimoniolosagrado.html).
+- [Andrés Barés Calama, El púlpito, 19 de enero de 2016](https://salamancartvaldia.es/noticia/2016-01-19-el-pulpito-195634).
+- [Spain.info, La Alberca](https://www.spain.info/es/destino/la-alberca/).
+- [BOE-A-2022-1316, declaración de la Loa](https://www.boe.es/boe/dias/2022/01/27/pdfs/BOE-A-2022-1316.pdf).
+
+Se han consultado los extractos recuperados de estas fuentes y el resumen de la UPM. El nuevo intento de acceso al estudio de Azofra y González y al texto completo de Liébana no pudo completarse; se conservan las referencias previas sin afirmar un nuevo cotejo.
 
 ---
 
