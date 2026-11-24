@@ -1,4 +1,5 @@
 ---
+description: "José Luis Puerto y la memoria cultural de La Alberca: vocabulario, ritos populares, producción textil y teatro tradicional."
 layout: default
 title: "José Luis Puerto: salvar una palabra"
 parent: Artículos
