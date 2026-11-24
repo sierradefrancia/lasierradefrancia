@@ -1,4 +1,5 @@
 ---
+description: "Cultura y tradiciones de Villanueva del Conde: celebraciones, memoria comunitaria y cultura agrícola."
 layout: default
 title: "Cultura y tradiciones de Villanueva del Conde"
 parent: Villanueva del Conde
