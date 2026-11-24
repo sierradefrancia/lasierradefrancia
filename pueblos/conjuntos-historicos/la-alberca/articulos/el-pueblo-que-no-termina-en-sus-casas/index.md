@@ -40,3 +40,13 @@ La Alberca no termina en sus últimas casas. Y quizá tampoco termine cuando reg
 - [Camino de las Raíces, Diputación](https://turismo.lasalina.es/es/que-hacer/actividades-en-la-naturaleza/senderismo/camino-de-las-raices).
 
 Ensayo territorial basado en el atlas. No es una ruta comprobada ni una evaluación ambiental; fuentes externas pendientes de cotejo en esta fase.
+
+## Una celebración fuera del caserío
+
+La documentación reunida sobre Majadas Viejas recoge la restauración impulsada por Saturnino Jiménez Hernández y una celebración en 1954 con representación de una loa. El lugar permite estudiar cómo una comunidad mantiene vínculos con un espacio situado fuera de sus calles habituales.
+
+San Marcos plantea otra historia: la conservación de una ermita arruinada y la gestión de un humedal próximo. No conviene reunir ambos lugares bajo una misma explicación histórica solo porque hoy estén enlazados por una ruta.
+
+El caminante puede detenerse en esas diferencias. La [guía de senderismo de La Alberca](../../visitar/senderismo/) ayuda a preparar la salida; las fichas patrimoniales permiten profundizar en cada lugar.
+
+*Ampliación a partir de expedientes existentes; sin nuevo cotejo externo.*
