@@ -1,4 +1,5 @@
 ---
+description: "Documentación jurisdiccional de Miranda del Castañar: litigios, competencias y testimonios del gobierno histórico."
 layout: default
 title: "Documentos de la villa y su tierra"
 parent: Historia de Miranda del Castañar
