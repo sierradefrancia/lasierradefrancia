@@ -17,6 +17,10 @@ En la Comisión de Cultura de las Cortes de Castilla y León del 15 de abril de 
 
 El mismo discurso confunde la fecha de incoación patrimonial (1986) con la declaración definitiva (1998). Esa discrepancia obliga a comprobar sus restantes datos históricos en fuentes independientes.
 
+## Contradicción cronológica
+
+La Peña de Mogarraz, n.º 9 (2013), p. 13, sitúa el villazgo en 1656, frente a 1671 en el diario parlamentario. No se puede resolver la discrepancia sin el privilegio original y sus posibles actos posteriores. [Fuente local](https://www.mogarraz.es/_mgz_pdf/mogarraz_2013.pdf).
+
 ## Líneas abiertas
 
 Localizar el privilegio de villazgo, documentación fiscal del siglo XVIII y primeras menciones medievales. La tradición de repoblación francesa no acredita por sí sola una fundación concreta.
