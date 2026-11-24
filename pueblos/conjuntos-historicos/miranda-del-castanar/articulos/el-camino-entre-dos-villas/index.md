@@ -1,4 +1,5 @@
 ---
+description: "Los caminos históricos entre villas de la Sierra de Francia desde la perspectiva de Miranda del Castañar."
 layout: default
 title: El camino entre dos villas
 parent: Artículos de Miranda del Castañar
