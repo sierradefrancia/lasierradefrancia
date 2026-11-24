@@ -40,7 +40,7 @@ Su casco histórico conserva una arquitectura tradicional especialmente caracter
 
 Las viviendas de varias plantas, los entramados de madera, las fachadas de piedra, los balcones y las calles de trazado irregular forman un paisaje urbano que invita a recorrerlo despacio.
 
-En 1940, La Alberca recibió la declaración de Monumento Histórico-Artístico, reconocimiento por el que es conocida como el primer pueblo español declarado conjunto histórico.
+En 1940, La Alberca recibió la declaración de Monumento Histórico-Artístico, un reconocimiento pionero de la protección patrimonial de los pueblos españoles.
 
 Aquella protección constituye un hito en la valoración de su patrimonio urbano.
 
@@ -51,6 +51,16 @@ La Alberca es un pueblo habitado, que ha evolucionado a lo largo del tiempo y qu
 [Conoce su conjunto histórico](/pueblos/conjuntos-historicos/la-alberca/conjunto-historico/).
 
 ---
+
+## Cinco claves para comprender el pueblo
+
+- **Una historia escrita por sus vecinos.** Las [ordenanzas proclamadas en 1515](historia/concejo-ordenanzas/) permiten acercarse a la organización del concejo, los aprovechamientos del monte y las obligaciones de sus oficiales.
+- **Una plaza que ha cambiado de funciones.** El [Ayuntamiento](patrimonio/patrimonio-civil/ayuntamiento/) conserva una inscripción de 1774; la [Casa Ducal](patrimonio/patrimonio-civil/casa-ducal/) reúne testimonios de distintos usos y de la rehabilitación del teatro. No todas sus piezas pertenecen a una misma época.
+- **Una economía que también fue textil.** El interrogatorio de 1791 menciona ochenta tejedores, según la investigación de José Luis Puerto. El [trabajo de los lienzos](articulos/un-pueblo-de-tejedores/) permite descubrir otra dimensión de la vivienda y del mercado.
+- **Una memoria que se escucha.** Los registros sonoros de junio de 1984 conservan referencias a bodas, campanas y tradición oral. Nuestro [archivo de fuentes sonoras](cultura-tradiciones/fuentes-sonoras/) distingue las fichas catalográficas de las grabaciones todavía pendientes de escucha.
+- **Un paisaje que tiene historia.** Los castañares, las ermitas y los caminos permiten relacionar la vida del pueblo con el bosque. El [Camino de las Raíces](visitar/senderismo/) ofrece una primera aproximación a ese entorno.
+
+Estas claves no agotan La Alberca. Son puntos de partida para descubrir relaciones entre documentos, lugares y personas.
 
 ## Qué hace especial a La Alberca
 
@@ -132,11 +142,11 @@ El valle de Las Batuecas, situado dentro del término municipal de La Alberca, o
 
 Sus bosques, roquedos, cursos de agua, patrimonio religioso y manifestaciones de arte rupestre justifican una visita independiente.
 
-Por su entidad histórica, natural y cultural, Las Batuecas cuenta con una sección propia en este atlas.
+Por su entidad histórica, natural y cultural, [Las Batuecas cuenta con una sección propia en este atlas](/lugares/las-batuecas/).
 
 ### La Peña de Francia
 
-La Peña de Francia constituye uno de los grandes referentes geográficos, paisajísticos y espirituales de la comarca.
+[La Peña de Francia](/lugares/pena-de-francia/) constituye uno de los grandes referentes geográficos, paisajísticos y espirituales de la comarca.
 
 Su santuario y las panorámicas que ofrece desde las alturas forman parte de las experiencias más características de la Sierra de Francia.
 
@@ -156,7 +166,7 @@ La Sierra de Francia no se comprende a través de un único pueblo.
 
 La Alberca admite muchas formas de visita.
 
-Se puede recorrer su conjunto histórico en unas horas, dedicar un día a conocer sus rincones y disfrutar de su gastronomía, o pasar varios días combinando patrimonio, naturaleza y excursiones por la comarca.
+Se puede recorrer su conjunto histórico en unas horas, dedicar un día a conocer sus rincones y disfrutar de su gastronomía, o regresar para profundizar en su patrimonio y sus caminos. Para combinar distintos destinos durante varios días, consulta la [guía comarcal por duración](/turismo/segun-tu-tiempo/).
 
 La experiencia también cambia con las estaciones.
 
@@ -237,6 +247,8 @@ Un espacio abierto a investigaciones, ciencia, curiosidades, relatos, memoria, c
 | Comunidad autónoma | Castilla y León |
 | Comarca | Sierra de Francia |
 | Código postal | 37624 |
+| Código municipal INE | 37010 |
+| Población municipal (serie oficial, 2025) | 1.034 habitantes; otra serie censal registra 1.035. [Metodología](sociedad-economia/demografia/) |
 | Reconocimiento patrimonial | Monumento Histórico-Artístico, 1940 |
 | Entorno | Sierra de Francia y Parque Natural Las Batuecas–Sierra de Francia |
 
