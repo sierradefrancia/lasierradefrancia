@@ -1,4 +1,5 @@
 ---
+description: "La tradición de los candiles de Miranda del Castañar y su relación con la memoria festiva local."
 layout: default
 title: "Los Candiles y el ofertorio"
 parent: "Cultura y tradiciones de Miranda"
