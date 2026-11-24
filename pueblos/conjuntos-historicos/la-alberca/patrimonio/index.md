@@ -362,3 +362,11 @@ La documentación reunida permite recorrer distintas escalas: el ara romana y su
 La [arquitectura tradicional](./arquitectura-tradicional/) estudia vivienda, técnicas y economía doméstica; el [patrimonio civil](./patrimonio-civil/) relaciona instituciones y espacios; el [patrimonio religioso](./patrimonio-religioso/) distingue edificios, bienes muebles y devociones; los [elementos patrimoniales](./elementos-patrimoniales/) individualizan fuentes, cruces y monumentos. El [inventario](./inventario/) permite conectar estas investigaciones sin multiplicar identidades.
 
 *Revisión del corpus existente; sin nuevo cotejo externo.*
+
+## Patrimonio material y relaciones históricas
+
+La documentación de la iglesia distingue fases constructivas, bienes muebles y prácticas devocionales. Las investigaciones civiles relacionan administración, beneficencia, enseñanza y reutilización arquitectónica. La vivienda tradicional aporta la escala doméstica, desde la estructura hasta el almacenamiento de alimentos.
+
+Los elementos menores permiten conectar estas dimensiones: fuentes y caminos, cruces y memoria funeraria, inscripciones y patronazgo. El [inventario](./inventario/) conserva identificadores estables y remite a las monografías; no sustituye el catálogo oficial de protección. La investigación de [Las Batuecas](/lugares/las-batuecas/) conserva su ámbito territorial propio.
+
+*Síntesis de fuentes previamente registradas; sin nuevo cotejo externo.*
