@@ -41,3 +41,7 @@ Consulta de fichas y extractos: 24-11-2026. No se afirma lectura íntegra de los
 - [Casa Museo Satur Juanela](./casa-satur-juanela/), ALB-PAT-057.
 
 La ficha institucional del TFG de Fuentes Hernández confirma una revisión presencial de una casa albercana. No se identifica con la casa museo sin cotejo.
+
+## Ámbito territorial
+
+La arquitectura tradicional serrana tiene su sede comparativa en [Patrimonio y cultura](/patrimonio/). Este bloque aporta casos y evidencias de La Alberca, sin convertirlos en modelo universal de la comarca.
