@@ -37,3 +37,13 @@ La investigación comienza precisamente ahí: en una conexión inesperada que me
 [Fundación Joaquín Díaz, Archivo de la Tradición Oral, ATO 102](https://funjdiaz.net/fonoteca-listado.php?id=103&qry=la), ficha consultada el 24-11-2026. No se ha escuchado el audio.
 
 [Ciclo vital y vida familiar](../../cultura-tradiciones/ciclo-vital/): referencias etnográficas internas pendientes de nuevo cotejo. Artículo de investigación abierta, no reconstrucción de una costumbre demostrada.
+
+## Un bosque que también era trabajo
+
+Los castañares no eran únicamente lugares de paseo. La documentación medieval estudiada por José María Monsalvo Antón recoge medidas de protección de los castañares de El Endrinal en 1461 y 1464. Aquellos documentos y la grabación de 1984 están separados por más de cinco siglos: no demuestran la continuidad de una costumbre matrimonial, pero muestran dos maneras de aproximarse al valor humano del árbol.
+
+El calendario de recogida, el almacenamiento de frutos y la disponibilidad de recursos podían condicionar la organización doméstica. Para saber si condicionaban las bodas albercanas necesitaríamos fechas de matrimonios, testimonios y la letra completa del fragmento conservado. La coincidencia de dos calendarios no basta para establecer una relación causal.
+
+Véanse [economía tradicional](../../sociedad-economia/economia-tradicional/) y [vegetación](../../naturaleza/vegetacion/).
+
+*Ampliación basada en los expedientes existentes del atlas; sin nuevo cotejo externo.*
