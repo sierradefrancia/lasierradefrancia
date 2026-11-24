@@ -53,3 +53,11 @@ Cotejados extractos BOE 2002, guía provincial apartado 6, memoria PEPCH 2015 y 
 
 - SEQ-FUE-018: plano P2, enlace anterior.
 - SEQ-FUE-019: reproducción jurídica del acuerdo 2004, enlace anterior.
+
+## Bloque territorial
+
+- SEQ-FUE-020: [expediente provincial Casa Moza Santa](https://www.lasalina.es/lasalina/presidencia/informacion/participacionpublica/documentos-exposicion/historicos/cultura/24acondicionamientoCasaMozaSequeros/index.html), ficha administrativa consultada.
+- SEQ-FUE-021: [Diputación, Sequeros](https://turismo.lasalina.es/index.php/es/destinos/sierra-de-francia/nuestros-pueblos/sequeros).
+- SEQ-FUE-022: [Ayuntamiento, turismo](https://www.sequeros.es/turismo.asp).
+- SEQ-FUE-023: [Sierras de Salamanca](https://www.sierrasdesalamanca.es/sequeros/).
+- SEQ-FUE-024: [INEstats](https://inestats.es/municipios/37305), fuente secundaria, pendiente INE original.
