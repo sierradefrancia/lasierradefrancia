@@ -1,4 +1,5 @@
 ---
+description: "El lenguaje histórico de las campanas de La Alberca, los toques funerarios y la recuperación de la matraca de Semana Santa."
 layout: default
 title: "Cuando el pueblo escuchaba"
 parent: Artículos
