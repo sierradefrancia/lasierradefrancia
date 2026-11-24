@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-13
 layout: default
 title: Santuario y patrimonio
 parent: Peña de Francia
