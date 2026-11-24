@@ -447,6 +447,12 @@ Es prioritario conocer la ubicación, inventario y estado de conservación de lo
 
 ---
 
+
+La [provisión de 1547 publicada por el Ayuntamiento](https://laalberca.com/tradiciones/dia-del-pendon/) recoge retrospectivamente una atribución del pendón a la guerra de Zamora. Es evidencia de la tradición consignada en 1547, no prueba contemporánea del combate de 1475. Véase [Pendón y Trago](../../cultura-tradiciones/pendon-y-trago/).
+
+
+La [Berrogain, edición de 1930](https://revistas.mjusticia.gob.es/index.php/AHDE/article/download/5060/5060/4833) remite a los folios 34 y 36 del registro para la donación medieval. Cotejar con el traslado de 1313 y la transcripción atribuida a Blanco Carrasco (2008), pp. 49–50, aún pendiente de consulta directa. No cerrar la discrepancia cronológica.
+
 ## Fuentes y bibliografía
 
 ### Testimonio histórico fundamental
@@ -512,13 +518,3 @@ La cesión de derechos sobre Las Hurdes y Las Batuecas explica una parte importa
 Y el archivo descrito por Vicente de la Fuente demuestra la importancia que estos documentos conservaron durante siglos.
 
 **Reconstruir la historia medieval de La Alberca exige seguir sus documentos, distinguir sus diferentes épocas y reconocer aquello que todavía no sabemos.**
-
-
-## Conexiones documentales y actualización
-
-La [provisión de 1547 publicada por el Ayuntamiento](https://laalberca.com/tradiciones/dia-del-pendon/) recoge retrospectivamente una atribución del pendón a la guerra de Zamora. Es evidencia de la tradición consignada en 1547, no prueba contemporánea del combate de 1475. Véase [Pendón y Trago](../../cultura-tradiciones/pendon-y-trago/).
-
-
-## Transmisión documental: líneas de cotejo
-
-La [Berrogain, edición de 1930](https://revistas.mjusticia.gob.es/index.php/AHDE/article/download/5060/5060/4833) remite a los folios 34 y 36 del registro para la donación medieval. Cotejar con el traslado de 1313 y la transcripción atribuida a Blanco Carrasco (2008), pp. 49–50, aún pendiente de consulta directa. No cerrar la discrepancia cronológica.
