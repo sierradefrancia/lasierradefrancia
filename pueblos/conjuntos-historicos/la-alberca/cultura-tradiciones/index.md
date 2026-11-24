@@ -448,3 +448,11 @@ El propósito es conocer, comprender, preservar y compartir este patrimonio cult
 ## Ciclo vital y vida familiar
 
 [Investigación del nacimiento, mocedad, matrimonio y muerte](./ciclo-vital/), basada en estudios etnográficos y archivos sonoros.
+
+## El calendario como organización comunitaria
+
+El Pendón y el Trago articulan cargos municipales y memoria histórica en Pascua; Majadas Viejas reúne devoción y convivencia en torno a Pentecostés; el Corpus transforma temporalmente calles y balcones mediante textiles; el Diagosto y la Loa concentran ofrendas, danza y teatro en agosto. El ciclo del marrano, entre junio y enero, atraviesa varias de estas celebraciones. La esquila de Ánimas pertenece en cambio al ritmo cotidiano.
+
+Esta diferencia de escalas permite comprender la cultura como práctica continuada, no solo como sucesión de fiestas. Los registros de junio de 1984, reunidos en [fuentes sonoras](./fuentes-sonoras/), relacionan boda, Corpus y memoria de generaciones anteriores. Las [investigaciones sobre vivienda](../patrimonio/arquitectura-tradicional/) aportan el contexto material de los textiles y las actividades familiares.
+
+*Síntesis de referencias existentes; sin nuevo cotejo externo.*
