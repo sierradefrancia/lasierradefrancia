@@ -83,3 +83,11 @@ Las cuatro fuentes descritas materialmente y las dos mencionadas por testimonio 
 Para reconstruir la red de abastecimiento interesa distinguir captaciones, conducciones, surtidores, pilones y reformas. La presencia de agua en una fuente histórica no acredita potabilidad actual. Véanse [Plaza Mayor](../../patrimonio-civil/plaza-mayor/) y [puentes y caminos](../../patrimonio-civil/puentes-y-caminos/).
 
 *Revisión del corpus existente; sin nuevo cotejo externo.*
+
+## Comparación funcional de las fuentes
+
+Los dos caños y el pilón rectangular aparecen tanto en Barrio Nuevo como en Tablado, pero esta última presenta una división central y un escudo en el edificio asociado. La fuente Batuecas se distingue por su remate con cruz y la atribución de uso ganadero. Estos rasgos permiten comparar soluciones materiales sin inferir una cronología común ni asignar funciones específicas a cada compartimento sin documentación.
+
+Las fuentes del Indiano y del Castaño pertenecen por ahora al registro testimonial; deben mantenerse separadas de las cuatro identificadas mediante fichas patrimoniales. La mención de gradas de una fuente en las ordenanzas de 1515 no identifica automáticamente ninguna de ellas. Véanse [ordenanzas](../../../historia/concejo-ordenanzas/) e [hidrografía](../../../geografia-territorio/hidrografia/). La existencia histórica de una fuente no acredita la potabilidad actual de su agua.
+
+*Síntesis de fuentes previamente registradas; sin nuevo cotejo externo.*
