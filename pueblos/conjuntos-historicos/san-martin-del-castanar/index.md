@@ -4,7 +4,8 @@ title: San Martín del Castañar
 parent: Conjuntos históricos
 grand_parent: Pueblos
 nav_order: 4
-has_children: false
+has_children: true
+last_modified_at: 2026-11-24
 description: "Descubre San Martín del Castañar, en Salamanca: conjunto histórico, castillo, plaza de toros, iglesia de San Martín de Tours, arquitectura serrana, paisaje y rutas."
 permalink: /pueblos/conjuntos-historicos/san-martin-del-castanar/
 ---
@@ -26,6 +27,19 @@ Esta relación entre arquitectura, historia y paisaje es fundamental para compre
 San Martín del Castañar no es solamente un conjunto monumental. Es una localidad habitada que mantiene una estrecha relación con su territorio.
 
 ---
+
+## Investigaciones y fuentes
+
+- [Historia de San Martín del Castañar](./historia/).
+- [Conjunto histórico de San Martín](./conjunto-historico/).
+- [Patrimonio de San Martín del Castañar](./patrimonio/).
+- [Cultura y tradiciones de San Martín](./cultura-tradiciones/).
+- [Geografía y territorio de San Martín](./geografia-territorio/).
+- [Naturaleza de San Martín](./naturaleza/).
+- [Sociedad y economía de San Martín](./sociedad-economia/).
+- [Visitar San Martín del Castañar](./visitar/).
+- [San Martín en su conjunto](./valor-global/).
+- [Fuentes de San Martín del Castañar](./fuentes/).
 
 ## Información general
 
@@ -50,7 +64,7 @@ Su emplazamiento contribuyó a configurar tanto la organización histórica del 
 
 ## San Martín del Castañar, Conjunto Histórico desde 1982
 
-La villa fue declarada Conjunto Histórico-Artístico mediante el **Real Decreto 3333/1982, de 12 de noviembre**.
+La villa fue declarada Conjunto Histórico-Artístico mediante el **Real Decreto 3233/1982, de 12 de noviembre**.
 
 La declaración reconoce los valores históricos, arquitectónicos y urbanos del núcleo.
 
@@ -734,7 +748,7 @@ Estos nuevos usos deben respetar los valores históricos de los edificios y cont
 
 **Boletín Oficial del Estado**
 
-Real Decreto 3333/1982, de 12 de noviembre, por el que se declara Conjunto Histórico-Artístico la villa de San Martín del Castañar.
+Real Decreto 3233/1982, de 12 de noviembre, por el que se declara Conjunto Histórico-Artístico la villa de San Martín del Castañar.
 
 BOE de 29 de noviembre de 1982.
 
