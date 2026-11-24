@@ -1,4 +1,5 @@
 ---
+description: "El valor integrado de San Martín del Castañar: arqueología, señorío episcopal, patrimonio construido y paisaje natural."
 layout: default
 title: "San Martín en su conjunto"
 parent: "San Martín del Castañar"
