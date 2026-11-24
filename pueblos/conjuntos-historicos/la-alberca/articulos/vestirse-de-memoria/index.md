@@ -1,4 +1,5 @@
 ---
+description: "El traje de vistas de La Alberca, su significado ceremonial, las prendas tradicionales y la transmisión de la memoria familiar."
 layout: default
 title: "El día en que un pueblo se viste de memoria"
 parent: Artículos
