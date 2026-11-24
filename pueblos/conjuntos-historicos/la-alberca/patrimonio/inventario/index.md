@@ -747,6 +747,10 @@ Seis monografías y su índice comprobados en el repositorio; 13 artículos entr
 
 Ocho artículos comprobados en el repositorio (principal y siete subordinados), 48 identificadores acumulados. Bóvedas aplazadas. No se han revalidado las fuentes externas ni el despliegue público. Se conserva E1 para las nuevas identificaciones.
 
+### Arquitectura tradicional — 24 de noviembre de 2026
+
+[Índice y registro bibliográfico](/pueblos/conjuntos-historicos/la-alberca/patrimonio/arquitectura-tradicional/). Primera cobertura temática basada en fichas y extractos de Fuentes Hernández (2024), Egido Rodríguez (2021), Fortes García (2015) y dos publicaciones comparativas. Cinco estudios iniciales y un índice. No se asignan nuevos identificadores: las tipologías no constituyen bienes individuales. Total acumulado: 56 registros. Pendientes: lectura íntegra, cotejo de González Iglesias (1982), identificación de viviendas concretas, catálogo urbanístico, documentación fotográfica autorizada y comprobación de navegación pública. Esta fase no constituye cierre científico del bloque.
+
 ### Fase I — Identificación inicial
 
 **Estado:** abierta.
