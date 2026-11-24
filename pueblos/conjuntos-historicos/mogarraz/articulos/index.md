@@ -20,3 +20,5 @@ Historias nacidas de la investigación, con sus fuentes y preguntas abiertas.
 - [El pequeño marfil que cruzó el océano](./el-marfil-que-cruzo-el-oceano/).
 - [Los orives y las fronteras](./los-orives-y-las-fronteras/).
 - [Cuando la vendimia reunía a dos comarcas](./vendimias-y-arrieros/).
+
+- [La tía Adela y un cuento de otros siglos](./la-tia-adela/).
