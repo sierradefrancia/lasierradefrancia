@@ -11,7 +11,7 @@ permalink: /pueblos/conjuntos-historicos/sequeros/articulos/
 
 # Artículos de Sequeros
 
-Lecturas interpretativas basadas en las investigaciones del atlas.
+Tres lecturas complementarias: el cambio jurisdiccional del siglo XVIII, las instituciones económicas y culturales, y las relaciones devocionales con la Peña. Los artículos ofrecen una interpretación narrativa; las monografías de [historia](../historia/) y [patrimonio](../patrimonio/) conservan las referencias y cuestiones documentales abiertas.
 
 - [1756: cuando Sequeros dejó de depender de Miranda](./1756/)
 - [De la alhóndiga al teatro](./alhondiga-teatro/)
