@@ -294,6 +294,8 @@ Y los errores deben corregirse.
 
 La responsabilidad editorial del proyecto corresponde a quienes lo impulsamos, no a las herramientas utilizadas.
 
+Los criterios de investigación, tratamiento de fuentes, incertidumbre y corrección se desarrollan en nuestro [Canon IA y metodología editorial](/ai-canon/).
+
 ---
 
 ## Un proyecto que seguirá creciendo
