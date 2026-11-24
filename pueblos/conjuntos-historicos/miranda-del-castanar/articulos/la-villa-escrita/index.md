@@ -1,4 +1,5 @@
 ---
+description: "Miranda del Castañar a través de sus documentos históricos y los testimonios escritos de la organización de la villa."
 layout: default
 title: "La villa escrita: gobernar más allá de las murallas"
 parent: Artículos de Miranda del Castañar
