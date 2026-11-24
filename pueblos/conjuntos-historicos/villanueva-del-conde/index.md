@@ -41,6 +41,9 @@ A su alrededor aparecen calles tradicionales, edificios religiosos, fuentes, ban
 - [Visitar](./visitar/)
 - [Fuentes](./fuentes/)
 
+- [Artículos](./articulos/)
+- [Valor global](./valor-global/)
+
 ## Información general
 
 | Dato | Información |
