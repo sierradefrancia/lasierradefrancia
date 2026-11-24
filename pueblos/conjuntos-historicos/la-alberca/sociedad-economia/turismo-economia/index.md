@@ -54,3 +54,11 @@ Fuentes: [BOCCL 279/11](https://www.ccyl.es/Publicaciones/TextoEntradaBOCCL?Fich
 La convivencia de industria alimentaria, hostelería, comercio y servicios públicos obliga a estudiar la economía municipal más allá del turismo. El descenso de población no demuestra un efecto causal de la actividad turística.
 
 Pendiente: inventario completo por categorías del Registro de Turismo de Castilla y León; series de viajeros y pernoctaciones realmente municipales; empleo mensual, empresas y evolución residencial. No confundir viviendas no principales, vacías y turísticas. Véase [Trabajo y renta](../trabajo-renta/), [Demografía](../demografia/) y [Economía tradicional](../economia-tradicional/).
+
+## Capacidad anunciada y composición de la oferta
+
+Entre mayo de 2025 y mayo de 2026 la oferta detectada pasó de 30 a 31 viviendas y de 234 a 181 plazas. Esto supone un incremento del 3,3 % en unidades y una reducción del 22,6 % en plazas. El cociente de plazas por vivienda anunciada pasó de 7,8 a 5,8 aproximadamente. Son cálculos sobre las estimaciones reproducidas en la tabla, no evidencia de reformas físicas ni de reducción de ocupación turística: pueden intervenir cambios de composición y detección.
+
+Para comprender la relación con la vivienda residencial deben compararse las categorías de registro autonómico, oferta anunciada y censos de viviendas por separado. Véanse [demografía](../demografia/) y [trabajo y renta](../trabajo-renta/).
+
+*Cálculos y síntesis del corpus existente; sin nuevo cotejo externo.*
