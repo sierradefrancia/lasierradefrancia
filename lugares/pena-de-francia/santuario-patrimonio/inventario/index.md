@@ -41,7 +41,7 @@ Las referencias proceden del [estudio patrimonial existente](/lugares/pena-de-fr
 
 | Identificador | Elemento o expediente | Referencia inicial | Alcance y cuestiones pendientes |
 |---|---|---|---|
-| PEF-PAT-015 | Capilla de la Blanca | RAH, TERPAT | Descripción de 1883 y atribución al XVI; cotejar fases. |
+| PEF-PAT-015 | Capilla de la Blanca | RAH, TERPAT | Descripción de 1857 (ed. 1883) y atribución al XVI; cotejar fases. |
 | PEF-PAT-016 | Gruta del hallazgo | RAH, LOCAL | Cavidad y acondicionamiento; asociación al hallazgo es tradición. |
 | PEF-PAT-017 | Relieves de la Blanca | RAH, LOCAL | Distinguir piezas antiguas y modernas. |
 | PEF-PAT-018 | Capilla de San Andrés | TERPAT, LOCAL | Humilladero; cronología pendiente. |
@@ -52,7 +52,7 @@ Las referencias proceden del [estudio patrimonial existente](/lugares/pena-de-fr
 
 | Identificador | Elemento o expediente | Referencia inicial | Alcance y cuestiones pendientes |
 |---|---|---|---|
-| PEF-PAT-021 | Plaza | RAH, LOCAL | Descripción de 1883; distinguir espacio y configuración del XVIII. |
+| PEF-PAT-021 | Plaza | RAH, LOCAL | Descripción de 1857 (ed. 1883); distinguir espacio y configuración del XVIII. |
 | PEF-PAT-022 | Soportales | RAH | Columnas y trazado histórico; cotejo actual pendiente. |
 | PEF-PAT-023 | Rollo jurisdiccional | AHDO, LOCAL | Iconografía y privilegios; alcance jurídico pendiente. |
 | PEF-PAT-024 | Hospedería | AHDO, RAH, LOCAL | Presupuesto de 1902; fases y escudo pendientes. |
@@ -63,7 +63,7 @@ Las referencias proceden del [estudio patrimonial existente](/lugares/pena-de-fr
 | Identificador | Elemento o expediente | Referencia inicial | Alcance y cuestiones pendientes |
 |---|---|---|---|
 | PEF-PAT-026 | Heráldica | RAH, LOCAL | Registrar ubicación y atribución de cada escudo. |
-| PEF-PAT-027 | Inscripciones y monogramas | RAH | S-V descrito en 1883; interpretación y conservación pendientes. |
+| PEF-PAT-027 | Inscripciones y monogramas | RAH | S-V descrito en 1857 (ed. 1883); interpretación y conservación pendientes. |
 | PEF-PAT-028 | Campanas | PEND | Candidato sin inventario ni fuente específica comprobada. |
 
 ## Intervenciones documentales

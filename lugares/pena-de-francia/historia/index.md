@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 layout: default
 title: Historia de la Peña de Francia
 parent: Peña de Francia
@@ -488,3 +488,8 @@ Los archivos conventuales permiten investigar la vida de sus comunidades, sus re
 Y las transformaciones de los siglos XIX y XX ayudan a comprender cómo el lugar llegó hasta nuestros días.
 
 **Conocer la historia de la Peña de Francia significa escuchar sus tradiciones, pero también acudir a los documentos y descubrir qué nos permiten afirmar realmente.**
+
+
+## Una fuente para la recuperación del santuario en el siglo XIX
+
+[Los traslados de la imagen y la rehabilitación de 1857](/lugares/pena-de-francia/historia/traslados-imagen-siglo-xix/) estudian el testimonio de Vicente de la Fuente, firmado en 1857 y publicado en 1883. Su relato debe contrastarse con documentación administrativa contemporánea.

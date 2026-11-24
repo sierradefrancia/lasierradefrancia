@@ -431,7 +431,7 @@ La capilla es una construcción histórica.
 
 La gruta es un lugar natural o acondicionado cuya identificación con el hallazgo pertenece a la tradición religiosa.
 
-### El testimonio de 1883
+### El testimonio de 1857 (publicado en 1883)
 
 Un artículo publicado en el *Boletín de la Real Academia de la Historia* en 1883 describe la capilla como una construcción de carácter gótico-plateresco.
 
@@ -683,7 +683,7 @@ Entre los identificados por las fuentes figuran:
 | Emblema dominicano | Rollo jurisdiccional |
 | Jarrón con azucenas | Rollo jurisdiccional |
 | Figura de un reo | Rollo jurisdiccional |
-| Monograma S-V | Claves de la capilla de la Blanca, según testimonio de 1883 |
+| Monograma S-V | Claves de la capilla de la Blanca, según testimonio de 1857, publicado en 1883 |
 | Escudo de Juan II | Hospedería, según documentación local |
 
 ### La importancia de los detalles
@@ -704,7 +704,7 @@ Un símbolo puede haber sido incorporado después de la construcción del edific
 
 ---
 
-## El santuario visto en 1883
+## El santuario visto en 1857
 
 El artículo publicado en el *Boletín de la Real Academia de la Historia* constituye una fuente de gran valor.
 
@@ -722,7 +722,7 @@ Entre los detalles recogidos figuran:
 
 ### Por qué es importante
 
-Una descripción de 1883 no equivale a un inventario actual.
+Una descripción de 1857, publicada en 1883, no equivale a un inventario actual.
 
 Sin embargo, permite formular preguntas sobre la conservación y transformación de los elementos descritos.
 
@@ -793,6 +793,10 @@ El expediente oficial debe determinar:
 ---
 
 ## Estudios documentales del patrimonio
+
+- [La capilla de la Blanca y su rehabilitación en 1857](/lugares/pena-de-francia/santuario-patrimonio/capilla-blanca/).
+
+**Precisión cronológica:** Vicente de la Fuente firmó su descripción el 1 de septiembre de 1857 (p. 189); el Boletín la publicó en 1883. Las referencias a su estado material corresponden a 1857, no a 1883.
 
 - [La imagen de la Virgen y los inventarios históricos](/lugares/pena-de-francia/santuario-patrimonio/imagen-virgen/)
 - [El rollo jurisdiccional y los privilegios del santuario](/lugares/pena-de-francia/santuario-patrimonio/rollo-jurisdiccional/)
