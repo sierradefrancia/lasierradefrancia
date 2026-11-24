@@ -24,6 +24,12 @@ El diagnóstico reconoce sectores donde el afloramiento del sustrato limita fís
 
 El informe destaca la diversidad de edades de los árboles y la relación entre estratos vegetales. La presencia de diferentes clases de edad permite investigar la regeneración de la comunidad, aunque no sustituye datos demográficos de cada especie.
 
+## Bosques aluviales de interés comunitario
+
+La documentación de gestión de la reserva identifica el hábitat prioritario 91E0*, bosques aluviales de *Alnus glutinosa* y *Fraxinus excelsior*. La denominación europea del hábitat no acredita por sí sola la presencia local de todos los taxones incluidos en ella. La identificación aporta una dimensión de conservación adicional a la descripción de la aliseda, sin establecer la superficie ocupada ni su estado actual.
+
+La vegetación ribereña puede contribuir a moderar la exposición solar del cauce y aportar materia orgánica. Estos procesos relacionan la conservación de la ribera con la comunidad acuática, incluida la trucha documentada en la reserva. No se dispone de mediciones locales que cuantifiquen ese efecto.
+
 ## Inventario botánico inicial
 
 | Taxón | Evidencia localizada |

@@ -29,7 +29,7 @@ La pertenencia de un elemento a este catálogo no acredita su antigüedad ni su 
 
 Un azud modifica localmente el funcionamiento de un cauce. Sus efectos pueden incluir cambios en el transporte sedimentario, el remanso y los desplazamientos de organismos acuáticos. Su magnitud depende de las características de la estructura y del río.
 
-La permeabilización pretende reducir la barrera sin requerir necesariamente la desaparición completa del elemento. No se ha recuperado el diseño técnico de las soluciones previstas en el Monasterio y el Molino. No es posible determinar qué especies se beneficiarían específicamente sin conocer la comunidad piscícola y las condiciones del paso.
+La permeabilización pretende reducir la barrera sin requerir necesariamente la desaparición completa del elemento. No se ha recuperado el diseño técnico de las soluciones previstas en el Monasterio y el Molino. La [documentación de gestión RNF067](https://www.miteco.gob.es/content/dam/miteco/es/agua/temas/delimitacion-y-restauracion-del-dominio-publico-hidraulico/rnf_es030rnf067_riobatuecas_tcm30-504518.pdf) identifica la trucha común como especie presente y señala las limitaciones a sus desplazamientos. La mejora de la continuidad constituye por tanto una línea de conservación relevante para esta especie. Sin embargo, no se puede cuantificar el beneficio de cada actuación sin conocer las condiciones del paso, los hábitats disponibles y los resultados del seguimiento. Véase [vida acuática](/lugares/las-batuecas/vida-acuatica/).
 
 Los nombres Monasterio y Molino constituyen además pistas para investigar relaciones históricas entre agua y actividades humanas. No son prueba de la función original, fecha o titularidad de las estructuras.
 

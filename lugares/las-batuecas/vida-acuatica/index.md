@@ -68,7 +68,13 @@ Una fila con recuento cero no constituye evidencia positiva de presencia. Tampoc
 
 ## Peces y otros vertebrados
 
-El inventario de la comunidad de peces sigue pendiente. No se trasladan aquí las especies citadas para todo el espacio Red Natura 2000. Deben recuperarse muestreos específicos, con estación y fecha, y comprobar la nomenclatura científica empleada. La continuidad longitudinal del cauce es una línea de investigación relacionada, desarrollada en [restauración fluvial](/lugares/las-batuecas/restauracion-fluvial/).
+La documentación de gestión de la reserva identifica la trucha común (*Salmo trutta*) y relaciona los obstáculos transversales con las limitaciones a sus desplazamientos. Es una referencia local de presencia, no un censo ni una evaluación genética de la población. No se dispone de datos de abundancia, estructura de edades, reproducción o procedencia de los ejemplares.
+
+La trucha utiliza diferentes ambientes a lo largo de su ciclo vital. La continuidad del cauce puede facilitar el acceso a refugios y áreas reproductivas, pero el beneficio concreto de cada intervención depende de las condiciones hidráulicas y biológicas. La existencia de la especie no permite deducir que todos los tramos sean adecuados para su reproducción.
+
+Se ha identificado asimismo una referencia al río en el programa de seguimiento de ictiofauna continental de Doadrio y colaboradores (2011). La identificación de la estación presenta una posible incoherencia de huso UTM; queda pendiente recuperar la ficha completa y comprobar su localización. No se incorporan coordenadas ni resultados de captura no cotejados.
+
+El inventario completo de peces sigue pendiente. Fuente de la noticia de presencia: [medidas de gestión RNF067](https://www.miteco.gob.es/content/dam/miteco/es/agua/temas/delimitacion-y-restauracion-del-dominio-publico-hidraulico/rnf_es030rnf067_riobatuecas_tcm30-504518.pdf), extracto identificado en la investigación anterior. No se trasladan aquí las especies citadas para todo el espacio Red Natura 2000. Deben recuperarse muestreos específicos, con estación y fecha, y comprobar la nomenclatura científica empleada. La continuidad longitudinal del cauce es una línea de investigación relacionada, desarrollada en [restauración fluvial](/lugares/las-batuecas/restauracion-fluvial/).
 
 ## Fuentes
 

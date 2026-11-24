@@ -33,7 +33,7 @@ La investigación de Arribas permite identificar una comunidad de reptiles vincu
 
 La ficha regional menciona anfibios como la rana patilarga y el tritón ibérico, mamíferos como la cabra montés y la nutria y aves como el buitre negro y la cigüeña negra. No se asignan aquí estos registros automáticamente al valle. Se necesitan datos de estación, período y ámbito espacial, especialmente para distinguir observaciones ocasionales de reproducción o residencia.
 
-En peces, las nueve especies regionales no constituyen una lista de la comunidad del río Batuecas. Los proyectos de permeabilización de azudes justifican buscar estudios ictiológicos específicos, pero no prueban la presencia de una especie concreta.
+En peces, las nueve especies regionales no constituyen una lista de la comunidad del río Batuecas. La [documentación de gestión RNF067](https://www.miteco.gob.es/content/dam/miteco/es/agua/temas/delimitacion-y-restauracion-del-dominio-publico-hidraulico/rnf_es030rnf067_riobatuecas_tcm30-504518.pdf) identifica la trucha común (*Salmo trutta*) en el río. Este registro local se incorpora al [estudio de vida acuática](/lugares/las-batuecas/vida-acuatica/). Los proyectos de permeabilización no constituyen por sí solos un inventario de peces; las restantes especies requieren evidencias específicas.
 
 ## Fuentes y alcance
 
