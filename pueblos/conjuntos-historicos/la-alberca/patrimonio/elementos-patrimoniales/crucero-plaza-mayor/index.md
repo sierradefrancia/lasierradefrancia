@@ -331,3 +331,7 @@ Documenta la colocación de una placa conmemorativa en la base del crucero.
 ---
 
 *Esta monografía forma parte de una investigación histórica abierta. Las fechas y acontecimientos transmitidos por fuentes retrospectivas se distinguen de los documentados directamente. El contenido podrá revisarse cuando nuevas evidencias permitan precisar la historia del monumento.*
+
+## Cotejo oficial de 1940
+
+La revisión del artículo primero del Decreto de 6 de septiembre (BOE de 18 de septiembre, p. 6476) confirma el alcance territorial de la protección, no una orden de traslado de la cruz. La Orden de 11 de diciembre (BOE de 29 de diciembre, p. 8962) identifica a Pedro Gómez Luis, maestro cantero, entre los integrantes de la Junta. Su profesión constituye una pista de investigación, no evidencia de que trabajara en el crucero. [Contexto institucional y fuentes](../../../conjunto-historico/).
