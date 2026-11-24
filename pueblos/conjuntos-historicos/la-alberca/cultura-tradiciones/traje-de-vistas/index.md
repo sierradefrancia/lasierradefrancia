@@ -1,4 +1,5 @@
 ---
+description: "El traje de vistas de La Alberca: prendas, joyería, usos ceremoniales y documentación de las colecciones museísticas."
 layout: default
 title: Traje de Vistas
 parent: Cultura y tradiciones
