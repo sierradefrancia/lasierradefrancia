@@ -4,6 +4,7 @@ title: "Cultura y tradiciones de Sequeros"
 parent: Sequeros
 grand_parent: Conjuntos históricos
 nav_order: 4
+has_children: true
 last_modified_at: 2026-11-24
 permalink: /pueblos/conjuntos-historicos/sequeros/cultura-tradiciones/
 ---
@@ -16,3 +17,8 @@ La guía provincial (página PDF 3) refiere actividad teatral desde finales del 
 
 - [Resolución de 2002](https://boe.es/diario_boe/txt.php?id=BOE-A-2002-13556).
 - [Guía urbana provincial](https://www.lasalina.es/m/ru/sequeros/qr-espa/pdf/sequeros-ES.pdf).
+
+## Investigaciones
+
+- [La Moza Santa](./moza-santa/)
+- [León Felipe y Sequeros](./leon-felipe/)
