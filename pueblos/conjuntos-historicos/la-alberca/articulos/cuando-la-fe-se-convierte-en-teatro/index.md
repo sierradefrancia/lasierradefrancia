@@ -1,4 +1,5 @@
 ---
+description: "La Loa de la Asunción de La Alberca, declarada BIC en 2022: teatro popular, humor, personajes y transmisión familiar."
 layout: default
 title: "La Loa: cuando la fe se convierte en teatro"
 parent: Artículos
