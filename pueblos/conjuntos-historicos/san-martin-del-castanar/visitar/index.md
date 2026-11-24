@@ -15,3 +15,15 @@ La visita exterior puede organizarse alrededor de tres espacios: Plaza Mayor, ig
 ## Camino compartido con Sequeros y Las Casas del Conde
 
 El recorrido circular Asentadero–Bosque de los Espejos tiene 9,2 km según [Diputación](https://turismo.lasalina.es/es/que-hacer/actividades-en-la-naturaleza/senderismo/asentadero-bosque-de-los-espejos) y 9,4 km según [ficha PRC-SA 52](https://turismosierradefrancia.es/turismo-activo/caminos-de-arte-en-la-naturaleza/asentadero-bosques-de-los-espejos/). Diferencia pendiente de contraste cartográfico. El [folleto provincial](https://turismo.lasalina.es/web001/turismo/wtur/archivo/pdf/024_Camino_Bosque_Espejos_es.pdf) permite iniciar el camino en cualquiera de los tres pueblos y señala una variante reducida. Comprobar señalización y condiciones antes de salir. No se acredita accesibilidad universal.
+
+## Interpretar los espacios durante la visita
+
+La [Plaza Mayor y la Plaza de la Iglesia](../patrimonio/plazas/) permiten observar dos ámbitos de la vida urbana. En el templo, las diferentes cubiertas históricas constituyen un aspecto de especial interés cuando el acceso interior esté permitido. El [castillo](../patrimonio/castillo/) y la plaza taurina deben entenderse como espacios relacionados, pero con historias constructivas diferenciadas.
+
+El [puente y la Calzada](../patrimonio/puente-calzada/) permiten prolongar la lectura del pueblo hacia sus comunicaciones históricas. La denominación de puente romano es tradicional y su cronología permanece discutida.
+
+## Arte y paisaje fuera del casco
+
+El recorrido compartido con Sequeros y Las Casas del Conde incorpora obras de distintos artistas, identificados en [cultura y tradiciones](../cultura-tradiciones/). Las dos distancias publicadas no deben sumarse ni interpretarse como dos rutas independientes sin comprobar los trazados.
+
+El convento de Gracia y La Legoriza son investigaciones territoriales independientes; su inclusión en el atlas no supone que exista acceso público autorizado. Deben respetarse las restricciones patrimoniales y la propiedad privada.
