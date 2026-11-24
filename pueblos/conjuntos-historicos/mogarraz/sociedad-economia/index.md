@@ -44,3 +44,8 @@ Extractos recuperados el 24-11-2026.
 Serie seleccionada reproducida por [INEstats](https://inestats.es/municipios/37194), consultada mediante extracto el 24-11-2026; pendiente de descarga directa de INE. La variación entre extremos es −143 personas (−37,7 %). El Registro de Entidades Locales coincide con la última cifra.
 
 El Censo Anual de 2025 registra 234 personas, de las cuales 88 tienen 65 años o más, 131 tienen entre 16 y 64 y 15 son menores de 16 años, según [Reloj Público](https://relojpublico.es/poblacion/municipios/salamanca/mogarraz/). No se mezclan los denominadores del censo y las cifras oficiales de población. Ambas reproducciones secundarias remiten al INE, por lo que no constituyen fuentes estadísticas independientes.
+
+
+## Contraste bibliográfico (24-11-2026)
+
+El [catálogo editorial de 2019, p. 16](https://www.lasalina.es/cultura/cultura/difusionypublicaciones/virtualcatalogoediciones/16/) identifica a Joaquín Rodríguez Arzúa, *Mogarraz en el siglo XVIII*, ISBN 84-7797-058-0, 1991, 198 páginas. La [reseña académica de 1995, p. 427](https://www.lasalina.es/documentacion/revistadeestudios/45-99-91.pdf) indica 1990 y 190 páginas. Ambos extractos se han recuperado en esta búsqueda; falta cotejar portada y colofón. La obra sigue pendiente de lectura íntegra.
