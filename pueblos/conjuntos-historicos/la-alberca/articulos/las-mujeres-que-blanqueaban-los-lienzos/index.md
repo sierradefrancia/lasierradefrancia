@@ -5,6 +5,7 @@ parent: Artículos
 grand_parent: La Alberca
 nav_order: 5
 last_modified_at: 2026-11-24
+description: "El trabajo femenino del acabado del lino albercano, documentado en diccionarios del siglo XIX."
 permalink: /pueblos/conjuntos-historicos/la-alberca/articulos/las-mujeres-que-blanqueaban-los-lienzos/
 ---
 
@@ -29,6 +30,10 @@ Nos gustaría saber dónde se realizaba el blanqueo, qué agua se utilizaba, qu�
 Hay una razón para buscar esas respuestas. Si estudiamos la economía únicamente a través de quienes figuraban como titulares de un oficio, podemos dejar fuera una parte sustancial de quienes hacían posible el producto.
 
 La próxima vez que admires una pieza de lino antigua, piensa también en las manos que la prepararon. No sabemos sus nombres, pero sabemos que su habilidad llegó a ser noticia digna de un diccionario.
+
+## El reconocimiento y el silencio
+
+La reputación provincial que recoge Madoz plantea una cuestión económica: ¿qué parte del precio de una pieza correspondía al acabado? No conocemos contratos ni cuentas que permitan responder. Puerto advierte además de la posible dependencia de Madoz respecto de Miñano: dos diccionarios no son necesariamente dos testimonios independientes. El reconocimiento colectivo está documentado de forma indirecta; la remuneración individual sigue siendo una incógnita.
 
 ### Fuente
 
