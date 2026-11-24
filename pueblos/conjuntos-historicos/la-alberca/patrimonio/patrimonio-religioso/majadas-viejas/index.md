@@ -1,4 +1,5 @@
 ---
+description: "Ermita de Majadas Viejas en La Alberca: arquitectura, púlpito exterior, tradición de la imagen y restauración de 1954."
 layout: default
 title: Ermita de Majadas Viejas
 parent: Patrimonio religioso
