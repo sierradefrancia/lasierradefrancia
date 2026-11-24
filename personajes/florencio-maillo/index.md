@@ -1,4 +1,5 @@
 ---
+description: "Florencio Maíllo Cascón, artista vinculado a Mogarraz: archivo fotográfico de 1967 y proyecto de retratos sobre metal."
 layout: default
 title: "Florencio Maíllo"
 parent: Personajes históricos
