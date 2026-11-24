@@ -81,3 +81,11 @@ La tesis original, la correspondencia, el acuerdo municipal de nombramiento y el
 [Personajes históricos de la Sierra de Francia](/personajes/): línea de investigación sobre Maurice Legendre.
 
 [Volver a Elementos patrimoniales](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/).
+
+## El monumento y la red de conocimiento
+
+La ceremonia de enero de 2015 documenta un uso conmemorativo del monumento, distinto de su inauguración todavía no fechada. La mención de Ignacio Hoyos como guía permite investigar la contribución local a los recorridos de Legendre, mediante correspondencia, diarios y testimonios familiares.
+
+La referencia a 1291 en Berrogain debe leerse junto a la discrepancia entre era 1327 y su conversión a 1289, desarrollada en [documentos y cronología](../../../historia/documentos-cronologia/). La tesis de Legendre sobre Las Hurdes aporta una perspectiva geográfica del siglo XX, no una confirmación independiente de la fecha medieval.
+
+*Revisión del corpus existente; sin nuevo cotejo externo.*
