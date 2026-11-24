@@ -1,4 +1,5 @@
 ---
+description: "Ordenanzas de Miranda del Castañar: regulación de la vida comunitaria y aprovechamientos históricos."
 layout: default
 title: "Las ordenanzas de Miranda"
 parent: "Historia de Miranda del Castañar"
