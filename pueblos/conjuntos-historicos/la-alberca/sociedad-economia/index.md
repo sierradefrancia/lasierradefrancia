@@ -4,6 +4,8 @@ title: Sociedad y economía
 parent: La Alberca
 grand_parent: Conjuntos históricos
 nav_order: 7
+has_children: true
+last_modified_at: 2026-11-24
 description: "Sociedad y economía de La Alberca: evolución de la población, actividades tradicionales, aprovechamientos de Las Batuecas, organización comunitaria y transformación turística."
 permalink: /pueblos/conjuntos-historicos/la-alberca/sociedad-economia/
 ---
@@ -45,6 +47,8 @@ Esta evolución debe estudiarse en relación con los nacimientos, las defuncione
 La población empadronada tampoco equivale a la población presente durante los periodos de mayor actividad turística.
 
 ### Estructura demográfica
+
+El Censo Anual de Población de 2025 ofrece 1.035 residentes, frente a los 1.034 de la cifra oficial municipal. Según la [extracción de Reloj Público](https://relojpublico.es/poblacion/municipios/salamanca/la-alberca/), 280 tenían 65 años o más y 106 menos de 16. Son series diferenciadas; véase [Demografía](./demografia/).
 
 El estudio demográfico de La Alberca deberá incorporar:
 
@@ -197,7 +201,7 @@ La proximidad geográfica no constituye por sí sola una prueba de intercambio e
 
 ## El turismo y la transformación económica
 
-La declaración de La Alberca como conjunto histórico en 1940 constituye un hito importante en el reconocimiento institucional de su patrimonio.
+La declaración de La Alberca como Monumento Histórico-Artístico en 1940 constituye un hito importante en el reconocimiento institucional de su patrimonio.
 
 El pueblo se ha convertido en un destino turístico destacado de la Sierra de Francia.
 
@@ -236,6 +240,8 @@ La existencia de temporadas de mayor afluencia no permite cuantificar por sí so
 ## Trabajo, renta y actividad empresarial
 
 La economía contemporánea de La Alberca puede estudiarse mediante estadísticas municipales y registros administrativos.
+
+El boletín municipal del SEPE de 2025 registra 511 contratos durante el año, 522 personas afiliadas al cierre y 29 personas en paro registrado. La AEAT publica para 2024 una renta bruta media de 24.320 euros en su estadística de declarantes del IRPF. Véase [Trabajo y renta](./trabajo-renta/) para definiciones y fuentes.
 
 Los principales indicadores de interés serán:
 
