@@ -294,6 +294,8 @@ Hasta realizar esa extracción, no publicaremos una lista municipal de hongos ba
 
 ## Fauna documentada y registros pendientes
 
+La [investigación de fauna](./fauna/) incorpora una cita científica local de la lagartija batueca publicada en 2006, referencias divulgativas de fauna fluvial y actuaciones de conservación de anfibios descritas en 2015. Sus niveles de evidencia se distinguen expresamente.
+
 La fauna del Parque Natural es diversa, pero los inventarios del espacio protegido no equivalen a inventarios del municipio de La Alberca.
 
 Por ello, esta sección no reproduce una lista general de mamíferos, aves, reptiles o anfibios.
