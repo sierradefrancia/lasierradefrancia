@@ -1,4 +1,5 @@
 ---
+description: "La iglesia parroquial de Sequeros: historia, arquitectura y patrimonio religioso."
 layout: default
 title: "Iglesia de los Mártires"
 parent: "Patrimonio de Sequeros"
