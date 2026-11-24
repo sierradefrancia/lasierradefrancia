@@ -15,7 +15,7 @@ Bienvenidos a la Sierra de Francia, al sur de la provincia de Salamanca, en Cast
 
 Un territorio de montañas y valles, bosques de robles y castaños, pueblos históricos, caminos tradicionales y paisajes que cambian con las estaciones.
 
-Aquí encontramos lugares tan conocidos como [La Alberca](/pueblos/), [Mogarraz](/pueblos/), la [Peña de Francia](/lugares/) o el valle de [Las Batuecas](/parque-natural/).
+Aquí encontramos lugares tan conocidos como [La Alberca](/pueblos/conjuntos-historicos/la-alberca/), [Mogarraz](/pueblos/conjuntos-historicos/mogarraz/), la [Peña de Francia](/lugares/pena-de-francia/) o el valle de [Las Batuecas](/lugares/las-batuecas/).
 
 Pero la Sierra de Francia es mucho más que sus lugares más famosos.
 
