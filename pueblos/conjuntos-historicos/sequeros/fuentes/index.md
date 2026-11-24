@@ -34,3 +34,15 @@ Contradicciones abiertas: teatro 1872/1875; iglesia proyecto desde 1763 y constr
 - SEQ-FUE-010: [Informe ambiental municipal](https://www.sequeros.es/urbanismo/NUM-ISA%20SEQUEROS/ISA_SEQUEROS-11-2015.pdf), extracto p. 57 sobre protección monumental. Lectura ambiental íntegra pendiente.
 
 SEQ-FUE-001 y 002: extractos recuperados nuevamente en este bloque. No se certifica la lectura íntegra de documentos a partir de extractos.
+
+## Bloque 3 — 24-11-2026
+
+Texto oficial íntegro de incoación 2002 recuperado; extractos de la RAH (1883), Polo Martín (2011), Gaceta (1870), Cortes de Castilla y León (2004), estudio autonómico del Humilladero y guía provincial recuperados. Registro bibliográfico del decreto de 1834 localizado, no leído íntegramente. Referencias específicas en las seis nuevas monografías. Pendientes privilegio de 1756, límites originales de 1834, actas concejiles y decreto individual del Humilladero. No se certifican retrospectivamente las consultas del bloque 2.
+
+- SEQ-FUE-011: [RAH, 1883](https://www.cervantesvirtual.com/obra-visor/boletin-de-la-real-academia-de-la-historia--23/html/02531a66-82b2-11df-acc7-002185ce6064_49.html).
+- SEQ-FUE-012: [Polo Martín, 2011](https://revistas.mjusticia.gob.es/index.php/AHDE/article/download/5272/5272/5034).
+- SEQ-FUE-013: [edición de 1834, catálogo](https://bvpb.mcu.es/es/consulta/registro.cmd?id=403978).
+- SEQ-FUE-014: [Gaceta 1870](https://www.boe.es/diario_gazeta/comun/pdf.php?do=1&p=1870%2F09%2F30%2Fpdfs%2FGMD-1870-273.pdf).
+- SEQ-FUE-015: [Humilladero](https://www.jcyl.es/jcyl/patrimoniocultural/TERPAT/SantuariosErmitasHumilladeros/index_htm_files/42-Humilladero%2C%20Sequeros.pdf).
+- SEQ-FUE-016: [Cortes, 2004](https://sirdoc.ccyl.es/Sirdoc/PDF/PUBLOFI/BO/CCL/6L/BOCCL6L00091A.pdf).
+- SEQ-FUE-017: [Plan especial municipal](https://www.sequeros.es/urbanismo/2-PEPCH-SEQUEROS/TEXTO/PEPCH%20SEQUEROS%20MEMORIA%20Y%20NORMATIVA%20AI.pdf).
