@@ -1,4 +1,5 @@
 ---
+description: "Sociedad y economía de Villanueva del Conde: población, agricultura, viticultura y transformación de la comunidad."
 layout: default
 title: "Sociedad y economía de Villanueva del Conde"
 parent: Villanueva del Conde
