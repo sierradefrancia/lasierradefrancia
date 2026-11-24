@@ -17,3 +17,7 @@ Fuente de partida: [ficha general del atlas](../../). [Catálogo urbanístico mu
 ## Protección acreditada
 
 El anexo del RD 3233/1982, [p. 32809](https://www.boe.es/boe/dias/1982/11/29/pdfs/A32809-32809.pdf), incorpora Humilladero y San Sebastián como enclaves separados del conjunto histórico. La identidad entre San Sebastián y Virgen del Socorro sigue pendiente de comprobación; no se presume. Cotejo directo 24-11-2026.
+
+## Advocaciones
+
+El informe arqueológico de 2006, extracto recuperado el 24-11-2026, vincula San Sebastián con una segunda advocación al Socorro a partir del siglo XVII, por la instalación de un altar. Es una atribución del informe; falta cotejar los inventarios parroquiales y la identidad material del inmueble. [Fuente](https://www.lasalina.es/documentacion/normasurbanisticas/286_1_Informe%20Arqueol%C3%B3gico.pdf).
