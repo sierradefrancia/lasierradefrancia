@@ -45,3 +45,13 @@ La ficha institucional del TFG de Fuentes Hernández confirma una revisión pres
 ## Ámbito territorial
 
 La arquitectura tradicional serrana tiene su sede comparativa en [Patrimonio y cultura](/patrimonio/). Este bloque aporta casos y evidencias de La Alberca, sin convertirlos en modelo universal de la comarca.
+
+## La casa como unidad de producción y residencia
+
+La distribución descrita por Fuentes Hernández y el caso de Satur Juanela permiten relacionar la sección vertical con actividades concretas: alojamiento de animales, descanso, cocina, conservación de alimentos y almacenamiento. No se trata únicamente de aprovechar una parcela reducida: la superposición de actividades establece relaciones entre plantas que deben estudiarse junto a escaleras, huecos y circulación de aire.
+
+El estudio ambiental de 2007 propone mecanismos de aprovechamiento térmico; el trabajo de Egido de 2021 plantea el problema de conservar la estructura y los usos además de la imagen exterior. Son perspectivas complementarias. La investigación de la [Casa Ducal](../patrimonio-civil/casa-ducal/) aporta un caso no doméstico de desmontaje y evaluación de componentes de madera en 1997. Compararlo con viviendas exige distinguir escala, cargas y usos.
+
+La comparación regional incluye [Mogarraz](/pueblos/conjuntos-historicos/mogarraz/arquitectura-tradicional/) y [Miranda del Castañar](/pueblos/conjuntos-historicos/miranda-del-castanar/patrimonio/arquitectura-tradicional/), sin trasladar automáticamente las soluciones de un pueblo a otro.
+
+*Síntesis del corpus documental existente; sin nuevo cotejo externo.*
