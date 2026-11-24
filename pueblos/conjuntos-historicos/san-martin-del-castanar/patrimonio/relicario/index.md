@@ -10,6 +10,25 @@ permalink: /pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/reli
 
 # El relicario de la Santa Espina
 
+## Un objeto compuesto y una trayectoria histórica
+
+El estudio de Herrera-Vicente distingue el portapaz y el receptáculo de vidrio asociado a la reliquia. Esta composición obliga a considerar por separado la cronología de los componentes y la de su ensamblaje. La identificación de la Virgen con el Niño, Juan Bautista y Catalina de Alejandría proporciona una base iconográfica para estudiar la pieza dentro del gótico internacional.
+
+La atribución estilística no equivale a identificar un taller concreto. Tampoco la donación atribuida a Sancho de Castilla demuestra que el obispo encargara personalmente su fabricación.
+
+## Del convento a Mogarraz
+
+La procedencia del [convento de Gracia](../convento-gracia/) permite relacionar la pieza con el patrocinio episcopal y con la historia de los bienes dispersos de la institución. El testimonio de visita de 1577 citado por el investigador constituye una pista para estudiar su presencia histórica, pendiente de lectura original.
+
+La conservación posterior en Mogarraz abre una investigación de procedencia: deben distinguirse la salida del convento, las transmisiones posteriores y la custodia descrita en la bibliografía. No se conoce aquí la secuencia completa. El expediente debe permanecer diferenciado de otros objetos medievales estudiados en [Mogarraz](/pueblos/conjuntos-historicos/mogarraz/).
+
+Los trabajos de 2023 y 2024 del mismo investigador forman una línea académica relacionada, no dos corroboraciones independientes de cada atribución.
+
+## Registro documental anterior
+
+Los estados de consulta del registro previo quedan pendientes de cotejo reproducible en esta revisión.
+
+
 SMC-PAT-016. Bien mueble de procedencia conventual estudiado por Javier Herrera-Vicente en 2024. El autor describe un portapaz asociado a un receptáculo de vidrio; identifica tres figuras: Virgen con Niño, Juan Bautista y Catalina de Alejandría. Propone una adscripción al gótico internacional.
 
 ## Procedencia y límites
