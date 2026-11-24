@@ -1,4 +1,5 @@
 ---
+description: "La muralla de Miranda del Castañar: recinto defensivo, puertas y relación con la evolución urbana."
 layout: default
 title: "Muralla y puertas"
 parent: Patrimonio de Miranda del Castañar
