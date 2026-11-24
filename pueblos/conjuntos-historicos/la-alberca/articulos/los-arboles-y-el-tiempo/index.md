@@ -1,4 +1,5 @@
 ---
+description: "Árboles singulares de La Alberca, memoria del paisaje y criterios para investigar su identidad, antigüedad y protección."
 layout: default
 title: "Los árboles que no caben en una generación"
 parent: Artículos
