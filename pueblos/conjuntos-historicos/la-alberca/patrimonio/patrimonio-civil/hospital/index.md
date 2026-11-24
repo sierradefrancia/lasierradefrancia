@@ -63,3 +63,11 @@ La biblioteca municipal ocupa el inmueble identificado por el Ayuntamiento como 
 4. [Sierras de Salamanca, La Alberca](https://www.sierrasdesalamanca.es/la-alberca/), apartado ruta Herguijuela de la Sierra–La Alberca.
 
 La investigación se basa en los extractos accesibles de estas fuentes, no en una inspección del edificio ni en la consulta de las escrituras originales.
+
+## Dos patrimonios diferentes: inmueble y rentas
+
+Las doce camas descritas por el testimonio reproducido por Legendre informan sobre capacidad asistencial en el momento al que se refiere el relato. No equivalen a doce habitaciones ni permiten calcular ocupación anual. Los censos perpetuos mencionados constituyen otra dimensión: interesa identificar cada finca, obligado al pago, importe y beneficiario. El hospital y el concejo no deben tratarse como un único titular de derechos.
+
+La [historia de las relaciones con Las Hurdes](../../../historia/alberca-hurdes/) estudia los aprovechamientos concejiles y la enfiteusis de 1531. El deslinde hospitalario de 1549/1559 requiere una serie documental separada. La [investigación de caminos](../puentes-y-caminos/) aporta el contexto de movilidad, sin demostrar un itinerario peregrino único.
+
+*Ampliación de síntesis del corpus existente; no constituye un nuevo cotejo externo.*
