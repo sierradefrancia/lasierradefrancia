@@ -1,4 +1,5 @@
 ---
+description: "El Calvario de Sequeros: patrimonio devocional, cruces y relación con el paisaje."
 layout: default
 title: "Calvario y cruces"
 parent: "Patrimonio de Sequeros"
