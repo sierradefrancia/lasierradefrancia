@@ -34,3 +34,9 @@ La [Fundación Patrimonio Natural](https://patrimonionatural.org/espacios-natura
 ## Estado y continuidad
 
 Referencias identificadas en el expediente; cotejo directo pendiente de acreditación.
+
+## Calidad de las citas y seguimiento
+
+La referencia científica de Arribas (2006) y la ficha divulgativa SA4 no tienen la misma resolución documental. Para el programa de anfibios de 2014–2015, las noticias describen actuaciones, no series de abundancia. El inventario debe conservar por separado taxón, fecha de publicación, ámbito de observación y evidencia de intervención. Véanse [conservación](../conservacion/) e [inventario](../inventario/). No se publicarán localizaciones sensibles.
+
+*Integración de referencias existentes; sin nuevo cotejo externo.*
