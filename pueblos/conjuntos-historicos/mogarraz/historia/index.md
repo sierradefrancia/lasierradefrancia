@@ -3,10 +3,11 @@ layout: default
 title: "Historia de Mogarraz"
 parent: Mogarraz
 grand_parent: Conjuntos históricos
-nav_order: 2
+nav_order: 1
 last_modified_at: 2026-11-24
 description: "Jurisdicción histórica y cuestiones abiertas sobre el poblamiento de Mogarraz."
 permalink: /pueblos/conjuntos-historicos/mogarraz/historia/
+has_children: true
 ---
 
 # Historia de Mogarraz
