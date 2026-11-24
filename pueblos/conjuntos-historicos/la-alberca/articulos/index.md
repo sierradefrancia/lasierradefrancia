@@ -221,3 +221,18 @@ Otras veces, nuevas preguntas.
 Y de vez en cuando, quizá simplemente una buena historia, una canción o una sonrisa.
 
 **Porque conocer La Alberca también puede ser una aventura de la imaginación.**
+
+## Lecturas para empezar
+
+| Si te interesa... | Comienza por |
+|---|---|
+| La historia de las calles | [La cruz que no siempre estuvo allí](la-cruz-que-no-siempre-estuvo-alli/) y [Un edificio, muchas vidas](un-edificio-muchas-vidas/) |
+| La economía histórica | [Un pueblo de tejedores](un-pueblo-de-tejedores/) y [Las mujeres que blanqueaban los lienzos](las-mujeres-que-blanqueaban-los-lienzos/) |
+| La memoria oral | [La voz de Tomás Hoyos](la-voz-de-tomas-hoyos/) y [Las palabras que guardaban el mundo](las-palabras-que-guardaban-el-mundo/) |
+| La religiosidad popular | [La Loa](cuando-la-fe-se-convierte-en-teatro/) y [La esquila](cuando-cae-la-noche/) |
+| El paisaje | [El bosque que heredamos](el-bosque-que-heredamos/) y [El bosque después del fuego](el-bosque-despues-del-fuego/) |
+| La sociedad actual | [Un pueblo no es un censo](un-pueblo-no-es-un-censo/) y [Más allá del turismo](mas-alla-del-turismo/) |
+
+Las reconstrucciones documentales extensas se reúnen en [Artículos de Historia](../historia/articulos/). Las propuestas de recorrido y preparación de visitas pertenecen a [Visitar La Alberca](../visitar/). Las lecturas anteriores son entradas temáticas, no una clasificación exhaustiva ni una certificación de todas sus fuentes.
+
+*Ampliación a partir de expedientes existentes; sin nuevo cotejo externo.*
