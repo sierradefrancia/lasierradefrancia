@@ -9,3 +9,7 @@ Cotejo efectivo de BOE 2016 y 2015, ficha Grupo Tierra, Ayuntamiento y guía com
 ## Tercer bloque
 
 Consultados BOE 2016, extractos municipal, ambiental p.55, Sierras de Salamanca y ACEVIN. Añadido VDC-PAT-013. Catálogo de 80 edificios localizado indirectamente; pendiente íntegro. Discrepancia San Esteban/San Sebastián pendiente registro. No comprobada vigencia del planeamiento ni acceso público.
+
+## Cuarto bloque — cierre estructural provisional
+
+Consultados registro provincial, base ministerial mayo 2025, BOE 1988, incoación 2015 y declaración 2016, ACEVIN. Aprobación provisional 12-06-2025, no definitiva. Artículos interpretativos, valor global y candidatos de personas incorporados. Rectificación de alcance: las consultas de bloques anteriores no cuentan con evidencia externa recuperable en esta ejecución y no se certifican retrospectivamente. Pendientes catálogo íntegro, original villazgo, INE, pliego DOP, trazado Prodigios, licencias, deduplicación central, auditoría de compilación. Primer ciclo estructural, no cierre científico.
