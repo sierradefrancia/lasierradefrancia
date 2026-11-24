@@ -27,6 +27,10 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 
 ---
 
+## Artículos y relatos documentados
+
+- [El monasterio que Buñuel quiso comprar](/lugares/las-batuecas/articulos/bunuel-y-el-desierto/): una historia de cine, propiedad y recuperación religiosa.
+
 ## Estudios e inventarios
 
 - [Luis Buñuel y Las Batuecas](/lugares/las-batuecas/luis-bunuel/): rodaje, negociaciones de compra y regreso en 1971.

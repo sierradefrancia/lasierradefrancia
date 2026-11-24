@@ -66,3 +66,5 @@ La aparente coexistencia entre la donación de febrero de 1936 y las gestiones d
 - [IPCE, memoria histórica del proyecto de restauración](https://www.cultura.gob.es/planes-nacionales/dam/jcr%3A1e7c0295-3f6d-42b2-8d96-487f7b288379/proyecto-san-jose-batuecas.pdf).
 
 Los tres primeros textos se han consultado mediante extractos. La carta original y los títulos patrimoniales siguen pendientes. Véase [Desamortización y recuperación](/lugares/las-batuecas/desamortizacion-recuperacion/).
+
+Lectura divulgativa: [El monasterio que Buñuel quiso comprar](/lugares/las-batuecas/articulos/bunuel-y-el-desierto/).
