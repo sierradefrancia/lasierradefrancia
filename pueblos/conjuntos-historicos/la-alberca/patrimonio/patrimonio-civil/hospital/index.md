@@ -11,6 +11,8 @@ permalink: /pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/
 
 # Hospital de Menesterosos y Peregrinos de La Alberca
 
+**Identificador patrimonial:** ALB-PAT-027.
+
 El Ayuntamiento identifica la antigua institución hospitalaria con la actual biblioteca municipal [1]. Su historia relaciona la asistencia a personas necesitadas, las peregrinaciones y la propiedad territorial en Las Hurdes. Deben distinguirse la continuidad institucional, la cronología del inmueble y su reutilización contemporánea.
 
 ## Origen y función
