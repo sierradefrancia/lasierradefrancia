@@ -1,4 +1,5 @@
 ---
+description: "La discrepancia entre 1288, 1289 y 1291 en la documentación medieval sobre las dehesas de Las Hurdes y Las Batuecas vinculadas a La Alberca."
 layout: default
 title: "El año que no cuadraba"
 parent: Artículos
