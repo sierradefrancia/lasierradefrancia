@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Artesanía y oficios de Mogarraz"
-parent: Mogarraz
-grand_parent: Conjuntos históricos
-nav_order: 3
+parent: Sociedad y economía de Mogarraz
+grand_parent: Mogarraz
+nav_order: 1
 last_modified_at: 2026-11-24
 description: "La producción textil, carpintería, orfebrería y transmisión de los oficios mogarreños."
 permalink: /pueblos/conjuntos-historicos/mogarraz/artesania/
