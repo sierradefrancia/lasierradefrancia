@@ -50,3 +50,7 @@ SMC-FUE-010: extractos del artículo de Herrera-Vicente (2024) cotejados el 24-1
 ## Cotejo reproducible adicional
 
 24-11-2026: recuperados extractos de SMC-FUE-003 (ficha 3, descripción arquitectónica), SMC-FUE-008 (historia institucional), SMC-FUE-010 (artículo, iconografía, patronazgo y procedencia) y SMC-FUE-011 (intervención parlamentaria sobre peregrinos). SMC-FUE-009 ampliado con [Censo-Guía, fondo 1000896](https://censoarchivos.cultura.gob.es/CensoGuia/imprimirFondo.htm?id=1000896), signaturas CLERO-SECULAR_REGULAR,6058 y L.11104/11105. Se acredita únicamente el contenido de los extractos recuperados, no lectura completa ni cotejo de manuscritos. Los estados restantes no cambian.
+
+## Comprobación con extractos disponibles
+
+24-11-2026: recuperados en esta sesión SMC-FUE-008 (PARES: donación, aprobación capitular, gramática y comunidad), SMC-FUE-003 (extracto sobre castillo, convento y advocaciones), SMC-FUE-010 (artículo de Herrera-Vicente: descripción, donación, hipótesis estilística y conservación en Mogarraz) y SMC-FUE-011 (debate parlamentario: fecha alternativa de gramática). No se extiende la certificación a otros pasajes ni referencias. BOE pendiente de cotejo en esta sesión.
