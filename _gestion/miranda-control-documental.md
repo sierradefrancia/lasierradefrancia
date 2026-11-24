@@ -6,3 +6,8 @@
 ## Corpus archivístico — 24-11-2026
 
 Recuperadas fichas de catálogo PARES de Simancas y Chancillería y ficha individual 12761016; extractos académicos de Quintanilla Raso 2021 y tesis UVA. Seis registros documentales con signatura en historia/archivo-jurisdiccional. No se han leído originales. Priorizar MIR-DOC-003 y 005 por sus relaciones comarcales. Las fechas de consulta de bloques anteriores sin resultados recuperables siguen pendientes de validación.
+
+
+## Auditoría de evidencia
+
+En los bloques anteriores constan afirmaciones de recuperación de extractos que no puedo acreditar con resultados visibles. Deben tratarse como referencias pendientes, no consultas certificadas. En este bloque sí se recuperaron resultados textuales municipales (plaza, fiestas, itinerario), El Toreo, Reino de León y diagnóstico provincial. No se verificaron los originales citados por estos textos. La misma cautela afecta a declaraciones de verificación directa anteriores de Mogarraz.
