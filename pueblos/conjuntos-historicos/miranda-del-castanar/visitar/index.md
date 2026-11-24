@@ -1,4 +1,5 @@
 ---
+description: "Guía para visitar Miranda del Castañar: recinto amurallado, castillo, calles históricas y preparación del recorrido."
 layout: default
 title: "Visitar Miranda"
 parent: Miranda del Castañar
