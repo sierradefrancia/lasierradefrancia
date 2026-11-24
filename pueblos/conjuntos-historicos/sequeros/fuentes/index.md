@@ -10,6 +10,10 @@ permalink: /pueblos/conjuntos-historicos/sequeros/fuentes/
 
 # Fuentes de Sequeros
 
+**Advertencia de verificación:** los estados de consulta y recuperación que siguen proceden de registros anteriores. Esta revisión editorial no dispone de evidencias externas recuperables para certificarlos retrospectivamente. Se mantienen las referencias como pistas documentales pendientes de cotejo reproducible. Esta advertencia prevalece sobre las afirmaciones de consulta anteriores.
+
+Las fases de un mismo expediente no son corroboraciones independientes. Las fuentes divulgativas pueden compartir relatos. Véanse las investigaciones de [historia](../historia/), [patrimonio](../patrimonio/) y [cultura](../cultura-tradiciones/).
+
 - SEQ-FUE-001: [BOE-A-2002-13556](https://boe.es/diario_boe/txt.php?id=BOE-A-2002-13556), texto original y anexo consultados el 24-11-2026.
 - SEQ-FUE-002: [Descubre Sequeros, Diputación](https://www.lasalina.es/m/ru/sequeros/qr-espa/pdf/sequeros-ES.pdf), extracto páginas PDF 1–11 consultado el 24-11-2026. Fuente divulgativa; sus referencias históricas requieren originales.
 - SEQ-FUE-003: acuerdo definitivo de 2004, pendiente.
