@@ -1,4 +1,5 @@
 ---
+description: "Guía para visitar San Martín del Castañar: castillo, plaza de toros, arquitectura serrana y recorridos por el entorno."
 layout: default
 title: "Visitar San Martín del Castañar"
 parent: "San Martín del Castañar"
