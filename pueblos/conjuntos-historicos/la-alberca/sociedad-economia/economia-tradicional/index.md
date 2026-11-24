@@ -68,3 +68,11 @@ Puerto y Serrano describían ya en 1988 el retroceso de los usos agrarios y la t
 ## Continuidad
 
 Priorizar el interrogatorio de 1791 y las respuestas catastrales de 1753 para identificar hogares, oficios, producción y rendimientos. No convertir las arrobas históricas en kilogramos sin verificar la unidad local. Contrastar las fechas de abandono de actividades tradicionales y la evolución del mercado sin extrapolar testimonios de una época a otra.
+
+## La producción textil como cadena económica
+
+Los testimonios de 1693, 1753 y 1791 distinguen tejedores de lienzo y mantelería, mientras Miñano y Madoz destacan el acabado y la comercialización. La actividad femenina de blanqueo no queda necesariamente representada por el número de tejedores. El estudio debe relacionar cultivo, trabajo doméstico, transformación y venta sin sumar categorías profesionales de distintas fechas.
+
+La documentación sobre 350 arrobas de lino de regadío en 1791 permite plantear una relación entre producción y disponibilidad de agua, pero no localizar parcelas ni calcular rendimientos sin el interrogatorio original. Véanse [hidrografía](../../geografia-territorio/hidrografia/), [las mujeres que blanqueaban los lienzos](../../articulos/las-mujeres-que-blanqueaban-los-lienzos/) y [un pueblo de tejedores](../../articulos/un-pueblo-de-tejedores/).
+
+*Cálculos y síntesis del corpus existente; sin nuevo cotejo externo.*
