@@ -4,6 +4,7 @@ title: "Historia de Miranda del Castañar"
 parent: Miranda del Castañar
 grand_parent: Conjuntos históricos
 nav_order: 1
+has_children: true
 last_modified_at: 2026-11-24
 permalink: /pueblos/conjuntos-historicos/miranda-del-castanar/historia/
 ---
@@ -34,3 +35,9 @@ Monsalvo Antón (Anales de la Universidad de Alicante, Historia Medieval 19, 201
 - [Estudio de Monsalvo, nota 67](https://rua.ua.es/dspace/bitstream/10045/68531/1/Historia-Medieval_19_04.pdf).
 
 Extractos académicos recuperados el 24-11-2026. Los diplomas originales siguen pendientes.
+
+
+## Expedientes de investigación
+
+- [La Casa y el condado de Miranda](./condado/).
+- [Documentos de la villa y su tierra](./archivo-jurisdiccional/).
