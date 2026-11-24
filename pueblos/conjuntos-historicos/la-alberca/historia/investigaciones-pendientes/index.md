@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: "Investigaciones pendientes de Historia de La Alberca"
 nav_exclude: true
@@ -1448,3 +1449,16 @@ Las conservamos para que el conocimiento futuro pueda responderlas.
 La fase actual queda concluida.
 
 La investigación permanece abierta.
+
+
+## Seguimiento de auditoría
+
+### Revisión de continuidad — 2026-11-24
+
+- ALB-H-006: localizada y consultada la [provisión de 1547 publicada por el Ayuntamiento](https://laalberca.com/tradiciones/dia-del-pendon/); original pendiente. No cerrar el episodio de 1475.
+- ALB-H-008: ara romana identificada en la bibliografía epigráfica; no resuelve continuidad urbana.
+- ALB-H-010: [ficha editorial del BOE](https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-H-1930-10038100441) confirma los datos bibliográficos; cotejo de cláusulas pendiente.
+- ALB-H-015: acceso a ficha PARES limitado por respuesta HTTP 429 durante esta revisión; no se valida resultado judicial.
+- ALB-H-026: enlazar testimonios del [ciclo vital](../../cultura-tradiciones/ciclo-vital/) con documentación histórica sin confundir épocas.
+
+Se conservan los 38 identificadores y sus preguntas. Auditoría de estructura y referencias seleccionadas, no validación exhaustiva de cada afirmación.
