@@ -1,4 +1,5 @@
 ---
+description: "El conjunto histórico de Villanueva del Conde: manzana urbana, huertas interiores y protección patrimonial."
 layout: default
 title: "Conjunto histórico de Villanueva del Conde"
 parent: Villanueva del Conde
