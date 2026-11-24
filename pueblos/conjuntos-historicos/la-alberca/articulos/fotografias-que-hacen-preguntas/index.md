@@ -1,4 +1,5 @@
 ---
+description: "Fotografías históricas de La Alberca y su utilidad para investigar la evolución de la Plaza Mayor y el patrimonio urbano."
 layout: default
 title: "Las fotografías que hacen preguntas"
 parent: Artículos
