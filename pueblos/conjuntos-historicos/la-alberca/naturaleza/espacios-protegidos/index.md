@@ -11,6 +11,8 @@ permalink: /pueblos/conjuntos-historicos/la-alberca/naturaleza/espacios-protegid
 
 # Espacios protegidos y hábitats
 
+**Estado documental:** síntesis provisional. Las referencias y cifras requieren cotejo directo antes de considerarse verificadas; no se acredita aquí una consulta externa completa.
+
 ## Marco territorial
 
 El artículo 3 de la [Ley 8/2000](https://boe.es/buscar/act.php?id=BOE-A-2000-15356) incluye expresamente La Alberca entre los municipios afectados por el Parque Natural. La inclusión no prueba por sí sola cobertura municipal íntegra.
@@ -37,4 +39,4 @@ La [documentación turística comarcal](https://www.sierrasdesalamanca.es/la-alb
 
 ## Límites y continuidad
 
-Referencias contrastadas mediante extractos de fuentes públicas consultados el 24-11-2026. No se han descargado geometrías ni comprobado íntegramente los expedientes. Pendiente contrastar reserva de la biosfera, reserva regional de caza, zonificación del PORN y catálogo de humedales. Vincular las entidades con el [inventario geográfico](../../geografia-territorio/inventario/) y evitar duplicar la monografía de Las Batuecas.
+Referencias identificadas en el expediente; cotejo directo pendiente de acreditación.
