@@ -11,23 +11,23 @@ permalink: /pueblos/conjuntos-historicos/villanueva-del-conde/patrimonio/
 
 # Patrimonio de Villanueva del Conde
 
-Inventario inicial de entidades, no de declaraciones individuales:
+El patrimonio local se organiza en tres ámbitos relacionados: la vivienda y sus espacios productivos, los edificios y plazas de uso colectivo, y el paisaje agrario. El inventario identifica entidades; los enlaces conducen a las monografías que las estudian. Una misma monografía puede tratar varias entidades sin multiplicar páginas innecesarias.
 
 | ID | Elemento |
 |---|---|
-| VDC-PAT-001 | Manzana central |
-| VDC-PAT-002 | Huertitas |
-| VDC-PAT-003 | Callejinas |
-| VDC-PAT-004 | Iglesia de San Sebastián y San Fabián |
-| VDC-PAT-005 | Humilladero |
-| VDC-PAT-006 | Plaza del Obispo |
-| VDC-PAT-007 | Plaza de las Eras |
-| VDC-PAT-008 | Ayuntamiento |
-| VDC-PAT-009 | Arquitectura doméstica |
-| VDC-PAT-010 | Bancales |
-| VDC-PAT-011 | Esgrafiados |
-| VDC-PAT-012 | Infraestructura taurina temporal |
-| VDC-PAT-013 | Pilares y abastecimiento |
+| VDC-PAT-001 | [Manzana central](./manzana-huertitas/) |
+| VDC-PAT-002 | [Huertitas](./manzana-huertitas/) |
+| VDC-PAT-003 | [Callejinas](./manzana-huertitas/) |
+| VDC-PAT-004 | [Iglesia de San Sebastián y San Fabián](./iglesia/) |
+| VDC-PAT-005 | [Humilladero](./humilladero/) |
+| VDC-PAT-006 | [Plaza del Obispo](./plazas/) |
+| VDC-PAT-007 | [Plaza de las Eras](./plazas/) |
+| VDC-PAT-008 | [Ayuntamiento](./plazas/) |
+| VDC-PAT-009 | [Arquitectura doméstica](./arquitectura/) |
+| VDC-PAT-010 | [Bancales](./bancales/) |
+| VDC-PAT-011 | [Esgrafiados](./arquitectura/) |
+| VDC-PAT-012 | [Infraestructura taurina temporal](./plazas/) |
+| VDC-PAT-013 | [Pilares y abastecimiento](./agua/) |
 
 Pendiente individualizar inmuebles, accesos y bienes muebles.
 
