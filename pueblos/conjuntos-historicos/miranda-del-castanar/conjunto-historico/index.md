@@ -18,3 +18,14 @@ La segunda página de la disposición enumera las cuatro puertas, el castillo, l
 - [Página 6010, PDF](https://www.boe.es/boe/dias/1973/03/27/pdfs/A06010-06011.pdf).
 
 Consultados mediante resultados textuales el 24-11-2026; falta cotejar la primera página y la delimitación vigente.
+
+
+## El alcance de la declaración
+
+La enumeración de monumentos en el decreto permite reconocer una combinación de arquitectura defensiva, religiosa, civil e hidráulica. La protección del conjunto no se reduce a esas piezas: las relaciones entre calles, viviendas y espacios públicos forman parte de su lectura urbana. Véase el [inventario patrimonial](../patrimonio/).
+
+La declaración de 1973 constituye un acontecimiento jurídico, no una fecha de construcción. La discrepancia sobre la cronología del [castillo](../patrimonio/castillo/) muestra por qué es necesario distinguir descripción administrativa y análisis arquitectónico.
+
+## Conservación y transformación
+
+El plan director de murallas mencionado en la documentación parlamentaria de 2005 aporta una referencia histórica de conservación. No demuestra el estado actual de las obras. La utilización de lienzos como apoyo de viviendas, tratada en [arquitectura tradicional](../patrimonio/arquitectura-tradicional/), obliga a estudiar el recinto como parte de un pueblo habitado. La delimitación vigente y las condiciones de intervención requieren cotejo normativo específico.
