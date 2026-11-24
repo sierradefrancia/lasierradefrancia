@@ -57,3 +57,6 @@ Referencias de trabajo pendientes de cotejo directo reproducible. La atribución
 - [Alhóndiga](./alhondiga/).
 - [Arquitectura civil y espacios públicos](./arquitectura-civil/).
 - [Ermitas y acueducto](./ermitas/).
+
+- [Plaza Mayor](./plaza-mayor/).
+- [Arquitectura tradicional](./arquitectura-tradicional/).
