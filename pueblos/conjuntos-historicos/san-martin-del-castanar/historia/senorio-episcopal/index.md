@@ -10,6 +10,25 @@ permalink: /pueblos/conjuntos-historicos/san-martin-del-castanar/historia/senori
 
 # El señorío episcopal
 
+## La propiedad y la jurisdicción
+
+La donación regia atribuida a Alfonso IX requiere identificar el bien transmitido, sus límites y los derechos expresamente concedidos. Una donación a la catedral no implica necesariamente que todas las competencias judiciales pasaran al obispo en el mismo acto. La distinción entre patrimonio eclesiástico y jurisdicción resulta fundamental para interpretar el señorío.
+
+El [castillo](../../patrimonio/castillo/) aporta una dimensión material de ese poder. Su utilización como prisión episcopal durante los siglos XVI y XVII, atribuida al catálogo arqueológico, necesita documentación sobre los presos, la autoridad que ordenaba su ingreso y el funcionamiento de la institución.
+
+## La iniciativa de 1574
+
+Las referencias al 18 de julio y a septiembre permiten distinguir dos momentos de la petición vecinal. La segunda solicitud, descrita como una iniciativa para impedir una venta futura, sugiere que el problema no se limitaba al régimen existente. Falta identificar los términos exactos de ambas peticiones y sus destinatarios.
+
+La comparación con el [villazgo de Sequeros](/pueblos/conjuntos-historicos/sequeros/historia/villazgo/) de 1756 permite distinguir una solicitud sin resultado favorable de una emancipación jurisdiccional atribuida a documentación histórica. No cabe trasladar las condiciones económicas de Sequeros a San Martín.
+
+El patrocinio episcopal del [convento de Gracia](../../patrimonio/convento-gracia/) constituye otra relación institucional que debe investigarse por separado de los derechos señoriales.
+
+## Registro documental anterior
+
+Las afirmaciones de consulta del registro previo quedan pendientes de cotejo reproducible en esta revisión editorial.
+
+
 Una referencia de trabajo pendiente de comprobación sitúa en 1574 una petición vecinal para pasar a jurisdicción regia. El catálogo de 2006 (pp. 15–16) sitúa la iniciativa el 18 de julio y describe una nueva solicitud en septiembre para impedir una futura venta. No prosperó. Queda pendiente identificar los documentos originales y distinguir las posiciones de los vecinos.
 
 Fuente: [Aratikos, catálogo arqueológico, 2006](https://www.lasalina.es/documentacion/normasurbanisticas/286_1_Informe%20Arqueol%C3%B3gico.pdf), pasajes indicados pendientes de cotejo. Fuente secundaria para los acontecimientos históricos.
