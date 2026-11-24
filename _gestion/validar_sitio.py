@@ -13,6 +13,9 @@ titles = {}
 descriptions = {}
 canonicals = {}
 inventory = []
+incoming = {}
+sitemap_urls = set()
+noindex_urls = set()
 class Page(HTMLParser):
     def __init__(self):
         super().__init__()
@@ -90,7 +93,14 @@ for f in pages:
             json.loads(s)
         except ValueError as e:
             issues.append(f"{rel}: invalid JSON-LD: {e}")
+    if "noindex" in p.robots.lower():
+        noindex_urls.add(url)
     for href in set(p.links):
+        target = urlsplit(urljoin(url, href))
+        if target.netloc == urlsplit(origin).netloc:
+            normalized = origin + target.path
+            if normalized != url:
+                incoming.setdefault(normalized, set()).add(url)
         if not exists(urljoin(url, href)):
             issues.append(f"{rel}: missing internal link {href}")
 for label, registry in (("title", titles), ("description", descriptions), ("canonical", canonicals)):
@@ -108,6 +118,10 @@ if (root / "sitemap.xml").is_file():
             if loc is None:
                 issues.append("Sitemap entry without loc")
                 continue
+            if loc.text:
+                if loc.text in sitemap_urls:
+                    issues.append(f"Duplicate sitemap URL: {loc.text}")
+                sitemap_urls.add(loc.text)
             if entry.find("{*}lastmod") is None:
                 issues.append(f"Sitemap lastmod absent: {loc.text}")
             if not loc.text or not exists(loc.text):
@@ -120,6 +134,16 @@ if (root / "llms.txt").is_file():
         issues.append("llms.txt contains unrendered template")
     if origin + "/ai-canon/" not in t:
         issues.append("llms.txt missing Canon link")
+for entry in inventory:
+    url = entry["url"]
+    entry["incoming_pages"] = len(incoming.get(url, set()))
+    entry["in_sitemap"] = url in sitemap_urls
+    if url.endswith("/404.html"):
+        continue
+    if url in noindex_urls and url in sitemap_urls:
+        issues.append(f"Noindex URL in sitemap: {url}")
+    if url in sitemap_urls and url != origin + "/" and not incoming.get(url):
+        issues.append(f"Sitemap URL without detected incoming links: {url}")
 if not pages:
     issues.append("No generated HTML pages")
 print(f"HTML pages: {len(pages)}; findings: {len(issues)}")
