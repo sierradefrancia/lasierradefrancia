@@ -3,10 +3,11 @@ layout: default
 title: "Naturaleza de Mogarraz"
 parent: Mogarraz
 grand_parent: Conjuntos históricos
-nav_order: 11
+nav_order: 6
 last_modified_at: 2026-11-24
 description: "Paisaje forestal, cultivos y relaciones ecológicas del municipio."
 permalink: /pueblos/conjuntos-historicos/mogarraz/naturaleza/
+has_children: true
 ---
 
 # Naturaleza de Mogarraz
@@ -20,3 +21,8 @@ La combinación de cultivos y masas forestales permite plantear preguntas sobre 
 ## Fuente
 
 [Turismo Sierra de Francia, Mogarraz](https://turismosierradefrancia.es/nuestros-pueblos/mogarraz/), extracto recuperado el 24-11-2026. Pendiente de contrastar con cartografía oficial y estudios ecológicos. No se ha elaborado un listado de fauna sin registros locales.
+
+
+## Explorar esta sección
+
+- [Paisaje y caminos](../paisaje-y-caminos/).
