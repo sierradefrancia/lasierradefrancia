@@ -29,3 +29,13 @@ Quizá una familia recuerde una promesa, un toque o una oración que ya no pract
 Conocer La Alberca implica respetar también aquello que sus habitantes prefieran guardar para sí.
 
 **Fuentes:** [Vida y muerte en La Alberca (1989)](https://uvadoc.uva.es/handle/10324/42925), referencia bibliográfica del atlas, pendiente de nueva lectura; [Moza de Ánimas](../../cultura-tradiciones/moza-de-animas/); [Patrimonio religioso](../../patrimonio/patrimonio-religioso/). Reflexión interpretativa, no reconstrucción de un rito funerario.
+
+## Una fecha junto a la iglesia
+
+El expediente de las Ánimas recoge el testimonio del vicario Juan de los Hoyos Gómez del 15 de noviembre de 1824 sobre el entierro colectivo de huesos del osario. La noticia alude a un precedente situado aproximadamente cuarenta y cinco años antes, según la memoria transmitida. No podemos convertir ese cálculo en una fecha documental exacta de 1779.
+
+Las tres hornacinas descritas junto a la iglesia, con luces en la central y calaveras en las laterales, constituyen un elemento material distinto de las prácticas de oración que recorren las calles. Su relación cultural merece estudiarse sin atribuirles necesariamente un origen común.
+
+La [investigación de las Ánimas](../../patrimonio/patrimonio-religioso/animas/) reúne el contexto y las referencias, entre ellas [Mixticismos](https://www.institutodelasidentidades.es/publicaciones/fuera-de-serie/11-Mixticismos.pdf).
+
+*Ampliación basada en los expedientes existentes del atlas, sin nuevo cotejo externo.*
