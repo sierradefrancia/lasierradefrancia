@@ -20,3 +20,7 @@ En los bloques anteriores constan afirmaciones de recuperación de extractos que
 ## Verificación efectiva 24-11-2026
 
 Resultados web visibles cotejados: GREDOS 10366/148215, registro Cervantes Ms 2765, Quintanilla Raso 2021 (nota 23 confirma fecha y signatura condado), estudios forestal, jurídico, vitícola y poblamiento enlazados en ordenanzas. También fichas municipales de escudos e itinerario. PDF manuscrito 230 MB no leído. Corrección: las afirmaciones previas de recuperación sin resultados visibles no constituyen verificación y deben reconsiderarse individualmente. No se certifica el resto del corpus.
+
+## Bloque editorial
+
+Cuatro artículos derivados del corpus existente. No se realizaron nuevas consultas externas en esta ejecución. Las afirmaciones de consulta de sesiones anteriores no se consideran certificadas por su mera presencia en el repositorio. Los artículos explicitan el carácter provisional de sus referencias y no sustituyen la lectura de originales.
