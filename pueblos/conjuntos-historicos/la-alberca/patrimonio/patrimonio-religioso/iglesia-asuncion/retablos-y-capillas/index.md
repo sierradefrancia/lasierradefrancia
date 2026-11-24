@@ -55,3 +55,11 @@ Las atribuciones a Juan Manuel de los Hoyos y Antonio González Pavón plantean 
 El retablo del Rosario y el denominado de los Espejos asociado al [Cristo del Sudor](../cristo-del-sudor/) comparten un recurso decorativo, pero no deben identificarse entre sí. La restauración de 2022 documentada para el primero no puede extenderse al segundo.
 
 *Síntesis del corpus documental existente; sin nuevo cotejo externo en esta ampliación.*
+
+## Patronazgo, imágenes y circulación de recursos
+
+La atribución de la capilla del Rosario a Juan Manuel de los Hoyos en 1777 y la de los Dolores a Antonio González Pavón representan dos líneas de investigación biográfica. En la segunda interesa distinguir la carrera eclesiástica americana, el regreso y la financiación efectiva de obras. No debe identificarse automáticamente al donante de una capilla con el autor o pagador de todos sus bienes.
+
+La pintura sobre cobre atribuida a Manuela González en 1860 constituye una donación posterior y merece una ficha de procedencia si se identifica. Los espejos del Rosario y del [Cristo del Sudor](../cristo-del-sudor/) son un rasgo compartido, no prueba de taller común. La restauración de 2022 aporta información sobre el estado material del Rosario en aquel momento, no sobre todos los retablos.
+
+*Síntesis de referencias ya registradas; sin nuevo cotejo externo en este bloque.*
