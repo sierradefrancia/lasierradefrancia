@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: Pueblos
 nav_order: 1
@@ -24,6 +25,19 @@ Comprender la Sierra de Francia exige conocer sus pueblos individualmente y, al 
 Esta sección reúne y organiza ese conocimiento.
 
 ---
+
+## Elige el pueblo que quieres conocer
+
+| Pueblo | Qué descubrir | Preparar la visita |
+|---|---|---|
+| [La Alberca](/pueblos/conjuntos-historicos/la-alberca/) | Ordenanzas, arquitectura, tradiciones y memoria oral | [Guía](/pueblos/conjuntos-historicos/la-alberca/visitar/) |
+| [Mogarraz](/pueblos/conjuntos-historicos/mogarraz/) | Retratos, artesanía y memoria fotográfica | [Guía](/pueblos/conjuntos-historicos/mogarraz/visitar/) |
+| [Miranda del Castañar](/pueblos/conjuntos-historicos/miranda-del-castanar/) | Condado, castillo y recinto amurallado | [Guía](/pueblos/conjuntos-historicos/miranda-del-castanar/visitar/) |
+| [San Martín del Castañar](/pueblos/conjuntos-historicos/san-martin-del-castanar/) | Señorío episcopal, castillo y arqueología | [Guía](/pueblos/conjuntos-historicos/san-martin-del-castanar/visitar/) |
+| [Sequeros](/pueblos/conjuntos-historicos/sequeros/) | Villazgo, teatro y santuario del Robledo | [Guía](/pueblos/conjuntos-historicos/sequeros/visitar/) |
+| [Villanueva del Conde](/pueblos/conjuntos-historicos/villanueva-del-conde/) | Huertas interiores, bancales y viticultura | [Guía](/pueblos/conjuntos-historicos/villanueva-del-conde/visitar/) |
+
+Cada enlace conduce a un estudio territorial con historia, patrimonio, cultura, naturaleza, sociedad y visita. Para comparar sus características, consulta los [seis conjuntos históricos](/pueblos/conjuntos-historicos/). Para ampliar el recorrido, accede al [directorio de otros pueblos](/pueblos/otros-pueblos/) o a la [guía regional de turismo](/turismo/).
 
 ## Un territorio de pueblos con identidad propia
 
