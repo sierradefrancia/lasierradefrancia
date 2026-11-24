@@ -27,6 +27,9 @@ Su estudio permite conocer una parte fundamental de la historia de La Alberca y,
 
 ---
 
+
+La fecha 1289 es la preferida provisionalmente por la equivalencia de la era 1327 (menos 38 años); no se ha cotejado el pergamino. Véase [discusión cronológica](../edad-media/).
+
 ## 1. El territorio antes de la cesión medieval
 
 Durante los siglos XII y XIII, las tierras que hoy conocemos como Las Hurdes formaban parte del ámbito histórico de la Transierra leonesa.
@@ -561,6 +564,9 @@ La transformación del siglo XIX necesita una investigación documental específ
 
 ---
 
+
+Las operaciones catastrales de 1753 ofrecen una vía para comparar La Alberca con Nuñomoral y Caminomorisco, sin confundir sus unidades territoriales. Véase [Documentos y cronología](../documentos-cronologia/) para las referencias archivísticas y los límites del contraste.
+
 ## Fuentes y bibliografía
 
 ### Investigación sobre la Edad Media
@@ -648,13 +654,3 @@ Las resoluciones favorables a La Alberca tampoco eliminan la necesidad de estudi
 Comprender esta historia exige reconocer los derechos documentados, las desigualdades existentes, las decisiones judiciales y las experiencias de las poblaciones afectadas.
 
 **La finalidad de esta investigación no es juzgar retrospectivamente a dos comunidades, sino explicar con documentos cómo se relacionaron, qué conflictos afrontaron y cómo cambió su organización territorial.**
-
-
-## Conexiones documentales y actualización
-
-La fecha 1289 es la preferida provisionalmente por la equivalencia de la era 1327 (menos 38 años); no se ha cotejado el pergamino. Véase [discusión cronológica](../edad-media/).
-
-
-## Avance documental — 24 de noviembre de 2026
-
-Un estudio sobre Las Hurdes identifica la visita catastral a La Alberca el 6 de octubre de 1753, con trece informantes albercanos y diez de cada uno de los concejos de Nuñomoral y Caminomorisco. Remite a AGS, Dirección General de Rentas, primera remesa, Respuestas Generales, libro 135, ff. 469r–531r y libro 140, ff. 494r–502r para el conjunto de operaciones estudiadas; pendiente asignar cada intervalo a su localidad mediante el manuscrito. [Estudio, nota 2](https://www.edmilenio.com/media/docs/9788497433617_L33_23.pdf). Autoría y título completo pendientes de cotejo. El artículo «Las Hurdes en el siglo XVIII: ¿alquerías aisladas entre bosques…?», Boletín de la Real Sociedad Geográfica, CLX (2023), pp. 179–218, p. 187, recoge 421 vecinos de La Alberca, no habitantes individuales. [Artículo](https://www.boletinrsg.com/index.php/boletinrsg/article/download/180/189/). No se ha cotejado el manuscrito; no asumir independencia de ambos estudios, basados en el mismo corpus.
