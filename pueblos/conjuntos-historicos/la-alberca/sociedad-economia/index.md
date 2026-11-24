@@ -385,3 +385,11 @@ Cada afirmación deberá referirse a datos, documentos o testimonios identificab
 Se distinguirán las actividades históricas de las actuales, los datos estadísticos de las interpretaciones y los testimonios individuales de las conclusiones generales.
 
 El objetivo es comprender cómo ha vivido y trabajado la comunidad albercana y cómo ha cambiado su relación con el territorio a lo largo del tiempo.
+
+## Una economía diversificada y una población cambiante
+
+En 2025 la industria alimentaria registra 119 afiliaciones, frente a 169 del alojamiento y la restauración conjuntamente. La asistencia residencial aporta otras 32. Estas actividades muestran que la centralidad económica y asistencial no coincide necesariamente con el tamaño de la población residente. La comparación con los 1.034 habitantes de la cifra oficial municipal no permite calcular una tasa de empleo: los ámbitos de residencia y afiliación pueden diferir.
+
+La trayectoria histórica del lino, los castañares y la apicultura se estudia en [economía tradicional](./economia-tradicional/); la estructura contemporánea, en [turismo y transformación económica](./turismo-economia/). La evolución de hogares y población se analiza en [demografía](./demografia/).
+
+*Cálculos y síntesis del corpus existente; sin nuevo cotejo externo.*
