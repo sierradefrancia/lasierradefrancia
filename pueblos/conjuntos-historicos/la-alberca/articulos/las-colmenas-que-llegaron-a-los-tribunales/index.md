@@ -31,3 +31,13 @@ Cuando mires hacia los valles meridionales, recuerda que las montañas no separa
 **Referencias:** David Martín Marcos (2022), [Estar en Las Batuecas](https://doi.org/10.5209/chmo.77469), p. 195, nota 63; Archivo de la Real Chancillería de Valladolid, Pleitos Civiles, Fernando Alonso (F), caja 171, exp. 1; [La Alberca y Las Hurdes](../../historia/alberca-hurdes/).
 
 *Nota documental: síntesis narrativa de los expedientes históricos del atlas. En esta fase se han leído los expedientes internos, no cotejado directamente las fuentes externas ni los originales archivísticos.*
+
+## La distancia entre una colmena y un derecho
+
+Las ordenanzas albercanas regulaban los postueros de colmenas y establecían condiciones para los cerramientos. La regulación escrita permite entender que instalar un colmenar no era una decisión puramente individual: afectaba a otros aprovechamientos del monte. El contrato de enfiteusis de 1531, identificado en la investigación territorial, añade otra capa jurídica al conflicto posterior. La enfiteusis separaba facultades sobre la tierra que hoy tendemos a reunir bajo la palabra propiedad.
+
+El pleito de 1539–1544 tampoco fue el último episodio judicial entre las comunidades. El inventario histórico recoge ejecutorias de 1587, 1588 y 1592, entre otras. Su existencia no demuestra que todas trataran de abejas: es necesario examinar el objeto de cada procedimiento.
+
+[Ordenanzas del concejo](../../historia/concejo-ordenanzas/) · [Cronología documental](../../historia/documentos-cronologia/).
+
+*Ampliación basada en los expedientes existentes del atlas, sin nuevo cotejo externo.*
