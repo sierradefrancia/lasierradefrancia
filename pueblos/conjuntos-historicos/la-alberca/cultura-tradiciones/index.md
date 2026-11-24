@@ -24,6 +24,10 @@ Esta sección reúne las principales manifestaciones de la cultura albercana y e
 
 ---
 
+## Ámbito de esta monografía
+
+Aquí se estudian las manifestaciones documentadas en La Alberca. Las síntesis sobre bordado serrano, indumentaria, joyería, música, danzas, oficios y tradición oral compartidos pertenecen a [Patrimonio y cultura de la Sierra de Francia](/patrimonio/); las de alimentación, a [Gastronomía](/gastronomia/). La presencia de una tradición en La Alberca no demuestra su origen local, exclusividad ni distribución en toda la comarca.
+
 ## [La Loa de la Asunción](./loa/)
 
 **La Loa de la Asunción de Nuestra Señora** es una representación de teatro popular vinculada a las fiestas patronales de La Alberca.
