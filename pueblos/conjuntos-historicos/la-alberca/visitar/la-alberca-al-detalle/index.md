@@ -1,4 +1,5 @@
 ---
+description: "Descubre los detalles de La Alberca: inscripciones, columnas, fuentes, cruceros y elementos de la arquitectura tradicional."
 layout: default
 title: La Alberca al detalle
 parent: Visitar La Alberca
