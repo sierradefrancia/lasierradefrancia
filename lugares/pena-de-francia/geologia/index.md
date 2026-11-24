@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 layout: default
 title: Geología
 parent: Peña de Francia
@@ -438,6 +438,54 @@ La evolución de la Peña de Francia puede sintetizarse sin atribuir una fecha �
 Esta tabla resume procesos de diferente duración y complejidad. No implica que todos ocurrieran de forma instantánea ni que sus límites temporales sean idénticos en toda la sierra.
 
 ---
+
+## La asimetría de la montaña: dos vertientes, dos niveles de base
+
+El inventario CI066 sitúa el piedemonte septentrional de Morasverdes aproximadamente a 1.000 metros y el meridional de Las Hurdes cerca de 500 metros. Tomando la cota de referencia de la Peña (1.727 m), las diferencias orientativas son 727 y 1.227 metros respectivamente. Son cálculos ilustrativos, no perfiles topográficos medidos ni desniveles de senderos.
+
+La diferencia ayuda a comprender por qué el relieve al sur resulta más abrupto. La ficha indica pendientes septentrionales del 23–25 %, frente a valores meridionales superiores al 25–30 % y sectores que alcanzan el 50–60 %. Una pendiente porcentual no es un ángulo: representa desnivel dividido por distancia horizontal. Así, un 50 % equivale aproximadamente a 26,6 grados, no a 50 grados.
+
+El contraste entre ambas vertientes permite relacionar el relieve con la organización de las cuencas del Duero y del Tajo. No demuestra por sí solo una tasa de erosión actual ni permite calcular el volumen de material retirado. Para ello serían necesarias investigaciones geomorfológicas adicionales.
+
+### De la estructura al paisaje
+
+El valle del Agadón permite interpretar los flancos de estructuras vecinas, en vez de identificar cada cresta como un pliegue independiente. La lectura geológica debe combinar la geometría de los estratos y la distribución de los materiales. Una silueta cóncava visible en una fotografía no basta para demostrar la existencia de un sinclinal.
+
+En la superficie de Nava de Francia, el contraste con los granitos introduce otra dimensión: el desmantelamiento erosivo puede hacer aflorar materiales intrusivos. La relación entre la superficie granítica y el bloque serrano debe estudiarse a escala cartográfica, sin atribuir toda la diferencia topográfica exclusivamente a la dureza de las rocas.
+
+### Cómo interpretar las dimensiones del inventario
+
+| Magnitud | Valor de la ficha CI066 |
+|---|---:|
+| Superficie | 6.580,19 ha |
+| Cota inferior | 850 m |
+| Cota superior | 1.735 m |
+| Cota media | 1.292 m |
+| Intervalo altitudinal calculado | 885 m |
+
+La superficie equivale a unos 65,80 km². Estas magnitudes describen el recinto inventariado, no el santuario ni necesariamente la cumbre individual. La cota superior difiere en ocho metros de la referencia geodésica aproximada utilizada por el atlas. Sin conocer el punto y modelo altimétrico empleados por el inventario no procede explicar esa diferencia como un error.
+
+### Espesores estratigráficos y discrepancias
+
+La tabla de tramos de CI066 asigna 5 m al conjunto basal, 350 m al intermedio y 150 m a la cuarcita armoricana. La descripción sedimentológica de la misma ficha indica aproximadamente 200 m para esta última.
+
+El atlas conserva ambas cifras: no son mediciones independientes ni se dispone aquí de información suficiente para decidir cuál representa mejor cada afloramiento. Tampoco puede utilizarse la suma de los espesores como altura topográfica de la montaña. El buzamiento, el plegamiento y la erosión modifican la relación entre espesor estratigráfico y relieve.
+
+### Valor patrimonial y documentación cartográfica
+
+El inventario valora el interés científico (6,1), didáctico (7) y turístico (7,1) como alto. Son puntuaciones del sistema de evaluación del IELIG, no valoraciones de visitantes ni un ranking nacional.
+
+La documentación remite a las hojas 1:50.000 números 526 (Serradilla del Arroyo), 527 (Tamames) y 551 (Martiago). Incluye asimismo una columna estratigráfica atribuida a Carballeira y colaboradores (1980). Estos materiales permiten orientar un futuro análisis de perfiles y afloramientos.
+
+La ficha ofrece fotografías interpretativas y cartografía consultables en su página oficial. No se reproducen aquí porque no se han verificado individualmente las licencias de reutilización.
+
+**Bibliografía específica para ampliar este análisis**, identificada en la ficha CI066 (obras originales pendientes de lectura):
+
+- Macaya, J. (1981). *Estudio geológico estructural de la Sierra de Francia (provincias de Salamanca y Cáceres)*. Cuadernos de Geología Ibérica, 7, 567–576.
+- Jordá Pardo, J. F. (1983). *Evolución morfogenética de la vertiente NW de la Sierra de Francia y su relación con la fosa de Ciudad Rodrigo*. Revista Provincial de Estudios, 8, 129–168.
+- Carballeira, J., Corrales, I. y Pol, C. (1980). *Características del Ordovícico Inferior en las Unidades de Tamames–Sierra de Francia (Salamanca-Cáceres)*. Guía de sesiones de campo, IX Congreso Nacional de Sedimentología, Universidad de Salamanca, pp. 25–47.
+
+Fuente de los datos y referencias: [IGME-CSIC, ficha CI066](https://info.igme.es/ielig/LIGInfo.aspx?codigo=CI066), consultada el 24 de noviembre de 2026. Los cálculos derivados y las explicaciones de sus límites son elaboración del atlas.
 
 ## Preguntas para futuras investigaciones
 
