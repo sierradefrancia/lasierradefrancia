@@ -1,4 +1,5 @@
 ---
+description: "Los litigios históricos por colmenares entre La Alberca y Las Hurdes, las ordenanzas apícolas y los derechos de aprovechamiento."
 layout: default
 title: "Las colmenas que llegaron a los tribunales"
 parent: Artículos
