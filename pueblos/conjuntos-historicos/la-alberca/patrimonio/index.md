@@ -4,6 +4,7 @@ title: Patrimonio
 parent: La Alberca
 grand_parent: Conjuntos históricos
 nav_order: 3
+last_modified_at: 2026-11-24
 description: "Patrimonio material de La Alberca, Salamanca: arquitectura tradicional, iglesia, ermitas, Plaza Mayor, fuentes, inscripciones y elementos históricos."
 permalink: /pueblos/conjuntos-historicos/la-alberca/patrimonio/
 ---
@@ -59,7 +60,9 @@ No se atribuirán fechas de construcción a una vivienda únicamente por su apar
 
 ---
 
-## La Plaza Mayor
+## [Patrimonio civil](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/)
+
+### [La Plaza Mayor](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/plaza-mayor/)
 
 La **Plaza Mayor de La Alberca** es uno de los espacios públicos más representativos del municipio.
 
@@ -67,7 +70,7 @@ Su configuración arquitectónica, los soportales y los edificios que la rodean 
 
 Históricamente, las plazas han desempeñado funciones comerciales, sociales, religiosas e institucionales. Para determinar cuáles de ellas se desarrollaron en La Alberca y en qué periodos, será necesario recurrir a documentación local.
 
-### Elementos de interés
+#### Elementos de interés
 
 La investigación patrimonial de la Plaza Mayor comprenderá:
 
@@ -78,7 +81,7 @@ La investigación patrimonial de la Plaza Mayor comprenderá:
 - El crucero y otros elementos situados en la plaza.
 - Las transformaciones documentadas mediante planos y fotografías históricas.
 
-### El Ayuntamiento y la inscripción de 1774
+#### El Ayuntamiento y la inscripción de 1774
 
 Una ficha patrimonial identifica una inscripción con la fecha **1774** en un medallón situado en una columna del soportal del Ayuntamiento.
 
