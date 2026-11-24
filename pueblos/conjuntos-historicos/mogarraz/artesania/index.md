@@ -35,3 +35,8 @@ La producción textil documentada en Mogarraz invita a compararla con la de [La 
 ## Recuperación contemporánea de la indumentaria
 
 [Las labranderas de Mogarraz](../articulos/las-labranderas/) documenta testimonios sobre restauración y reproducción de prendas durante el siglo XX y su relación con La Alberca.
+
+
+## Zapatería
+
+[La huella de los zapateros](../articulos/los-zapateros/) reúne una referencia indirecta al Catastro, testimonios de aprendizaje y la conexión con Variaciones (2008).
