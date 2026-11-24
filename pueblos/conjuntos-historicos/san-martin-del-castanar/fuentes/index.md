@@ -21,3 +21,11 @@ permalink: /pueblos/conjuntos-historicos/san-martin-del-castanar/fuentes/
 Catálogo urbanístico, diplomas episcopales, inventarios parroquiales, cartografía y series demográficas. No se certifican fuentes no consultadas.
 
 Cotejo efectivo de pp. 14–20 del catálogo y p. 32808 del BOE en esta ejecución. El catálogo contiene errores en las referencias legales de p. 20; prevalece la disposición original para el número 3233/1982. No constituye lectura íntegra.
+
+## Nuevas referencias comprobables
+
+- SMC-FUE-004. [Dialnet: Gómez Gandullo 2006](https://dialnet.unirioja.es/metricas/documentos/ARTREV/2315401). Metadatos y bibliografía citante consultados; original pendiente.
+- SMC-FUE-005. [Zephyrus, estudio arqueológico](https://revistas.usal.es/uno/index.php/0514-7336/es/article/download/5656/5692/19425). Extracto sobre La Legoriza consultado; identificación bibliográfica completa pendiente.
+- SMC-FUE-006. [Ayuntamiento: yacimiento visigodo](https://xn--sanmartindelcastaar-c4b.es/yacimiento-visigodo/). Extracto consultado; interpretación municipal.
+
+La consulta de estas tres fuentes y la ficha técnica y tabla arqueológica del catálogo de 2006 sí cuenta con resultados recuperables en esta ejecución. Las certificaciones anteriores no se extienden automáticamente al resto de pasajes o decretos.
