@@ -1,4 +1,5 @@
 ---
+description: "Heráldica de Miranda del Castañar: escudos, linajes y testimonios materiales del poder histórico."
 layout: default
 title: "Heráldica de Miranda"
 parent: "Patrimonio de Miranda del Castañar"
