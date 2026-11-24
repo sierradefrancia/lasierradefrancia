@@ -1,4 +1,5 @@
 ---
+description: "Naturaleza de San Martín del Castañar: bosques, paisaje serrano y conservación del entorno de la villa."
 layout: default
 title: "Naturaleza de San Martín"
 parent: "San Martín del Castañar"
