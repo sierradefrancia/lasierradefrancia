@@ -51,6 +51,16 @@ Este inventario conserva los candidatos identificados hasta ahora. Su inclusión
 
 Las investigaciones deberán identificar las obras, documentos y testimonios concretos de cada persona, comprobar sus vínculos territoriales y recuperar también a sus colaboradores. Se dará cabida a figuras contemporáneas cuando sus aportaciones documentales sean relevantes.
 
+### Nuevos candidatos procedentes del patrimonio civil
+
+| Personaje | Línea pendiente |
+|---|---|
+| Juan de Salamanca | Identificar edición original de sus viajes y descripción de la plaza atribuida a 1911. |
+| Isidro Barcala | Memoria local y recuperación de testimonios históricos. |
+| Manuel María de los Hoyos | Recuperar estudio sobre La Alberca y su descripción urbana referida a 1946. |
+| Fernando Pulín Moreno | Expedientes de conservación e intervención arquitectónica; verificar PI-557-5. |
+| Ismael Blat | Comprobar documentalmente su participación atribuida en la protección monumental. |
+
 ## Un territorio visto desde distintas perspectivas
 
 La sección se ampliará mediante investigaciones sobre viajeros, geógrafos, naturalistas, historiadores, fotógrafos, religiosos, escritores y personas de la propia comarca que hayan contribuido a transmitir o preservar su conocimiento.
