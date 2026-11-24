@@ -1,4 +1,5 @@
 ---
+description: "El patrimonio judicial de Sequeros y los testimonios materiales de su antigua función administrativa."
 layout: default
 title: "Alhóndiga, juzgado y cárcel"
 parent: "Patrimonio de Sequeros"
