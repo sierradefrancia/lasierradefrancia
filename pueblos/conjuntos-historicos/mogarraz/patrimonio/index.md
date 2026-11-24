@@ -4,12 +4,19 @@ title: "Patrimonio de Mogarraz"
 parent: Mogarraz
 grand_parent: Conjuntos históricos
 nav_order: 5
+has_children: true
 last_modified_at: 2026-11-24
 description: "Primer inventario de edificios religiosos, espacios públicos y patrimonio desaparecido."
 permalink: /pueblos/conjuntos-historicos/mogarraz/patrimonio/
 ---
 
 # Patrimonio de Mogarraz
+
+## Expedientes
+
+- [Iglesia de Nuestra Señora de las Nieves](./iglesia-nieves/)
+- [Torre campanario de Mogarraz](./torre/)
+- [Humilladero, cruz y fuente](./humilladero/)
 
 ## Iglesia y torre
 
@@ -29,6 +36,12 @@ La Peña de Mogarraz de 2009 enumera seis ermitas: Santa Lucía, San Blas, San P
 | MOG-PAT-004 | Calvario | Referencia en decreto |
 | MOG-PAT-005 | Plaza Mayor | Identificada |
 | MOG-PAT-006 | Casa de las Artesanías | Identificada |
+| MOG-PAT-007 | Fuente del Humilladero | Reutilización atribuida a pila bautismal |
+| MOG-PAT-008 | Cruz de los Judíos | Nombre documentado; origen pendiente |
+| MOG-PAT-009 | Púlpito parroquial | Fecha atribuida 1718 |
+| MOG-PAT-010 | Retablo mayor | Restauración citada en 2005 |
+| MOG-PAT-011 | Losas funerarias | Descripción parlamentaria |
+| MOG-PAT-012 | Virgen del Arenal | Referencia local de 2011 |
 
 ## Fuentes
 
