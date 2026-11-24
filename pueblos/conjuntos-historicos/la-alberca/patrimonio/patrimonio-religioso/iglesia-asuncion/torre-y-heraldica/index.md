@@ -70,3 +70,11 @@ El relato transmitido por Barcala sitúa las armas señoriales en la torre, la a
 La diferencia entre 1519 y 1571 no permite deducir una obra de 52 años. Cada inscripción necesita transcripción, fotografía y análisis de su soporte.
 
 *Síntesis del corpus documental existente; sin nuevo cotejo externo en esta ampliación.*
+
+## Heráldica y topografía del poder
+
+Los tres emplazamientos de armas señoriales transmitidos por González de Manuel permiten comparar espacios de representación: torre, capilla mayor y balcón de autoridades. El último conecta con la [Plaza Mayor](../../../patrimonio-civil/plaza-mayor/) y la historia del peso de la harina. Debe comprobarse si los escudos descritos compartían composición, soporte y cronología. La identificación familiar de un escudo no basta para fechar su talla ni atribuir el coste de la fábrica.
+
+Para distinguir las fases de la torre conviene registrar las inscripciones por cara, altura, soporte y relación con juntas de fábrica, sin asumir que ambas fechas corresponden a comienzo y final de una misma obra. El [osario y las Ánimas](../../animas/) aportan el contexto devocional del encuentro con la capilla del Rosario.
+
+*Síntesis de referencias ya registradas; sin nuevo cotejo externo en este bloque.*
