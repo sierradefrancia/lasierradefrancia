@@ -447,6 +447,9 @@ Y gracias a ese documento, hoy podemos comprender que la historia de los derecho
 
 ---
 
+
+La [provisión de 1547 publicada por el Ayuntamiento](https://laalberca.com/tradiciones/dia-del-pendon/) ofrece contexto adicional sobre la memoria del pendón, pero no demuestra la intervención femenina en la batalla ni el origen del privilegio de 1558. Ambos documentos deben estudiarse de forma independiente.
+
 ## Fuentes y documentación
 
 ### Documento histórico principal
@@ -523,8 +526,3 @@ El artículo no presenta el privilegio como una exención general de declarar an
 ---
 
 [Volver a Historia de La Alberca](/pueblos/conjuntos-historicos/la-alberca/historia/)
-
-
-## Conexiones documentales y actualización
-
-La [provisión de 1547 publicada por el Ayuntamiento](https://laalberca.com/tradiciones/dia-del-pendon/) ofrece contexto adicional sobre la memoria del pendón, pero no demuestra la intervención femenina en la batalla ni el origen del privilegio de 1558. Ambos documentos deben estudiarse de forma independiente.
