@@ -354,3 +354,11 @@ Cada elemento puede contener información sobre las personas, los oficios, las c
 Nuestro objetivo es identificar esos testimonios, comprender su contexto y conservar su memoria mediante investigaciones rigurosas, abiertas a nuevas evidencias y revisiones.
 
 **Primero investigar el elemento. Después comprender su historia y sus relaciones. Finalmente compartir el conocimiento.**
+
+## Una lectura histórica integrada
+
+La documentación reunida permite recorrer distintas escalas: el ara romana y sus reutilizaciones, el pórtico parroquial mencionado en 1515, los edificios civiles y religiosos de época moderna, la protección monumental de 1940 y las intervenciones contemporáneas. No constituye una secuencia constructiva continua de todo el pueblo.
+
+La [arquitectura tradicional](./arquitectura-tradicional/) estudia vivienda, técnicas y economía doméstica; el [patrimonio civil](./patrimonio-civil/) relaciona instituciones y espacios; el [patrimonio religioso](./patrimonio-religioso/) distingue edificios, bienes muebles y devociones; los [elementos patrimoniales](./elementos-patrimoniales/) individualizan fuentes, cruces y monumentos. El [inventario](./inventario/) permite conectar estas investigaciones sin multiplicar identidades.
+
+*Revisión del corpus existente; sin nuevo cotejo externo.*
