@@ -1,13 +1,13 @@
 # Seguimiento editorial de conjuntos históricos
 
-Corte verificable: 8ed9544c86bcfe7205132b154d450b84dca5f983
+Corte verificable: 0e0bf0e0ca92996e2c7f5c7522a7f25ff2f5d291
 Base del ciclo: 5d36dd2ed27285a5b0b02885e2909821c708c520
 
 Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No equivale a validación científica ni técnica. Excluir gestión y personajes del denominador territorial.
 
 | Pueblo | Rutas modificadas | Total existente |
 |---|---:|---:|
-| la-alberca | 85 | 142 |
+| la-alberca | 98 | 142 |
 | miranda-del-castanar | 32 | 32 |
 | mogarraz | 39 | 39 |
 | san-martin-del-castanar | 26 | 26 |
@@ -101,9 +101,22 @@ Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No
 - sociedad-economia/index.md
 - sociedad-economia/trabajo-renta/index.md
 - sociedad-economia/turismo-economia/index.md
+- visitar/accesibilidad/index.md
+- visitar/con-ninos/index.md
+- visitar/estaciones/index.md
+- visitar/excursiones/index.md
+- visitar/fiestas-y-tradiciones/index.md
+- visitar/gastronomia/index.md
+- visitar/index.md
+- visitar/informacion-practica/index.md
+- visitar/la-alberca-al-detalle/index.md
+- visitar/paseos/index.md
+- visitar/primera-visita/index.md
+- visitar/segun-tu-tiempo/index.md
+- visitar/senderismo/index.md
 
 ## Procedimiento
 
 Comparar desde base fija hasta HEAD; comprobar límite API de 300 archivos y comparar árboles si se alcanza. No sumar manualmente. Los cambios revertidos no cuentan como diferencias netas. Pendiente auditoría de enlaces y fuentes.
 
-Bloque 36: cinco archivos de sociedad y economía; cálculos derivados del corpus existente, sin nuevo cotejo externo.
+Bloque 37: trece archivos turísticos (índice y doce subpáginas), en dos tandas. Pendientes mediciones de campo, validación de enlaces y comprobación operativa de servicios. Segunda tanda sin nuevo cotejo externo.
