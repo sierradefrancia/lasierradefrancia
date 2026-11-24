@@ -1,4 +1,5 @@
 ---
+description: "La plaza de toros de San Martín del Castañar: configuración histórica, relación con el castillo y usos comunitarios."
 layout: default
 title: "La plaza de toros y el castillo"
 parent: Patrimonio de San Martín del Castañar
