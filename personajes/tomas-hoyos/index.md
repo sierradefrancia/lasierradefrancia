@@ -1,4 +1,5 @@
 ---
+description: "Tomás Hoyos, Tío Tomás, informante de La Alberca: testimonios sobre fiestas, ciclo vital y cultura oral registrados en 1984."
 layout: default
 title: "Tomás Hoyos, Tío Tomás"
 parent: Personajes históricos
