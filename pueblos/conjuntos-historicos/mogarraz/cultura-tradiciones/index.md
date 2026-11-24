@@ -39,3 +39,15 @@ La revista local de 2009 recoge ambas celebraciones de invierno y vincula San Bl
 
 - [Memoria visual](../memoria-visual/).
 - [Gastronomía](../gastronomia/).
+
+## Cofradías y patrimonio material
+
+Las cuatro cofradías atribuidas al siglo XVIII ofrecen una estructura inicial para investigar la religiosidad organizada. Sus advocaciones no permiten determinar por sí solas su patrimonio, composición o actividades. Los libros de cuentas y ordenanzas podrían aclarar sus relaciones con la [iglesia de las Nieves](../patrimonio/iglesia-nieves/) y el [Humilladero](../patrimonio/humilladero/). La advocación del Robledo merece comparación con el [santuario de Sequeros](/pueblos/conjuntos-historicos/sequeros/patrimonio/robledo/), sin presuponer dependencia institucional.
+
+## Indumentaria y participación
+
+El ofertorio permite estudiar la utilización ceremonial de prendas y joyas, mientras los testimonios de [las labranderas](../articulos/las-labranderas/) introducen la perspectiva de quienes las confeccionaron o recuperaron. Los cuatro [barquillos municipales](../patrimonio/cuatro-barquillos/) representan otra categoría de orfebrería ceremonial, distinta de las joyas personales.
+
+Las fotografías de procesiones atribuidas a Ruth Matilda Anderson en 1925 ofrecen una vía para comparar prácticas festivas con testimonios posteriores. Su localización y derechos se investigan en [memoria visual](../memoria-visual/).
+
+**Alcance documental:** ampliación basada en las referencias ya registradas, pendientes de cotejo reproducible.
