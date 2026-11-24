@@ -233,3 +233,12 @@ Altas provisionales pendientes de deduplicación. [Fuente y alcance](/pueblos/co
 | PER-MOG-059 | Argimiro Calama y Rosellón | Autor citado |
 
 Candidatos provisionales; comprobar duplicados y homónimos antes de asignar fichas canónicas. [Fuentes y límites](/pueblos/conjuntos-historicos/mogarraz/articulos/los-zapateros/).
+
+
+### Enseñanza histórica
+
+| ID | Persona | Relación |
+|---|---|---|
+| PER-MOG-060 | Nemesio Sánchez Martín | Maestro que figura en Mogarraz en la Gaceta de Madrid, 10-10-1894, n.º 283, ordinal 269 |
+
+[Fuente oficial](https://www.boe.es/gazeta/dias/1894/10/10/pdfs/GMD-1894-283.pdf). Extracto recuperado el 24-11-2026. Identidad y trayectoria pendientes de ampliación.
