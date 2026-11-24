@@ -10,6 +10,27 @@ permalink: /pueblos/conjuntos-historicos/miranda-del-castanar/patrimonio/plaza-m
 
 # Plaza Mayor de Miranda
 
+## Un espacio ante la fortaleza
+
+La posición de la plaza junto al [castillo](../castillo/) permite estudiar su relación con los accesos y la vida pública. Las medidas transmitidas describen un recinto rectangular, aunque las referencias no coinciden exactamente. Conviene distinguir la superficie disponible, los límites históricos y las posibles modificaciones.
+
+La plaza ha sido asociada a mercados, encuentros y festejos. Estos usos no tienen por qué haber comenzado simultáneamente ni haber requerido una configuración permanente.
+
+## Las huellas de los festejos
+
+Los burladeros descritos en la publicación taurina constituyen elementos materiales que podrían ayudar a reconstruir la adaptación del espacio. Sus medidas y separación deben comprobarse mediante levantamiento y fotografías. La presencia de estas estructuras no fecha por sí sola el comienzo de los festejos.
+
+La controversia entre las referencias al XVI y a 1711 requiere distinguir la primera celebración documentada, la adaptación constructiva y la consolidación de un recinto taurino. Sin esa distinción no resulta posible establecer un récord de antigüedad.
+
+## La plaza en la villa
+
+La comparación con los [espacios públicos de Sequeros](/pueblos/conjuntos-historicos/sequeros/patrimonio/plazas/) y las [plazas de Villanueva del Conde](/pueblos/conjuntos-historicos/villanueva-del-conde/patrimonio/plazas/) permite estudiar usos colectivos distintos. La [arquitectura civil](../arquitectura-civil/) aporta el contexto urbano inmediato.
+
+## Registro documental anterior
+
+Las referencias y estados de consulta siguientes proceden del expediente previo; su cotejo reproducible sigue pendiente.
+
+
 MIR-PAT-013. La plaza ante el castillo es un espacio público rectangular que acoge mercado, encuentros y festejos. El Ayuntamiento da aproximadamente 30 por 39 metros. La revista El Toreo, remitiendo a Julián Álvarez Villar, precisa 39,50 por 30,10 m y describe burladeros de unos 55 cm incorporados al muro, a intervalos próximos a 1,5 m.
 
 ## Cronología y controversia
