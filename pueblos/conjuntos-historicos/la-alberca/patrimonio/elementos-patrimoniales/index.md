@@ -226,3 +226,11 @@ Estudio comparativo útil para investigar la tipología, el significado y la dis
 ---
 
 *Esta sección se amplía progresivamente mediante el estudio individual de los elementos identificados. Las fechas, atribuciones y funciones que no cuentan con respaldo documental suficiente permanecen abiertas a investigación.*
+
+## Cronologías y funciones diferentes
+
+El [ara votiva](./ara-votiva/) conserva un testimonio romano reutilizado en el culto cristiano; los cruceros requieren cronologías propias; las [fuentes](./fuentes/) permiten estudiar el abastecimiento y los usos cotidianos. El [marrano de piedra](./marrano-de-piedra/) y el [busto de Legendre](./busto-mauricio-legendre/) muestran cómo la memoria colectiva adquiere expresión monumental en época contemporánea.
+
+Esta diversidad impide clasificar los bienes por apariencia o antigüedad supuesta. El [inventario](../inventario/) mantiene la identidad de cada elemento y sus relaciones con edificios y espacios urbanos.
+
+*Revisión del corpus existente; sin nuevo cotejo externo.*
