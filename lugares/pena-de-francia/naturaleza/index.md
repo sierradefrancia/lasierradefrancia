@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 layout: default
 title: Naturaleza de la Peña de Francia
 parent: Peña de Francia
@@ -146,7 +146,7 @@ La cuestión relevante es identificar qué actuaciones afectan a los refugios, a
 
 ### Nuevos censos
 
-Una investigación publicada en 2025 por Colino-Rabanal y colaboradores estudió la caracterización del hábitat y la distribución de la especie.
+Una investigación publicada en 2025 por Colino-Rabanal y colaboradores analizó datos de campo de 2018, ya utilizados en el estudio de conectividad publicado en 2021. No son dos censos independientes. [Estudio específico sobre censos, hábitat y conservación](/lugares/pena-de-francia/naturaleza/lagartija-batueca/).
 
 El trabajo analizó 67 localidades, de las cuales 30 presentaron resultados positivos.
 
@@ -493,6 +493,9 @@ Será necesario consultar registros micológicos específicos.
 ## Fuentes y bibliografía
 
 ### Estudios científicos sobre la lagartija batueca
+
+**Lizana-Ciudad y colaboradores (2021).** *Connectivity Predicts Presence but Not Population Density in the Habitat-Specific Mountain Lizard Iberolacerta martinezricai*. Sustainability, 13(5), 2647. https://doi.org/10.3390/su13052647
+
 
 **Arribas, Ó. J. (1996).**
 
