@@ -1,4 +1,5 @@
 ---
+description: "El relicario de San Martín del Castañar: patrimonio religioso, documentación y contexto histórico."
 layout: default
 title: El relicario de la Santa Espina
 parent: Patrimonio de San Martín del Castañar
