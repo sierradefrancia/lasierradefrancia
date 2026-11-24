@@ -27,3 +27,7 @@ El extracto de Vida y muerte en La Alberca describe a los quintos desempeñando 
 La referencia a una autorización de gasto de vino en 1547 permanece pendiente de localizar y transcribir. Aunque se confirme, no demostraría por sí misma el episodio bélico de 1475. Relación con [ermita de San Blas](../../patrimonio/patrimonio-religioso/san-blas/).
 
 Consulta documental: 2026-11-24. Estudio inicial abierto.
+
+## Avance documental: provisión de 1547
+
+La [ficha municipal del Pendón](https://laalberca.com/tradiciones/dia-del-pendon/) publica una transcripción fechada el 7 de mayo de 1547 en Alba, atribuida a María de Toledo. Registra una petición concejil sobre vino para dos procesiones y la salida del pendón pascual, atribuido en el relato concejil a la guerra de Zamora. La autorización ducal no demuestra por sí sola el relato específico de las mujeres ni la identidad del estandarte conservado. Original, signatura y fidelidad de transcripción pendientes; la referencia ya no es solo una noticia bibliográfica. El texto menciona Majadas en lunes Albillo y Peña en martes de Pentecostés: no confundir ese calendario de 1547 con el actual.
