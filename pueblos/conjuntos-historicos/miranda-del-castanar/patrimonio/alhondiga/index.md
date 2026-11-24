@@ -1,4 +1,5 @@
 ---
+description: "La alhóndiga de Miranda del Castañar: patrimonio civil y memoria de la organización económica de la villa."
 layout: default
 title: "Alhóndiga"
 parent: "Patrimonio de Miranda del Castañar"
