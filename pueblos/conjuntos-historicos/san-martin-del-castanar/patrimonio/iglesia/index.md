@@ -15,3 +15,7 @@ SMC-PAT-001. El [Real Decreto 2374/1981](https://www.boe.es/boe/dias/1981/10/22/
 ## Cotejo documental reproducible
 
 El [BOE de 22-10-1981, p. 24806](https://www.boe.es/boe/dias/1981/10/22/pdfs/A24806-24807.pdf), disposición 24597, confirma las tres cubiertas, arquerías de sillería, portada meridional gótica, acceso principal y pórtico del XVI y espadaña de poniente. Cotejado directamente el 24-11-2026. Las cronologías son las atribuidas por el decreto, no dataciones independientes.
+
+## Alcance del cotejo de 2026
+
+El RD 2374/1981, disposición 24597, p. 24806, leído directamente el 24-11-2026, atribuye las cubiertas central y de la Epístola a los siglos XVI y XV respectivamente, y las bóvedas estrelladas al XV. La declaración individual precede a la del conjunto de 1982. No equivale a una datación dendrocronológica ni a una evaluación actual de conservación.
