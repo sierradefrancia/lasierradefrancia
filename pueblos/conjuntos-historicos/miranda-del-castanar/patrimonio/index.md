@@ -4,6 +4,7 @@ title: "Patrimonio de Miranda del Castañar"
 parent: Miranda del Castañar
 grand_parent: Conjuntos históricos
 nav_order: 3
+has_children: true
 last_modified_at: 2026-11-24
 permalink: /pueblos/conjuntos-historicos/miranda-del-castanar/patrimonio/
 ---
@@ -37,3 +38,9 @@ El debate parlamentario de 6 de mayo de 2005 recoge problemas de conservación d
 - [Diputación, Miranda](https://turismo.lasalina.es/es/destinos/sierra-de-francia/nuestros-pueblos/miranda-del-casta%C3%B1ar).
 
 Extractos consultados el 24-11-2026. Inventario provisional, no exhaustivo.
+
+
+## Expedientes
+
+- [Castillo](./castillo/).
+- [Muralla y puertas](./muralla/).
