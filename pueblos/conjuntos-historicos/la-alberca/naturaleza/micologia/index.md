@@ -38,3 +38,9 @@ La [noticia de declaración del parque micológico](https://micologiacyl.es/noti
 Referencias identificadas en el expediente; cotejo directo pendiente de acreditación.
 
 Relacionar con [vegetación](../vegetacion/), [espacios protegidos](../espacios-protegidos/) y la futura investigación micológica comarcal sin duplicar catálogos.
+
+## De la bibliografía al catálogo local
+
+Las 287 especies de la tesis de Pérez Gorjón corresponden al conjunto estudiado. El listado de Ascomycota de 2007 comparte autores y ámbito de investigación, por lo que debe comprobarse el solapamiento de muestras antes de combinar registros. La ficha Micocyl del monte documenta gestión y aprovechamiento, no presencia taxonómica. El [inventario](../inventario/) conserva estas fuentes como entidades independientes.
+
+*Integración de referencias existentes; sin nuevo cotejo externo.*
