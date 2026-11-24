@@ -26,6 +26,8 @@ Para comprender la iglesia actual es necesario comenzar por aquella que desapare
 
 ## Ámbitos de investigación del templo
 
+- [Torre y heráldica](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/torre-y-heraldica/): inscripciones de 1519 y 1571, escudo y antiguo campanario del Castillo.
+
 Esta monografía integra la historia general del edificio. Los estudios especializados se incorporarán como páginas subordinadas cuando exista documentación suficiente: torre y heráldica; campanas, reloj y matraca; bóvedas y técnicas constructivas; púlpito policromado; Cristo del Sudor; retablos y capillas; órgano histórico; orfebrería y bienes litúrgicos.
 
 El osario y las Ánimas se investigarán también en relación con el patrimonio funerario y devocional del conjunto del pueblo. Las piezas ya estudiadas en otras secciones conservarán sus ubicaciones e identificadores, con enlaces cruzados en lugar de duplicaciones.
