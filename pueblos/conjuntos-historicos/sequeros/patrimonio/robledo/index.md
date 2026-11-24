@@ -27,6 +27,23 @@ Según la página municipal, la imagen de la Virgen de la Peña permaneció en e
 
 El AHN conserva un fondo específico del templo, signatura CLERO-SECULAR_REGULAR,6060 (un legajo). Su ficha no basta para determinar fechas extremas ni contenido de cada documento. Es una prioridad localizar sus unidades y examinar los originales.
 
+
+## Dos advocaciones, dos historias
+
+El Robledo posee una historia devocional propia que no debe confundirse con la del santuario de la Peña de Francia. La estancia de la imagen de la Peña en Sequeros durante el XIX constituye una relación entre ambos lugares, no una identidad entre sus advocaciones.
+
+La cronología municipal de los traslados permite plantear una investigación sobre custodia de bienes religiosos, inventarios y decisiones eclesiásticas. El relato debe contrastarse con documentación de La Alberca y de la Peña antes de establecer las circunstancias de cada traslado. Véase también [Robledo y Peña de Francia](../../articulos/robledo-pena/).
+
+## El edificio como documento
+
+La diferencia entre la primera construcción atribuida al final del XIII y la reconstrucción del XVIII obliga a distinguir la antigüedad del lugar de culto de la antigüedad de sus elementos arquitectónicos. Las naves, el camarín y las cubiertas de madera ofrecen unidades de estudio distintas. El expediente de protección es un punto de partida, no un levantamiento cronológico completo.
+
+La [iglesia urbana de los Mártires](../iglesia/) constituye otro edificio religioso de Sequeros y requiere su propio inventario. No deben trasladarse entre ambos las descripciones de sus bienes.
+
+## Memoria y tradición
+
+La tradición de la [Moza Santa](../../cultura-tradiciones/moza-santa/) y las referencias a Simón Vela forman parte de la memoria religiosa asociada al santuario. Su interés cultural no depende de que todos los episodios transmitidos puedan demostrarse históricamente. El estudio de las versiones, sus fechas y sus transmisores permite distinguir historia documental y tradición devocional.
+
 ## Fuentes
 
 - [Incoación de 1992](https://www.boe.es/boe/dias/1992/07/24/pdfs/A25791-25792.pdf)
