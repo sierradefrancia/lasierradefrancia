@@ -185,3 +185,15 @@ Fuente y límites: [expediente del marfil](/pueblos/conjuntos-historicos/mogarra
 | PER-MOG-035 | Jaime Herrera Maíllo | Memoria de las vendimias |
 
 Altas provisionales, pendientes de deduplicación. Fuentes: [orfebrería](/pueblos/conjuntos-historicos/mogarraz/articulos/los-orives-y-las-fronteras/), [vendimias](/pueblos/conjuntos-historicos/mogarraz/articulos/vendimias-y-arrieros/), [barquillos](/pueblos/conjuntos-historicos/mogarraz/patrimonio/cuatro-barquillos/).
+
+
+### Tradición oral y arqueología
+
+| ID | Persona | Relación |
+|---|---|---|
+| PER-MOG-036 | Adela Núñez Maíllo | Informante nacida en 1902; entrevista 1989 |
+| PER-MOG-037 | Sagrario Sánchez | Informante de recopilación de 1984 |
+| PER-MOG-038 | Gabriel Salvo / Gabriel Calvo | Recopilación oral; variantes e identidad pendientes de cotejo |
+| PER-MOG-039 | José María Ruiz Asencio | Investigación de pizarras |
+
+Altas provisionales. [Tradición oral](/pueblos/conjuntos-historicos/mogarraz/articulos/la-tia-adela/) y [arqueología](/pueblos/conjuntos-historicos/mogarraz/historia/pizarras-visigodas/).
