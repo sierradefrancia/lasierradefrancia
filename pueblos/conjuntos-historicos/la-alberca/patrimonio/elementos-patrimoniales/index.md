@@ -82,6 +82,8 @@ El [ara votiva de La Alberca](/pueblos/conjuntos-historicos/la-alberca/patrimoni
 
 El [marrano de piedra](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/marrano-de-piedra/) recuerda la crianza vecinal del marrano de San Antón. La escultura se atribuye a la Escuela Taller Sierra de Francia y a una inauguración en 1996.
 
+El [busto de Mauricio Legendre](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/busto-mauricio-legendre/) recuerda al hispanista francés vinculado a La Alberca, la Peña de Francia y la investigación geográfica de Las Hurdes.
+
 ## Inscripciones y fechas grabadas
 
 Uno de los testimonios más interesantes de la arquitectura tradicional de La Alberca se encuentra en sus dinteles y fachadas.
