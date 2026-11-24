@@ -5,6 +5,7 @@ parent: Patrimonio
 grand_parent: La Alberca
 nav_order: 3
 has_children: true
+last_modified_at: 2026-11-24
 description: "Iglesias, ermitas y otros espacios del patrimonio religioso de La Alberca: historia, arquitectura, arte y memoria de la comunidad."
 permalink: /pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/
 ---
@@ -28,6 +29,10 @@ Su historia es anterior: las fuentes documentales permiten reconocer la existenc
 La investigación aborda la historia del edificio, su arquitectura, el patronazgo, sus bienes artísticos y las cuestiones documentales todavía abiertas.
 
 ## Ermitas y otros espacios religiosos
+
+### [Ermita del Santo Cristo del Humilladero](./humilladero/)
+
+Humilladero serrano del acceso occidental, con pórtico de columnas jónicas y cierre tradicional de madera. Estudio técnico, identificación catastral y procesión del Jueves Santo.
 
 La Alberca conserva otros testimonios de su historia religiosa, entre ellos las ermitas del Santo Cristo del Humilladero, San Antonio y Majadas Viejas, así como los restos asociados a San Marcos.
 
