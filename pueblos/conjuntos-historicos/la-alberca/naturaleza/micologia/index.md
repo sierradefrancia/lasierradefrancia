@@ -11,6 +11,8 @@ permalink: /pueblos/conjuntos-historicos/la-alberca/naturaleza/micologia/
 
 # Micología de La Alberca
 
+**Estado documental:** síntesis provisional. Las referencias y cifras requieren cotejo directo antes de considerarse verificadas; no se acredita aquí una consulta externa completa.
+
 ## Investigación histórica
 
 María Bausá Alcalde, [Hongos microscópicos de los alrededores de La Alberca (Salamanca)](https://dialnet.unirioja.es/descarga/articulo/2969727.pdf), introducción, documenta una expedición patrocinada por el Jardín Botánico de Madrid al entorno albercano, Peña de Francia, Batuecas y Las Mestas. La autora señala unas cien especies, diez primeras citas españolas y quince propuestas de especies nuevas. Propone además el género Dendroseptoria. Estas son afirmaciones históricas de la autora, no novedades taxonómicas validadas actualmente. Pendiente confirmar fecha bibliográfica, transcribir localidades y matrices por registro y contrastar nombres aceptados. No atribuir al municipio todos los materiales de la expedición.
@@ -33,6 +35,6 @@ La [noticia de declaración del parque micológico](https://micologiacyl.es/noti
 
 ## Continuidad
 
-Consulta de resúmenes y extractos de las fuentes enlazadas: 24-11-2026. Pendiente cotejo íntegro de los catálogos científicos, extracción de localidades, fechas, sustratos y números de colección. No se ha realizado identificación de campo ni actualización nomenclatural. No utilizar esta página para decidir comestibilidad.
+Referencias identificadas en el expediente; cotejo directo pendiente de acreditación.
 
 Relacionar con [vegetación](../vegetacion/), [espacios protegidos](../espacios-protegidos/) y la futura investigación micológica comarcal sin duplicar catálogos.
