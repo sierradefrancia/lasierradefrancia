@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Historia
+title: Historia de la Sierra de Francia
 nav_order: 9
 has_children: true
 description: "Historia de la Sierra de Francia: prehistoria, arte rupestre de Las Batuecas, minería romana, repoblación medieval, señoríos, pueblos, tradiciones y transformaciones contemporáneas."
