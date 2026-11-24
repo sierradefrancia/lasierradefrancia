@@ -597,3 +597,9 @@ El concejo intervenía en su administración y establecía mecanismos para defen
 Aquellas disposiciones reflejan también las desigualdades, las restricciones y las relaciones de poder propias de su época.
 
 **Conocer las ordenanzas no significa idealizar el pasado, sino comprender cómo se organizaba La Alberca y cómo esa organización afectaba a sus habitantes y a los territorios relacionados con ella.**
+
+## Cotejo de la edición de 1930: calendario y espacio urbano
+
+La lectura directa de las ordenanzas I–VI (pp. 383–386) permite distinguir el descanso festivo de una prohibición absoluta de desplazarse. Se contemplaban excepciones para obtener alimentos de las heredades, asistir a romerías y atender necesidades pastoriles. La regulación alcanzaba también molinos, tabernas y juegos en espacios públicos. La ordenanza VI menciona las gradas de la fuente como escenario de una sanción pública, referencia relevante para la [historia de la Plaza Mayor](../../patrimonio/patrimonio-civil/plaza-mayor/), aunque no permite identificar la fábrica actual.
+
+Fuente cotejada el 24-11-2026: [Berrogain, 1930, edición digital, pp. 383–386](https://revistas.mjusticia.gob.es/index.php/AHDE/article/download/5060/5060/4833). Se ha consultado la edición impresa digitalizada, no el manuscrito.
