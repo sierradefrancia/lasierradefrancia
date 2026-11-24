@@ -1,4 +1,5 @@
 ---
+description: "Guía para visitar Sequeros: calles históricas, teatro, santuario del Robledo y patrimonio urbano."
 layout: default
 title: "Visitar Sequeros"
 parent: Sequeros
