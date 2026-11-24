@@ -25,3 +25,11 @@ Alternad paseo y descanso. Los carritos pueden encontrar dificultades en calles 
 [Primera visita](../primera-visita/) · [Paseos](../paseos/)
 
 [Volver a Visitar La Alberca](../)
+
+## Una pequeña expedición por el pueblo
+
+En la Plaza Mayor, buscad tres materiales diferentes: piedra, madera y hierro. Después, intentad descubrir una fecha tallada, un balcón que sobresalga y una fuente de dos caños. En el entorno parroquial, buscad el marrano de piedra y contad la historia de cómo una comunidad comparte responsabilidades. No hace falta encontrar el animal vivo.
+
+Si está abierta, la [Casa Museo Satur Juanela](../../patrimonio/arquitectura-tradicional/casa-satur-juanela/) permite imaginar dónde dormían las familias, cocinaban y guardaban alimentos. Consultad antes los accesos entre plantas.
+
+Para una segunda actividad, elegid un tramo señalizado del [Camino de las Raíces](../senderismo/). Podéis jugar a distinguir hojas de roble y castaño, dibujar una obra de arte o escuchar el bosque durante un minuto. No trepéis a las instalaciones artísticas ni os acerquéis a ruinas inestables. Con niños pequeños, una salida corta y una merienda pueden ser mejor plan que completar la circular.
