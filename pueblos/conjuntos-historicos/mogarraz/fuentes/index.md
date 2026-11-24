@@ -11,7 +11,7 @@ nav_exclude: true
 
 # Fuentes e investigación de Mogarraz
 
-## Fuentes comprobadas directamente el 24-11-2026
+## Fuentes comprobadas directamente durante el cierre del 24-11-2026
 
 - [BOE, Decreto 23/1998](https://www.boe.es/diario_boe/txt.php?id=BOE-A-1998-8051). Texto original completo de la declaración y delimitación. No incorpora el plano del expediente.
 - [Metropolitan Museum, objeto 17.190.142](https://www.metmuseum.org/art/collection/search/464025). Ficha pública: segunda mitad del siglo XI, marfil, 6,2 × 11,2 × 0,9 cm, donación Morgan de 1917. La ficha recuperada no identifica Mogarraz como procedencia. Imágenes señaladas como dominio público.
@@ -28,8 +28,10 @@ Las referencias siguientes son pistas bibliográficas ya presentes en los expedi
 - Argimiro Calama y Rosellón, La villa de Mogarraz y la Fundación Melón (2007), referencia pendiente de cotejo.
 - Joaquín Rodríguez Arzúa, monografía sobre Mogarraz en el siglo XVIII: datos editoriales pendientes de resolver.
 
+- [Fundación Melón](../historia/fundacion-melon/): referencias bibliográficas, testamentarias e institucionales pendientes de cotejo individual.
+
 ## Criterios
 
-Distinguir documento original, transcripción, testimonio, interpretación y pista. No contar republicaciones del mismo texto como fuentes independientes. Una referencia incluida en un artículo no acredita por sí sola la comprobación de su contenido. Las fechas de consulta anteriores requieren evidencia recuperable.
+Distinguir documento original, transcripción, testimonio, interpretación y pista. No contar republicaciones del mismo texto como fuentes independientes. Una referencia incluida en un artículo no acredita por sí sola la comprobación de su contenido. Salvo las dos fichas comprobadas arriba, las declaraciones previas de consulta de los expedientes no disponen de evidencia recuperable suficiente para certificar su verificación. Se mantienen como referencias pendientes de cotejo.
 
 [Historia](../historia/) · [Patrimonio](../patrimonio/) · [Artículos](../articulos/)
