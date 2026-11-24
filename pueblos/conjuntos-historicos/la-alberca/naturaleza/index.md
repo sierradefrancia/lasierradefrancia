@@ -233,6 +233,8 @@ Las ubicaciones exactas de ejemplares sensibles no se difundirán cuando ello pu
 
 ## Otros árboles singulares documentados
 
+La [investigación de vegetación y árboles singulares](./vegetacion/) amplía las referencias de catálogo y distingue las dimensiones históricas, las propuestas de protección y la vigencia administrativa pendiente.
+
 Una relación del catálogo autonómico reproducida en documentación urbanística identifica otros ejemplares situados en La Alberca.
 
 | Árbol | Código de catálogo citado | Identificación |
