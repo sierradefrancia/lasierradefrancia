@@ -28,4 +28,4 @@ Si tienes ocasión de contemplar el traje, fíjate en los materiales y en la dis
 
 No presentaremos el peso de un conjunto concreto como medida de todos los trajes ni atribuiremos significados a motivos que todavía no hemos identificado.
 
-**Referencia:** [Traje de Vistas, expediente del atlas](../../cultura-tradiciones/traje-de-vistas/), con ficha del [Museo del Traje](https://www.cultura.gob.es/mtraje/colecciones/moda-indumentaria/indumentaria-popular/traje-vistas-la-alberca.html). La consulta directa de esta última devolvió un error HTTP 429 el 24-11-2026; los detalles proceden del expediente interno y requieren cotejo.
+**Referencia:** [Traje de Vistas, expediente del atlas](../../cultura-tradiciones/traje-de-vistas/), con ficha del [Museo del Traje](https://www.cultura.gob.es/mtraje/colecciones/moda-indumentaria/indumentaria-popular/traje-vistas-la-alberca.html). Los detalles proceden del expediente interno; la consulta directa de la ficha requiere acreditación.
