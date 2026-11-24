@@ -694,3 +694,7 @@ Detrás de cada rostro hubo una vida, una familia y una relación con el pueblo.
 [Volver a Conjuntos históricos](/pueblos/conjuntos-historicos/)
 
 *La Sierra de Francia · Conocer, comprender, preservar y compartir.*
+
+## Investigar Mogarraz más allá de los retratos
+
+La historia del pueblo incluye las [pizarras de Los Malvanes](./historia/pizarras-visigodas/), el debate sobre el [villazgo](./historia/), el legado educativo de la [Fundación Melón](./historia/fundacion-melon/) y una economía histórica de [arrieros y artesanos](./sociedad-economia/). Los [cuatro barquillos de plata](./patrimonio/cuatro-barquillos/) y el [marfil medieval](./patrimonio/marfil/) permiten seguir trayectorias de bienes muebles diferentes. La [memoria visual](./memoria-visual/) reúne antecedentes fotográficos y el archivo de 1967; el [Camino del Agua](./paisaje-y-caminos/) amplía la lectura hacia Monforte de la Sierra.
