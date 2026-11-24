@@ -45,3 +45,18 @@ Todos los commits confirmados por GitHub. Validación de compilación, HTML/JSON
 - 2a166e28: corrección de recuento y normalización de enlaces.
 
 Validación externa: no se pudo recuperar portada, llms.txt ni sitemap.xml mediante la herramienta web. La consulta de estados y ejecuciones del conector no devolvió registros; no acredita éxito ni fallo del despliegue. Pendiente obtener artefacto seo-audit de Actions, revisar hallazgos, comprobar HTML público y consultar Search Console. No se han medido mejoras de tráfico, ranking ni Core Web Vitals. No cerrar el plan hasta disponer de evidencia suficiente.
+
+
+## Escalabilidad territorial — decisión 2026-11-24
+
+La Alberca es el pueblo piloto, no un modelo de contenido obligatorio. El atlas está en construcción. Priorizar soluciones globales reutilizables y evaluar el piloto antes de extenderlas a los otros conjuntos históricos y pueblos.
+
+- Nivel global: automatizar metadatos, inventario de URLs, validación de enlaces, sitemap, entidades y auditoría de compilación.
+- Nivel piloto: validar jerarquía, títulos inequívocos, inventarios patrimoniales, expedientes, fuentes y estados epistémicos de La Alberca.
+- Nivel expansión: reutilizar criterios y estructura cuando proceda, sin imponer secciones vacías ni contenidos artificiales.
+- Preservar URLs y referencias jerárquicas; cualquier cambio de títulos debe comprobar parent y grand_parent.
+- Registrar last_modified_at únicamente cuando exista evidencia de actualización sustantiva; no confundir compilación con revisión editorial.
+- Evaluar calidad y escalabilidad en cada nueva publicación. No considerar la ausencia de contenido futuro una incidencia SEO por sí misma.
+- La auditoría final de esta fase debe distinguir incidencias técnicas, avisos editoriales y trabajo de expansión pendiente.
+
+Principio: estandarizar la metodología, no uniformar el conocimiento.
