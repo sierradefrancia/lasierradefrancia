@@ -3,7 +3,7 @@ layout: default
 title: "Visitar Mogarraz"
 parent: Mogarraz
 grand_parent: Conjuntos históricos
-nav_order: 13
+nav_order: 8
 has_children: true
 last_modified_at: 2026-11-24
 description: "Visitar Mogarraz: propuestas de visita y conocimiento del pueblo."
