@@ -57,3 +57,11 @@ Extractos recuperados el 24-11-2026. Pendientes: libro de Puerto, inventario dio
 Vicente de la Fuente describe una casulla de tejido carmesí con bordado dorado y recoge la tradición de su confección a partir de una prenda de Juan II. La fecha de 1455 que atribuye al episodio es incompatible con la muerte del monarca en 1454. La descripción material y la atribución histórica deben evaluarse por separado. No se ha identificado aquí la ubicación actual de la pieza.
 
 Fuente cotejada el 24-11-2026: Vicente de la Fuente, *Expedición científica y artística a la Sierra de Francia*, BRAH 3 (1883), pp. 165–167, [edición digital](https://www.cervantesvirtual.com/obra-visor/boletin-de-la-real-academia-de-la-historia--23/html/02531a66-82b2-11df-acc7-002185ce6064_49.html). Consulta del pasaje publicado, no de los objetos ni manuscritos originales.
+
+## Bienes parroquiales y devoción doméstica
+
+Los diez registros notariales de cruces de Santo Toribio entre 1670 y 1824 permiten estudiar combinaciones con rosarios, medallas y otros adornos. Las valoraciones de 20, 50 y 60 reales corresponden a conjuntos distintos; no forman una serie de precios comparable de una misma pieza. La relación con el [traje de vistas](../../../cultura-tradiciones/traje-de-vistas/) debe investigarse mediante inventarios y ejemplares identificados.
+
+Los [barquillos de Mogarraz](/pueblos/conjuntos-historicos/mogarraz/patrimonio/cuatro-barquillos/) ofrecen un contraste comarcal de propiedad concejil frente a bienes parroquiales y particulares. No se deduce una procedencia común de los talleres.
+
+*Síntesis del corpus documental existente; sin nuevo cotejo externo en esta ampliación.*
