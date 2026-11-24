@@ -1,0 +1,3 @@
+# Miranda del Castañar — control documental
+
+2026-11-24. La ficha municipal de Diputación (https://www.lasalina.es/Aplicaciones/GestorInter.jsp?codMunicipio=193&funcion=MuestraInformacionMunicipio&prestacion=Cipublico) cuenta con extracto recuperado en esta sesión. Las referencias de bloques anteriores y sus declaraciones de consulta requieren cotejo reproducible; no se certifican por existir en Markdown. Prioridades: decreto íntegro, catálogo fortificado, diplomas medievales, ordenanzas, Catastro local, datos INE, cartografía y protección ambiental. Búsqueda catastral de hoy sin resultado local pertinente. No crear páginas de relleno ni afirmar despliegue no comprobado.
