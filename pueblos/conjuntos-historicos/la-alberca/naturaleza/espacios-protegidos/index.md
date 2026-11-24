@@ -33,7 +33,7 @@ La [propuesta de medidas de gestión de la reserva del Batuecas](https://www.mit
 
 ## Laguna de San Marcos
 
-La [documentación turística comarcal](https://www.sierrasdesalamanca.es/la-alberca/) identifica la laguna como zona húmeda catalogada. El [BOE-B-2025-24706](https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-24706) confirma la ubicación municipal de la actuación hidráulica O-0165/2025, parcela 193 del polígono 5. El anuncio no acredita catalogación ambiental ni ejecución. Pendiente localizar asiento y norma autonómicos vigentes.
+La [documentación turística comarcal](https://www.sierrasdesalamanca.es/la-alberca/) identifica la laguna como zona húmeda catalogada. El [BOE-B-2025-24706](https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-24706) confirma la ubicación municipal de la actuación hidráulica O-0165/2025, parcela 193 del polígono 5. El anuncio no acredita catalogación ambiental ni ejecución. El [informe ambiental preliminar del Programa de Desarrollo Rural Sostenible 2010–2014](https://frmpcyl.es/wp-content/uploads/2018/01/NOR_17012011DRS.pdf) recoge la Laguna de San Marcos como zona húmeda catalogada SA-09. Es evidencia administrativa histórica; pendiente localizar asiento y norma autonómicos vigentes.
 
 ## Límites y continuidad
 
