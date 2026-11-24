@@ -31,3 +31,7 @@ El museo señala predominio de coral y plata, medallas, relicarios, crucifijos y
 Pendiente: inventario de piezas individuales, cronología, variantes nupciales, comparación con otras localidades, licencias de imágenes.
 
 Consulta documental: 24-11-2026. Investigación abierta.
+
+## Ámbito territorial
+
+Este estudio se limita al conjunto albercano y sus usos documentados. La comparación de indumentaria, joyería y bordado entre pueblos corresponde a [Patrimonio y cultura de la Sierra de Francia](/patrimonio/). No se presupone exclusividad de las técnicas o motivos.
