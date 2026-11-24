@@ -5,6 +5,7 @@ parent: Artículos
 grand_parent: La Alberca
 nav_order: 22
 last_modified_at: 2026-11-24
+description: "Qué revela el expediente hidráulico de 2025 sobre la conservación de la laguna de San Marcos."
 permalink: /pueblos/conjuntos-historicos/la-alberca/articulos/el-agua-que-necesita-cuidados/
 ---
 
@@ -23,5 +24,9 @@ El anuncio no acredita que las obras fueran autorizadas o realizadas. Tampoco pe
 Junto al entorno de la antigua ermita, el agua nos recuerda que patrimonio y naturaleza no son dos mundos separados. La conservación requiere conocer tanto los procesos ecológicos como las decisiones humanas.
 
 Si visitas San Marcos, observa desde los caminos y respeta los márgenes. El interés de la laguna no depende de acercarnos al máximo.
+
+## Del anuncio al seguimiento
+
+El expediente fue promovido por el Servicio Territorial de Medio Ambiente de Salamanca y abrió un mes de exposición pública. La fecha de publicación permite identificar una etapa del procedimiento, no su resolución. El siguiente paso documental consiste en localizar la autorización, si existe, y las condiciones técnicas y ambientales aplicables. Una comparación fotográfica fechada podría complementar esa documentación, pero no sustituirla.
 
 **Fuente directa:** [BOE-B-2025-24706, expediente O-0165/2025](https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-24706), consultado el 24-11-2026. [Hidrografía](../../geografia-territorio/hidrografia/).
