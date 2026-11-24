@@ -78,4 +78,6 @@ La cronología también importa: la intervención de la comisión sanitaria en 1
 
 La tesis original, la correspondencia, el acuerdo municipal de nombramiento y el expediente del busto quedan pendientes de examen directo. Esta monografía no constituye una biografía exhaustiva.
 
+[Personajes históricos de la Sierra de Francia](/personajes/): línea de investigación sobre Maurice Legendre.
+
 [Volver a Elementos patrimoniales](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/).
