@@ -4,6 +4,7 @@ title: "Patrimonio de Sequeros"
 parent: Sequeros
 grand_parent: Conjuntos históricos
 nav_order: 3
+has_children: true
 last_modified_at: 2026-11-24
 permalink: /pueblos/conjuntos-historicos/sequeros/patrimonio/
 ---
@@ -12,12 +13,12 @@ permalink: /pueblos/conjuntos-historicos/sequeros/patrimonio/
 
 Inventario inicial, no exhaustivo. Los identificadores distinguen edificios, espacios y bienes; no equivalen a declaraciones BIC individuales.
 
-- SEQ-PAT-001: Robledo
+- SEQ-PAT-001: [Robledo](./robledo/)
 - SEQ-PAT-002: Humilladero del Cristo de las Batallas
 - SEQ-PAT-003: Iglesia parroquial
 - SEQ-PAT-004: Casas del Concejo
 - SEQ-PAT-005: Torre y reloj
-- SEQ-PAT-006: Teatro del Liceo
+- SEQ-PAT-006: [Teatro del Liceo](./teatro/)
 - SEQ-PAT-007: Calvario
 - SEQ-PAT-008: Plaza del Altozano
 - SEQ-PAT-009: Plaza de Eloy Bullón
