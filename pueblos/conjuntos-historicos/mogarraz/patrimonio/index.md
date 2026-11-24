@@ -25,7 +25,7 @@ permalink: /pueblos/conjuntos-historicos/mogarraz/patrimonio/
 
 ## Patrimonio por localizar
 
-Antonio Cea Gutiérrez menciona una plaqueta de marfil atribuida al siglo XI en su pregón de 2011, publicado en [La Peña de Mogarraz de 2012](https://mogarraz.es/_mgz_pdf/mogarraz_2012.pdf). La ficha del Metropolitan Museum y la procedencia están pendientes de identificación. Extracto localizado el 24-11-2026.
+Antonio Cea Gutiérrez menciona una plaqueta de marfil atribuida al siglo XI en su pregón de 2011, publicado en [La Peña de Mogarraz de 2012](https://mogarraz.es/_mgz_pdf/mogarraz_2012.pdf). El expediente específico recoge una identificación museística propuesta; su procedencia completa sigue pendiente de cotejo. Extracto localizado el 24-11-2026.
 
 ## Iglesia y torre
 
