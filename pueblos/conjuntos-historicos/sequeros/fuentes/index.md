@@ -46,3 +46,10 @@ Texto oficial íntegro de incoación 2002 recuperado; extractos de la RAH (1883)
 - SEQ-FUE-015: [Humilladero](https://www.jcyl.es/jcyl/patrimoniocultural/TERPAT/SantuariosErmitasHumilladeros/index_htm_files/42-Humilladero%2C%20Sequeros.pdf).
 - SEQ-FUE-016: [Cortes, 2004](https://sirdoc.ccyl.es/Sirdoc/PDF/PUBLOFI/BO/CCL/6L/BOCCL6L00091A.pdf).
 - SEQ-FUE-017: [Plan especial municipal](https://www.sequeros.es/urbanismo/2-PEPCH-SEQUEROS/TEXTO/PEPCH%20SEQUEROS%20MEMORIA%20Y%20NORMATIVA%20AI.pdf).
+
+## Bloque urbano — 24-11-2026
+
+Cotejados extractos BOE 2002, guía provincial apartado 6, memoria PEPCH 2015 y [plano P2](https://www.sequeros.es/urbanismo/2-PEPCH-SEQUEROS/PLANOS/P2%20SEQUEROS%20PEPCH%20AI%20PROTECCION%20PATRIMONIO.pdf), abril 2015, 1:1000. Localizada [reproducción jurídica del acuerdo 2004](https://noticias.juridicas.com/base_datos/CCAA/cl-res190704-1.html), pendiente cotejo oficial íntegro. Pendientes plano Coello original, fotografías y licencias.
+
+- SEQ-FUE-018: plano P2, enlace anterior.
+- SEQ-FUE-019: reproducción jurídica del acuerdo 2004, enlace anterior.
