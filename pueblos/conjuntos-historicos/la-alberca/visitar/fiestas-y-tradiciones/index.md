@@ -22,3 +22,19 @@ Si coincides con la Moza de Ánimas, recuerda que estás ante una práctica devo
 No organizamos estas costumbres como espectáculos a demanda. Los horarios y celebraciones pueden cambiar. Consulta el [Ayuntamiento](https://laalberca.com/) y respeta las indicaciones locales.
 
 [Volver a Visitar La Alberca](../)
+
+## Cuándo venir si te interesan las tradiciones
+
+| Momento habitual | Qué descubrir |
+|---|---|
+| Enero | San Antón y el destino comunitario del marrano |
+| Lunes de Pascua | Pendón y memoria concejil |
+| Lunes siguiente | Trago y hospitalidad ceremonial |
+| Sábado anterior a Pentecostés | Romería de Majadas Viejas |
+| Corpus | Textiles en balcones y procesión |
+| 15 de agosto | Diagosto y ofrendas |
+| 16 de agosto | Representación de la Loa en el entorno parroquial |
+
+El [calendario municipal](https://laalberca.com/fiestas/) y la [ficha del Diagosto](https://laalberca.com/tradiciones/diagosto/) son las referencias para preparar el viaje; consulta los programas de cada año. En agosto, conocer previamente el [traje de vistas](../../cultura-tradiciones/traje-de-vistas/) y [la Loa](../../cultura-tradiciones/loa/) ayuda a interpretar los detalles. Durante el Corpus, fíjate en cómo el mobiliario textil doméstico transforma las fachadas. No bloquees recorridos ni conviertas la oración en una sesión fotográfica.
+
+Fuentes municipales consultadas el 24 de noviembre de 2026.
