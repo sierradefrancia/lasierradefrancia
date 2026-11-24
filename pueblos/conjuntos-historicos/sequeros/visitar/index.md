@@ -16,3 +16,7 @@ La guía provincial propone un recorrido por Altozano, teatro, Infiernillo, Eloy
 
 - [Resolución de 2002](https://boe.es/diario_boe/txt.php?id=BOE-A-2002-13556).
 - [Guía urbana provincial](https://www.lasalina.es/m/ru/sequeros/qr-espa/pdf/sequeros-ES.pdf).
+
+## Una lectura del pueblo a pie
+
+Comenzar por [Altozano y Eloy Bullón](../patrimonio/plazas/), continuar por el [Concejo](../patrimonio/concejo/) y el [teatro](../patrimonio/teatro/), y dedicar otro tramo al [Barrero y Cabezuela](../patrimonio/barrero-cabezuela/). El [Robledo](../patrimonio/robledo/) y el [Humilladero](../patrimonio/humilladero/) permiten completar la lectura religiosa. Consultar localmente accesos y horarios; la propuesta no presupone apertura de interiores.
