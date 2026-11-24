@@ -1,13 +1,13 @@
 # Seguimiento editorial de conjuntos históricos
 
-Corte verificable: 37be852f423966811ae55427143c65216ec92f18
+Corte verificable: cf8c363007a72de52714af9c3612a84f429034fd
 Base del ciclo: 5d36dd2ed27285a5b0b02885e2909821c708c520
 
 Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No equivale a validación científica ni técnica. Excluir gestión y personajes del denominador territorial.
 
 | Pueblo | Rutas modificadas | Total existente |
 |---|---:|---:|
-| la-alberca | 122 | 142 |
+| la-alberca | 130 | 142 |
 | miranda-del-castanar | 32 | 32 |
 | mogarraz | 39 | 39 |
 | san-martin-del-castanar | 26 | 26 |
@@ -42,7 +42,15 @@ Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No
 - articulos/los-arboles-y-el-tiempo/index.md
 - articulos/mas-alla-del-turismo/index.md
 - articulos/mirar-hacia-arriba/index.md
+- articulos/proteger-un-pueblo-habitado/index.md
+- articulos/puerto-y-la-memoria/index.md
+- articulos/regresar-en-otono/index.md
+- articulos/un-dia-de-septiembre-de-1515/index.md
 - articulos/un-edificio-muchas-vidas/index.md
+- articulos/un-lugar-para-recordar/index.md
+- articulos/un-mundo-invisible/index.md
+- articulos/un-pueblo-cuando-llueve/index.md
+- articulos/un-pueblo-de-tejedores/index.md
 - conjunto-historico/index.md
 - cultura-tradiciones/ciclo-vital/index.md
 - cultura-tradiciones/corpus/index.md
@@ -139,8 +147,23 @@ Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No
 - visitar/segun-tu-tiempo/index.md
 - visitar/senderismo/index.md
 
+## Pendientes
+
+- articulos/index.md
+- articulos/un-pueblo-no-es-un-censo/index.md
+- articulos/una-hora-sin-prisa/index.md
+- articulos/una-pregunta-para-llevarse/index.md
+- articulos/vestirse-de-memoria/index.md
+- articulos/volver-a-la-alberca/index.md
+- historia/articulos/la-alberca-1791-epidemia-hambre-impuestos/index.md
+- historia/articulos/la-guerra-que-llego-a-la-alberca/index.md
+- historia/articulos/las-mujeres-y-el-camino-a-granadilla/index.md
+- historia/articulos/los-mayordomos-del-concejo/index.md
+- index.md
+- valor-global/index.md
+
 ## Procedimiento
 
 Comparar desde base fija hasta HEAD; comprobar límite API de 300 archivos y comparar árboles si se alcanza. No sumar manualmente. Los cambios revertidos no cuentan como diferencias netas. Pendiente auditoría de enlaces y fuentes.
 
-Bloques 39–41: veinticuatro artículos divulgativos ampliados mediante expedientes existentes; sin nuevo cotejo externo. Bloque 38: separación de guía local y comarcal.
+Bloques 39–42: treinta y dos artículos divulgativos ampliados mediante expedientes existentes; sin nuevo cotejo externo. Bloque 38: separación de guía local y comarcal.
