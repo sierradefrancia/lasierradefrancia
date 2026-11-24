@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: "La guerra que llegó a La Alberca"
 parent: "Artículos de Historia"
@@ -428,3 +429,13 @@ La consulta de las actas originales permitirá ampliar, matizar o corregir esta 
 ---
 
 [Volver a Historia de La Alberca](/pueblos/conjuntos-historicos/la-alberca/historia/)
+
+## Las huellas administrativas de la guerra
+
+El expediente de historia local relaciona los acuerdos de 1704 sobre aportación de vigas para instalaciones militares en Salamanca con otras obligaciones de abastecimiento. La especie de madera utilizada no está demostrada: el conocimiento de la carpintería tradicional no permite identificar automáticamente aquellas vigas como castaño.
+
+Estas obligaciones deben estudiarse junto con las cuentas municipales. Una orden de suministro no demuestra que se entregara íntegramente lo solicitado ni permite calcular su coste efectivo. Las actas identificadas por Cabezas constituyen el punto de partida para distinguir acuerdos, entregas y compensaciones.
+
+[Conflictos y crisis](../../conflictos-crisis/) · [Concejo y ordenanzas](../../concejo-ordenanzas/).
+
+*Ampliación a partir de expedientes existentes; sin nuevo cotejo externo.*
