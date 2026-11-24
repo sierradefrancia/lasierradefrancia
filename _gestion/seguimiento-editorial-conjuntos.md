@@ -1,13 +1,13 @@
 # Seguimiento editorial de conjuntos históricos
 
-Corte verificable: 11e8c976da84dc11279604550be0bb653ee7fa0e
+Corte verificable: 8ed9544c86bcfe7205132b154d450b84dca5f983
 Base del ciclo: 5d36dd2ed27285a5b0b02885e2909821c708c520
 
 Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No equivale a validación científica ni técnica. Excluir gestión y personajes del denominador territorial.
 
 | Pueblo | Rutas modificadas | Total existente |
 |---|---:|---:|
-| la-alberca | 80 | 142 |
+| la-alberca | 85 | 142 |
 | miranda-del-castanar | 32 | 32 |
 | mogarraz | 39 | 39 |
 | san-martin-del-castanar | 26 | 26 |
@@ -96,9 +96,14 @@ Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No
 - patrimonio/patrimonio-religioso/san-antonio/index.md
 - patrimonio/patrimonio-religioso/san-blas/index.md
 - patrimonio/patrimonio-religioso/san-marcos/index.md
+- sociedad-economia/demografia/index.md
+- sociedad-economia/economia-tradicional/index.md
+- sociedad-economia/index.md
+- sociedad-economia/trabajo-renta/index.md
+- sociedad-economia/turismo-economia/index.md
 
 ## Procedimiento
 
 Comparar desde base fija hasta HEAD; comprobar límite API de 300 archivos y comparar árboles si se alcanza. No sumar manualmente. Los cambios revertidos no cuentan como diferencias netas. Pendiente auditoría de enlaces y fuentes.
 
-Bloque 35: doce archivos de geografía y naturaleza, integración de referencias existentes sin nuevo cotejo externo. Conservados 46 registros geográficos y 41 naturalistas.
+Bloque 36: cinco archivos de sociedad y economía; cálculos derivados del corpus existente, sin nuevo cotejo externo.
