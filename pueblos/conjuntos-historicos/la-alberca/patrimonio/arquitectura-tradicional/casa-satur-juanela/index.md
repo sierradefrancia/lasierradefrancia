@@ -1,4 +1,5 @@
 ---
+description: "Casa Museo Satur Juanela de La Alberca: distribución de la vivienda serrana, espacios de trabajo y memoria doméstica."
 layout: default
 title: Casa Museo Satur Juanela
 parent: Arquitectura tradicional
