@@ -13,3 +13,7 @@ permalink: /pueblos/conjuntos-historicos/villanueva-del-conde/visitar/
 La lectura del casco puede comenzar por las plazas del Obispo y las Eras y continuar por el perímetro edificado y los accesos señalizados. Las huertas son parcelas vinculadas a viviendas: no presumir libre acceso. No comprobados horarios ni accesibilidad.
 
 [Declaración oficial](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2397) · [Incoación](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-568).
+
+## Arte y caminos
+
+ACEVIN incluye el Camino de los Prodigios entre los atractivos locales. Pendiente ficha oficial con trazado, distancia, obras y autores. No confundir con Bosque de los Espejos. [Referencia](https://www.acevin.es/villanueva-del-conde).
