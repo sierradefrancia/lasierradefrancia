@@ -312,6 +312,9 @@ Aquí interesa su relación con la memoria histórica de las crisis.
 
 ---
 
+
+El estudio de [Cano Herrera y Sanz García (1989), pp. 67–84](https://uvadoc.uva.es/handle/10324/42925) confirma la identidad bibliográfica del estudio etnográfico. Sus recuerdos sanitarios deben contrastarse con defunciones; no constituyen series demográficas independientes. Véase [ciclo vital](../../cultura-tradiciones/ciclo-vital/).
+
 ## 8. Las epidemias del siglo XIX: una investigación pendiente
 
 Salamanca sufrió distintas epidemias de cólera durante el siglo XIX.
@@ -511,8 +514,3 @@ Ambos episodios muestran la importancia del concejo como institución de represe
 También recuerdan los límites de las fuentes: las autoridades dejaron constancia de determinadas necesidades, pero no siempre conocemos la experiencia individual de quienes las padecieron.
 
 **Investigar las crisis históricas de La Alberca significa identificar sus consecuencias reales, reconocer lo que todavía desconocemos y evitar que los acontecimientos generales sustituyan a la historia concreta del pueblo.**
-
-
-## Conexiones documentales y actualización
-
-La ficha universitaria de [Cano Herrera y Sanz García (1989), pp. 67–84](https://uvadoc.uva.es/handle/10324/42925) confirma la identidad bibliográfica del estudio etnográfico. Sus recuerdos sanitarios deben contrastarse con defunciones; no constituyen series demográficas independientes. Véase [ciclo vital](../../cultura-tradiciones/ciclo-vital/).
