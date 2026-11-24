@@ -1,4 +1,5 @@
 ---
+description: "Conservación de la arquitectura tradicional de La Alberca: rehabilitación, protección urbanística, materiales y continuidad residencial."
 layout: default
 title: Conservación y transformación
 parent: Arquitectura tradicional
