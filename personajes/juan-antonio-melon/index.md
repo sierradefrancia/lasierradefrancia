@@ -1,4 +1,5 @@
 ---
+description: "Juan Antonio Melón González (1758–1843), intelectual ilustrado nacido en Mogarraz, juez de imprentas y promotor de un legado educativo."
 layout: default
 title: Juan Antonio Melón
 parent: Personajes históricos
