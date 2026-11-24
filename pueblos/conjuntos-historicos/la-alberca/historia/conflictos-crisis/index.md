@@ -514,3 +514,9 @@ Ambos episodios muestran la importancia del concejo como institución de represe
 También recuerdan los límites de las fuentes: las autoridades dejaron constancia de determinadas necesidades, pero no siempre conocemos la experiencia individual de quienes las padecieron.
 
 **Investigar las crisis históricas de La Alberca significa identificar sus consecuencias reales, reconocer lo que todavía desconocemos y evitar que los acontecimientos generales sustituyan a la historia concreta del pueblo.**
+
+## Comparar las respuestas institucionales
+
+Las obligaciones militares de principios del XVIII y el poder otorgado en junio de 1791 muestran mecanismos diferentes de actuación concejil: cumplimiento de requerimientos externos y negociación de obligaciones fiscales. El documento de 1791 expresa los argumentos de los solicitantes; no constituye una serie independiente de mortalidad ni acredita el éxito de la negociación. Los nombres de los representantes permiten buscar poderes, correspondencia y cuentas posteriores. Véase [la crisis de 1791](../articulos/la-alberca-1791-epidemia-hambre-impuestos/).
+
+*Integración del corpus existente; sin nuevo cotejo externo.*
