@@ -11,6 +11,8 @@ permalink: /pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/
 
 # Las antiguas escuelas de La Alberca
 
+**Identificador patrimonial:** ALB-PAT-028.
+
 La historia escolar albercana comprende tanto las instituciones docentes como los inmuebles que las acogieron. Una nueva construcción no equivale necesariamente a la creación de una escuela.
 
 ## Antecedentes en la Plaza Mayor
