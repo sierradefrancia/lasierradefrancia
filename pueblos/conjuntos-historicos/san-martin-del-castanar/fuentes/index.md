@@ -54,3 +54,13 @@ SMC-FUE-010: extractos del artículo de Herrera-Vicente (2024) cotejados el 24-1
 ## Comprobación con extractos disponibles
 
 24-11-2026: recuperados en esta sesión SMC-FUE-008 (PARES: donación, aprobación capitular, gramática y comunidad), SMC-FUE-003 (extracto sobre castillo, convento y advocaciones), SMC-FUE-010 (artículo de Herrera-Vicente: descripción, donación, hipótesis estilística y conservación en Mogarraz) y SMC-FUE-011 (debate parlamentario: fecha alternativa de gramática). No se extiende la certificación a otros pasajes ni referencias. BOE pendiente de cotejo en esta sesión.
+
+## Cotejo de extractos: nuevo bloque
+
+- SMC-FUE-014. [Boletín Oficial del Obispado de Salamanca, 2-5-1856, n.º 9, p. 158](https://summa.upsa.es/high.raw?attachment=Bolet%C3%ADn+Oficial+del+Obispado+de+Salamanca.+2%2F5%2F1856%2C+n.%C2%BA+9.pdf&id=0000008201&name=00000001.original.pdf): cronología alternativa 1450/1457 y noticia diplomática sobre Sancho. Fuente retrospectiva.
+- SMC-FUE-015. [Orígenes históricos y pervivencia de «a fala», Alcántara 68, p. 89](https://archivo.dip-caceres.es/wp-content/uploads/2024/01/04-068-005-orxgenes.pdf): donación atribuida a Alfonso IX y distinción toponímica. Identificación bibliográfica completa y diploma pendientes.
+- SMC-FUE-008: extracto PARES autoridad 6087 recuperado: fechas institucionales 1430–1835, donación y aprobación, estudios 1537, provincia 1548 y cifras 1591/1771.
+- SMC-FUE-010: recuperados resumen editorial y extractos de pp. 49 y siguientes de Herrera-Vicente; referencias a González Dávila y Santa Cruz pendientes de lectura original.
+- SMC-FUE-011: extracto del diario parlamentario recuperado; testimonio retrospectivo, no prueba contemporánea medieval.
+
+Fecha de consulta: 24-11-2026. No se certifican otras consultas anteriores ni lecturas íntegras.
