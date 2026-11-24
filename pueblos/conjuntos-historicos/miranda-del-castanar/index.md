@@ -35,7 +35,11 @@ Conocer Miranda significa descubrir cómo la geografía, las necesidades defensi
 - [Patrimonio](./patrimonio/).
 - [Cultura y tradiciones](./cultura-tradiciones/).
 - [Geografía y territorio](./geografia-territorio/).
+- [Naturaleza](./naturaleza/).
 - [Sociedad y economía](./sociedad-economia/).
+- [Visitar Miranda](./visitar/).
+- [Artículos](./articulos/).
+- [Miranda en su conjunto](./valor-global/).
 
 ## Información general
 
