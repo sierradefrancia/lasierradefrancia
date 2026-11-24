@@ -1,4 +1,5 @@
 ---
+description: "Sequeros en 1756: documentación histórica y contexto de su transformación jurisdiccional."
 layout: default
 title: "1756: cuando Sequeros dejó de depender de Miranda"
 parent: "Artículos de Sequeros"
