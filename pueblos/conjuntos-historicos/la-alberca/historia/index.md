@@ -323,3 +323,8 @@ Los documentos conservados permiten recuperar una parte de esa trayectoria. Otro
 ## Conexiones documentales y actualización
 
 La historia se complementa con el [inventario patrimonial](../patrimonio/inventario/), el [ciclo vital](../cultura-tradiciones/ciclo-vital/) y el [archivo sonoro](../cultura-tradiciones/fuentes-sonoras/). La [provisión de 1547 publicada por el Ayuntamiento](https://laalberca.com/tradiciones/dia-del-pendon/) añade una vía documental para estudiar el pendón y la financiación concejil de las romerías; su original sigue pendiente.
+
+
+## Avance documental — 24 de noviembre de 2026
+
+La documentación catastral de 1753 y el decreto publicado el 18 de septiembre de 1940 cuentan ahora con referencias más precisas en [Documentos y cronología](./documentos-cronologia/).
