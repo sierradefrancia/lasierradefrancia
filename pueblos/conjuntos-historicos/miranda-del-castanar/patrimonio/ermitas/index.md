@@ -1,4 +1,5 @@
 ---
+description: "Las ermitas de Miranda del Castañar: patrimonio religioso, emplazamientos y tradiciones locales."
 layout: default
 title: "Ermitas y acueducto"
 parent: "Patrimonio de Miranda del Castañar"
