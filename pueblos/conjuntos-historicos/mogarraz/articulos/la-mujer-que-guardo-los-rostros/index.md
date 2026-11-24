@@ -1,4 +1,5 @@
 ---
+description: "La conservación de la memoria fotográfica de Mogarraz y las personas que hicieron posible su transmisión."
 layout: default
 title: "La mujer que guardó los rostros"
 parent: Artículos de Mogarraz
