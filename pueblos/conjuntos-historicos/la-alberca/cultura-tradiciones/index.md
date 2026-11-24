@@ -63,7 +63,7 @@ No debe confundirse la antigüedad atribuida a sus orígenes con la fecha de los
 
 ---
 
-## Diagosto: las fiestas de la Asunción
+## [Diagosto y Ofertorio](./diagosto/): las fiestas de la Asunción
 
 Las fiestas patronales de La Alberca se celebran en torno al **15 de agosto**, festividad de Nuestra Señora de la Asunción.
 
@@ -93,7 +93,7 @@ La interpretación de su origen histórico requerirá fuentes específicas.
 
 ---
 
-## La Moza de Ánimas
+## [La Moza de Ánimas](./moza-de-animas/)
 
 La **Moza de Ánimas** es una de las tradiciones religiosas más características de La Alberca.
 
@@ -198,7 +198,7 @@ La investigación local estudiará su presencia en la indumentaria y los textile
 
 ---
 
-## El Día del Pendón y el Día del Trago
+## [El Día del Pendón y el Día del Trago](./pendon-y-trago/)
 
 El **Día del Pendón** forma parte del calendario tradicional de La Alberca y se celebra el lunes de Pascua.
 
@@ -237,7 +237,7 @@ La documentación local la relaciona con el ciclo de Pentecostés.
 
 Su estudio deberá abordar el itinerario, los actos religiosos, las danzas, los encuentros comunitarios y la evolución de las fechas de celebración.
 
-### Corpus Christi
+### [Corpus Christi](./corpus/)
 
 El Corpus Christi constituye otra manifestación relevante del calendario festivo.
 
