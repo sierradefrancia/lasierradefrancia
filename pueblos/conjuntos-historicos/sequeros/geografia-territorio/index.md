@@ -1,4 +1,5 @@
 ---
+description: "Geografía de Sequeros: emplazamiento, relieve, caminos y relaciones con los pueblos de la Sierra de Francia."
 layout: default
 title: "Geografía y territorio de Sequeros"
 parent: Sequeros
