@@ -1,4 +1,5 @@
 ---
+description: "Arquitectura tradicional de Sequeros: viviendas serranas, entramados y configuración de sus calles."
 layout: default
 title: "Arquitectura doméstica"
 parent: "Patrimonio de Sequeros"
