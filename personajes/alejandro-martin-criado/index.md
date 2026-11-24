@@ -1,4 +1,5 @@
 ---
+description: "Alejandro Martín Criado y el archivo fotográfico de 1967 de Mogarraz, origen documental de la memoria visual del pueblo."
 layout: default
 title: "Alejandro Martín Criado"
 parent: Personajes históricos
