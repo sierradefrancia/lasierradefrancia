@@ -1,4 +1,5 @@
 ---
+description: "El vocabulario tradicional de La Alberca, los estudios lingüísticos de Puerto y Serrano y las palabras de la vida doméstica."
 layout: default
 title: "Las palabras que guardaban el mundo"
 parent: Artículos
