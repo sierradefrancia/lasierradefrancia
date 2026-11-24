@@ -4,7 +4,8 @@ title: Sequeros
 parent: Conjuntos históricos
 grand_parent: Pueblos
 nav_order: 5
-has_children: false
+has_children: true
+last_modified_at: 2026-11-24
 description: "Descubre Sequeros, en la Sierra de Francia: conjunto histórico, arquitectura serrana, Virgen del Robledo, Moza Santa, León Felipe, teatro, historia y naturaleza."
 permalink: /pueblos/conjuntos-historicos/sequeros/
 ---
@@ -26,6 +27,18 @@ A ello se suma una trayectoria cultural singular, representada por su teatro his
 Su emplazamiento, rodeado de bosques y con amplias vistas hacia las montañas, completa un conjunto de gran interés.
 
 ---
+
+## Explorar Sequeros
+
+- [Historia de Sequeros](./historia/)
+- [Conjunto histórico de Sequeros](./conjunto-historico/)
+- [Patrimonio de Sequeros](./patrimonio/)
+- [Cultura y tradiciones de Sequeros](./cultura-tradiciones/)
+- [Geografía y territorio de Sequeros](./geografia-territorio/)
+- [Sociedad y economía de Sequeros](./sociedad-economia/)
+- [Visitar Sequeros](./visitar/)
+- [Sequeros en su conjunto](./valor-global/)
+- [Fuentes de Sequeros](./fuentes/)
 
 ## Información general
 
@@ -383,7 +396,7 @@ El Teatro León Felipe ocupa un lugar destacado en la vida cultural del pueblo.
 
 El origen del teatro se remonta al siglo XIX.
 
-La documentación local sitúa su inauguración en 1872.
+La guía provincial sitúa su construcción en 1872; el anexo de incoación de 2002 indica 1875. La fecha exacta de inauguración queda pendiente.
 
 Su existencia refleja la importancia cultural y social que alcanzó Sequeros durante aquella época.
 
