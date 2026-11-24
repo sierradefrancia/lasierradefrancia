@@ -64,6 +64,8 @@ Su emplazamiento elevado permite comprender la importancia estratégica que tuvo
 
 ## Miranda del Castañar, Conjunto Histórico
 
+[Investigación específica](./conjunto-historico/)
+
 Miranda del Castañar fue declarada Conjunto Histórico-Artístico en 1973.
 
 Este reconocimiento protege los valores históricos, arquitectónicos y urbanos de la villa.
@@ -91,6 +93,8 @@ Su conservación debe entenderse como un proceso continuo, compatible con las ne
 ---
 
 ## Historia de Miranda del Castañar
+
+[Investigación específica](./historia/)
 
 ### El origen medieval de la villa
 
@@ -136,6 +140,8 @@ La conservación del conjunto histórico y el crecimiento del turismo cultural f
 
 ## El castillo de Miranda del Castañar
 
+[Investigación específica](./patrimonio/castillo/)
+
 El castillo es uno de los monumentos más representativos de la localidad.
 
 Se encuentra en una posición destacada del recinto urbano y constituye un testimonio de la importancia defensiva y señorial de la villa.
@@ -176,6 +182,8 @@ Es recomendable comprobar la información vigente antes de planificar una visita
 
 ## Las murallas de Miranda del Castañar
 
+[Investigación específica](./patrimonio/muralla/)
+
 El recinto amurallado es uno de los principales elementos que distinguen a Miranda de otros pueblos serranos.
 
 La muralla rodea el núcleo histórico y conserva diferentes estructuras defensivas.
@@ -207,6 +215,8 @@ No debe suponerse que todos los sectores son accesibles o que pueden recorrerse 
 ---
 
 ## Las cuatro puertas de la muralla
+
+[Investigación específica](./patrimonio/muralla/)
 
 Uno de los elementos más interesantes de Miranda es la conservación de sus accesos históricos.
 
@@ -253,6 +263,8 @@ La denominación, cronología y evolución concreta de cada puerta se ampliarán
 
 ## La plaza y los espacios públicos
 
+[Investigación específica](./patrimonio/plaza-mayor/)
+
 El interior de Miranda conserva plazas y pequeños espacios urbanos que reflejan la organización histórica de la villa.
 
 Estos lugares desempeñaban funciones sociales, comerciales y administrativas.
@@ -282,6 +294,8 @@ La riqueza del conjunto está también en esa diversidad.
 ---
 
 ## Arquitectura tradicional
+
+[Investigación específica](./patrimonio/arquitectura-tradicional/)
 
 Miranda del Castañar conserva numerosos ejemplos de arquitectura tradicional de la Sierra de Francia.
 
@@ -323,6 +337,8 @@ Su estructura, distribución y transformaciones ayudan a comprender las formas d
 
 ## Iglesia parroquial de Santiago y San Ginés
 
+[Investigación específica](./patrimonio/iglesia/)
+
 La iglesia parroquial constituye uno de los principales edificios religiosos de Miranda del Castañar.
 
 Su historia está relacionada con la evolución urbana y social de la villa.
@@ -349,6 +365,8 @@ Las celebraciones, registros, reuniones y acontecimientos familiares contribuyer
 
 ## La antigua alhóndiga y otros edificios históricos
 
+[Investigación específica](./patrimonio/alhondiga/)
+
 Entre los elementos patrimoniales de Miranda se encuentra la antigua alhóndiga.
 
 Las alhóndigas estaban relacionadas históricamente con el almacenamiento y la regulación del comercio de determinados productos, especialmente cereales.
@@ -370,6 +388,8 @@ El patrimonio urbano conserva testimonios de esas actividades.
 ---
 
 ## El paisaje de Miranda del Castañar
+
+[Investigación específica](./naturaleza/)
 
 El emplazamiento de Miranda constituye una parte esencial de su identidad.
 
@@ -402,6 +422,8 @@ Estudiar el paisaje significa comprender esa interacción.
 ---
 
 ## Tradiciones y cultura local
+
+[Investigación específica](./cultura-tradiciones/)
 
 Miranda del Castañar conserva celebraciones y costumbres vinculadas a su historia y a la vida comunitaria.
 
@@ -475,6 +497,8 @@ La posición elevada del pueblo ofrece perspectivas interesantes del paisaje ser
 
 ## Cómo visitar Miranda del Castañar
 
+[Investigación específica](./visitar/)
+
 ### Recorrer el casco histórico
 
 La mejor manera de conocer Miranda es caminando.
@@ -537,6 +561,8 @@ Miranda no debe entenderse como un lugar aislado, sino como parte de una red his
 
 ## Miranda del Castañar y la organización histórica de la comarca
 
+[Investigación específica](./historia/condado/)
+
 La importancia de Miranda como villa fortificada y centro señorial permite comprender una dimensión de la Sierra de Francia que no siempre resulta visible durante una visita turística.
 
 El territorio estuvo organizado mediante diferentes jurisdicciones, señoríos, concejos y relaciones de dependencia.
@@ -580,6 +606,8 @@ Las vistas, los caminos y los elementos del paisaje cultural forman parte de la 
 ---
 
 ## Fuentes y documentación
+
+[Investigación específica](./fuentes/)
 
 ### Patrimonio cultural
 
@@ -630,6 +658,8 @@ La información sobre accesos, horarios y servicios deberá actualizarse cuando 
 ---
 
 ## Una villa para comprender la historia de la Sierra de Francia
+
+[Investigación específica](./valor-global/)
 
 Miranda del Castañar conserva un patrimonio especialmente valioso para estudiar la organización medieval del territorio.
 
