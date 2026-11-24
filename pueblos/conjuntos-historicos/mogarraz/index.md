@@ -44,6 +44,9 @@ Su arquitectura, sus tradiciones, su historia y su relación con el paisaje perm
 
 [Personajes vinculados a Mogarraz: inventario comarcal](/personajes/#personajes-identificados-durante-la-investigación-de-mogarraz).
 
+- [Geografía y territorio de Mogarraz](./geografia-territorio/).
+- [Naturaleza de Mogarraz](./naturaleza/).
+
 ## Información general
 
 | Dato | Información |
