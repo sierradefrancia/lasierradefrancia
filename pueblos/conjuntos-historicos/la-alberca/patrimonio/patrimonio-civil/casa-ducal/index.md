@@ -11,6 +11,8 @@ permalink: /pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/
 
 # Casa Ducal y Teatro Municipal Dolores Mateos
 
+**Identificador patrimonial:** ALB-PAT-026.
+
 Frente al Ayuntamiento, en la [Plaza Mayor](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/plaza-mayor/), un mismo inmueble reúne las huellas de la administración señorial, el abastecimiento público, la Guardia Civil y la actividad cultural. Su identificación en MonumentalNet es SA-010000100-ALB-CSA-DUQ-ALB [1].
 
 ## Identidad y propiedad
