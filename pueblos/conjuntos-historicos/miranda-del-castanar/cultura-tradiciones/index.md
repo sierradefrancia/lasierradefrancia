@@ -19,3 +19,6 @@ La Diputación vincula la devoción patronal a las celebraciones de septiembre e
 
 
 [Los Candiles y el ofertorio](./candiles/).
+
+
+- [Memoria visual](./memoria-visual/).
