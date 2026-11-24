@@ -1,4 +1,5 @@
 ---
+description: "Inscripciones, fechas y símbolos de la arquitectura de La Alberca: dinteles, columnas y marcas cuya interpretación requiere documentación."
 layout: default
 title: Inscripciones, símbolos y ornamentación
 parent: Arquitectura tradicional
