@@ -50,3 +50,11 @@ Para completar el estudio se necesitan: contrato de construcción, pagos y repar
 5. David Sánchez, [José Luis Puerto presenta su último trabajo sobre La Alberca](https://salamancartvaldia.es/noticia/2022-07-26-jose-luis-puerto-presenta-su-ultimo-trabajo-sobre-la-alberca-301380?rc=4), 26-07-2022.
 
 Extractos de estas páginas recuperados el 24-11-2026. Sin inspección material, consulta íntegra del libro ni expediente de restauración. No se asignan fechas exactas ni autorías sin evidencia.
+
+## La historia musical y la historia material
+
+La datación amplia entre los siglos XVIII y XIX no permite asociar el instrumento al contrato arquitectónico de 1729. Las evocaciones de los años cincuenta identifican usos e intérpretes, mientras la noticia de 2022 acredita que se anunciaba una restauración. Son evidencias de naturaleza diferente. Una memoria técnica permitiría distinguir componentes históricos, sustituciones y trabajos recientes.
+
+El [patrimonio sonoro](../campanas-reloj-matraca/) estudia señales colectivas y rituales; el órgano pertenece principalmente al acompañamiento musical del culto. El armonio mencionado en los recuerdos requiere identificación separada.
+
+*Síntesis del corpus documental existente; sin nuevo cotejo externo en esta ampliación.*
