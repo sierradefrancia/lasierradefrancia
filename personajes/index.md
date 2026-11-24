@@ -278,3 +278,13 @@ Identificadores de relaciones locales, pendientes de reconciliación con las ide
 
 
 Relaciones locales de Miranda y Villanueva del Conde: artistas del Camino de los Prodigios (Félix Curto, Alfredo Omaña, Marcos Rodríguez y Pablo S. Herrero). [Diputación](https://turismo.lasalina.es/es/que-hacer/actividades-en-la-naturaleza/senderismo/camino-de-los-prodigios), extracto consultado el 24-11-2026. Pendiente reconciliación de identidades centrales.
+
+
+### Relaciones documentadas de Miranda — 1577
+
+- Pedro de Zúñiga Avellaneda y Bazán (ca. 1540–1573), conde, litigante.
+- Juan de Zúñiga Avellaneda Bazán (ca. 1551–1608), sucesor en el título y en el litigio.
+- Enrique IV, otorgante del condado en 1457, según Quintanilla Raso (2021, nota 23).
+- María Concepción Quintanilla Raso, investigadora de la casa condal.
+
+[Autoridades y descripción PARES](https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/12761016); [estudio académico](https://www.academia.edu/49757256/). Extractos recuperados el 24-11-2026. Relaciones pendientes de reconciliar con identidades canónicas; no nuevas fichas duplicadas.
