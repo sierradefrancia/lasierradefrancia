@@ -29,3 +29,15 @@ La ruta constituye una entidad compartida entre municipios, no patrimonio exclus
 Fichas recuperadas el 24-11-2026; no se ha realizado inspección de campo.
 
 [Volver a Mogarraz](../).
+
+## El agua como elemento del recorrido
+
+Los nombres Bocino, Los Molinos y Pontón ofrecen referencias para estudiar los pasos del itinerario y su relación con el valle del Milanos. El topónimo Los Molinos invita a investigar aprovechamientos hidráulicos, pero no demuestra por sí solo la existencia ni la cronología de instalaciones conservadas. La descripción de unos nueve kilómetros corresponde a una fuente publicada y no a una medición reciente.
+
+## Seis intervenciones y sus autores
+
+El repertorio provincial permite distinguir las obras de Miguel Poza, Virginia Calvo, Alfredo Sánchez, Florencio Maíllo, Manuel Pérez de Arrilucea y la intervención atribuida conjuntamente a Juárez & Palmero y Juanvi Sánchez. La autoría y grafía de cada título deben cotejarse con el catálogo original. La Cruz de Mingo Molino conecta con la trayectoria artística de [Florencio Maíllo](/personajes/florencio-maillo/), sin confundirse con su proyecto de retratos.
+
+La ficha regional de la ruta deberá mantener un inventario único de obras y emplazamientos, enlazado desde ambos municipios. La sección de [naturaleza](../naturaleza/) aporta el contexto ecológico; la de [visita](../visitar/senderismo/) recoge las precauciones prácticas.
+
+**Alcance documental:** ampliación basada en las referencias ya registradas, pendientes de cotejo reproducible.
