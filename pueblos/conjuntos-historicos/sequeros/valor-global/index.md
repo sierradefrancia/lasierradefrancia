@@ -1,4 +1,5 @@
 ---
+description: "El valor integrado de Sequeros: historia jurisdiccional, patrimonio religioso, teatro, literatura y paisaje serrano."
 layout: default
 title: "Sequeros en su conjunto"
 parent: Sequeros
