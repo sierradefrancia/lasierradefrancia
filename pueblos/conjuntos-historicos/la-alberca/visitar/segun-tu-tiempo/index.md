@@ -29,3 +29,19 @@ Combina el pueblo con una comida tranquila. Por la tarde puedes continuar descub
 Alterna jornadas de pueblo y naturaleza. Reserva una excursión para Las Batuecas y otra para la Peña de Francia si las condiciones de acceso lo permiten. Mogarraz, San Martín del Castañar y otros pueblos merecen visitas independientes. No conviertas el viaje en una carrera por acumular lugares.
 
 [Primera visita](../primera-visita/) · [Naturaleza](../../naturaleza/) · [Geografía y territorio](../../geografia-territorio/)
+
+## Tres, cinco o siete días en la Sierra
+
+Estas jornadas son módulos intercambiables, no reservas ni tiempos de carretera comprobados.
+
+| Jornada | Propuesta | Qué aporta |
+|---|---|---|
+| 1 | La Alberca: plaza, iglesia, casa museo si abre | Arquitectura y vida cotidiana |
+| 2 | [Peña de Francia](/lugares/pena-de-francia/visitar/) | Montaña, santuario y paisaje |
+| 3 | [Las Batuecas](/lugares/las-batuecas/) | Valle, naturaleza y patrimonio |
+| 4 | [Mogarraz](/pueblos/conjuntos-historicos/mogarraz/) y Camino del Agua si resulta adecuado | Retratos, arquitectura y arte |
+| 5 | [San Martín del Castañar](/pueblos/conjuntos-historicos/san-martin-del-castanar/) | Castillo, patrimonio y entorno |
+| 6 | [Miranda del Castañar](/pueblos/conjuntos-historicos/miranda-del-castanar/) | Recinto histórico y paisaje |
+| 7 | [Sequeros](/pueblos/conjuntos-historicos/sequeros/) y [Villanueva del Conde](/pueblos/conjuntos-historicos/villanueva-del-conde/) | Dos formas de entender el caserío serrano |
+
+Si tienes tres días y prefieres los pueblos a la montaña, sustituye una excursión natural por la jornada 4 o 5. Con cinco días, elige las cinco experiencias que más te atraigan. Si haces una ruta larga, evita añadir otra visita exigente ese mismo día.
