@@ -1,4 +1,5 @@
 ---
+description: "Naturaleza de Miranda del Castañar: paisaje forestal, vegetación y relación con los aprovechamientos tradicionales."
 layout: default
 title: "Naturaleza de Miranda"
 parent: Miranda del Castañar
