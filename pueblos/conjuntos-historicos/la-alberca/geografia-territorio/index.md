@@ -4,6 +4,7 @@ title: Geografía y territorio
 parent: La Alberca
 grand_parent: Conjuntos históricos
 nav_order: 5
+last_modified_at: 2026-11-24
 description: "Geografía del término municipal de La Alberca: valle de Las Batuecas, valle de Lera, Portillo, río Francia, Laguna de San Marcos, relieve, caminos y toponimia."
 permalink: /pueblos/conjuntos-historicos/la-alberca/geografia-territorio/
 ---
@@ -22,7 +23,7 @@ Esta página reúne los elementos geográficos identificados específicamente en
 
 ## Un municipio entre dos vertientes
 
-El núcleo urbano de La Alberca se encuentra aproximadamente a 1.044 metros de altitud.
+El núcleo urbano de La Alberca se encuentra aproximadamente a 1.044–1.048 metros de altitud. La [ficha municipal de la Diputación](https://www.lasalina.es/Aplicaciones/GestorInter.jsp?codMunicipio=10&funcion=MuestraInformacionMunicipio&prestacion=Cipublico) indica 1.048 m, una superficie redondeada de 61 km², código INE 37010 y tres núcleos: La Alberca, Las Batuecas y Prado Carreras. No se ha contrastado el punto altimétrico ni la geometría municipal de referencia.
 
 Desde su entorno, el territorio se prolonga hacia el norte, en dirección al valle del río Francia, y hacia el sur, donde el relieve desciende abruptamente hacia Las Batuecas.
 
@@ -31,6 +32,8 @@ Esta disposición sitúa al municipio en un ámbito de transición entre paisaje
 El valle de Las Batuecas pertenece al término municipal de La Alberca, como recoge expresamente su declaración oficial como Sitio Histórico.
 
 La frontera con Extremadura se encuentra en el sector meridional del territorio.
+
+Ambas vertientes locales drenan hacia el Tajo a través de los sistemas del Francia y Batuecas; no deben confundirse con la divisoria Tajo–Duero del conjunto del Parque Natural. La [Confederación Hidrográfica del Tajo](https://www.chtajo.es/documents/d/guest/reservas-hidrologicas-de-la-cuenca-del-tajo) distingue los ríos Francia, Batuecas y Alagón (Tajo) del Agadón (Duero). Queda pendiente delimitar todas las divisorias municipales mediante cartografía.
 
 ### La singularidad territorial
 
@@ -109,7 +112,7 @@ La ficha identifica un territorio caracterizado por:
 
 La ficha del IGME recoge cotas comprendidas aproximadamente entre 475 y 1.617 metros dentro del ámbito inventariado.
 
-Estas cifras corresponden al lugar de interés geológico delimitado por el inventario, no a los valores extremos del conjunto del municipio.
+Estas cifras corresponden al apartado fisiográfico del lugar de interés geológico, no al conjunto del municipio. Su amplitud altitudinal es de 1.142 m, con cota media de 980 m y superficie de 2.629,33 ha. La descripción narrativa de la misma ficha ofrece 1.627 m para el Mingorro y unas 2.800 ha. Se conserva la discrepancia hasta cotejar geometrías y modelos altimétricos; no son dos fuentes independientes.
 
 ### Las marmitas de gigante
 
@@ -155,6 +158,8 @@ Estos usos permiten comprender el Portillo como una conexión económica y terri
 El decreto de declaración del Sitio Histórico de Las Batuecas utiliza el viejo camino desde La Alberca hacia el convento y su continuación hacia el Portillo del Cid como parte de la delimitación del bien protegido.
 
 Conviene distinguir el Portillo del itinerario turístico, el Portillo del Cid citado en la documentación jurídica y los distintos trazados históricos antes de considerarlos equivalentes.
+
+El artículo 2 del Decreto 92/2000 delimita el Sitio Histórico mediante el camino y su continuación hacia el Portillo del Cid al sudeste, la frontera provincial al sur, el límite con Monsagro al oeste y la separación de los montes de utilidad pública 48 y 49 al norte y nordeste. Es una delimitación patrimonial, no el perímetro municipal ni necesariamente el del LIG. El plano del expediente no se ha cotejado.
 
 ---
 
@@ -318,7 +323,7 @@ https://www.boe.es/diario_boe/txt.php?id=BOE-A-2000-14223
 
 https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-24706
 
-**Vida y muerte en La Alberca (Salamanca).** Investigación histórica con descripción de unidades geográficas locales.
+**Mercedes Cano Herrera y María Sanz García (1989), Vida y muerte en La Alberca (Salamanca).** Cuadernos de Etnología y Etnografía de Navarra, 53, pp. 67–84. Referencia etnográfica; verificar la atribución de cada unidad geográfica con el texto original.
 
 https://dialnet.unirioja.es/descarga/articulo/144772.pdf
 
