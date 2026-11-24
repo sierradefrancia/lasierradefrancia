@@ -157,3 +157,14 @@ Manuel Gómez-Moreno, ya registrado en el inventario comarcal, incorpora una nue
 | PER-MOG-023 | J. Pierpont Morgan | Colección y donación museística de 1917 |
 
 Fuente y límites: [expediente del marfil](/pueblos/conjuntos-historicos/mogarraz/patrimonio/marfil/). Identidades provisionales; verificar variantes y evitar duplicados antes de crear fichas individuales.
+
+
+### Nuevas relaciones verificadas en Maíllo (2009)
+
+| ID | Persona | Relación |
+|---|---|---|
+| PER-MOG-024 | Venancio Gombáu | Fotografías históricas mencionadas por Maíllo |
+| PER-MOG-025 | Marcos Rafael Blanco-Belmonte | Autor de Por la España desconocida |
+| PER-MOG-026 | José Maíllo Cascón | Dominico, bendición de la bodega cooperativa en 1965 según Maíllo |
+
+Ángeles de Nacimiento Lorenzo: testimonio directo publicado por Maíllo en 2009, [artículo del atlas](/pueblos/conjuntos-historicos/mogarraz/articulos/la-mujer-que-guardo-los-rostros/). Nuevas altas provisionales, sujetas a deduplicación comarcal.
