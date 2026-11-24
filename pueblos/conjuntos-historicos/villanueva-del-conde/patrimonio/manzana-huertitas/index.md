@@ -1,4 +1,5 @@
 ---
+description: "La manzana histórica y las Huertitas de Villanueva del Conde: organización urbana y espacios de cultivo interiores."
 layout: default
 title: "Manzana, huertitas y callejinas"
 parent: "Patrimonio de Villanueva del Conde"
