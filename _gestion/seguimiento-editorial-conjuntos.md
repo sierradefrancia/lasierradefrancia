@@ -1,13 +1,13 @@
 # Seguimiento editorial de conjuntos históricos
 
-Corte verificable: ad656effdfa7b0aa7b9dc4b458a2d86d1b9cb242
+Corte verificable: 11e8c976da84dc11279604550be0bb653ee7fa0e
 Base del ciclo: 5d36dd2ed27285a5b0b02885e2909821c708c520
 
 Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No equivale a validación científica ni técnica. Excluir gestión y personajes del denominador territorial.
 
 | Pueblo | Rutas modificadas | Total existente |
 |---|---:|---:|
-| la-alberca | 68 | 142 |
+| la-alberca | 80 | 142 |
 | miranda-del-castanar | 32 | 32 |
 | mogarraz | 39 | 39 |
 | san-martin-del-castanar | 26 | 26 |
@@ -32,6 +32,11 @@ Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No
 - cultura-tradiciones/patahenos/index.md
 - cultura-tradiciones/pendon-y-trago/index.md
 - cultura-tradiciones/traje-de-vistas/index.md
+- geografia-territorio/caminos-comunicaciones/index.md
+- geografia-territorio/hidrografia/index.md
+- geografia-territorio/index.md
+- geografia-territorio/inventario/index.md
+- geografia-territorio/toponimia-paisaje/index.md
 - historia/alberca-hurdes/index.md
 - historia/articulos/index.md
 - historia/articulos/las-escuelas-de-1935/index.md
@@ -44,6 +49,13 @@ Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No
 - historia/origenes/index.md
 - historia/siglos-xix-xx/index.md
 - historia/sociedad-vida-cotidiana/index.md
+- naturaleza/conservacion/index.md
+- naturaleza/espacios-protegidos/index.md
+- naturaleza/fauna/index.md
+- naturaleza/index.md
+- naturaleza/inventario/index.md
+- naturaleza/micologia/index.md
+- naturaleza/vegetacion/index.md
 - patrimonio/arquitectura-tradicional/arquitectura-y-clima/index.md
 - patrimonio/arquitectura-tradicional/casa-satur-juanela/index.md
 - patrimonio/arquitectura-tradicional/conservacion/index.md
@@ -89,4 +101,4 @@ Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No
 
 Comparar desde base fija hasta HEAD; comprobar límite API de 300 archivos y comparar árboles si se alcanza. No sumar manualmente. Los cambios revertidos no cuentan como diferencias netas. Pendiente auditoría de enlaces y fuentes.
 
-Bloques 33–34: ocho intervenciones territoriales y una transversal en personajes; sin nuevo cotejo externo.
+Bloque 35: doce archivos de geografía y naturaleza, integración de referencias existentes sin nuevo cotejo externo. Conservados 46 registros geográficos y 41 naturalistas.
