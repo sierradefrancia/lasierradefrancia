@@ -1,4 +1,5 @@
 ---
+description: "Las plazas de Sequeros: arquitectura, espacios de encuentro y funciones históricas."
 layout: default
 title: "Plazas y calles históricas"
 parent: "Patrimonio de Sequeros"
