@@ -1,4 +1,5 @@
 ---
+description: "Ruinas de la ermita de San Marcos de La Alberca: testimonios históricos, paisaje forestal y entorno de la laguna."
 layout: default
 title: Ermita de San Marcos
 parent: Patrimonio religioso
