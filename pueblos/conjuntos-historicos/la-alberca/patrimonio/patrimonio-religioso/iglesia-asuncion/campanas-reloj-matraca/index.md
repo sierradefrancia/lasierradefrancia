@@ -70,3 +70,11 @@ La Fonoteca de la Fundación Joaquín Díaz [6] registra ATO 101, grabación de 
 6. [Fundación Joaquín Díaz, Fonoteca, ATO 101](https://funjdiaz.net/fono1.php?pag=6).
 
 Extractos y fichas recuperados el 24 de noviembre de 2026. No se ha inspeccionado la torre, consultado los originales históricos ni analizado el audio. El estudio de las Ánimas continuará en su ámbito específico.
+
+## El sonido como documento social
+
+Los repertorios de difuntos muestran que el número de golpes podía comunicar sexo y pertenencia a una cofradía. Los 33 golpes atribuidos al Cristo del Sudor coinciden con la descripción etnográfica de su [cofradía](../cristo-del-sudor/). En cambio, los 44 y 49 golpes atribuidos a San Juan de Sahagún deben mantenerse como variantes documentales hasta determinar fecha e informante.
+
+La grabación ATO 101 de 1984 vincula La Alberca con el músico Víctor Pavón de Miranda. El registro de [fuentes sonoras](../../../cultura-tradiciones/fuentes-sonoras/) permite integrar esa relación sin duplicar el archivo. La matraca de 2019 representa recuperación de una práctica mediante un instrumento nuevo, no conservación física del ejemplar desmontado en 1979.
+
+*Síntesis del corpus documental existente; sin nuevo cotejo externo en esta ampliación.*
