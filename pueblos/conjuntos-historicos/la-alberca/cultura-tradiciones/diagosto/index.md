@@ -30,3 +30,11 @@ La descripción municipal enumera cruz, corro, paloteos y tejido y destejido de 
 Pendiente: estatutos de cofradías, cuentas, nombramientos, documentación de ofrendas, transcripción musical y cambios de ceremonial.
 
 Consulta documental: 2026-11-24. Estudio inicial abierto.
+
+## Ofrendas, parentesco y espacio urbano
+
+La precedencia de autoridades y mayordomos, seguida por familias, establece una secuencia ceremonial que puede estudiarse junto a la distribución de la Plaza Mayor. Las entradas familiares por distintas calles descritas en 2004 aportan una pista para reconstruir recorridos, no un plano completo. Las ofrendas requieren distinguir objetos, donantes y destino posterior.
+
+La danza de cintas incluye tejido y destejido según la descripción municipal; no debe confundirse con las técnicas textiles domésticas por compartir vocabulario. El testimonio radiofónico de 1985 de [El Guinda](/personajes/el-guinda/) ofrece una fuente fechada para investigar el acompañamiento musical. Su recuperación radiofónica en 2025 no equivale a una nueva entrevista. Véanse [Plaza Mayor](../../patrimonio/patrimonio-civil/plaza-mayor/) y [fuentes sonoras](../fuentes-sonoras/).
+
+*Síntesis de referencias existentes; sin nuevo cotejo externo.*
