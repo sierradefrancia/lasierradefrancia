@@ -21,3 +21,7 @@ Gómez Gandullo, José Antonio (2006), *Avance sobre las excavaciones arqueológ
 ## Investigación posterior
 
 Dialnet identifica trabajos citantes de Iñaki Martín Viso (2013–2020), Carlos Tejerizo García (2024–2025), Nerea Fernández Cadenas y David Sánchez Serrano (2023), David Sánchez Serrano y Francisco Reyes Téllez (2026). Son referencias identificadas, no obras leídas. Priorizar comparación con las pizarras de Mogarraz.
+
+## Relación territorial
+
+Comparar con las [pizarras de Mogarraz](/pueblos/conjuntos-historicos/mogarraz/historia/pizarras-visigodas/). La semejanza de soporte no demuestra contemporaneidad, función idéntica ni vínculo directo entre comunidades. Contrastar contexto estratigráfico, signos y cronología.
