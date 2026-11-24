@@ -5,7 +5,7 @@ nav_order: 3
 has_children: false
 description: "Investigación sobre el valor global de la Sierra de Francia: concentración de patrimonio histórico, naturaleza, paisajes culturales, conservación, relaciones territoriales y accesibilidad."
 permalink: /valor-global/
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-24
 ---
 
 # La riqueza de la Sierra de Francia
@@ -27,6 +27,12 @@ Esta distinción no es un tecnicismo menor. Las superficies de esas figuras se s
 La Reserva de la Biosfera Sierras de Béjar y Francia fue reconocida por la UNESCO en 2006. La propia UNESCO publica 196.140 hectáreas, mientras que el Ministerio para la Transición Ecológica ofrece 199.203,76 hectáreas en su ficha. Esa diferencia documental obliga a citar la procedencia de cada cifra, no a escoger una sin explicación [1][2].
 
 En el caso del parque natural, la Ley 8/2000 estableció su declaración y la Ley 16/2008 amplió su ámbito incorporando la totalidad del término municipal de San Martín del Castañar. Esta segunda norma enumera quince municipios afectados total o parcialmente y fija una superficie aproximada de 31.802 hectáreas [3][4]. Su existencia acredita un reconocimiento jurídico de valores naturales y culturales; por sí sola no demuestra que todos sus hábitats estén en idéntico estado de conservación.
+
+## Seis estudios locales que sustentan la perspectiva territorial
+
+[La Alberca](/pueblos/conjuntos-historicos/la-alberca/valor-global/) · [Mogarraz](/pueblos/conjuntos-historicos/mogarraz/valor-global/) · [Miranda del Castañar](/pueblos/conjuntos-historicos/miranda-del-castanar/valor-global/) · [San Martín del Castañar](/pueblos/conjuntos-historicos/san-martin-del-castanar/valor-global/) · [Sequeros](/pueblos/conjuntos-historicos/sequeros/valor-global/) · [Villanueva del Conde](/pueblos/conjuntos-historicos/villanueva-del-conde/valor-global/)
+
+Estas síntesis locales permiten examinar cómo se combinan historia, paisaje, cultura y sociedad en cada pueblo. No son una clasificación competitiva ni sustituyen el análisis regional que sigue.
 
 ## La concentración de un patrimonio histórico diverso
 
