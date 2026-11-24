@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Cultura y tradiciones
+title: Cultura y tradiciones de la Peña de Francia
 parent: Peña de Francia
 grand_parent: Lugares de interés
 nav_order: 5
