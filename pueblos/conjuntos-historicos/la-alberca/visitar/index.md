@@ -398,3 +398,16 @@ Una inscripción en una puerta puede conducirnos a su historia. Un camino puede 
 Y a pocos kilómetros esperan otros pueblos, valles y montañas de la Sierra de Francia.
 
 **Ven a conocer La Alberca. Y reserva tiempo para descubrir todo lo que la rodea.**
+
+## Elige tu experiencia
+
+| Si buscas… | Empieza por… |
+|---|---|
+| Conocer lo imprescindible | [Cinco paradas interpretativas](./primera-visita/) |
+| Descubrir un pueblo que ya conoces | [Detalles de piedra y madera](./la-alberca-al-detalle/) |
+| Arte entre robles y castaños | [Camino de las Raíces](./senderismo/) |
+| Entender cómo vivían las familias | [Casa Satur Juanela](../patrimonio/arquitectura-tradicional/casa-satur-juanela/) |
+| Compartir el viaje con niños | [Pequeños exploradores](./con-ninos/) |
+| Organizar una estancia de varios días | [Propuestas por jornadas](./segun-tu-tiempo/) |
+
+La plaza es un buen comienzo, pero no el final: reserva una segunda parte de la visita para descubrir el pueblo fuera de su espacio más fotografiado.
