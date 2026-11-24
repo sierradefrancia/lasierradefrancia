@@ -65,3 +65,11 @@ Los diez registros notariales de cruces de Santo Toribio entre 1670 y 1824 permi
 Los [barquillos de Mogarraz](/pueblos/conjuntos-historicos/mogarraz/patrimonio/cuatro-barquillos/) ofrecen un contraste comarcal de propiedad concejil frente a bienes parroquiales y particulares. No se deduce una procedencia común de los talleres.
 
 *Síntesis del corpus documental existente; sin nuevo cotejo externo en esta ampliación.*
+
+## Del ajuar doméstico al patrimonio parroquial
+
+Los diez registros notariales de cruces de Santo Toribio permiten seguir asociaciones de objetos entre 1670 y 1824: listones, casquillos de plata, rosarios, medallas y coronas de Jerusalén. No constituyen una muestra estadística de todos los hogares ni un inventario de la iglesia. Las valoraciones de 20, 50 y 60 reales corresponden a conjuntos diferentes y no permiten calcular una evolución del precio de la cruz.
+
+El [traje de vistas](../../../../cultura-tradiciones/traje-de-vistas/) aporta el contexto de la joyería personal. Los [barquillos de Mogarraz](/pueblos/conjuntos-historicos/mogarraz/patrimonio/cuatro-barquillos/) ofrecen un ejemplo regional de estudio de marcas de platero, sin implicar procedencia común. Para las alhajas parroquiales deben recuperarse marcas, contratos y donaciones antes de establecer talleres o cronologías.
+
+*Síntesis de referencias ya registradas; sin nuevo cotejo externo en este bloque.*
