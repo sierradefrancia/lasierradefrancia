@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: Rutas y caminos
 nav_order: 3
@@ -26,6 +27,14 @@ Durante siglos han permitido la comunicación entre pueblos, el transporte de me
 Esta sección del atlas pretende estudiar y documentar esa doble dimensión: **las rutas como experiencia para descubrir el territorio y los caminos como parte de su historia y patrimonio.**
 
 ---
+
+## Prepara tus recorridos con las guías locales
+
+- [Senderismo desde La Alberca](/pueblos/conjuntos-historicos/la-alberca/visitar/senderismo/) y [paseos urbanos](/pueblos/conjuntos-historicos/la-alberca/visitar/paseos/).
+- [Senderismo desde Mogarraz](/pueblos/conjuntos-historicos/mogarraz/visitar/senderismo/) y [paisaje y caminos](/pueblos/conjuntos-historicos/mogarraz/paisaje-y-caminos/).
+- [Visitar la Peña de Francia](/lugares/pena-de-francia/visitar/) y [conocer Las Batuecas](/lugares/las-batuecas/).
+
+Para combinar caminos y pueblos durante una estancia, consulta los [itinerarios según tus días disponibles](/turismo/segun-tu-tiempo/). Comprueba las condiciones de cada recorrido antes de salir.
 
 ## Caminar para conocer
 
