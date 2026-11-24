@@ -55,3 +55,11 @@ La datación de 1572 propuesta por Alba Rebollar Antúnez precede en 157 años a
 La comparación con Cantalpino y Alba de Tormes debe centrarse en estructura, iconografía y epigrafía, sin atribuir un taller común. La [monografía del templo](../) proporciona el contexto constructivo y el estudio de [retablos](../retablos-y-capillas/) permite distinguir programas iconográficos de épocas diferentes.
 
 *Síntesis del corpus documental existente; sin nuevo cotejo externo en esta ampliación.*
+
+## El programa de la palabra y la memoria funeraria
+
+La asociación entre la calavera, la referencia a los huesos secos de Ezequiel 37 y la exhortación joánica a escuchar la palabra permite leer conjuntamente motivos funerarios y predicación. Esta lectura iconográfica no identifica al comitente ni prueba una relación institucional con la devoción de las [Ánimas](../../animas/).
+
+La comparación de la fotografía doctoral de la página 173 con una serie de detalle permitiría registrar cada figura, inscripción y zona repintada. La fecha de 1572 antecede al contrato de reconstrucción de 1729, pero no resuelve cuándo ni cómo se trasladó el mueble. El testimonio de Barés sobre los sermones aporta información funcional distinta de la clasificación estilística.
+
+*Síntesis de referencias ya registradas; sin nuevo cotejo externo en este bloque.*
