@@ -26,7 +26,17 @@ Conocer un pueblo no consiste necesariamente en recorrer todas sus calles. A vec
 - [La Alberca según tu tiempo](./segun-tu-tiempo/): propuestas flexibles para una hora, una mañana, un día o varios días.
 - [La Alberca al detalle](./la-alberca-al-detalle/): aprender a mirar las casas, los símbolos y los pequeños testimonios de su historia.
 
-Si prefieres caminar por el bosque, conocer las tradiciones o preparar una excursión, encontrarás una primera orientación más abajo. Iremos ampliando esta guía con recorridos comprobados, información práctica y propuestas adaptadas a distintas necesidades.
+- [Pasear por La Alberca](./paseos/).
+- [Caminar por los bosques y la sierra](./senderismo/).
+- [La Alberca con niños](./con-ninos/).
+- [Visitar La Alberca con distintas necesidades](./accesibilidad/).
+- [La Alberca en cada estación](./estaciones/).
+- [Vivir las tradiciones albercanas](./fiestas-y-tradiciones/).
+- [Saborear La Alberca](./gastronomia/).
+- [Más allá de La Alberca](./excursiones/).
+- [Información práctica para tu visita](./informacion-practica/).
+
+Las propuestas son flexibles. Consulta las condiciones actuales antes de salir; iremos incorporando recorridos medidos y comprobaciones de campo.
 
 No necesitas hacerlo todo. Elige aquello que te apetezca y deja espacio para lo inesperado.
 
