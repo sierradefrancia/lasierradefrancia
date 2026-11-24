@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Historia territorial de Las Batuecas
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Historia territorial de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Relaciones históricas entre Las Batuecas y La Alberca, aprovechamientos ganaderos, jurisdicción y establecimiento carmelitano."
 permalink: /lugares/las-batuecas/historia-territorial/

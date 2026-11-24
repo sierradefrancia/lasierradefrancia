@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Reptiles y lagartija batueca
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Naturaleza de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Historia de la investigación herpetológica y comunidades de reptiles documentadas en Las Batuecas."
 permalink: /lugares/las-batuecas/reptiles/

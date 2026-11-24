@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Granadilla, La Alberca y Las Hurdes
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Historia territorial de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Jurisdicción, bienes concejiles y aprovechamientos históricos compartidos con Las Batuecas."
 permalink: /lugares/las-batuecas/granadilla-hurdes-alberca/

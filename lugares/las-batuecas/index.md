@@ -27,6 +27,12 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 
 ---
 
+## Explorar Las Batuecas por secciones
+
+- [Geografía y territorio de Las Batuecas](/lugares/las-batuecas/geografia-territorio/).
+- [Naturaleza de Las Batuecas](/lugares/las-batuecas/naturaleza/).
+- [Historia territorial de Las Batuecas](/lugares/las-batuecas/historia/).
+
 ## Cómo visitar Las Batuecas
 
 Las Batuecas es especialmente apropiada para una excursión de un día: caminar junto al río, descubrir las pinturas rupestres, contemplar el monasterio desde el exterior y disfrutar de las pozas naturales, incluido el baño en los meses cálidos.

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: El río Batuecas y su reserva natural fluvial
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Geografía y territorio de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Hidrología, geomorfología, calidad ecológica y protección del río Batuecas."
 permalink: /lugares/las-batuecas/rio-batuecas/

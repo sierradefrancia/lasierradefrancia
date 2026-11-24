@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Geología y relieve de Las Batuecas
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Geografía y territorio de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Interpretación del relieve, las cuarcitas, la erosión fluvial y el patrimonio geológico del valle de Las Batuecas."
 permalink: /lugares/las-batuecas/geologia/

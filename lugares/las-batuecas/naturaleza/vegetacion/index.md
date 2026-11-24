@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Vegetación y bosques de Las Batuecas
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Naturaleza de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Alisedas, encinares, alcornocales, madroños y especies introducidas en el valle de Las Batuecas."
 permalink: /lugares/las-batuecas/vegetacion/

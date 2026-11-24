@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Fauna vertebrada de Las Batuecas
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Naturaleza de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Evidencias locales y contexto regional de peces, anfibios, reptiles, aves y mamíferos."
 permalink: /lugares/las-batuecas/fauna/

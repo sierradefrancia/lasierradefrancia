@@ -1,8 +1,8 @@
 ---
 layout: default
 title: La vida acuática del río Batuecas
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Naturaleza de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Macroinvertebrados y diatomeas documentados en los muestreos de la reserva fluvial."
 permalink: /lugares/las-batuecas/vida-acuatica/

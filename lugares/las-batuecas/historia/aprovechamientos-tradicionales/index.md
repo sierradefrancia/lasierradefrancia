@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Aprovechamientos tradicionales de Las Batuecas
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Historia territorial de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Corcho, madera, apicultura, ganadería y gestión concejil del paisaje histórico."
 permalink: /lugares/las-batuecas/aprovechamientos-tradicionales/
