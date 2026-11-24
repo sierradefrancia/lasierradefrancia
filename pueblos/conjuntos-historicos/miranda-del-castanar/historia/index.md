@@ -1,4 +1,5 @@
 ---
+description: "Historia de Miranda del Castañar: formación de la villa, condado, jurisdicción y documentación concejil."
 layout: default
 title: "Historia de Miranda del Castañar"
 parent: Miranda del Castañar
