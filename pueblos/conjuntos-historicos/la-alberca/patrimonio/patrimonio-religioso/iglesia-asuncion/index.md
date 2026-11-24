@@ -26,6 +26,8 @@ Para comprender la iglesia actual es necesario comenzar por aquella que desapare
 
 ## Ámbitos de investigación del templo
 
+- [Campanas, reloj y matraca](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/campanas-reloj-matraca/): instrumentos, toques de cofradías y archivo sonoro.
+
 - [Torre y heráldica](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/torre-y-heraldica/): inscripciones de 1519 y 1571, escudo y antiguo campanario del Castillo.
 
 Esta monografía integra la historia general del edificio. Los estudios especializados se incorporarán como páginas subordinadas cuando exista documentación suficiente: torre y heráldica; campanas, reloj y matraca; bóvedas y técnicas constructivas; púlpito policromado; Cristo del Sudor; retablos y capillas; órgano histórico; orfebrería y bienes litúrgicos.
