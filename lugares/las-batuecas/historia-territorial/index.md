@@ -140,3 +140,5 @@ Estudios complementarios: [historia y leyenda](/lugares/las-batuecas/historia-le
 El estudio incorpora nuevos extractos académicos y de la introducción de Berrogain. No se han cotejado las escrituras originales ni reconstruido cartográficamente los términos.
 
 [Volver a Las Batuecas](/lugares/las-batuecas/)
+
+La nota 1 de Berrogain (p. 382) contiene internamente la discordancia entre era 1327 y año 1291; la conversión habitual da 1289. Nuevos localizadores archivísticos y contexto jurisdiccional en [Granadilla, La Alberca y Las Hurdes](/lugares/las-batuecas/granadilla-hurdes-alberca/).
