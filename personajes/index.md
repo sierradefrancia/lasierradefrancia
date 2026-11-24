@@ -323,3 +323,7 @@ Ver [expediente de Gracia](/pueblos/conjuntos-historicos/san-martin-del-castanar
 ### Identificación ampliada: Sancho de Castilla
 
 El estudio de Herrera-Vicente (2024) identifica así al obispo donante del relicario de Gracia. José Ignacio Díez Elcuaz (monografía de 1989), Bartolomé Villalba y Estaña (peregrino de 1577) y Jaime Pinilla González (estudio de 1978) son referencias vinculadas al expediente; originales pendientes. [Expediente del relicario](/pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/relicario/).
+
+## Relaciones artísticas pendientes de cotejo: Asentadero–Bosque de los Espejos
+
+El expediente cultural de San Martín recoge las atribuciones a Jesús Palmero, Luque López, José Antonio Juárez, Pablo Amargo y Manuel Pérez de Arrilucea. Incorporar estas relaciones a las fichas canónicas existentes tras comprobar identidad, autoría, denominación y emplazamiento de las obras; no crear identidades duplicadas. [Expediente cultural](/pueblos/conjuntos-historicos/san-martin-del-castanar/cultura-tradiciones/). Estado: referencias internas pendientes de cotejo externo.
