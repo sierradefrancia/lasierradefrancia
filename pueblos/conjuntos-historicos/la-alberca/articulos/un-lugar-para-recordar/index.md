@@ -1,4 +1,5 @@
 ---
+description: "La memoria de los difuntos en La Alberca a través del osario, las hornacinas de Ánimas y un testimonio de 1824."
 layout: default
 title: "Un lugar para recordar a quienes ya no están"
 parent: Artículos
