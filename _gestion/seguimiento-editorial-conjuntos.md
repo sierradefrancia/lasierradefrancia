@@ -1,13 +1,13 @@
 # Seguimiento editorial de conjuntos históricos
 
-Corte verificable: 5a54204d3a289d670cf46662add3666dbd7b41b5
+Corte verificable: 82441aa40e260ad99377c7a10a4e7045ca4966e7
 Base del ciclo: 5d36dd2ed27285a5b0b02885e2909821c708c520
 
-Recuento de rutas Markdown únicas con diferencias netas entre ambos commits (API compare de GitHub). No equivale a validación científica ni técnica. No contar revisiones repetidas como archivos nuevos. Excluir gestión y personajes del denominador territorial.
+Recuento de rutas Markdown únicas con diferencias netas entre ambos commits (API compare de GitHub). No equivale a validación científica ni técnica. Excluir gestión y personajes del denominador territorial.
 
 | Pueblo | Rutas modificadas | Total existente |
 |---|---:|---:|
-| la-alberca | 49 | 142 |
+| la-alberca | 60 | 142 |
 | miranda-del-castanar | 32 | 32 |
 | mogarraz | 39 | 39 |
 | san-martin-del-castanar | 26 | 26 |
@@ -20,7 +20,18 @@ Recuento de rutas Markdown únicas con diferencias netas entre ambos commits (AP
 - articulos/la-medida-grabada-en-la-piedra/index.md
 - articulos/un-edificio-muchas-vidas/index.md
 - conjunto-historico/index.md
+- cultura-tradiciones/ciclo-vital/index.md
+- cultura-tradiciones/corpus/index.md
+- cultura-tradiciones/diagosto/index.md
+- cultura-tradiciones/fuentes-sonoras/index.md
+- cultura-tradiciones/index.md
+- cultura-tradiciones/loa/index.md
+- cultura-tradiciones/majadas-viejas/index.md
+- cultura-tradiciones/marrano-san-anton/index.md
+- cultura-tradiciones/moza-de-animas/index.md
+- cultura-tradiciones/patahenos/index.md
 - cultura-tradiciones/pendon-y-trago/index.md
+- cultura-tradiciones/traje-de-vistas/index.md
 - historia/alberca-hurdes/index.md
 - historia/concejo-ordenanzas/index.md
 - historia/documentos-cronologia/index.md
@@ -68,4 +79,6 @@ Recuento de rutas Markdown únicas con diferencias netas entre ambos commits (AP
 
 ## Procedimiento
 
-Actualizar mediante comparación desde la base fija hasta el nuevo HEAD; comprobar que la lista de archivos no está truncada (límite API 300), y si lo está comparar árboles y SHA de blobs. Los cambios revertidos no cuentan como diferencias netas. No sumar manualmente. Los bloques duplicados de iglesia y elementos patrimoniales explican la divergencia de commits y rutas. Pendiente auditoría de enlaces y fuentes.
+Actualizar mediante comparación desde la base fija hasta el nuevo HEAD; comprobar límite API de 300 archivos y comparar árboles si se alcanza. No sumar manualmente. Los cambios revertidos no cuentan como diferencias netas. Pendiente auditoría de enlaces y fuentes.
+
+Bloque 32: doce archivos culturales intervenidos, uno ya incluido (Pendón y Trago). Sin nuevo cotejo externo.
