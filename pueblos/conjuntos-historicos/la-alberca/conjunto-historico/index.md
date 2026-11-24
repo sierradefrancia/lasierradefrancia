@@ -481,3 +481,13 @@ Una declaración histórica acredita el régimen establecido en su fecha, pero n
 De igual modo, un anuncio de información pública no acredita por sí solo la aprobación definitiva de un instrumento urbanístico. En el caso estudiado, la aprobación de 2025 se documenta mediante una publicación posterior específica.
 
 Esta sección se ampliará conforme se incorporen expedientes, planos, inventarios y estudios especializados que permitan comprender la evolución real del conjunto histórico y los valores que justifican su conservación.
+
+## El alcance jurídico de la declaración de 1940
+
+El artículo primero del Decreto de 6 de septiembre protegía el núcleo y una franja exterior de 500 metros. Los artículos segundo y tercero establecían obligaciones de conservación y un procedimiento de autorización para reformas y construcciones, con intervención de organismos estatales y, en determinados supuestos, de las academias. Se trata del régimen histórico de 1940, no de una descripción de la normativa urbanística vigente.
+
+[Decreto, BOE de 18 de septiembre de 1940, pp. 6475–6476](https://www.boe.es/gazeta/dias/1940/09/18/pdfs/BOE-1940-262.pdf).
+
+La Orden de 11 de diciembre constituyó una Junta con Ismael Blat Monzón como representante estatal y el alcalde como presidente. Participaban Isidro Puerto González (farmacéutico), Luciano Barcala Mazo (médico), el párroco, Pedro Gómez Luis (cantero) y César González (maestro). La composición permite investigar la intervención local en la conservación, pero no demuestra la participación individual en una obra concreta.
+
+[Orden, BOE de 29 de diciembre de 1940, p. 8962](https://www.boe.es/gazeta/dias/1940/12/29/pdfs/BOE-1940-364.pdf). Pasajes oficiales cotejados el 24-11-2026.
