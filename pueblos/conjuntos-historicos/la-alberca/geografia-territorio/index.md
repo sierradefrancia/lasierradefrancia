@@ -244,6 +244,8 @@ Este expediente abre una línea de investigación sobre la historia y gestión d
 
 ## Caminos y relaciones territoriales
 
+La [investigación de caminos y comunicaciones](./caminos-comunicaciones/) distingue las conexiones territoriales documentadas de los itinerarios señalizados actuales y reúne referencias jurídicas, municipales y turísticas.
+
 La red histórica de caminos permite comprender cómo se articulaban los diferentes espacios del municipio.
 
 ### La Alberca–Las Batuecas
