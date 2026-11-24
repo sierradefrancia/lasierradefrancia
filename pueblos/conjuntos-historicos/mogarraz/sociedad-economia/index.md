@@ -55,3 +55,15 @@ El [catálogo editorial de 2019, p. 16](https://www.lasalina.es/cultura/cultura/
 ## Explorar esta sección
 
 - [Artesanía y oficios](../artesania/).
+
+## Una economía conectada con mercados exteriores
+
+La cifra de 55 arrieros atribuida a 1752 debe leerse junto a los doce carpinteros y dieciséis tejedores recogidos en [artesanía](../artesania/). No pueden sumarse como categorías excluyentes sin examinar las respuestas originales: una persona podía combinar transporte, agricultura y otros trabajos. La memoria del comercio hacia Andalucía, recogida en [Vendimias y arrieros](../articulos/vendimias-y-arrieros/), aporta una pista sobre mercancías y destinos.
+
+La monografía de Joaquín Rodríguez Arzúa es prioritaria porque aborda conjuntamente propiedad, cultivos, ganadería, fiscalidad y población. La discrepancia bibliográfica entre 1990 y 1991 debe resolverse con el ejemplar, no mediante una elección arbitraria.
+
+## Cambio demográfico
+
+La serie reproducida registra una pérdida de 143 habitantes entre 1996 y 2025, con un pequeño aumento entre 2010 y 2015. No describe por tanto una caída uniforme. En la distribución censal secundaria de 2025, las 88 personas de 65 años o más representan aproximadamente el 37,6 % de las 234 contabilizadas. Esta proporción es provisional hasta descargar la tabla oficial. No permite deducir por sí sola las causas de la evolución ni el efecto del turismo.
+
+**Alcance documental:** ampliación basada en las referencias ya registradas, pendientes de cotejo reproducible.
