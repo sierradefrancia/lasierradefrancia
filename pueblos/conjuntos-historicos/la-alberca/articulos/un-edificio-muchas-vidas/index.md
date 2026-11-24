@@ -41,3 +41,11 @@ Un pueblo no conserva su patrimonio únicamente cuando impide que cambie. Tambi�
 - Isidro Barcala, [referencias de enero de 2016](https://laalbercaensustradiciones.blogspot.com/2016/01/).
 
 Síntesis narrativa de expedientes internos; no se han cotejado en esta fase los documentos originales ni las fotografías del proyecto.
+
+## Lo que cuenta una viga
+
+La ficha de rehabilitación de 1997 describe postes, vigas, apoyos graníticos y viguetas de castaño. También explica el desmontaje de componentes para evaluar su reutilización. Esa decisión permite entender la conservación como un trabajo sobre materiales concretos, no solo sobre la apariencia exterior.
+
+No sabemos qué piezas desmontadas volvieron a instalarse. Pero la descripción del proyecto nos ofrece una pregunta precisa para futuras fotografías y planos: qué partes pertenecen al teatro anterior y cuáles a la intervención contemporánea. La [arquitectura tradicional](../../patrimonio/arquitectura-tradicional/) aporta el contexto de las técnicas de madera sin convertir el teatro en una vivienda típica.
+
+*Ampliación de síntesis del corpus existente; no constituye un nuevo cotejo externo.*
