@@ -526,3 +526,13 @@ El artículo no presenta el privilegio como una exención general de declarar an
 ---
 
 [Volver a Historia de La Alberca](/pueblos/conjuntos-historicos/la-alberca/historia/)
+
+## Un antecedente que no equivale al privilegio
+
+Vicente de la Fuente publicó en 1883 referencias a disposiciones de 1352 y 1353 relativas a competencias judiciales y repartimientos, confirmadas por Pedro I en 1355. El privilegio de 1558 plantea un problema distinto: el desplazamiento necesario para declarar.
+
+No podemos deducir que las disposiciones medievales siguieran aplicándose sin cambios ni que fueran la causa jurídica de la concesión posterior. Sí permiten situar la investigación dentro de una historia más amplia de relaciones entre La Alberca y Granadilla.
+
+[El derecho a ser escuchado](../../../articulos/el-derecho-a-ser-escuchado/) · [Edad Media](../../edad-media/).
+
+*Ampliación a partir de expedientes existentes; sin nuevo cotejo externo.*
