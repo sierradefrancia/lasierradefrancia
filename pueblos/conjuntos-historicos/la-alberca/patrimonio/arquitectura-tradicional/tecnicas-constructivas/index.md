@@ -25,3 +25,13 @@ Véase el [registro bibliográfico del bloque](/pueblos/conjuntos-historicos/la-
 ## Contraste estructural
 
 El [estudio de 2007](/pueblos/conjuntos-historicos/la-alberca/patrimonio/arquitectura-tradicional/arquitectura-y-clima/) plantea muros inferiores portantes frente a la descripción de pies derechos del artículo de Folklore. La divergencia requiere levantamientos de casas concretas, identificación de apoyos y fases; no se resuelve mediante generalización.
+
+## Estructura, cerramiento y protección exterior
+
+La descripción de tablas de castaño superpuestas permite distinguir el revestimiento exterior del entramado que protege. Una tabla visible no identifica necesariamente el material de los pies derechos o del relleno. El recorrido de las cargas debe seguirse desde cubierta y forjados hasta apoyos inferiores, comprobando si estos son muros, pilares o combinaciones de ambos.
+
+La discrepancia entre los estudios de 2007 y Folklore 278 puede responder a edificios diferentes o a distintas interpretaciones de una misma solución; no hay datos suficientes para elegir. La memoria de la [Casa Ducal](../../patrimonio-civil/casa-ducal/) de 1997 menciona postes, apoyos graníticos, vigas y viguetas de castaño. Es evidencia documental de un edificio concreto, no una sección tipo doméstica.
+
+El análisis de [conservación](../conservacion/) debe diferenciar reparación de uniones, sustitución de piezas y modificación del sistema resistente.
+
+*Síntesis del corpus documental existente; sin nuevo cotejo externo.*
