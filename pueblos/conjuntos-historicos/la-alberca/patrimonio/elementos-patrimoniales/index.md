@@ -46,7 +46,7 @@ La fecha exacta de construcción, la procedencia y las circunstancias de ese pos
 
 Su presencia actual forma parte de la imagen histórica de la plaza, pero no debemos suponer que siempre ocupó el mismo lugar.
 
-### Crucero de la Plaza de San Antonio
+### [Crucero de la Plaza de San Antonio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/crucero-san-antonio/)
 
 En el entorno de San Antonio se ha identificado otro crucero pétreo.
 
