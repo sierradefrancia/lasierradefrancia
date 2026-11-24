@@ -1,4 +1,5 @@
 ---
+description: "La Moza Santa de Sequeros: tradición religiosa, relatos históricos y relación con la Peña de Francia."
 layout: default
 title: "La Moza Santa"
 parent: "Cultura y tradiciones de Sequeros"
