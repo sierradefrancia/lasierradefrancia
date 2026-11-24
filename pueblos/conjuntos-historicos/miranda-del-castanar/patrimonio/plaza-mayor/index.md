@@ -1,4 +1,5 @@
 ---
+description: "La Plaza Mayor de Miranda del Castañar: espacio público, arquitectura y funciones históricas junto al castillo."
 layout: default
 title: "Plaza Mayor de Miranda"
 parent: "Patrimonio de Miranda del Castañar"
