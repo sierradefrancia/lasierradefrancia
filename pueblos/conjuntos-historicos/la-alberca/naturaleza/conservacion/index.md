@@ -38,3 +38,9 @@ La [ficha MITECO del río Batuecas](https://www.miteco.gob.es/es/agua/temas/deli
 Comparar vuelos históricos, ortofotos PNOA, cartografía de usos y perímetros de incendios con límites municipales. Distinguir abandono agrícola, sucesión vegetal, tratamientos forestales y efectos del fuego. No cuantificar cambios de cubierta sin comparación espacial homogénea. La presión recreativa requiere indicadores de afluencia e impacto, no inferencias a partir de popularidad turística.
 
 Referencias identificadas en el expediente; cotejo directo pendiente de acreditación.
+
+## Evaluación de actuaciones forestales
+
+La jornada del 4 de marzo de 2023 documenta 250 plantas y 57 voluntarios, mientras los expedientes SA-501/22-E1 y SA-0300/22 corresponden a actuaciones administrativas de mayor alcance. No sumar la plantación voluntaria a superficies tratadas sin conocer parcelas y posibles solapamientos. Para evaluar resultados hacen falta fechas de seguimiento, supervivencia, regeneración espontánea y evolución de erosión. Véanse [vegetación](../vegetacion/) y [el bosque después del fuego](../../articulos/el-bosque-despues-del-fuego/).
+
+*Integración de referencias existentes; sin nuevo cotejo externo.*
