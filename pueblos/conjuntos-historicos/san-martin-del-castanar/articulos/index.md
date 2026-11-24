@@ -1,4 +1,5 @@
 ---
+description: "Artículos sobre San Martín del Castañar: documentos históricos, arqueología y memoria del convento de Gracia."
 layout: default
 title: Artículos de San Martín del Castañar
 parent: San Martín del Castañar
