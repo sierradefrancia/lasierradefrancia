@@ -1,4 +1,5 @@
 ---
+description: "Una lectura del pasado de San Martín del Castañar a través de sus testimonios materiales y arqueológicos."
 layout: default
 title: Una aldea escrita en piedra
 parent: Artículos de San Martín del Castañar
