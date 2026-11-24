@@ -1,4 +1,5 @@
 ---
+description: "El valor integrado de Villanueva del Conde: urbanismo histórico, huertas interiores, viticultura y paisaje de bancales."
 layout: default
 title: "Villanueva del Conde en su conjunto"
 parent: Villanueva del Conde
