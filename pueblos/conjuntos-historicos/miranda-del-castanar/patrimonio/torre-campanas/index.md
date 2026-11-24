@@ -1,4 +1,5 @@
 ---
+description: "La torre de campanas de Miranda del Castañar: arquitectura y memoria de los toques comunitarios."
 layout: default
 title: "Torre de las campanas"
 parent: "Patrimonio de Miranda del Castañar"
