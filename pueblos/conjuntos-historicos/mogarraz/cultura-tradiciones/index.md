@@ -27,3 +27,8 @@ La Peña de Mogarraz, n.º 9 (2013), p. 13, menciona cuatro cofradías de mediad
 Extractos recuperados el 24-11-2026.
 
 [Volver a Mogarraz](../).
+
+
+## San Blas y las Águedas
+
+La revista local de 2009 recoge ambas celebraciones de invierno y vincula San Blas con la costumbre de compartir el limón serrano. El programa de enero de 2016 documenta bendición de gargantillas, procesión y recorrido por bodegas. No constituye un calendario vigente. Véase [Gastronomía](../gastronomia/) para referencias y alcance documental.
