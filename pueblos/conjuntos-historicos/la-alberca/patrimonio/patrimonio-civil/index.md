@@ -18,8 +18,10 @@ Los edificios civiles y espacios públicos permiten conocer la organización mun
 
 - [Plaza Mayor](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/plaza-mayor/): configuración urbana, usos históricos y transformaciones.
 
+- [Ayuntamiento de La Alberca](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/ayuntamiento/): edificio, inscripción de 1774, cárcel y documentación concejil.
+
 ## Líneas abiertas
 
-Ayuntamiento e inscripción de 1774; Casa Ducal y Teatro Municipal; Hospital de Menesterosos y Peregrinos; antiguas escuelas; puentes y comunicaciones históricas.
+Casa Ducal y Teatro Municipal; Hospital de Menesterosos y Peregrinos; antiguas escuelas; puentes y comunicaciones históricas.
 
 Los [elementos patrimoniales](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/) asociados se estudian en sus propias monografías.
