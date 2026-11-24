@@ -56,7 +56,7 @@ La relación entre el crucero, la ermita y el espacio urbano constituye una lín
 
 Su cronología y posibles modificaciones todavía deben documentarse.
 
-### Crucero del Barrio Nuevo
+### [Crucero del Barrio Nuevo](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/crucero-barrio-nuevo/)
 
 Se ha identificado también un crucero en el entorno de la calle Hospicio, en el Barrio Nuevo.
 
