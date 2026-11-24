@@ -3,10 +3,11 @@ layout: default
 title: "Cultura y tradiciones de Mogarraz"
 parent: Mogarraz
 grand_parent: Conjuntos históricos
-nav_order: 8
+nav_order: 4
 last_modified_at: 2026-11-24
 description: "Religiosidad popular, cofradías e indumentaria de Mogarraz."
 permalink: /pueblos/conjuntos-historicos/mogarraz/cultura-tradiciones/
+has_children: true
 ---
 
 # Cultura y tradiciones de Mogarraz
@@ -32,3 +33,9 @@ Extractos recuperados el 24-11-2026.
 ## San Blas y las Águedas
 
 La revista local de 2009 recoge ambas celebraciones de invierno y vincula San Blas con la costumbre de compartir el limón serrano. El programa de enero de 2016 documenta bendición de gargantillas, procesión y recorrido por bodegas. No constituye un calendario vigente. Véase [Gastronomía](../gastronomia/) para referencias y alcance documental.
+
+
+## Explorar esta sección
+
+- [Memoria visual](../memoria-visual/).
+- [Gastronomía](../gastronomia/).
