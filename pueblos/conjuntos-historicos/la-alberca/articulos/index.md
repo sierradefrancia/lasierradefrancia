@@ -73,6 +73,14 @@ Ensayos narrativos basados en los expedientes del atlas, con límites documental
 - [El año que no cuadraba](./el-ano-que-no-cuadraba/)
 - [El derecho a ser escuchado](./el-derecho-a-ser-escuchado/)
 
+### Los sonidos y las creencias
+
+- [Cuando cae la noche y suena la esquila](./cuando-cae-la-noche/)
+- [Las pequeñas cruces que casi nadie mira](./las-cruces-que-casi-nadie-mira/)
+- [Un lugar para recordar a quienes ya no están](./un-lugar-para-recordar/)
+- [El día en que un pueblo se viste de memoria](./vestirse-de-memoria/)
+- [La Loa: cuando la fe se convierte en teatro](./cuando-la-fe-se-convierte-en-teatro/)
+
 ### Historias documentales
 
 - [La Alberca en 1791](../historia/articulos/la-alberca-1791-epidemia-hambre-impuestos/)
