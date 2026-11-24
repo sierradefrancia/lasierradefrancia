@@ -1,4 +1,5 @@
 ---
+description: "Patrimonio de las Ánimas de La Alberca: osario, hornacinas, cruces devocionales y documentación histórica de la memoria de los difuntos."
 layout: default
 title: Osario y Ánimas Benditas
 parent: Patrimonio religioso
