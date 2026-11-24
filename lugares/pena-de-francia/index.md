@@ -151,6 +151,9 @@ Investigaciones específicas, hallazgos documentales, memoria oral y creación l
 
 ## Investigaciones destacadas
 
+[La feria de septiembre y El Casarito: estudio territorial](/lugares/pena-de-francia/cultura-tradiciones/feria-septiembre/).
+
+
 - [La montaña que volvió a levantarse](/lugares/pena-de-francia/articulos/la-montana-que-volvio-a-levantarse/).
 - [La expedición científica de 1857](/lugares/pena-de-francia/clima-observacion/expedicion-1857/).
 - [La devoción internacional](/lugares/pena-de-francia/historia/devocion-internacional/).

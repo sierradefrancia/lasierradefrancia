@@ -164,6 +164,9 @@ La coincidencia de algunas fechas no significa que todas estas actividades tenga
 
 ## La feria histórica de septiembre
 
+[La feria de septiembre y El Casarito: estudio territorial](/lugares/pena-de-francia/cultura-tradiciones/feria-septiembre/).
+
+
 Uno de los testimonios más interesantes se conserva en el Archivo Histórico Dominicano.
 
 Su catálogo describe documentación relativa a los trabajadores empleados durante una feria celebrada en la Peña de Francia y en El Casarito.

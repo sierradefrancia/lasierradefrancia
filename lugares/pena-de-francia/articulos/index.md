@@ -53,6 +53,9 @@ Una investigación independiente permitirá reconstruir este episodio de la hist
 
 ### La feria de septiembre y su relación con El Casarito
 
+[La feria de septiembre y El Casarito: estudio territorial](/lugares/pena-de-francia/cultura-tradiciones/feria-septiembre/).
+
+
 El Archivo Histórico Dominicano conserva documentación sobre una feria celebrada los días 6, 7 y 8 de septiembre.
 
 Los registros mencionan trabajadores contratados por el prior y actividades relacionadas con El Casarito.
