@@ -49,3 +49,15 @@ Localizar el privilegio de villazgo, documentación fiscal del siglo XVIII y pri
 
 
 [Expediente de la Fundación Melón y educación](./fundacion-melon/).
+
+**Nota documental:** las declaraciones de consulta anteriores quedan pendientes de cotejo reproducible; esta ampliación utiliza el corpus existente.
+
+## El villazgo dentro de la historia comarcal
+
+La ejecutoria fechada el 24 de septiembre de 1671, reproducida parcialmente en la revista de 2009, constituye una pista más concreta que la intervención parlamentaria de 2005. Sin embargo, un encabezamiento no permite determinar si se trata de la concesión inicial, una confirmación o la resolución de un litigio. La fecha alternativa de 1656 debe conservarse hasta recuperar los documentos.
+
+La antigua dependencia de [Miranda](../../miranda-del-castanar/historia/condado/) permite comparar el caso mogarreño con los villazgos atribuidos a [Villanueva del Conde](../../villanueva-del-conde/historia/) en 1755 y [Sequeros](../../sequeros/historia/villazgo/) en 1756. No cabe atribuir a Mogarraz las mismas condiciones económicas o jurídicas.
+
+## Una historia que supera el marco jurisdiccional
+
+Las pizarras de Los Malvanes o Marvanes introducen una escala anterior a la formación medieval de la villa. En época contemporánea, la [Fundación Melón](./fundacion-melon/) permite investigar la educación y el destino social de un patrimonio particular. Los testimonios sobre [artesanía](../artesania/) aportan otra perspectiva sobre los habitantes, sus oficios y sus relaciones comerciales. Estas líneas poseen fuentes y cronologías propias.
