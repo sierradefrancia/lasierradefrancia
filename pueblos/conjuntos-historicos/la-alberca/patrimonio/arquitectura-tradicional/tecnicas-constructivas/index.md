@@ -21,3 +21,7 @@ La comparación con Candelario y Miranda del Castañar procede del mismo estudio
 ## Referencias
 
 Véase el [registro bibliográfico del bloque](/pueblos/conjuntos-historicos/la-alberca/patrimonio/arquitectura-tradicional/). Consulta parcial de las fuentes, 24-11-2026; investigación abierta.
+
+## Contraste estructural
+
+El [estudio de 2007](/pueblos/conjuntos-historicos/la-alberca/patrimonio/arquitectura-tradicional/arquitectura-y-clima/) plantea muros inferiores portantes frente a la descripción de pies derechos del artículo de Folklore. La divergencia requiere levantamientos de casas concretas, identificación de apoyos y fases; no se resuelve mediante generalización.
