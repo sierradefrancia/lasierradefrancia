@@ -51,7 +51,7 @@ Para la compra de 1915 existen referencias a enero en el IPCE y a agosto en la h
 
 La memoria del IPCE atribuye a Luis Buñuel interés por adquirir el lugar para usos cinematográficos en 1935. Eduardo Javier Alonso Romo, en Salmanticensis 59 (2012), p. 280, refiere que el obispo Barbado Viejo informó a Maravillas de Jesús del interés de una compañía cinematográfica.
 
-Ambas noticias son compatibles, pero no acreditan independientemente la identidad del comprador ni la existencia de un proyecto empresarial formal. Quedan pendientes correspondencia, documentación mercantil y fuentes biográficas de Buñuel. No se afirma que llegara a rodarse una película en el monasterio como consecuencia de aquella iniciativa.
+Ambas noticias son compatibles, pero no acreditan independientemente la identidad del comprador ni la existencia de un proyecto empresarial formal. Una investigación posterior ha identificado una carta de 1935 en la Filmoteca Española y un testimonio retrospectivo que matiza la finalidad del proyecto. Véase [Luis Buñuel y Las Batuecas](/lugares/las-batuecas/luis-bunuel/). Quedan pendientes el original de la carta, documentación mercantil y escrituras. No se afirma que llegara a rodarse una película en el monasterio como consecuencia de aquella iniciativa.
 
 ## La recuperación religiosa
 

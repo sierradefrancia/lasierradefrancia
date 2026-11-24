@@ -29,6 +29,8 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 
 ## Estudios e inventarios
 
+- [Luis Buñuel y Las Batuecas](/lugares/las-batuecas/luis-bunuel/): rodaje, negociaciones de compra y regreso en 1971.
+
 - [Desamortización y recuperación del Desierto](/lugares/las-batuecas/desamortizacion-recuperacion/): transmisiones patrimoniales, propietarios y retorno religioso.
 
 - [Restauración del monasterio](/lugares/las-batuecas/restauracion-monasterio/): pérdidas, fases de obra y documentación técnica.
