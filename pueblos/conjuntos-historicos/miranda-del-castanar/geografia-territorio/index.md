@@ -1,4 +1,5 @@
 ---
+description: "Geografía de Miranda del Castañar: emplazamiento de la villa, relieve, caminos y relaciones territoriales."
 layout: default
 title: Geografía y territorio de Miranda
 parent: Miranda del Castañar
