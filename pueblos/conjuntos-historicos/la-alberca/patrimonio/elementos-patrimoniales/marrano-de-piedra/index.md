@@ -17,11 +17,24 @@ Junto a la iglesia de Nuestra Señora de la Asunción, un cerdo de granito recue
 
 La ficha de MonumentalNet sitúa la escultura en la esquina suroeste de la iglesia y atribuye su realización a la Escuela Taller del INEM Sierra de Francia. Según esta fuente, fue inaugurada en agosto de 1996.
 
-La fecha y la atribución aparecen también en publicaciones divulgativas posteriores, aunque desconocemos si proceden de testimonios independientes. No hemos recuperado todavía el acta de inauguración ni la memoria de la Escuela Taller.
+La fecha y la atribución se mantienen vinculadas a esta ficha secundaria, sin contabilizar como confirmaciones independientes otras descripciones de la escultura. No hemos recuperado todavía el acta de inauguración ni la memoria de la Escuela Taller.
 
 La documentación disponible permite interpretarla como un monumento conmemorativo contemporáneo. No hay fundamento en las fuentes examinadas para catalogarla como un verraco arqueológico vetón por su aspecto o por el animal que representa.
 
 El trabajo *El cerdo ibérico y el arte en España*, de Silvia María Martín Rivas, fechado en 2010 y difundido por la Universidad Internacional de Andalucía, ya recoge la existencia del monumento en su página 77. Constituye un testimonio de su presencia anterior a la actualidad, aunque no documenta su inauguración.
+
+## Identificación del monumento
+
+| Dato | Registro |
+|---|---|
+| Identificador del atlas | ALB-PAT-014 |
+| Denominación alternativa | Monumento al marrano de San Antón |
+| Emplazamiento | Plaza de la Iglesia, esquina suroeste del templo |
+| Material | Granito |
+| Referencia MonumentalNet | SA-010000100-ALB-MTO-MAR-STO-ANT |
+| Dimensiones y autor individual | No determinados |
+
+La ficha citada clasifica la pieza como monumento conmemorativo y relaciona su significado también con la producción chacinera comarcal. Esta última asociación es una interpretación de la fuente, no una intención del promotor acreditada documentalmente.
 
 ## Dos santos y un marrano
 
