@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: La Alberca medieval
 parent: Historia
@@ -511,3 +512,8 @@ La cesión de derechos sobre Las Hurdes y Las Batuecas explica una parte importa
 Y el archivo descrito por Vicente de la Fuente demuestra la importancia que estos documentos conservaron durante siglos.
 
 **Reconstruir la historia medieval de La Alberca exige seguir sus documentos, distinguir sus diferentes épocas y reconocer aquello que todavía no sabemos.**
+
+
+## Conexiones documentales y actualización
+
+La [provisión de 1547 publicada por el Ayuntamiento](https://laalberca.com/tradiciones/dia-del-pendon/) recoge retrospectivamente una atribución del pendón a la guerra de Zamora. Es evidencia de la tradición consignada en 1547, no prueba contemporánea del combate de 1475. Véase [Pendón y Trago](../../cultura-tradiciones/pendon-y-trago/).
