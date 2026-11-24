@@ -172,7 +172,7 @@ En cualquier caso, merece la pena reservar tiempo para descubrir el pueblo sin p
 
 ## Conocer La Alberca en profundidad
 
-Este atlas reúne el conocimiento sobre La Alberca en nueve secciones complementarias.
+Este atlas reúne el conocimiento sobre La Alberca en diez secciones complementarias.
 
 Cada una aborda un aspecto diferente del pueblo, con información histórica, territorial, cultural o práctica.
 
@@ -209,6 +209,12 @@ El relieve, los valles, los cursos de agua, los caminos y los lugares que forman
 **[Naturaleza](/pueblos/conjuntos-historicos/la-alberca/naturaleza/)**
 
 Los ambientes naturales, bosques, humedales, árboles singulares y organismos documentados en La Alberca.
+
+### Una visión integrada
+
+**[La Alberca en su conjunto](./valor-global/)**
+
+Las relaciones entre territorio, patrimonio, comunidad y futuro.
 
 ### Descubrir y crear
 
