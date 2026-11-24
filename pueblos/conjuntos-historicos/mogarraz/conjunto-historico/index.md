@@ -3,7 +3,7 @@ layout: default
 title: "Conjunto histórico de Mogarraz"
 parent: Mogarraz
 grand_parent: Conjuntos históricos
-nav_order: 1
+nav_order: 2
 last_modified_at: 2026-11-24
 description: "Declaración de 1998, delimitación y lectura histórica del parcelario."
 permalink: /pueblos/conjuntos-historicos/mogarraz/conjunto-historico/
