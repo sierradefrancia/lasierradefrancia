@@ -11,6 +11,8 @@ permalink: /pueblos/conjuntos-historicos/la-alberca/naturaleza/vegetacion/
 
 # Vegetación y árboles singulares
 
+**Estado documental:** síntesis provisional. Las referencias y cifras requieren cotejo directo antes de considerarse verificadas; no se acredita aquí una consulta externa completa.
+
 ## Registro administrativo histórico
 
 La copia del BOCYL n.º 138 de 18 de julio de 2006 y el informe ambiental preliminar del Programa de Desarrollo Rural Sostenible 2010–2014 identifican ejemplares albercanos. Una copia alojada en Scribd del catálogo fechado en abril de 2024 reproduce los siguientes datos:
@@ -23,7 +25,7 @@ La copia del BOCYL n.º 138 de 18 de julio de 2006 y el informe ambiental prelim
 
 Las dimensiones se atribuyen a la copia de 2024, no a mediciones realizadas ese año. No se ha localizado todavía la versión oficial vigente. El género Quercus no permite identificar la especie del roble. No inferir edad ni estado vital a partir de dimensiones históricas.
 
-Fuentes recuperadas mediante búsqueda el 24-11-2026:
+Referencias identificadas en el expediente; cotejo directo pendiente de acreditación.
 
 - [Copia del BOCYL de 18-07-2006](https://www.sdlmedioambiente.com/Edadarbol/imagenesweb/Orden_Arboles_Singulares_Castilla-Leon2006.pdf), p. 13532 para tejo y roble.
 - [Informe de sostenibilidad ambiental, programa 2010–2014](https://frmpcyl.es/wp-content/uploads/2018/01/NOR_17012011DRS.pdf), tabla de figuras de protección.
