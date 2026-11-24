@@ -33,3 +33,13 @@ Véase el [registro bibliográfico del bloque](/pueblos/conjuntos-historicos/la-
 ## Caso individual
 
 La [Casa Museo Satur Juanela](/pueblos/conjuntos-historicos/la-alberca/patrimonio/arquitectura-tradicional/casa-satur-juanela/) aporta una distribución documentada por niveles y vocabulario local (salaero, campocasa, sobrao). Se distingue la organización histórica de la musealización actual. El TFG de Fuentes Hernández cuenta con trabajo de campo confirmado en su ficha USAL; no se ha verificado que ambas fuentes describan una misma casa.
+
+## El ciclo de los alimentos dentro de la casa
+
+El secado de castañas descrito sobre la cocina relaciona la producción forestal con la conservación doméstica. Las cachas y cintas forman parte del dispositivo referido por Fuentes Hernández; el llar, tallizo y tizneros pertenecen al ámbito del hogar. Son términos que conviene documentar mediante fotografías de los objetos y testimonios de uso, no solo mediante equivalencias léxicas.
+
+Los corredores destinados a ventilar fruta y el sequero muestran dos soluciones de conservación que no deben confundirse. La organización por niveles de la [Casa Satur Juanela](../casa-satur-juanela/) aporta además los términos salaero, campocasa y sobrao. Su significado y variaciones entre familias requieren contraste.
+
+La relación entre combustible, cocina y almacenamiento explica parte de la [adaptación ambiental](../arquitectura-y-clima/) de la vivienda. No se dispone de cantidades de cosecha, consumo de leña ni duración del secado que permitan cuantificar estos procesos.
+
+*Síntesis del corpus documental existente; sin nuevo cotejo externo.*
