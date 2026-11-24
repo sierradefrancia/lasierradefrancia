@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: Gastronomía
 nav_order: 6
@@ -474,3 +475,7 @@ Esta página proporcionará una visión general y enlazará a los contenidos esp
 La gastronomía de la Sierra de Francia no pertenece únicamente al pasado.
 
 Las recetas tradicionales conviven con nuevas interpretaciones, productos contemporáneos y 
+
+## Relación entre comarca y localidades
+
+Esta sección reúne las síntesis generales y comparativas. Las monografías de pueblos documentan recetas, testimonios y variantes locales; no se infiere origen exclusivo ni presencia universal a partir de un caso. Véase [cultura alimentaria de La Alberca](/pueblos/conjuntos-historicos/la-alberca/cultura-tradiciones/#gastronomía-y-cultura-alimentaria).
