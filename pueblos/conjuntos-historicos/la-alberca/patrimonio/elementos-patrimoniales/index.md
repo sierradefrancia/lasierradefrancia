@@ -4,6 +4,7 @@ title: Elementos patrimoniales
 parent: Patrimonio
 grand_parent: La Alberca
 nav_order: 5
+last_modified_at: 2026-11-24
 has_children: true
 description: "Cruces, cruceros, inscripciones, escudos, símbolos y otros testimonios materiales del patrimonio histórico de La Alberca."
 permalink: /pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/
@@ -33,7 +34,7 @@ Algunas pudieron servir como referencias devocionales, otras estar relacionadas 
 
 Para determinar su función original necesitamos estudiar su ubicación histórica, sus características materiales y la documentación conservada.
 
-### Crucero de la Plaza Mayor
+### [Crucero de la Plaza Mayor](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/crucero-plaza-mayor/)
 
 La Plaza Mayor conserva un crucero de piedra con representaciones religiosas.
 
@@ -72,6 +73,10 @@ También debemos prestar atención a las cruces situadas en caminos, junto a edi
 Su identificación requiere distinguir entre cruces exentas, cruces incorporadas a construcciones y simples representaciones grabadas.
 
 No todas constituyen necesariamente bienes independientes ni pertenecen a una misma época.
+
+## Monumentos conmemorativos
+
+El [marrano de piedra](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/marrano-de-piedra/) recuerda la crianza vecinal del marrano de San Antón. La escultura se atribuye a la Escuela Taller Sierra de Francia y a una inauguración en 1996.
 
 ## Inscripciones y fechas grabadas
 
