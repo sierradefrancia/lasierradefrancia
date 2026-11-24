@@ -14,3 +14,7 @@
 - SEQ-FUE-010: [Informe ambiental municipal](https://www.sequeros.es/urbanismo/NUM-ISA%20SEQUEROS/ISA_SEQUEROS-11-2015.pdf), extracto p. 57 sobre protección monumental. Lectura ambiental íntegra pendiente.
 
 SEQ-FUE-001 y 002: extractos recuperados nuevamente en este bloque. No se certifica la lectura íntegra de documentos a partir de extractos.
+
+## Bloque 3 — 24-11-2026
+
+Texto oficial íntegro de incoación 2002 recuperado; extractos de la RAH (1883), Polo Martín (2011), Gaceta (1870), Cortes de Castilla y León (2004), estudio autonómico del Humilladero y guía provincial recuperados. Registro bibliográfico del decreto de 1834 localizado, no leído íntegramente. Referencias específicas en las seis nuevas monografías. Pendientes privilegio de 1756, límites originales de 1834, actas concejiles y decreto individual del Humilladero. No se certifican retrospectivamente las consultas del bloque 2.
