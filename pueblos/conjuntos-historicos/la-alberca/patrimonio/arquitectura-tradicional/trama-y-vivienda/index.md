@@ -1,4 +1,5 @@
 ---
+description: "La trama urbana de La Alberca y su vivienda tradicional: calles, soportales, plantas superiores y organización de los espacios."
 layout: default
 title: Trama urbana y vivienda
 parent: Arquitectura tradicional
