@@ -1,4 +1,5 @@
 ---
+description: "Ideas para descubrir La Alberca con niños: detalles de arquitectura, tradiciones, museos y paseos adaptados a cada familia."
 layout: default
 title: La Alberca con niños
 parent: Visitar La Alberca
