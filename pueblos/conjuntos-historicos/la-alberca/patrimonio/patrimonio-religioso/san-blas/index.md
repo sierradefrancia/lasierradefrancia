@@ -1,4 +1,5 @@
 ---
+description: "Ermita de San Blas de La Alberca: emplazamiento, arquitectura, antiguo cementerio y relación con la tradición del Pendón."
 layout: default
 title: Ermita de San Blas
 parent: Patrimonio religioso
