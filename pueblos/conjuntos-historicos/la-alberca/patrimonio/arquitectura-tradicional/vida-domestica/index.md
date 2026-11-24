@@ -1,4 +1,5 @@
 ---
+description: "Vida doméstica en las casas tradicionales de La Alberca: cocina, alcobas, almacenamiento, animales y vocabulario de los espacios."
 layout: default
 title: Interior y economía doméstica
 parent: Arquitectura tradicional
