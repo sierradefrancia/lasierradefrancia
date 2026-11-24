@@ -33,3 +33,11 @@ La web municipal describe una práctica vespertina de oración por difuntos y pe
 - [Ayuntamiento, Moza de Ánimas](https://laalberca.com/tradiciones/moza-animas/).
 
 Consulta de extractos indexados: 24-11-2026. Estudio inicial abierto; no se han examinado íntegramente los documentos ni realizado inspección de campo.
+
+## Una geografía de la memoria funeraria
+
+La anotación atribuida al vicario Juan de los Hoyos Gómez permite situar una ceremonia el 15 de noviembre de 1824. Si el intervalo recordado de 45 años fuese exacto, la anterior correspondería aproximadamente a 1779; no es una segunda fecha documental. Los repiques y misas relacionan la gestión material del osario con el [patrimonio sonoro parroquial](../iglesia-asuncion/campanas-reloj-matraca/).
+
+Las cruces de La Puente, Pedragal y Mochito deben registrarse por separado: soporte, texto, posición, orientación y relación con los caminos. La fecha atribuida de 1843 en Mochito no puede extenderse a las demás. La inscripción de la columna de la plaza merece comparación con el [crucero de la Plaza Mayor](../../elementos-patrimoniales/crucero-plaza-mayor/) sin presuponer identidad. La oración durante los desplazamientos a los huertos muestra una relación entre devoción y movilidad cotidiana, distinta de una procesión organizada.
+
+*Síntesis de documentación previamente registrada; sin nuevo cotejo externo.*
