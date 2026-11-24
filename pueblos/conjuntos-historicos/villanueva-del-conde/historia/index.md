@@ -1,4 +1,5 @@
 ---
+description: "Historia de Villanueva del Conde: evolución del núcleo, organización territorial y memoria de la comunidad."
 layout: default
 title: "Historia de Villanueva del Conde"
 parent: "Villanueva del Conde"
