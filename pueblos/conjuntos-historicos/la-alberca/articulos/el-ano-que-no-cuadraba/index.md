@@ -33,3 +33,11 @@ Por ahora, 1289 es nuestra referencia provisional. El original o su traslado deb
 **Referencias:** [Berrogain, Ordenanzas de La Alberca (1930), pp. 381–441](https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-H-1930-10038100441); Luciano Fernández Gómez (1984), [Las Hurdes](https://www.persee.fr/doc/casa_0076-230x_1984_num_20_1_2411), pp. 75–81; [La Alberca medieval](../../historia/edad-media/).
 
 *Nota documental: síntesis narrativa de los expedientes históricos del atlas. En esta fase se han leído los expedientes internos, no cotejado directamente las fuentes externas ni los originales archivísticos.*
+
+## El documento que llega a través de otros
+
+El expediente medieval recoge también la referencia de Monsalvo Antón a un traslado fechado el 14 de noviembre de 1313, conservado en la caja 14 del Archivo Municipal. La fecha de un traslado no es la del acto jurídico que reproduce. Entre el acontecimiento, su copia y la edición moderna pueden introducirse diferencias que solo el cotejo permite identificar.
+
+La investigación no acaba al resolver la resta: debe identificar quién concedió qué derechos, sobre qué territorio y bajo qué condiciones. Los litigios posteriores estudiados en [La Alberca y Las Hurdes](../../historia/alberca-hurdes/) muestran por qué importa esa distinción. La fecha de 1289 sigue siendo provisional hasta verificar la transmisión documental.
+
+*Ampliación basada en los expedientes existentes del atlas; sin nuevo cotejo externo.*
