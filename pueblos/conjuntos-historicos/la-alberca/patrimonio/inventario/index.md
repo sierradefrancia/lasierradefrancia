@@ -517,16 +517,42 @@ Registros previos: [ALB-PAT-001 Plaza Mayor](/pueblos/conjuntos-historicos/la-al
 
 **Relaciones y contradicciones prioritarias:** cuartel (1908 frente al relato atribuido a 1911); reforma teatral (mayo frente a junio de 1919); deslinde hospitalario (1549 frente a 1559); escuela graduada femenina de 1929 frente al edificio inaugurado en 1935 (entidades no necesariamente idénticas); inscripción de 1774 frente a cronología del consistorio. Referencias de trabajo: ordenanzas de 1515 (traslado de 1668), Catastro de Ensenada, acuerdos concejiles, Gaceta de 1929, proyecto teatral de 1997 e IPCE PI-557-5. La presencia de referencias en las monografías no acredita su comprobación independiente.
 
+### Consolidación de la iglesia — 24 de noviembre de 2026
+
+Todos los registros siguientes se relacionan con ALB-PAT-004. E1: identificación en las referencias recogidas por los artículos, sin nuevo cotejo externo. Los conjuntos son registros colectivos, no recuentos de piezas individuales. Los objetos históricos no se presumen conservados.
+
+| ID | Bien | Evidencia | Estudio |
+|---|---|---|---|
+| ALB-PAT-030 | Torre parroquial | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/torre-y-heraldica/) |
+| ALB-PAT-031 | Conjunto de campanas (registro colectivo provisional) | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/campanas-reloj-matraca/) |
+| ALB-PAT-032 | Reloj histórico referido en 1693 (identidad material pendiente) | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/campanas-reloj-matraca/) |
+| ALB-PAT-033 | Matraca desmontada en 1979 | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/campanas-reloj-matraca/) |
+| ALB-PAT-034 | Matraca construida en 2019 | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/campanas-reloj-matraca/) |
+| ALB-PAT-035 | Imagen del Cristo del Sudor | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/cristo-del-sudor/) |
+| ALB-PAT-036 | Capilla del Cristo del Sudor | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/cristo-del-sudor/) |
+| ALB-PAT-037 | Retablo de los Espejos | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/cristo-del-sudor/) |
+| ALB-PAT-038 | Santa Espina (atribución devocional) | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/cristo-del-sudor/) |
+| ALB-PAT-039 | Capilla del Rosario | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/retablos-y-capillas/) |
+| ALB-PAT-040 | Retablo del Rosario | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/retablos-y-capillas/) |
+| ALB-PAT-041 | Pintura sobre cobre donada en 1860 (conservación desconocida) | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/retablos-y-capillas/) |
+| ALB-PAT-042 | Capilla de los Dolores | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/retablos-y-capillas/) |
+| ALB-PAT-043 | Retablo mayor | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/retablos-y-capillas/) |
+| ALB-PAT-044 | Órgano de tubos | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/organo-historico/) |
+| ALB-PAT-045 | Armonio histórico | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/organo-historico/) |
+| ALB-PAT-046 | Ciriales de plata (conjunto) | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/orfebreria-y-bienes-liturgicos/) |
+| ALB-PAT-047 | Azucenas de plata de las andas (conjunto) | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/orfebreria-y-bienes-liturgicos/) |
+| ALB-PAT-048 | Pila bautismal | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-religioso/iglesia-asuncion/orfebreria-y-bienes-liturgicos/) |
+
+Se mantienen ALB-PAT-004, 005, 006 y 015 sin duplicación. La cruz procesional de cobre dorado permanece candidata hasta verificar su identificación. La cofradía, los toques y la tradición de 1655/1665 son entidades o testimonios relacionados, no bienes materiales adicionales. Las inscripciones de 1519 y 1571 quedan asociadas a la torre hasta individualizar su lectura. Pendientes: originales, inventario diocesano, estado material, catálogo urbanístico y estudio íntegro de las bóvedas. Véase también [José Luis Puerto](/personajes/jose-luis-puerto/).
+
 ### Consolidación de candidatos (24 de noviembre de 2026)
 
 Los siguientes nombres proceden del registro de transferencia y de las búsquedas de noviembre. No se les asigna identificador permanente hasta recuperar una fuente concreta o resolver su identidad.
 
 | Candidato | Investigación pendiente |
 |---|---|
-| Torre, campanas, órgano, Cristo del Sudor | Individualizar piezas y documentación parroquial |
 | Ermita de San Blas / de la Bandera | Identidad y ficha técnica |
 | Hornacina y cruces de Ánimas de La Puente, Pedragal y Mochito | Distinguir del osario y cruceros; iniciales A B y fecha atribuida 1843 |
-| Ciriales y azucenas de plata de las andas de la Virgen | Referencias comunicadas en presentación de Lo sagrado; verificar fichas |
 | Puentes, caminos, pavimentos, viviendas, dinteles, escudos, columnas, relieves y memoriales | Individualización documental y material |
 | Traje de Vistas, joyería, ajuar, oficios, fiestas, Moza de Ánimas y marrano vivo | Relaciones con cultura y tradiciones; separar objetos y prácticas |
 
@@ -702,6 +728,10 @@ Siete artículos de elementos patrimoniales presentes en el repositorio; 25 iden
 ### Cierre editorial del patrimonio civil — 24 de noviembre de 2026
 
 Seis monografías y su índice comprobados en el repositorio; 13 artículos entre las dos series y 29 identificadores patrimoniales acumulados. Se ha comprobado la presencia de metadatos y enlaces en el índice civil, no la validez de todas las referencias externas ni el despliegue público. Prioridad transversal: cotejar las fuentes originales y el catálogo urbanístico. No se eleva automáticamente la evidencia por extensión o publicación del artículo.
+
+### Cierre editorial de la iglesia — 24 de noviembre de 2026
+
+Ocho artículos comprobados en el repositorio (principal y siete subordinados), 48 identificadores acumulados. Bóvedas aplazadas. No se han revalidado las fuentes externas ni el despliegue público. Se conserva E1 para las nuevas identificaciones.
 
 ### Fase I — Identificación inicial
 
