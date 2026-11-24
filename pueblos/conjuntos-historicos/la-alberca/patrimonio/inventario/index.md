@@ -504,15 +504,25 @@ Los siguientes identificadores son permanentes. E1 indica identificación docume
 | ALB-PAT-024 | Fuente del Castaño | E1 provisional | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/fuentes/) | Localización y testimonio etnográfico |
 | ALB-PAT-025 | Pozo de las Majadas Viejas | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/fuentes/) | Localización y relación con ermita |
 
+### Consolidación del patrimonio civil — 24 de noviembre de 2026
+
+| ID | Bien | Evidencia | Monografía | Pendiente |
+|---|---|---|---|---|
+| ALB-PAT-026 | Casa Ducal / Teatro Municipal | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/casa-ducal/) | Propiedad, columnas, obras de 1919 y 1997 |
+| ALB-PAT-027 | Edificio del Hospital / biblioteca | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/hospital/) | Fundación, deslinde 1549/1559, adaptación |
+| ALB-PAT-028 | Edificio escolar de 1935 | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/escuelas/) | Proyecto, autoría, localización precisa |
+| ALB-PAT-029 | La Puente | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/puentes-y-caminos/) | Cronología, dimensiones, reparaciones |
+
+Registros previos: [ALB-PAT-001 Plaza Mayor](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/plaza-mayor/), [ALB-PAT-002 Ayuntamiento y ALB-PAT-003 inscripción](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/ayuntamiento/). Se mantienen sus niveles de evidencia hasta contrastar las fuentes externas. ALB-PAT-026 identifica el inmueble, no cada institución que lo ocupó. ALB-PAT-027 identifica el inmueble atribuido al hospital, no la totalidad de sus propiedades históricas. Los caminos se mantienen como conexiones territoriales pendientes de delimitación material.
+
+**Relaciones y contradicciones prioritarias:** cuartel (1908 frente al relato atribuido a 1911); reforma teatral (mayo frente a junio de 1919); deslinde hospitalario (1549 frente a 1559); escuela graduada femenina de 1929 frente al edificio inaugurado en 1935 (entidades no necesariamente idénticas); inscripción de 1774 frente a cronología del consistorio. Referencias de trabajo: ordenanzas de 1515 (traslado de 1668), Catastro de Ensenada, acuerdos concejiles, Gaceta de 1929, proyecto teatral de 1997 e IPCE PI-557-5. La presencia de referencias en las monografías no acredita su comprobación independiente.
+
 ### Consolidación de candidatos (24 de noviembre de 2026)
 
 Los siguientes nombres proceden del registro de transferencia y de las búsquedas de noviembre. No se les asigna identificador permanente hasta recuperar una fuente concreta o resolver su identidad.
 
 | Candidato | Investigación pendiente |
 |---|---|
-| Casa Ducal / Teatro Municipal | Memoria de rehabilitación de 1997; doce columnas, siete empotradas; usos de cuartel, carnicería y teatro; discrepancia mayo/junio de 1919 |
-| Hospital de Menesterosos y Peregrinos | Identificación con biblioteca actual; fundación y usos |
-| Antiguas escuelas | Relacionar edificio con artículo histórico de 1935 |
 | Torre, campanas, órgano, Cristo del Sudor | Individualizar piezas y documentación parroquial |
 | Ermita de San Blas / de la Bandera | Identidad y ficha técnica |
 | Hornacina y cruces de Ánimas de La Puente, Pedragal y Mochito | Distinguir del osario y cruceros; iniciales A B y fecha atribuida 1843 |
@@ -688,6 +698,10 @@ Estas obras están identificadas como referencias de investigación, pero sus co
 
 Siete artículos de elementos patrimoniales presentes en el repositorio; 25 identificadores asignados en total, incluidos dos registros provisionales. Publicación editorial no equivale a madurez científica. Pendientes: comprobación externa de referencias, catálogo oficial, inspección material y despliegue web. Los artículos de marrano y ara se vinculan a ALB-PAT-014 y 015; no se eleva su nivel de evidencia sin cotejo adicional.
 
+
+### Cierre editorial del patrimonio civil — 24 de noviembre de 2026
+
+Seis monografías y su índice comprobados en el repositorio; 13 artículos entre las dos series y 29 identificadores patrimoniales acumulados. Se ha comprobado la presencia de metadatos y enlaces en el índice civil, no la validez de todas las referencias externas ni el despliegue público. Prioridad transversal: cotejar las fuentes originales y el catálogo urbanístico. No se eleva automáticamente la evidencia por extensión o publicación del artículo.
 
 ### Fase I — Identificación inicial
 
