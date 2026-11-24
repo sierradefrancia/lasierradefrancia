@@ -40,3 +40,8 @@ Anexo BOE y guía provincial, páginas PDF 2–11. La alhóndiga y el juzgado pu
 
 - [Resolución de 2002](https://boe.es/diario_boe/txt.php?id=BOE-A-2002-13556).
 - [Guía urbana provincial](https://www.lasalina.es/m/ru/sequeros/qr-espa/pdf/sequeros-ES.pdf).
+
+## Investigaciones complementarias
+
+- [Barrero y Cabezuela](./barrero-cabezuela/) (SEQ-PAT-018 y 019).
+- SEQ-PAT-014: Casa del Escribano, pendiente de documentación específica.
