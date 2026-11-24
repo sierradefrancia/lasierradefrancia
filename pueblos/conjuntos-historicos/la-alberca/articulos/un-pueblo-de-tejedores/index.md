@@ -40,3 +40,13 @@ La descripción de González de Manuel de 1693, el Catastro de 1753 y el interro
 José Luis Puerto, [Blanquear los tejidos](https://www.funjdiaz.net/folklore/07ficha.php?ID=5123&NUM=512), Revista de Folklore 512 (2024), apartado albercano, notas 5–11. Consultado el 24-11-2026. Los documentos antiguos se conocen aquí por su mediación.
 
 [Arquitectura tradicional](../../patrimonio/arquitectura-tradicional/) · [Economía tradicional](../../sociedad-economia/economia-tradicional/).
+
+## Del campo al mercado dominical
+
+El interrogatorio de 1791 recoge, según Puerto, 350 arrobas de lino de regadío. Miñano menciona en 1826 el mercado dominical y el blanqueo de los tejidos realizado por mujeres. Son dos referencias que permiten investigar el abastecimiento de materia prima y la comercialización sin afirmar que todo el lino local se vendiera en aquel mercado.
+
+El Catastro de Ensenada de 1753 distingue tejedores de mantelería y de lienzo. La especialización del oficio merece una lectura individual de las declaraciones, porque una categoría fiscal no revela por sí sola las tareas que realizaba cada familia.
+
+La reputación de los tejidos terminados constituye otra dimensión de esa economía. [Las mujeres que blanqueaban los lienzos](../las-mujeres-que-blanqueaban-los-lienzos/) desarrolla el trabajo de acabado que queda parcialmente oculto tras las cifras de tejedores.
+
+*Ampliación basada en los expedientes existentes del atlas, sin nuevo cotejo externo.*
