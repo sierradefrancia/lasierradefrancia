@@ -37,3 +37,13 @@ Y si vienes de fuera, prueba a mirar un árbol, una nube o una casa con esa curi
 ### Fuente
 
 José Luis Puerto y Jesús Serrano, [Léxico albercano (I)](https://www.funjdiaz.net/folklore/07ficha.php?ID=893&NUM=89), Revista de Folklore 89 (1988), apartados 1 y 2, consultado el 24-11-2026. No se ha realizado encuesta lingüística actual.
+
+## El vocabulario de una casa
+
+La documentación arquitectónica reunida en el atlas conserva otros términos: cachas para bastidores de secado, cintas para listones, llar para el elemento del que se suspendía el caldero y tizneros para apoyos de piedra vinculados a los utensilios del hogar. Conviene contrastar las acepciones y sus variantes con testimonios locales.
+
+Estas voces ayudan a leer una vivienda tradicional como espacio de trabajo. El sequero y el sobrao no eran simplemente habitaciones sobrantes: su función se relacionaba con la conservación y el almacenamiento. La [Casa Satur Juanela](../../patrimonio/arquitectura-tradicional/casa-satur-juanela/) ofrece un ejemplo concreto para explorar esa relación entre palabras y objetos.
+
+No atribuimos todos estos términos al mismo artículo de Puerto y Serrano. Las referencias arquitectónicas complementarias se recogen en [vida doméstica](../../patrimonio/arquitectura-tradicional/vida-domestica/).
+
+*Ampliación basada en los expedientes existentes del atlas, sin nuevo cotejo externo.*
