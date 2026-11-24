@@ -40,6 +40,7 @@ Conocer Miranda significa descubrir cómo la geografía, las necesidades defensi
 - [Visitar Miranda](./visitar/).
 - [Artículos](./articulos/).
 - [Miranda en su conjunto](./valor-global/).
+- [Fuentes y bibliografía](./fuentes/).
 
 ## Información general
 
