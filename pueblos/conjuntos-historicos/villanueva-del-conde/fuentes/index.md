@@ -10,6 +10,12 @@ permalink: /pueblos/conjuntos-historicos/villanueva-del-conde/fuentes/
 
 # Fuentes de Villanueva del Conde
 
+**Estado de verificación:** las indicaciones de consulta de la tabla proceden del registro de trabajo anterior. No se dispone en esta revisión editorial de evidencias externas recuperables que permitan certificarlas retrospectivamente. Las referencias se mantienen como pistas documentales pendientes de cotejo reproducible. Esta advertencia prevalece sobre los estados anteriores.
+
+Los documentos de declaración e incoación pertenecen al mismo expediente. Las descripciones municipales y promocionales pueden compartir texto y no deben contarse automáticamente como fuentes independientes.
+
+Ámbitos de aplicación: [historia](../historia/), [conjunto histórico](../conjunto-historico/), [arquitectura](../patrimonio/arquitectura/), [planeamiento](../geografia-territorio/) y [economía](../sociedad-economia/).
+
 | ID | Documento | Estado |
 |---|---|---|
 | VDC-FUE-001 | [Acuerdo 10/2016](https://www.boe.es/buscar/doc.php?id=BOE-A-2016-2397) | Texto oficial recuperado |
