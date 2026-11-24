@@ -1,13 +1,13 @@
 # Seguimiento editorial de conjuntos históricos
 
-Corte verificable: 0e0bf0e0ca92996e2c7f5c7522a7f25ff2f5d291
+Corte verificable: a89d7376949e0d6f6d06dfe095e4b165b1baf122
 Base del ciclo: 5d36dd2ed27285a5b0b02885e2909821c708c520
 
 Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No equivale a validación científica ni técnica. Excluir gestión y personajes del denominador territorial.
 
 | Pueblo | Rutas modificadas | Total existente |
 |---|---:|---:|
-| la-alberca | 98 | 142 |
+| la-alberca | 106 | 142 |
 | miranda-del-castanar | 32 | 32 |
 | mogarraz | 39 | 39 |
 | san-martin-del-castanar | 26 | 26 |
@@ -16,6 +16,14 @@ Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No
 
 ## La Alberca: rutas modificadas
 
+- articulos/cano-y-sanz/index.md
+- articulos/castanas-y-bodas/index.md
+- articulos/cuando-cae-la-noche/index.md
+- articulos/cuando-el-pueblo-escuchaba/index.md
+- articulos/cuando-la-fe-se-convierte-en-teatro/index.md
+- articulos/el-agua-que-necesita-cuidados/index.md
+- articulos/el-ano-que-no-cuadraba/index.md
+- articulos/el-bosque-despues-del-fuego/index.md
 - articulos/fotografias-que-hacen-preguntas/index.md
 - articulos/la-medida-grabada-en-la-piedra/index.md
 - articulos/un-edificio-muchas-vidas/index.md
@@ -119,4 +127,4 @@ Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No
 
 Comparar desde base fija hasta HEAD; comprobar límite API de 300 archivos y comparar árboles si se alcanza. No sumar manualmente. Los cambios revertidos no cuentan como diferencias netas. Pendiente auditoría de enlaces y fuentes.
 
-Bloque 37: trece archivos turísticos (índice y doce subpáginas), en dos tandas. Pendientes mediciones de campo, validación de enlaces y comprobación operativa de servicios. Segunda tanda sin nuevo cotejo externo.
+Bloque 39: ocho artículos divulgativos ampliados mediante expedientes existentes; sin nuevo cotejo externo. Bloque 38: separación de guía local y comarcal.
