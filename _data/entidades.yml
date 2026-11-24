@@ -1,7 +1,7 @@
 
 # ====================================================
 # LA SIERRA DE FRANCIA
-# REGISTRO CENTRAL DE ENTIDADES — V7
+# REGISTRO CENTRAL DE ENTIDADES — V8
 # ====================================================
 #
 # Fuente de datos para Schema.org.
@@ -303,3 +303,23 @@
   name: "Yacimiento arqueológico de La Legoriza"
   url: "/pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/legoriza/"
   parent_url: "/pueblos/conjuntos-historicos/san-martin-del-castanar/"
+
+- id: santuario-pena-de-francia
+  type: Place
+  name: "Santuario de Nuestra Señora de la Peña de Francia"
+  url: "/lugares/pena-de-francia/santuario-patrimonio/"
+  parent_url: "/lugares/pena-de-francia/"
+  description: "Conjunto arquitectónico religioso de la cumbre, distinto de la montaña y de la comunidad dominicana."
+
+- id: casa-baja-pena
+  type: Place
+  name: "Casa Baja de la Peña de Francia"
+  url: "/lugares/pena-de-francia/santuario-patrimonio/casa-baja/"
+  description: "Antigua residencia invernal de los frailes, en emplazamiento distinto del santuario de altura."
+
+- id: rollo-jurisdiccional-pena
+  type: Place
+  name: "Rollo jurisdiccional de la Peña de Francia"
+  url: "/lugares/pena-de-francia/santuario-patrimonio/rollo-jurisdiccional/"
+  parent_url: "/lugares/pena-de-francia/santuario-patrimonio/"
+  description: "Monumento vinculado a los privilegios jurisdiccionales del santuario; fecha de ejecución pendiente de comprobación."
