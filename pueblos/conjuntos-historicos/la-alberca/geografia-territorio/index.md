@@ -297,6 +297,8 @@ No se atribuirán etimologías sin fundamento lingüístico.
 
 ## Cartografía e investigación pendiente
 
+El [inventario geográfico provisional](./inventario/) consolida las referencias territoriales y candidatos de los bloques anteriores con identificadores estables. No sustituye el cotejo de fuentes originales ni la validación cartográfica.
+
 La siguiente fase consistirá en construir un inventario territorial verificable con:
 
 1. Límites oficiales del término municipal.
