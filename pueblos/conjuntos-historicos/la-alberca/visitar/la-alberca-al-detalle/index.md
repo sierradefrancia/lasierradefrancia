@@ -33,3 +33,16 @@ El entorno de la iglesia permite acercarse a la memoria de las Ánimas. Si coinc
 [Cultura y tradiciones](../../cultura-tradiciones/).
 
 No necesitas descubrir un secreto extraordinario en cada esquina. A veces el detalle más interesante es comprender por qué una calle, una casa o una costumbre son como son.
+
+## Seis detalles para una segunda visita
+
+| Busca | Qué merece observar |
+|---|---|
+| Columna del Ayuntamiento | Fecha de 1774, que no data necesariamente todo el inmueble |
+| Casa Ducal | Capiteles, relieves y columnas incorporadas al muro |
+| Dintel de San Antonio | Inscripción de 1670 |
+| Fuente de Barrio Nuevo | Dos caños, pilón y relación con el crucero próximo |
+| Busto de Legendre | Memoria de un investigador de Las Hurdes |
+| Casa Satur Juanela | Distribución tradicional de vivienda y trabajo |
+
+No son acertijos con una respuesta única: algunos elementos conservan cronologías o atribuciones abiertas. Consulta [inscripciones](../../patrimonio/arquitectura-tradicional/inscripciones-y-simbolos/), [fuentes](../../patrimonio/elementos-patrimoniales/fuentes/) y [busto de Legendre](../../patrimonio/elementos-patrimoniales/busto-mauricio-legendre/) para profundizar. Observa desde lugares públicos; no entres en patios privados.
