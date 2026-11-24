@@ -12,3 +12,5 @@ permalink: /pueblos/conjuntos-historicos/san-martin-del-castanar/articulos/
 # Artículos de San Martín del Castañar
 
 - [Una aldea escrita en piedra](./una-aldea-escrita-en-piedra/).
+
+- [Una casa para los frailes](./una-casa-para-los-frailes/).
