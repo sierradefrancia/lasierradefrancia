@@ -443,3 +443,8 @@ Las celebraciones, los rituales y los conocimientos transmitidos entre generacio
 Nuestra investigación distinguirá siempre los hechos documentados, los testimonios orales, las interpretaciones académicas y las leyendas o creencias tradicionales.
 
 El propósito es conocer, comprender, preservar y compartir este patrimonio cultural sin desvirtuar su significado ni convertir la tradición en una historia artificial.
+
+
+## Ciclo vital y vida familiar
+
+[Investigación del nacimiento, mocedad, matrimonio y muerte](./ciclo-vital/), basada en estudios etnográficos y archivos sonoros.
