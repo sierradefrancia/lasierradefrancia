@@ -1,7 +1,7 @@
 {% comment %}
 ==================================================
 LA SIERRA DE FRANCIA
-SCHEMA TERRITORIAL — V4
+SCHEMA TERRITORIAL — V5
 ==================================================
 
 Fuente principal:
@@ -22,6 +22,7 @@ Compatible con Jekyll y Just the Docs.
 {% endcomment %}
 
 {% assign entity = nil %}
+{% assign entity_registry_id = nil %}
 {% assign entity_type = nil %}
 {% assign entity_name = nil %}
 {% assign entity_description = nil %}
@@ -53,6 +54,7 @@ alternativos del front matter.
   {% assign entity_type = entity.type %}
   {% assign entity_name = entity.name %}
   {% assign entity_description = entity.description | default: page.description %}
+  {% assign entity_registry_id = entity.id %}
   {% assign entity_same_as = entity.same_as %}
   {% assign entity_latitude = entity.latitude %}
   {% assign entity_longitude = entity.longitude %}
@@ -103,6 +105,10 @@ El documento conserva su URL canónica.
     "@id": {{ canonical_url | jsonify }}
   }
 
+  {% if entity_registry_id %},
+  "identifier": {{ entity_registry_id | jsonify }}
+  {% endif %}
+
   {% if entity_description %},
   "description": {{ entity_description | jsonify }}
   {% endif %}
@@ -121,7 +127,8 @@ El documento conserva su URL canónica.
     }
     {% endif %}
 
-    {% if entity_parent_url %},
+    {% assign registered_parent = site.data.entidades | where: "url", entity_parent_url | first %}
+    {% if entity_parent_url and registered_parent and entity_parent_url != page.url %},
     "containedInPlace": {
       "@type": "Place",
       "@id": {{ entity_parent_url | absolute_url | append: "#entity" | jsonify }}
