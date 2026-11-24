@@ -40,3 +40,13 @@ La reputación provincial que recoge Madoz plantea una cuestión económica: ¿q
 José Luis Puerto, [Blanquear los tejidos](https://www.funjdiaz.net/folklore/07ficha.php?ID=5123&NUM=512), Revista de Folklore 512 (2024), apartado albercano, notas 5–11. Consultado el 24-11-2026. Los documentos antiguos se conocen aquí por su mediación.
 
 [Economía tradicional](../../sociedad-economia/economia-tradicional/).
+
+## Una industria que no nació en el siglo XIX
+
+El estudio de Puerto reúne cifras anteriores: cuarenta tejedores en 1693, referencias a nueve de mantelería y al menos nueve de lienzo en 1753, y ochenta tejedores en 1791. No constituyen una serie estadística homogénea, pues las fuentes y categorías profesionales difieren. Pero sitúan los testimonios de Miñano y Madoz dentro de una actividad con antecedentes documentados.
+
+En 1791 aparece además una referencia a 350 arrobas de lino de regadío. No podemos convertir esa cantidad directamente en producción de tela acabada sin conocer las pérdidas y operaciones intermedias. Precisamente ahí adquiere importancia el trabajo del que hablan los diccionarios: entre la planta y el producto vendido existía una cadena de tareas que las cifras de tejedores no describen por completo.
+
+[Un pueblo de tejedores](../un-pueblo-de-tejedores/) desarrolla la dimensión económica de esa actividad.
+
+*Ampliación basada en los expedientes existentes del atlas, sin nuevo cotejo externo.*
