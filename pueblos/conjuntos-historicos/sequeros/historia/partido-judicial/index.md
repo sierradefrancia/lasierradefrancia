@@ -1,4 +1,5 @@
 ---
+description: "Sequeros como cabecera de partido judicial: historia administrativa y relaciones con los municipios serranos."
 layout: default
 title: "Partido judicial de Sequeros"
 parent: "Historia de Sequeros"
