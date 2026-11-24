@@ -1,4 +1,5 @@
 ---
+description: "Patrimonio de Villanueva del Conde: huertas interiores, arquitectura, iglesia, fuentes y bancales."
 layout: default
 title: "Patrimonio de Villanueva del Conde"
 parent: Villanueva del Conde
