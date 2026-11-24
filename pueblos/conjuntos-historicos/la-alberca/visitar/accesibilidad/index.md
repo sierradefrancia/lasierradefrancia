@@ -1,4 +1,5 @@
 ---
+description: "Información para preparar una visita accesible a La Alberca: pavimentos, pendientes, movilidad y cuestiones que conviene confirmar."
 layout: default
 title: Visitar La Alberca con distintas necesidades
 parent: Visitar La Alberca
