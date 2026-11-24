@@ -1,4 +1,5 @@
 ---
+description: "Las pizarras visigodas relacionadas con Mogarraz: testimonios arqueológicos y preguntas sobre su contexto histórico."
 layout: default
 title: "Las pizarras visigodas de Mogarraz"
 parent: Historia de Mogarraz
