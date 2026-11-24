@@ -1,4 +1,5 @@
 ---
+description: "Fuentes documentales y bibliográficas para investigar la historia, el patrimonio y la cultura de Mogarraz."
 layout: default
 title: "Fuentes e investigación de Mogarraz"
 parent: Mogarraz
