@@ -168,3 +168,20 @@ Fuente y límites: [expediente del marfil](/pueblos/conjuntos-historicos/mogarra
 | PER-MOG-026 | José Maíllo Cascón | Dominico, bendición de la bodega cooperativa en 1965 según Maíllo |
 
 Ángeles de Nacimiento Lorenzo: testimonio directo publicado por Maíllo en 2009, [artículo del atlas](/pueblos/conjuntos-historicos/mogarraz/articulos/la-mujer-que-guardo-los-rostros/). Nuevas altas provisionales, sujetas a deduplicación comarcal.
+
+
+### Orfebrería y memoria de las vendimias
+
+| ID | Persona | Relación |
+|---|---|---|
+| PER-MOG-027 | Ignacio Montero | Marcador de plata, 1752 |
+| PER-MOG-028 | Mariano Rosellón Prieto | Orive |
+| PER-MOG-029 | Lorenzo Rosellón Prieto | Orive |
+| PER-MOG-030 | Moisés Rosellón Cascón | Orive |
+| PER-MOG-031 | Ángel Cascón Rosellón | Orive |
+| PER-MOG-032 | Manuel Cascón Rosellón | Orive |
+| PER-MOG-033 | Isidoro Hernández Gómez | Orive |
+| PER-MOG-034 | Julio Hernández Hidalgo | Orive |
+| PER-MOG-035 | Jaime Herrera Maíllo | Memoria de las vendimias |
+
+Altas provisionales, pendientes de deduplicación. Fuentes: [orfebrería](/pueblos/conjuntos-historicos/mogarraz/articulos/los-orives-y-las-fronteras/), [vendimias](/pueblos/conjuntos-historicos/mogarraz/articulos/vendimias-y-arrieros/), [barquillos](/pueblos/conjuntos-historicos/mogarraz/patrimonio/cuatro-barquillos/).
