@@ -1,4 +1,5 @@
 ---
+description: "El conjunto histórico de Miranda del Castañar: recinto urbano, protección patrimonial y evolución de la villa."
 layout: default
 title: "Conjunto histórico de Miranda del Castañar"
 parent: Miranda del Castañar
