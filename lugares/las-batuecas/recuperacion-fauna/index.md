@@ -50,3 +50,5 @@ La respuesta de la vegetación a los ungulados, los incendios y los cambios de u
 - [ICAL, 13/12/2022, planificación cinegética](https://lacronicadesalamanca.com/377626-la-reserva-de-caza-de-las-batuecas-se-recupera/).
 
 Consultados extractos el 24/11/2026. Véanse [fauna](/lugares/las-batuecas/fauna/) y [protección ambiental](/lugares/las-batuecas/proteccion-ambiental/). Pendientes documentación original de reintroducción, censos contemporáneos y series de incendios y regeneración.
+
+Estudio relacionado: [Incendios forestales y regeneración del paisaje](/lugares/las-batuecas/incendios-regeneracion/).

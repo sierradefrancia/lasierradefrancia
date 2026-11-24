@@ -63,3 +63,5 @@ Consultados textos y extractos; no se ha realizado análisis SIG ni verificado l
 Antecedentes de conservación: [Historia de la recuperación de fauna](/lugares/las-batuecas/recuperacion-fauna/).
 
 El [inventario estatal de la ZEPA ES4150005](https://iepnb.gob.es/areas-tematicas/espacios-protegidos/ES4150005_ZEPA/las-batuecas-sierra-de-francia--zepa) indica 1998 y 30.195,16 ha. La diferencia de 25,90 ha respecto a la cifra de 30.221,06 ha exige cotejo cartográfico. La designación del espacio actual no debe confundirse con el antecedente Arca y Buitrera de 1987.
+
+Estudio relacionado: [Incendios forestales y regeneración del paisaje](/lugares/las-batuecas/incendios-regeneracion/).

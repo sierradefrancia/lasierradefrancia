@@ -63,3 +63,5 @@ La ficha de cuarta fase también conserva una referencia de titularidad a las ca
 - [Catálogo IPCE, PI - 1574 - 1](https://catalogos.cultura.gob.es/ms-opac/doc?fo=and&fq=mssearch_materials&fq=norm&fv=%22Monasterios+y+conventos%22&fv=%2A&q=%28%2A%3A%2A%29+&rows=1&sort=fecha+desc&start=172).
 
 Se han consultado las fichas y extractos de los proyectos, no los expedientes completos. Véanse [historia](/lugares/las-batuecas/historia-carmelitana/) y [arquitectura](/lugares/las-batuecas/arquitectura-carmelitana/).
+
+Estudio relacionado: [Incendios forestales y regeneración del paisaje](/lugares/las-batuecas/incendios-regeneracion/).

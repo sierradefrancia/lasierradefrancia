@@ -33,6 +33,8 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 
 ## Estudios e inventarios
 
+- [Incendios forestales y regeneración del paisaje](/lugares/las-batuecas/incendios-regeneracion/): historia del fuego, evidencias y recuperación forestal.
+
 - [El lince ibérico: memoria y evidencia](/lugares/las-batuecas/lince-iberico/).
 - [Buitre negro y cigüeña negra](/lugares/las-batuecas/aves-conservacion/).
 

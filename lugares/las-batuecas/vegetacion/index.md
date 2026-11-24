@@ -73,3 +73,5 @@ Los extractos consultados permiten delimitar un primer inventario, no realizar u
 Para la dimensión económica histórica del paisaje y su regulación, véase [Aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-tradicionales/).
 
 Marco de gestión: [Protección ambiental y gestión territorial](/lugares/las-batuecas/proteccion-ambiental/).
+
+Estudio relacionado: [Incendios forestales y regeneración del paisaje](/lugares/las-batuecas/incendios-regeneracion/).
