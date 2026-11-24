@@ -29,3 +29,9 @@ A 24-11-2026 no se dispone en esta sesión de evidencia externa recuperable que 
 ## Investigación pendiente
 
 Localizar el informe académico previo a la declaración del conjunto, documentación episcopal y franciscana, Catastro de Ensenada, cartografía histórica y publicaciones arqueológicas originales. Registrar cada consulta con identificación completa, página, pasaje y alcance probatorio.
+
+## Cotejo directo documentado — 24-11-2026
+
+SMC-FUE-001: recuperado BOE 29-11-1982, pp. 32808 y 32809, disposición 31276. Confirmados número 3233/1982, fecha, informe favorable de la Academia de San Fernando y enclaves Humilladero, San Sebastián y Gracia. Plano original no consultado.
+
+SMC-FUE-002: recuperado BOE 22-10-1981, p. 24806, disposición 24597. Confirmados número 2374/1981, fecha, declaración nacional y descripción de las tres cubiertas. Las atribuciones cronológicas corresponden al decreto. Estos dos registros pasan a cotejados exclusivamente para los extremos señalados; SMC-FUE-003 a 007 siguen pendientes.
