@@ -353,6 +353,8 @@ No se atribuirán transformaciones concretas a una actividad sin evidencias sufi
 
 ## Inventario naturalista de La Alberca
 
+El [registro acumulativo de investigación naturalista](./inventario/) reúne referencias provisionales con identificadores estables y distingue su procedencia. No constituye un catálogo de especies confirmadas; queda pendiente el cotejo externo de las fuentes originales.
+
 La investigación se organizará alrededor de enclaves y elementos identificables.
 
 | Lugar o elemento | Conocimiento documentado | Investigación pendiente |
