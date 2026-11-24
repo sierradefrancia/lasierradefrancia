@@ -5,3 +5,7 @@
 ## Segundo bloque
 
 Cotejo efectivo de BOE 2016 y 2015, ficha Grupo Tierra, Ayuntamiento y guía comarcal. Cronologías discrepantes de iglesia y ermita; cierre perimetral XVIII atribuido a estudios no identificados; villazgo 1755 noticia secundaria. Pendientes originales. Antonio Bazquez y Carlos Flores candidatos a registro central.
+
+## Tercer bloque
+
+Consultados BOE 2016, extractos municipal, ambiental p.55, Sierras de Salamanca y ACEVIN. Añadido VDC-PAT-013. Catálogo de 80 edificios localizado indirectamente; pendiente íntegro. Discrepancia San Esteban/San Sebastián pendiente registro. No comprobada vigencia del planeamiento ni acceso público.
