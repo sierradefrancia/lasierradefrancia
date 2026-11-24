@@ -10,6 +10,25 @@ permalink: /pueblos/conjuntos-historicos/miranda-del-castanar/geografia-territor
 
 # Geografía y territorio
 
+## El emplazamiento y la villa
+
+La posición elevada del casco y su recinto amurallado permiten estudiar la relación entre relieve, accesos y organización urbana. Las cuatro puertas descritas en [muralla y puertas](../patrimonio/muralla/) proporcionan referencias para una futura reconstrucción cartográfica de las comunicaciones.
+
+## Una tierra histórica mayor que el municipio
+
+La estimación de unos 250 km² para la tierra histórica y la superficie municipal redondeada de 21 km² corresponden a ámbitos de naturaleza y fecha distintas. Su diferencia ilustra la necesidad de no representar la jurisdicción medieval mediante los límites administrativos actuales.
+
+La [historia del condado](../historia/condado/) y los procesos de emancipación de [Sequeros](/pueblos/conjuntos-historicos/sequeros/historia/villazgo/) y [Villanueva del Conde](/pueblos/conjuntos-historicos/villanueva-del-conde/historia/) permiten estudiar cambios de dependencia territorial.
+
+## El paisaje exterior
+
+El río Francia, los terrenos forestales y las laderas agrarias introducen escalas que no coinciden necesariamente con el recinto protegido. La sección de [naturaleza](../naturaleza/) distingue la reserva fluvial de las demás figuras ambientales. El Camino de los Prodigios añade una conexión contemporánea entre Miranda y Villanueva; no acredita por sí mismo un itinerario medieval.
+
+## Registro documental anterior
+
+Las referencias y estados de consulta siguientes proceden del expediente previo; su cotejo reproducible sigue pendiente.
+
+
 ## Tres escalas territoriales
 
 El municipio contemporáneo, el recinto histórico y la jurisdicción medieval no son equivalentes. Asenjo y Monsalvo (2007, p. 231) estiman la tierra histórica de Miranda, tras la separación de Montemayor, en unos 250 km² y 18 lugares. Es una reconstrucción historiográfica, no una delimitación administrativa vigente.
