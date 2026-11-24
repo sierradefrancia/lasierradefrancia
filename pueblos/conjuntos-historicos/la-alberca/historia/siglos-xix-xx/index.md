@@ -515,3 +515,8 @@ Quedan preguntas esenciales por responder sobre la emigración, el trabajo, la e
 ## Conexiones documentales y actualización
 
 La [investigación del crucero de la Plaza Mayor](../../patrimonio/elementos-patrimoniales/crucero-plaza-mayor/) examina la relación entre protección patrimonial de 1940 y actuaciones materiales cuya cronología sigue abierta. El acto de declaración no acredita por sí mismo obras concretas.
+
+
+## Avance documental — 24 de noviembre de 2026
+
+El decreto publicado en el [BOE de 18 de septiembre de 1940, p. 6476](https://www.boe.es/gazeta/dias/1940/09/18/pdfs/BOE-1940-262.pdf), art. 1, declara Monumento Histórico-Artístico el pueblo, incluyendo casco y extrarradio de 500 metros. El art. 2 impone obligaciones de observancia de la legislación aplicable a la corporación y propietarios. El preámbulo menciona informe favorable de la Real Academia de Bellas Artes de San Fernando. No equivale a la delimitación urbanística vigente ni acredita obras concretas. Texto localizado y extracto cotejado el 24-11-2026.
