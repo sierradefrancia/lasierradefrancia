@@ -1,4 +1,5 @@
 ---
+description: "Los castañares, colmenares y aprovechamientos históricos de La Alberca a través de las ordenanzas y la investigación del paisaje forestal."
 layout: default
 title: "El bosque que también construyeron nuestros antepasados"
 parent: Artículos
