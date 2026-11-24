@@ -1,13 +1,13 @@
 # Seguimiento editorial de conjuntos históricos
 
-Corte verificable: e76229109f9b43c74430a2fc3f695087014e6101
+Corte verificable: 37be852f423966811ae55427143c65216ec92f18
 Base del ciclo: 5d36dd2ed27285a5b0b02885e2909821c708c520
 
 Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No equivale a validación científica ni técnica. Excluir gestión y personajes del denominador territorial.
 
 | Pueblo | Rutas modificadas | Total existente |
 |---|---:|---:|
-| la-alberca | 114 | 142 |
+| la-alberca | 122 | 142 |
 | miranda-del-castanar | 32 | 32 |
 | mogarraz | 39 | 39 |
 | san-martin-del-castanar | 26 | 26 |
@@ -34,6 +34,14 @@ Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No
 - articulos/la-medida-grabada-en-la-piedra/index.md
 - articulos/la-voz-de-tomas-hoyos/index.md
 - articulos/las-casas-y-sus-ausencias/index.md
+- articulos/las-colmenas-que-llegaron-a-los-tribunales/index.md
+- articulos/las-cruces-que-casi-nadie-mira/index.md
+- articulos/las-mujeres-que-blanqueaban-los-lienzos/index.md
+- articulos/las-palabras-que-guardaban-el-mundo/index.md
+- articulos/legendre-y-la-mirada/index.md
+- articulos/los-arboles-y-el-tiempo/index.md
+- articulos/mas-alla-del-turismo/index.md
+- articulos/mirar-hacia-arriba/index.md
 - articulos/un-edificio-muchas-vidas/index.md
 - conjunto-historico/index.md
 - cultura-tradiciones/ciclo-vital/index.md
@@ -135,4 +143,4 @@ Recuento de rutas Markdown únicas con diferencias netas entre ambos commits. No
 
 Comparar desde base fija hasta HEAD; comprobar límite API de 300 archivos y comparar árboles si se alcanza. No sumar manualmente. Los cambios revertidos no cuentan como diferencias netas. Pendiente auditoría de enlaces y fuentes.
 
-Bloques 39–40: dieciséis artículos divulgativos ampliados mediante expedientes existentes; sin nuevo cotejo externo. Bloque 38: separación de guía local y comarcal.
+Bloques 39–41: veinticuatro artículos divulgativos ampliados mediante expedientes existentes; sin nuevo cotejo externo. Bloque 38: separación de guía local y comarcal.
