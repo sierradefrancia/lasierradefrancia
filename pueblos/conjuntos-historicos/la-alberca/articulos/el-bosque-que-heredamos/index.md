@@ -23,3 +23,13 @@ Para reconocer esas relaciones necesitamos comparar documentos, cartografía y o
 Lo que hoy llamamos naturaleza puede contener huellas de decisiones de otras generaciones. Y comprender esas huellas no disminuye el valor ecológico del bosque.
 
 **Referencias transmitidas por el atlas:** [Monsalvo Antón, Paisajes pastoriles y forestales](https://dehesa.unex.es/bitstream/10662/8806/1/0213-375X_25-26_105.pdf), nota 73; [Economía tradicional](../../sociedad-economia/economia-tradicional/); [Ordenanzas](../../historia/concejo-ordenanzas/). No se han cotejado directamente estos documentos en esta fase ni realizado análisis cartográfico.
+
+## Un monte con derechos y obligaciones
+
+Las disposiciones de 1461 y 1464 relativas a El Endrinal ofrecen dos referencias concretas para estudiar la protección de los castañares. Las ordenanzas posteriores regulan también los postueros de colmenas y los cerramientos. El monte era un espacio donde podían coincidir intereses de ganaderos, apicultores y cultivadores.
+
+El traslado invernal de colmenas hacia los valles meridionales, transmitido por Berrogain a partir de Legendre, añade una dimensión estacional: el aprovechamiento no se limitaba al entorno inmediato de las viviendas. La relación histórica con Las Hurdes ayuda a comprender esa movilidad.
+
+No debemos identificar sin pruebas El Endrinal medieval con cada topónimo semejante de la cartografía moderna. [Toponimia y paisaje](../../geografia-territorio/toponimia-paisaje/) y [La Alberca y Las Hurdes](../../historia/alberca-hurdes/) desarrollan ambas cuestiones.
+
+*Ampliación a partir de expedientes existentes; sin nuevo cotejo externo.*
