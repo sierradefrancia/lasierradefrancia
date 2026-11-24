@@ -31,3 +31,17 @@ Fecha de adquisición efectiva del legado, apertura de la escuela, maestros y al
 - [Ficha comercial alternativa](https://www.uniliber.com/ficha/la-villa-de-mogarraz-y-la-fundacion-melon_117466881/).
 - [Tres Ángel Seseña, escultores y marmolistas](https://www.salamancaenelayer.com/2020/03/tres-angel-sesena-escultores-y.html): relato secundario.
 - [Universidad de Salamanca, encuentros ApSTraD](https://apstrad.usal.es/actividades/encuentros/): actividad institucional de 2023.
+
+**Nota documental:** las declaraciones de consulta anteriores quedan pendientes de cotejo reproducible; esta ampliación utiliza el corpus existente.
+
+## Del testamento a la escuela
+
+La disposición testamentaria de 1840 vinculaba la transmisión de bienes a la muerte de una heredera. Por ello, la fecha del testamento no equivale a la apertura de una escuela. Para reconstruir la fundación habrá que identificar las condiciones del legado, su aceptación, los administradores y las rentas disponibles.
+
+El proyecto atribuido a Joaquín de Vargas Aguirre en 1892 introduce una dimensión arquitectónica. La distancia temporal respecto al fallecimiento de Melón en 1843 no demuestra que durante ese intervalo no existiera actividad educativa. Los planos, expedientes de obra y cuentas permitirían distinguir el proyecto de su ejecución.
+
+## La memoria pública del fundador
+
+La velada de 1910 y la lápida atribuida a Ángel Seseña sugieren una iniciativa colectiva de homenaje. Conviene recuperar el programa, la prensa contemporánea y la inscripción para precisar el papel de Nemesio Sánchez Martín y los demás participantes.
+
+La actividad universitaria de 2023 con bordadoras conecta el edificio con la transmisión de conocimientos locales, tratada en [artesanía](../../artesania/). No acredita por sí sola la continuidad jurídica de la fundación. La biografía de [Juan Antonio Melón](/personajes/juan-antonio-melon/) conserva su expediente independiente.
