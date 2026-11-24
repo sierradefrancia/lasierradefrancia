@@ -654,3 +654,9 @@ Las resoluciones favorables a La Alberca tampoco eliminan la necesidad de estudi
 Comprender esta historia exige reconocer los derechos documentados, las desigualdades existentes, las decisiones judiciales y las experiencias de las poblaciones afectadas.
 
 **La finalidad de esta investigación no es juzgar retrospectivamente a dos comunidades, sino explicar con documentos cómo se relacionaron, qué conflictos afrontaron y cómo cambió su organización territorial.**
+
+## La asistencia como relación territorial
+
+El [hospital de Menesterosos y Peregrinos](../../patrimonio/patrimonio-civil/hospital/) introduce una institución distinta del concejo en el estudio de las rentas hurdanas. El testimonio reproducido por Legendre menciona propiedades y censos destinados a sostener la asistencia. La discrepancia entre 1549 y 1559 en la fecha de su deslinde impide incorporar una fecha única a la cronología sin recuperar el texto castellano de González de Manuel y, si se conserva, la escritura. Distinguir beneficiarios y títulos jurídicos evita atribuir al hospital todos los derechos concejiles o al concejo todas las rentas hospitalarias.
+
+*Ampliación de síntesis del corpus existente; no constituye un nuevo cotejo externo.*
