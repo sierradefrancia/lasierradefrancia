@@ -57,6 +57,14 @@ Lo importante es que tenga sentido, personalidad y una relación auténtica con 
 
 Ensayos narrativos basados en los expedientes del atlas, con límites documentales explícitos.
 
+### La vida que desapareció
+
+- [Las mujeres que blanqueaban los lienzos](./las-mujeres-que-blanqueaban-los-lienzos/)
+- [Cuando La Alberca era un pueblo de tejedores](./un-pueblo-de-tejedores/)
+- [Las palabras que guardaban el mundo](./las-palabras-que-guardaban-el-mundo/)
+- [La voz de Tomás Hoyos](./la-voz-de-tomas-hoyos/)
+- [Cuando las castañas también hablaban de amor](./castanas-y-bodas/)
+
 ### Historias documentales
 
 - [La Alberca en 1791](../historia/articulos/la-alberca-1791-epidemia-hambre-impuestos/)
