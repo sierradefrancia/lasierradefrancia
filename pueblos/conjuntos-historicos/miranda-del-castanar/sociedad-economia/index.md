@@ -1,4 +1,5 @@
 ---
+description: "Sociedad y economía de Miranda del Castañar: población, actividades productivas y transformaciones de la villa."
 layout: default
 title: "Sociedad y economía de Miranda"
 parent: "Miranda del Castañar"
