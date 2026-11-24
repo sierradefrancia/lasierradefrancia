@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: Turismo
 nav_order: 10
@@ -322,6 +323,8 @@ Antes de desplazarse conviene comprobar las previsiones y el estado de las carre
 ---
 
 ## ¿Cuánto tiempo necesitas para conocer la Sierra de Francia?
+
+Consulta nuestra [guía por duración: uno, dos, tres, cinco o siete días](/turismo/segun-tu-tiempo/) para elegir propuestas concretas.
 
 No existe una duración ideal para todas las personas.
 
