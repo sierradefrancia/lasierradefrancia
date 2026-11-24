@@ -18,3 +18,7 @@ SEQ-FUE-001 y 002: extractos recuperados nuevamente en este bloque. No se certif
 ## Bloque 3 — 24-11-2026
 
 Texto oficial íntegro de incoación 2002 recuperado; extractos de la RAH (1883), Polo Martín (2011), Gaceta (1870), Cortes de Castilla y León (2004), estudio autonómico del Humilladero y guía provincial recuperados. Registro bibliográfico del decreto de 1834 localizado, no leído íntegramente. Referencias específicas en las seis nuevas monografías. Pendientes privilegio de 1756, límites originales de 1834, actas concejiles y decreto individual del Humilladero. No se certifican retrospectivamente las consultas del bloque 2.
+
+## Bloque urbano — 24-11-2026
+
+Cotejados extractos BOE 2002, guía provincial apartado 6, memoria PEPCH 2015 y [plano P2](https://www.sequeros.es/urbanismo/2-PEPCH-SEQUEROS/PLANOS/P2%20SEQUEROS%20PEPCH%20AI%20PROTECCION%20PATRIMONIO.pdf), abril 2015, 1:1000. Localizada [reproducción jurídica del acuerdo 2004](https://noticias.juridicas.com/base_datos/CCAA/cl-res190704-1.html), pendiente cotejo oficial íntegro. Pendientes plano Coello original, fotografías y licencias.
