@@ -4,6 +4,7 @@ title: Inventario patrimonial
 parent: Patrimonio
 grand_parent: La Alberca
 nav_order: 90
+last_modified_at: 2026-11-24
 nav_exclude: true
 search_exclude: true
 description: "Inventario documental abierto del patrimonio material de La Alberca: bienes identificados, elementos asociados, fuentes, incertidumbres y líneas de investigación."
@@ -451,7 +452,7 @@ La tradición oral, la práctica devocional y la historia material del osario re
 - **Ámbito:** Plaza Mayor.
 - **Clasificación principal:** elementos patrimoniales.
 - **Bien espacial relacionado:** ALB-PAT-001.
-- **Estado de evidencia:** E1.
+- **Estado de evidencia:** E4 (monografía existente; cronología y traslado no resueltos).
 - **Cronología:** pendiente.
 - **Material y dimensiones:** pendientes.
 - **Emplazamiento original:** no comprobado.
@@ -465,6 +466,51 @@ La tradición oral, la práctica devocional y la historia material del osario re
 ¿Conserva inscripciones o elementos escultóricos?
 
 ¿Qué función histórica puede acreditarse?
+
+---
+
+### ALB-PAT-014 — Monumento al marrano de San Antón
+
+- **Tipo:** escultura conmemorativa; estado E1.
+- **Identificación:** monumento de granito junto a la iglesia, según referencias divulgativas recuperadas durante la investigación.
+- **Atribución pendiente de cotejo:** Escuela Taller del INEM Sierra de Francia, inauguración en agosto de 1996, según MonumentalNet.
+- **Relaciones:** tradición del marrano vivo; ALB-PAT-004.
+- **Límite:** no clasificar como verraco arqueológico. Recuperar ficha exacta y documentación contemporánea de 1996.
+
+### ALB-PAT-015 — Ara votiva de la iglesia
+
+- **Tipo:** pieza epigráfica antigua reutilizada; estado E1 provisional.
+- **Relación:** ALB-PAT-004.
+- **Referencia especializada localizada:** Juan Carlos Olivares Pedreño (2006), *Ara votiva de La Alberca (Salamanca) dedicada a Ilurbeda*, Ficheiro Epigráfico 84, inscripción 377.
+- **Lecturas comunicadas:** Albinus como dedicante; Ilurbeda frente a Liber Pater (actas del congreso de epigrafía de 2002, publicadas en 2007). Pendiente recuperar y cotejar ambos originales y bibliografía posterior.
+- **Procedencia:** hipótesis de traslado desde San Martín del Castañar, no demostrada. No inferir un santuario antiguo en el emplazamiento actual.
+
+---
+
+### Consolidación de candidatos (24 de noviembre de 2026)
+
+Los siguientes nombres proceden del registro de transferencia y de las búsquedas de noviembre. No se les asigna identificador permanente hasta recuperar una fuente concreta o resolver su identidad.
+
+| Candidato | Investigación pendiente |
+|---|---|
+| Casa Ducal / Teatro Municipal | Memoria de rehabilitación de 1997; doce columnas, siete empotradas; usos de cuartel, carnicería y teatro; discrepancia mayo/junio de 1919 |
+| Hospital de Menesterosos y Peregrinos | Identificación con biblioteca actual; fundación y usos |
+| Antiguas escuelas | Relacionar edificio con artículo histórico de 1935 |
+| Torre, campanas, órgano, Cristo del Sudor | Individualizar piezas y documentación parroquial |
+| Ermita de San Blas / de la Bandera | Identidad y ficha técnica |
+| Hornacina y cruces de Ánimas de La Puente, Pedragal y Mochito | Distinguir del osario y cruceros; iniciales A B y fecha atribuida 1843 |
+| Cruceros de San Antonio y Barrio Nuevo | Identidad y localización |
+| Busto de Mauricio Legendre | Autor, fecha y emplazamiento |
+| Fuentes del Tablado, Barrio Nuevo, avenida Batuecas y Plaza Mayor | Identidad, cronología y abastecimiento |
+| Ciriales y azucenas de plata de las andas de la Virgen | Referencias comunicadas en presentación de Lo sagrado; verificar fichas |
+| Puentes, caminos, pavimentos, viviendas, dinteles, escudos, columnas, relieves y memoriales | Individualización documental y material |
+| Traje de Vistas, joyería, ajuar, oficios, fiestas, Moza de Ánimas y marrano vivo | Relaciones con cultura y tradiciones; separar objetos y prácticas |
+
+**Fuentes adicionales y pistas de recuperación:** [ficha técnica del Humilladero](https://www.jcyl.es/jcyl/patrimoniocultural/TERPAT/SantuariosErmitasHumilladeros/index_htm_files/41-Humilladero%2C%20La%20Alberca.pdf), [estudio de Rubén Fuentes Hernández (2024)](https://gredos.usal.es/handle/10366/159313), Museo del Traje MT-064676-85 (identidad pendiente), Mixticismos p. 89 (pasaje pendiente), IPCE PI-557-5 (1971–1973, expediente no examinado), inventario territorial de 2021 de San Marcos (referencia incompleta), José A. Cabezas Fernández del Campo (referencia de 1999 por cotejar), PARES, fototeca IPCE y archivos municipal, provincial y de Diputación. La localización de una referencia no acredita su lectura.
+
+**Crucero ALB-PAT-013:** [monografía existente](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/crucero-plaza-mayor/). Conserva las atribuciones XVII/XVIII, Tablado, tormenta de 1928 y traslado de 1940 como cuestiones de evidencia desigual. Las actas de la RABASF y BOE de 1940 documentan la declaración y conservación del conjunto, no la restauración de la cruz. Las fuentes y fotografías se recogen en la monografía.
+
+**Cierre editorial:** se autoriza avanzar hacia contenidos públicos proporcionados a la evidencia disponible sin esperar a resolver todas las preguntas. La investigación permanece abierta. Catálogo urbanístico 22-206: aprobación localizada, anexos y fichas pendientes. Expediente municipal referido 43/2018, pendiente de cotejo. No se declara cobertura exhaustiva.
 
 ---
 
