@@ -31,3 +31,13 @@ Para quien ha crecido escuchando la esquila, ese sonido puede tener asociaciones
 No sabemos cuándo comenzó exactamente esta práctica ni cómo han cambiado sus recorridos. Su antigüedad no necesita una fecha inventada para merecer respeto.
 
 **Fuente:** [Ayuntamiento, La Moza de Ánimas](https://laalberca.com/tradiciones/moza-animas/), consultada el 24-11-2026. [Investigación del atlas](../../cultura-tradiciones/moza-de-animas/). No se ha observado personalmente el recorrido en esta fase.
+
+## Las piedras y las voces
+
+Junto a la iglesia, las hornacinas de las Ánimas hacen visible una memoria que la esquila lleva a las calles. El expediente patrimonial recoge una noticia del vicario Juan de los Hoyos Gómez, fechada el 15 de noviembre de 1824, sobre el entierro colectivo de huesos del osario. No es un acta de fundación de la Moza de Ánimas. Es otro testimonio de la importancia que tuvo el recuerdo de los muertos.
+
+La Puente, El Pedragal y El Mochito conservan referencias a cruces y señales devocionales que merecen estudiarse por separado. No debemos convertirlas automáticamente en estaciones del recorrido actual de la Moza.
+
+La [investigación de las Ánimas](../../patrimonio/patrimonio-religioso/animas/) permite acercarse a esos lugares antes de escuchar la esquila.
+
+*Ampliación basada en los expedientes existentes del atlas; sin nuevo cotejo externo.*
