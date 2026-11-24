@@ -37,6 +37,15 @@ La revista de 2012 relaciona a Mauro con el aprendizaje de Horacio de Blas Angul
 
 El patrimonio del oficio no está solamente en el zapato acabado: también en las manos que aprendieron a hacerlo y en los objetos que permiten recordar ese aprendizaje.
 
+
+## Del patrón al objeto artístico
+
+Un patrón de calzado conserva información sobre la forma de una pieza antes de su fabricación. Su utilización en Variaciones transforma ese instrumento de trabajo en material artístico, pero no elimina su interés como documento del oficio.
+
+Los útiles atribuidos a Juan Bello Rodríguez y los patrones de Domingo Sánchez Núñez requieren inventarios diferenciados. Su identificación permitiría estudiar qué objetos procedían de cada taller y cuáles fueron incorporados a la exposición de 2008.
+
+Los seis nombres transmitidos indirectamente desde el Catastro ofrecen una escala histórica distinta de los testimonios sobre Mauro y Horacio de Blas. Entre ambos conjuntos median generaciones cuya actividad todavía no se ha reconstruido. La [economía histórica](../../sociedad-economia/) permite situar la zapatería junto a otros oficios, mientras la [Casa de las Artesanías](../../patrimonio/casa-artesanias/) ofrece un contexto expositivo para interpretar sus herramientas.
+
 ## Referencias
 
 Extractos efectivamente recuperados el 24-11-2026:
@@ -49,3 +58,6 @@ Extractos efectivamente recuperados el 24-11-2026:
 Las tres revistas contienen textos del mismo artista: no son cadenas testimoniales independientes. Pendientes los originales del Catastro, el catálogo completo de 2008 (ISBN 978-84-96603-44-8) y la ficha de la fotografía. No se reproducen imágenes.
 
 [Artesanía](../../artesania/) · [Personajes](/personajes/)
+
+
+**Nota documental:** ampliación basada en el corpus previo; las declaraciones anteriores de consulta quedan pendientes de cotejo reproducible.
