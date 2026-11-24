@@ -4,11 +4,35 @@ title: Visitar La Alberca
 parent: La Alberca
 grand_parent: Conjuntos históricos
 nav_order: 8
+has_children: true
+last_modified_at: 2026-11-24
 description: "Qué ver y hacer en La Alberca, Salamanca: Plaza Mayor, calles históricas, tradiciones, gastronomía, Camino de las Raíces, Las Batuecas y Peña de Francia."
 permalink: /pueblos/conjuntos-historicos/la-alberca/visitar/
 ---
 
-# Visitar La Alberca: un pueblo para descubrir despacio
+# Visitar La Alberca: a tu ritmo
+
+No sabemos cuánto tiempo tienes ni qué te ha traído hasta La Alberca. Quizás estés de paso, hayas venido expresamente a conocerla o regreses a un lugar que visitaste hace muchos años.
+
+Sea como sea, queremos ayudarte a disfrutarla.
+
+Si solo tienes una hora, vamos a intentar que esa hora merezca la pena. Si tienes toda una tarde, te invitamos a perderte entre sus calles. Y si dispones de varios días, queremos enseñarte también lo que hay más allá de sus últimas casas.
+
+Conocer un pueblo no consiste necesariamente en recorrer todas sus calles. A veces basta con detenerse en una de ellas y aprender a mirarla.
+
+## ¿Cómo quieres descubrir La Alberca?
+
+- [Tu primera vez en La Alberca](./primera-visita/): una orientación para empezar sin agobios.
+- [La Alberca según tu tiempo](./segun-tu-tiempo/): propuestas flexibles para una hora, una mañana, un día o varios días.
+- [La Alberca al detalle](./la-alberca-al-detalle/): aprender a mirar las casas, los símbolos y los pequeños testimonios de su historia.
+
+Si prefieres caminar por el bosque, conocer las tradiciones o preparar una excursión, encontrarás una primera orientación más abajo. Iremos ampliando esta guía con recorridos comprobados, información práctica y propuestas adaptadas a distintas necesidades.
+
+No necesitas hacerlo todo. Elige aquello que te apetezca y deja espacio para lo inesperado.
+
+---
+
+## Un pueblo para descubrir despacio
 
 Hay pueblos que se visitan por un monumento, por una vista o por una historia. **La Alberca tiene algo de todo ello**, pero su mayor atractivo está en el conjunto: sus calles, sus casas, sus tradiciones, sus habitantes y el paisaje de la Sierra de Francia que la rodea.
 
