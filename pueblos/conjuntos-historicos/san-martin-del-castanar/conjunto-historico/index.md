@@ -15,3 +15,7 @@ El [Real Decreto 3233/1982](https://boe.es/boe/dias/1982/11/29/pdfs/A32808-32808
 ## Delimitación original completa
 
 Cotejo directo de las páginas [32808](https://www.boe.es/boe/dias/1982/11/29/pdfs/A32808-32808.pdf) y [32809](https://www.boe.es/boe/dias/1982/11/29/pdfs/A32809-32809.pdf), 24-11-2026. El anexo incluye el eje Cementerio–Doctor Guzmán–Camino Nuevo, Penilla de Arriba, Larga, Paipérez, Vega, Campito, Fuente de la Calle, Doctor Peña, Plaza de la Iglesia, calle Iglesia y calles Alta y Baja del Castillo. La protección alcanza las propiedades con fachada a los tramos descritos. Incluye como enclaves separados Humilladero, San Sebastián y ruinas de Gracia. No equivale a un plano parcelario vigente; falta cotejar el plano del expediente y modificaciones posteriores.
+
+## Confirmación de la fuente primaria
+
+El BOE de 29-11-1982, disposición 31276, pp. 32808–32809, recuperado el 24-11-2026, confirma el RD 3233/1982 y los enclaves separados del Humilladero, San Sebastián y Gracia. El expediente incorpora un plano que no se ha consultado. El decreto acredita informe favorable de la Academia de San Fernando, pero no reproduce ese informe.
