@@ -52,6 +52,14 @@ jobs:
         continue-on-error: true
         run: python3 _gestion/validar_sitio.py _site
 
+      - name: Conservar informe de auditoría
+        uses: actions/upload-artifact@v4
+        continue-on-error: true
+        with:
+          name: seo-audit
+          path: seo-audit.json
+          retention-days: 30
+
       - name: Subir archivos generados
         uses: actions/upload-pages-artifact@v3
         with:
