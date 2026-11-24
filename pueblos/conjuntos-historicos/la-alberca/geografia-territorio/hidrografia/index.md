@@ -49,3 +49,9 @@ El índice geográfico recoge Endrinales, Arrohuevo/Arroyohuevo y Alberca como n
 Las reservas, masas de agua, cuencas y término municipal son entidades diferentes. Priorizar la intersección de sus geometrías antes de calcular longitudes o superficies locales.
 
 Referencias identificadas en el expediente; cotejo directo pendiente de acreditación.
+
+## Infraestructuras y unidades hidrológicas
+
+El expediente O-0165/2025 de San Marcos relaciona el humedal con un dique y un aliviadero. Su identificación como SA-09 en documentación ambiental histórica pertenece a un registro diferente. La coincidencia de nombre permite relacionar ambos expedientes, no deducir el origen de la laguna. Véanse [espacios protegidos](../../naturaleza/espacios-protegidos/) y [conservación](../../naturaleza/conservacion/). Las [fuentes urbanas](../../patrimonio/elementos-patrimoniales/fuentes/) requieren investigación independiente de captaciones y conducciones.
+
+*Integración de referencias existentes; sin nuevo cotejo externo.*
