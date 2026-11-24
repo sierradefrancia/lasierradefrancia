@@ -34,3 +34,14 @@ Leer antes de editar; comprobar dependencias; cambios mínimos; registrar commit
 - 302e18ae: breadcrumbs por ancestros URL existentes.
 
 Todos los commits confirmados por GitHub. Validación de compilación, HTML/JSON-LD generado, salida pública y métricas externas pendiente. Ninguna fase se considera cerrada todavía.
+
+## Balance de implementación — 2026-11-24
+
+- 6443106, 758ae5d: auditoría del HTML generado integrada en publicación, modo informativo.
+- c47fdf4, 58ff89b: inventario de metadatos e informe descargable de Actions.
+- ce81691: cobertura sitemap, noindex y enlaces entrantes.
+- 8778c98: accesibilidad básica e inventario de peso.
+- ab0afe3, 47211b8: enlaces a identidad y metodología editorial.
+- 2a166e28: corrección de recuento y normalización de enlaces.
+
+Validación externa: no se pudo recuperar portada, llms.txt ni sitemap.xml mediante la herramienta web. La consulta de estados y ejecuciones del conector no devolvió registros; no acredita éxito ni fallo del despliegue. Pendiente obtener artefacto seo-audit de Actions, revisar hallazgos, comprobar HTML público y consultar Search Console. No se han medido mejoras de tráfico, ranking ni Core Web Vitals. No cerrar el plan hasta disponer de evidencia suficiente.
