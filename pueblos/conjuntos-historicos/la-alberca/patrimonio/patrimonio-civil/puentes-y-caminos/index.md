@@ -11,6 +11,8 @@ permalink: /pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/
 
 # Puentes y comunicaciones históricas de La Alberca
 
+**Identificador patrimonial:** ALB-PAT-029.
+
 Los pasos sobre cursos de agua y los caminos exteriores relacionan la historia urbana de La Alberca con los aprovechamientos forestales, los pueblos vecinos y los lugares de peregrinación. Este estudio distingue las conexiones históricas atribuidas de los itinerarios señalizados actuales.
 
 ## La Puente
