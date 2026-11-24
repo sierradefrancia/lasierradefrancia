@@ -60,3 +60,11 @@ Pendiente: cobertura sanitaria completa, educación, asistencia residencial, mov
 - [Reloj Público, extracción de series INE para La Alberca](https://relojpublico.es/poblacion/municipios/salamanca/la-alberca/), consulta 24-11-2026. Datos de edades y contraste de series obtenidos mediante esta fuente secundaria; descarga directa del INE pendiente.
 
 Código municipal INE: 37010. El estudio histórico se desarrolla en [Historia contemporánea](../../historia/siglos-xix-xx/). Pendiente examinar hogares, nacimientos, defunciones y migraciones mediante series oficiales.
+
+## Dos trayectorias: población y hogares
+
+Entre 1960 y 1970 la población censal registrada pasó de 1.905 a 1.491 personas, una reducción del 21,7 %. Entre 1991 y 2011 aumentó de 1.068 a 1.196 (12,0 %), antes de situarse en 1.064 en 2021. La trayectoria no fue, por tanto, un descenso continuo. En 2021 se registraron 524 hogares frente a 430 en 2011, un aumento del 21,9 % pese a la reducción de población. Las diferencias metodológicas censales impiden interpretar directamente esta relación como cambio exacto del tamaño familiar.
+
+Estos contrastes plantean preguntas sobre movilidad, composición doméstica y residencia que deben investigarse con series homogéneas. Véanse [historia contemporánea](../../historia/siglos-xix-xx/) y [turismo y vivienda](../turismo-economia/).
+
+*Cálculos y síntesis del corpus existente; sin nuevo cotejo externo.*
