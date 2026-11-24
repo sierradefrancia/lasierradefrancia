@@ -715,3 +715,7 @@ Los censos muestran cambios demográficos.
 Pero ninguna de estas fuentes contiene, por sí sola, toda la historia del pueblo.
 
 **Este registro documental permanecerá abierto a nuevas fuentes, correcciones y revisiones. Su finalidad es que cada afirmación importante pueda rastrearse hasta las pruebas que la sostienen.**
+
+## Cotejo puntual de la cadena de transmisión
+
+El 24-11-2026 se recuperaron la [ficha del BOE](https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-H-1930-10038100441) y la [edición digitalizada](https://revistas.mjusticia.gob.es/index.php/AHDE/article/download/5060/5060/4833), pp. 381–383. La nota de la p. 382 localiza la donación medieval en los folios 34 y 36 del registro descrito. Esta referencia concreta orienta la búsqueda del testimonio manuscrito. La edición impresa mantiene la discrepancia entre era 1327 y año 1291; la conversión aritmética da 1289. No se ha recuperado el manuscrito ni se corrige retrospectivamente su datación.
