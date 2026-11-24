@@ -1,4 +1,5 @@
 ---
+description: "La iglesia de San Martín del Castañar: arquitectura, historia religiosa y bienes patrimoniales."
 layout: default
 title: "Iglesia de San Martín de Tours"
 parent: "Patrimonio de San Martín del Castañar"
