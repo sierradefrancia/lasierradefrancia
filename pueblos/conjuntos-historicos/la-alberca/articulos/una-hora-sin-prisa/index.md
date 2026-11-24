@@ -1,4 +1,5 @@
 ---
+description: "Una visita breve a La Alberca centrada en los detalles de la Plaza Mayor, las inscripciones y el patrimonio religioso."
 layout: default
 title: "Una hora que no necesita ser una carrera"
 parent: Artículos
