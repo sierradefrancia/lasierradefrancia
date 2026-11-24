@@ -29,3 +29,18 @@ Consulta de fichas y extractos: 2026-11-24. Investigación abierta.
 | ALB-SON-005 | [ATO 101](https://funjdiaz.net/fono1.php?pag=6) | 21–22-06-1984 | Boda, Víctor Pavón de Miranda del Castañar y vecinos de La Alberca; defectos de audio documentados |
 
 Relacionado con [ciclo vital](../ciclo-vital/). Catalogado; audio no escuchado.
+
+## Relaciones entre registros
+
+ATO 101, 102 y 103 forman un conjunto temporal próximo, pero documentan situaciones diferentes: una boda, recuerdos de un informante y una procesión con explicaciones etnográficas. Tomás Hoyos aparece en los dos últimos. Sebastián Luis Luis figura en ATO 103 y se relaciona con el repertorio instrumental de El Guinda. La identificación tentativa en ATO 434 debe conservar ese carácter.
+
+| Registro | Investigación vinculada | Tipo de evidencia disponible |
+|---|---|---|
+| ATO 101 | [Ciclo vital](../ciclo-vital/) | Catálogo de boda |
+| ATO 102 | [Majadas Viejas](../majadas-viejas/) | Catálogo de recuerdos y rogativas |
+| ATO 103 | [Corpus](../corpus/) | Catálogo de procesión y testimonios |
+| Soinuenea 3029 | [El Guinda](/personajes/el-guinda/) | Catálogo instrumental |
+
+La entrevista RNE de 1985 recuperada en 2025, enlazada en [Diagosto](../diagosto/), constituye otra pista documental. No se ha escuchado ni asignado todavía identificador local.
+
+*Síntesis de referencias existentes; sin nuevo cotejo externo.*
