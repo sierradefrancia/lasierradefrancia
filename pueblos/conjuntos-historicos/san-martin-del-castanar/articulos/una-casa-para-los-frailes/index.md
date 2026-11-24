@@ -1,4 +1,5 @@
 ---
+description: "El convento de Gracia de San Martín del Castañar y la historia de la presencia religiosa en su entorno."
 layout: default
 title: Una casa para los frailes
 parent: Artículos de San Martín del Castañar
