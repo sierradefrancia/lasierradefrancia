@@ -1,4 +1,5 @@
 ---
+description: "Guía para visitar Villanueva del Conde: manzana histórica, Huertitas, arquitectura serrana y paisaje agrícola."
 layout: default
 title: "Visitar Villanueva del Conde"
 parent: Villanueva del Conde
