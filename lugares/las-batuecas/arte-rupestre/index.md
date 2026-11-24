@@ -61,3 +61,5 @@ Fuentes de partida: [BOE, declaración de 2000](https://www.boe.es/diario_boe/tx
 
 - [Covacho del Pallón](/lugares/las-batuecas/arte-rupestre/pallon/) — expediente inicial.
 - [Corral de Morcilla](/lugares/las-batuecas/arte-rupestre/corral-morcilla/) — expediente inicial.
+
+- [Canchal de las Cabras Pintadas](/lugares/las-batuecas/arte-rupestre/cabras-pintadas/) — documentación histórica y protección.
