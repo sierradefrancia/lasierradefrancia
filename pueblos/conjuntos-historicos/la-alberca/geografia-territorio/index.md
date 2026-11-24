@@ -4,6 +4,7 @@ title: Geografía y territorio
 parent: La Alberca
 grand_parent: Conjuntos históricos
 nav_order: 5
+has_children: true
 last_modified_at: 2026-11-24
 description: "Geografía del término municipal de La Alberca: valle de Las Batuecas, valle de Lera, Portillo, río Francia, Laguna de San Marcos, relieve, caminos y toponimia."
 permalink: /pueblos/conjuntos-historicos/la-alberca/geografia-territorio/
@@ -164,6 +165,8 @@ El artículo 2 del Decreto 92/2000 delimita el Sitio Histórico mediante el cami
 ---
 
 ## El río Batuecas
+
+La [investigación hidrográfica](./hidrografia/) recoge las reservas naturales fluviales del Francia y Batuecas, sus códigos, longitudes protegidas, discrepancias documentales y la localización administrativa de la actuación en San Marcos.
 
 El **río Batuecas** atraviesa el valle que lleva su nombre y pertenece a la cuenca hidrográfica del Tajo.
 
