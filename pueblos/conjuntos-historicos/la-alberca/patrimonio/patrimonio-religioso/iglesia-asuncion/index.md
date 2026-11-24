@@ -367,3 +367,11 @@ Se han consultado los extractos recuperados de estas fuentes y el resumen de la 
 ---
 
 *Este artículo forma parte del atlas patrimonial de La Alberca. Su contenido podrá ampliarse o corregirse cuando se incorporen nuevas evidencias documentales. Las atribuciones no verificadas directamente se presentan como tales.*
+
+## Continuidades entre el templo antiguo y el actual
+
+La contratación de 1729 no marca el comienzo de todo el patrimonio parroquial. El púlpito fechado por la bibliografía especializada en 1572, las referencias epigráficas de la torre y la tradición del Cristo del Sudor son anteriores. Su estudio permite preguntar qué elementos se mantuvieron, trasladaron o reorganizaron durante la reconstrucción. La custodia del archivo concejil descrita en 1857 añade una función documental posterior a la obra. Véanse [documentos y cronología](../../../historia/documentos-cronologia/) y [ordenanzas](../../../historia/concejo-ordenanzas/).
+
+La capilla del Rosario, atribuida a 1777, y la de los Dolores representan otras fases de ampliación. No deben confundirse la fecha de construcción de cada espacio y la de sus retablos. El expediente de [retablos y capillas](./retablos-y-capillas/) distingue ambas cuestiones.
+
+*Síntesis del corpus documental existente; sin nuevo cotejo externo en esta ampliación.*
