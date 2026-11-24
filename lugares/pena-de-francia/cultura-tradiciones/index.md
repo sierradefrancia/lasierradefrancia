@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 layout: default
 title: Cultura y tradiciones de la Peña de Francia
 parent: Peña de Francia
@@ -416,6 +416,8 @@ Los artistas adaptaron la representación de la Virgen a distintas tradiciones i
 El estudio comparado de estas imágenes permite investigar la circulación cultural entre España, Portugal y Brasil.
 
 ---
+
+La expansión de la advocación cuenta con un [estudio histórico específico](/lugares/pena-de-francia/historia/devocion-internacional/), que distingue las tradiciones locales y la transmisión documentada.
 
 ## La iconografía de la Virgen de la Peña de Francia
 

@@ -73,6 +73,16 @@ Las referencias proceden del [estudio patrimonial existente](/lugares/pena-de-fr
 | PEF-PAT-029 | Obras de 1867 | AHDO | Acuerdo de 12 julio y contrato; maestros Manuel Gómez e Isidoro Madrados según catálogo. |
 | PEF-PAT-030 | Reforma de hospedería de 1902 | AHDO | Presupuesto de 3 marzo atribuido a Juan García; ejecución no demostrada. |
 
+## Expedientes con estudios publicados
+
+- PEF-PAT-009: [Imagen de la Virgen](/lugares/pena-de-francia/santuario-patrimonio/imagen-virgen/).
+- PEF-PAT-015 a 017: [Capilla de la Blanca](/lugares/pena-de-francia/santuario-patrimonio/capilla-blanca/).
+- PEF-PAT-023: [Rollo jurisdiccional](/lugares/pena-de-francia/santuario-patrimonio/rollo-jurisdiccional/).
+- PEF-PAT-025: [Casa Baja](/lugares/pena-de-francia/santuario-patrimonio/casa-baja/).
+- PEF-PAT-029 y 030: [Obras de 1867 y 1902](/lugares/pena-de-francia/santuario-patrimonio/obras-1867-1902/).
+
+La publicación de un estudio no implica el cierre del expediente.
+
 ## Referencias de partida
 
 - TERPAT: [Junta de Castilla y León, ficha del santuario (2022)](https://www.jcyl.es/jcyl/patrimoniocultural/TERPAT/SantuariosErmitasHumilladeros/index_htm_files/04-Pena%20de%20Francia%2C%20El%20Cabaco.pdf).

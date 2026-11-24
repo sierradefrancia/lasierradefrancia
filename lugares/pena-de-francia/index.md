@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-24
 layout: default
 title: Peña de Francia
 parent: Lugares de interés
@@ -148,6 +148,15 @@ Investigaciones específicas, hallazgos documentales, memoria oral y creación l
 [Explorar Artículos](/lugares/pena-de-francia/articulos/)
 
 ---
+
+## Investigaciones destacadas
+
+- [La montaña que volvió a levantarse](/lugares/pena-de-francia/articulos/la-montana-que-volvio-a-levantarse/).
+- [La expedición científica de 1857](/lugares/pena-de-francia/clima-observacion/expedicion-1857/).
+- [La devoción internacional](/lugares/pena-de-francia/historia/devocion-internacional/).
+- [La lagartija batueca](/lugares/pena-de-francia/naturaleza/lagartija-batueca/).
+- [La capilla de la Blanca](/lugares/pena-de-francia/santuario-patrimonio/capilla-blanca/).
+- [El rollo jurisdiccional](/lugares/pena-de-francia/santuario-patrimonio/rollo-jurisdiccional/).
 
 ## La Peña de Francia y su territorio
 

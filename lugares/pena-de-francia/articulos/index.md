@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-24
 layout: default
 title: Artículos sobre la Peña de Francia
 parent: Peña de Francia
@@ -24,6 +24,15 @@ No buscamos publicar por publicar.
 **Cada artículo debe aportar algo: un descubrimiento, una investigación, una interpretación fundamentada, una pregunta interesante o una creación original.**
 
 ---
+
+## Lecturas e investigaciones disponibles
+
+- [La montaña que volvió a levantarse](/lugares/pena-de-francia/articulos/la-montana-que-volvio-a-levantarse/).
+- [La expedición científica de 1857](/lugares/pena-de-francia/clima-observacion/expedicion-1857/).
+- [La devoción internacional](/lugares/pena-de-francia/historia/devocion-internacional/).
+- [La lagartija batueca](/lugares/pena-de-francia/naturaleza/lagartija-batueca/).
+- [La capilla de la Blanca](/lugares/pena-de-francia/santuario-patrimonio/capilla-blanca/).
+- [El rollo jurisdiccional](/lugares/pena-de-francia/santuario-patrimonio/rollo-jurisdiccional/).
 
 ## Investigaciones históricas
 
@@ -59,7 +68,7 @@ Una investigación específica permitirá estudiar cada relieve y su significado
 
 **Estado:** fuentes patrimoniales y archivísticas localizadas.
 
-### La capilla de la Blanca en 1883
+### La capilla de la Blanca en 1857 (informe publicado en 1883)
 
 Una descripción publicada por la Real Academia de la Historia en 1883 menciona las bóvedas, los monogramas de Simón Vela y la escalera hacia la gruta.
 
