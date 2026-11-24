@@ -53,3 +53,12 @@ fecha_revision:
 ## Integración editorial
 
 Enlazar cada imagen autorizada desde el artículo correspondiente, con pie, autor, fuente y licencia. Guardar derivados en assets/images/documental/ por territorio y tema. Mantener los documentos de permiso privados cuando contengan datos personales. El inventario público no debe exponer datos sensibles.
+
+## Comprobación de derechos — 2026-11-24
+
+- UNAM: [registro oficial 5041667](https://repositorio.unam.mx/contenidos/5041667), CC BY-NC-SA 4.0, asignada 2018-06-28. El [PDF reproducido por Universidad de la República](https://www.fadu.edu.uy/acondicionamiento-termico/files/2012/02/sobre-temas-varios.pdf) contiene autorización editorial de reproducción con cita completa y enumera figura 3 (sección de vivienda típica de La Alberca) y figura 4 (esquemas bioclimáticos). No se ha verificado crédito individual ni resuelto alcance de ambas declaraciones para el atlas de titularidad empresarial. Solicitar aclaración a rutic@unam.mx. Fichas iniciales ALB-GRA-001 (fig. 3), ALB-GRA-002 (fig. 4); identificación textual, no inspección visual; no publicar archivos todavía.
+- Fuentes Hernández: [metadatos completos](https://gredos.usal.es/xmlui/handle/10366/159313?show=full), openAccess sin licencia explícita de reutilización. Solicitar permiso al autor para fotografías y verificar créditos individuales.
+- Egido Rodríguez: [UPM](https://oa.upm.es/67663/), CC reconocimiento-no comercial-sin obra derivada; solicitar autorización específica.
+- Fortes García: [registro del libro](https://gredos.usal.es/handle/10366/161852?show=full), CC0 en el registro que contiene resumen embargado hasta 2030-01-15, no extender al libro ni a fotografías. [Ficha de tesis doctoral](https://produccioncientifica.usal.es/documentos/5e4e72272999524eaa94e03a) declara más de 1500 imágenes con fichas por localidades; contactar autor e Instituto de las Identidades. Distinguir tesis y libro.
+
+Resultado: dos figuras individualizadas por rótulo; cero archivos gráficos autorizados e incorporados. No se han enviado solicitudes de permiso.
