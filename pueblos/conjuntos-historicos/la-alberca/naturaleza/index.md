@@ -263,6 +263,8 @@ Su inclusión en esa relación no demuestra que todos cuenten con una declaraci�
 
 ## Micología documentada en Las Batuecas
 
+La [investigación micológica](./micologia/) reúne el estudio histórico de María Bausá Alcalde, la tesis de Sergio Pérez Gorjón (2008), referencias de Ascomycota y la gestión micológica del monte Las Batuecas. La extracción de registros locales queda pendiente.
+
 La micología del municipio merece especial atención por la diversidad de ambientes forestales y ribereños.
 
 Existe una investigación académica dedicada a los hongos afiloforales y gasterales del Parque Natural y Reserva de la Biosfera de Las Batuecas–Sierra de Francia.
