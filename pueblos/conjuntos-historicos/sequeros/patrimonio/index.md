@@ -19,20 +19,20 @@ Inventario inicial, no exhaustivo. Los identificadores distinguen edificios, esp
 - SEQ-PAT-004: [Casas del Concejo](./concejo/)
 - SEQ-PAT-005: [Torre y reloj](./concejo/)
 - SEQ-PAT-006: [Teatro del Liceo](./teatro/)
-- SEQ-PAT-007: Calvario
-- SEQ-PAT-008: Plaza del Altozano
-- SEQ-PAT-009: Plaza de Eloy Bullón
-- SEQ-PAT-010: Infiernillo
-- SEQ-PAT-011: Alhóndiga
-- SEQ-PAT-012: Juzgado
-- SEQ-PAT-013: Cárcel
+- SEQ-PAT-007: [Calvario](./calvario/)
+- SEQ-PAT-008: [Plaza del Altozano](./plazas/)
+- SEQ-PAT-009: [Plaza de Eloy Bullón](./plazas/)
+- SEQ-PAT-010: [Infiernillo](./plazas/)
+- SEQ-PAT-011: [Alhóndiga](./justicia/)
+- SEQ-PAT-012: [Juzgado](./justicia/)
+- SEQ-PAT-013: [Cárcel](./justicia/)
 - SEQ-PAT-014: Casa del escribano
 - SEQ-PAT-015: [Casa de Melchor García](./calle-calzada/)
 - SEQ-PAT-016: [Casa de Gil Sánchez](./calle-calzada/)
 - SEQ-PAT-017: [Casa de José María Anaya](./calle-calzada/)
 - SEQ-PAT-018: Parque del Barrero
 - SEQ-PAT-019: Cabezuela
-- SEQ-PAT-020: Arquitectura doméstica
+- SEQ-PAT-020: [Arquitectura doméstica](./arquitectura-tradicional/)
 
 Anexo BOE y guía provincial, páginas PDF 2–11. La alhóndiga y el juzgado pueden corresponder a fases del mismo inmueble; conservar la relación sin duplicar edificios físicos.
 
