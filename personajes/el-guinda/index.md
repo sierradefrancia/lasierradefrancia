@@ -1,4 +1,5 @@
 ---
+description: "Sebastián Luis Luis, El Guinda, tamborilero de La Alberca: grabaciones de 1984, repertorio y referencias discográficas."
 layout: default
 title: "Sebastián Luis Luis, El Guinda"
 parent: Personajes históricos
