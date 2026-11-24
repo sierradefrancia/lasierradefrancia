@@ -327,3 +327,24 @@ El estudio de Herrera-Vicente (2024) identifica así al obispo donante del relic
 ## Relaciones artísticas pendientes de cotejo: Asentadero–Bosque de los Espejos
 
 El expediente cultural de San Martín recoge las atribuciones a Jesús Palmero, Luque López, José Antonio Juárez, Pablo Amargo y Manuel Pérez de Arrilucea. Incorporar estas relaciones a las fichas canónicas existentes tras comprobar identidad, autoría, denominación y emplazamiento de las obras; no crear identidades duplicadas. [Expediente cultural](/pueblos/conjuntos-historicos/san-martin-del-castanar/cultura-tradiciones/). Estado: referencias internas pendientes de cotejo externo.
+
+## Candidatos de Sequeros — 24-11-2026
+
+Altas provisionales de líneas de investigación, no biografías verificadas. Comprobar variantes y deduplicar antes de asignar identificadores permanentes.
+
+| Persona | Relación y evidencia |
+|---|---|
+| Jerónimo de Quiñones | Planos iglesia de los Mártires, BOE 2002 |
+| Francisco Berrocal Montero | Escribano, referencia a censo de 1752 pendiente de original |
+| Melchor García | Propiedad residencial según guía provincial |
+| Gil Sánchez | Comercio según guía provincial |
+| José María Anaya | Comercio y alcaldía según guía provincial |
+| Juana Hernández | Tradición de la Moza Santa, testimonios antiguos pendientes |
+| León Felipe | Memoria literaria local, biografía pendiente de cotejo |
+| Eloy Bullón | Denominación de plaza en BOE 2002, identidad pendiente |
+| Miguel Huerta | Predicador, información municipal del XIX |
+| Antonio Huerta | Abogado, información municipal del XIX |
+| Juan Pacheco | Párroco y diputado atribuido, información municipal del XIX |
+| Regina Polo Martín | Investigadora de la demarcación judicial salmantina |
+
+Simón Vela: mantener la línea existente, sin duplicación. [Fuentes de Sequeros](/pueblos/conjuntos-historicos/sequeros/fuentes/). [Historia municipal del XIX](https://www.sequeros.es/sigloXIX.asp).
