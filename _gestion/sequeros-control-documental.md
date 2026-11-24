@@ -22,3 +22,7 @@ Texto oficial íntegro de incoación 2002 recuperado; extractos de la RAH (1883)
 ## Bloque urbano — 24-11-2026
 
 Cotejados extractos BOE 2002, guía provincial apartado 6, memoria PEPCH 2015 y [plano P2](https://www.sequeros.es/urbanismo/2-PEPCH-SEQUEROS/PLANOS/P2%20SEQUEROS%20PEPCH%20AI%20PROTECCION%20PATRIMONIO.pdf), abril 2015, 1:1000. Localizada [reproducción jurídica del acuerdo 2004](https://noticias.juridicas.com/base_datos/CCAA/cl-res190704-1.html), pendiente cotejo oficial íntegro. Pendientes plano Coello original, fotografías y licencias.
+
+## Bloque territorial 24-11-2026
+
+Barrero y Cabezuela documentados mediante guía provincial y PEPCH. Casa del Escribano pendiente; 19 de 20 IDs tratados según cobertura anterior. Nueva sección Naturaleza, sin inventario específico de especies; memoria de Moza Santa y León Felipe diferenciada de hechos probados. Expediente provincial 2024 localizado. Demografía secundaria pendiente INE original. No comprobado despliegue ni licencias.
