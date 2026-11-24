@@ -4,7 +4,8 @@ title: Villanueva del Conde
 parent: Conjuntos históricos
 grand_parent: Pueblos
 nav_order: 6
-has_children: false
+has_children: true
+last_modified_at: 2026-11-24
 description: "Descubre Villanueva del Conde, en la Sierra de Francia: su singular estructura urbana, las huertitas, arquitectura tradicional, conjunto histórico, patrimonio, bancales y paisaje."
 permalink: /pueblos/conjuntos-historicos/villanueva-del-conde/
 ---
@@ -26,6 +27,17 @@ Esta organización urbana constituye un testimonio extraordinario de la relació
 A su alrededor aparecen calles tradicionales, edificios religiosos, fuentes, bancales y un paisaje de bosques y cultivos que completa su identidad.
 
 ---
+
+## Explorar Villanueva del Conde
+
+- [Conjunto histórico](./conjunto-historico/)
+- [Patrimonio](./patrimonio/)
+- [Geografía y territorio](./geografia-territorio/)
+- [Naturaleza](./naturaleza/)
+- [Sociedad y economía](./sociedad-economia/)
+- [Cultura y tradiciones](./cultura-tradiciones/)
+- [Visitar](./visitar/)
+- [Fuentes](./fuentes/)
 
 ## Información general
 
