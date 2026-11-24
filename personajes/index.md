@@ -242,3 +242,14 @@ Candidatos provisionales; comprobar duplicados y homónimos antes de asignar fic
 | PER-MOG-060 | Nemesio Sánchez Martín | Maestro que figura en Mogarraz en la Gaceta de Madrid, 10-10-1894, n.º 283, ordinal 269 |
 
 [Fuente oficial](https://www.boe.es/gazeta/dias/1894/10/10/pdfs/GMD-1894-283.pdf). Extracto recuperado el 24-11-2026. Identidad y trayectoria pendientes de ampliación.
+
+
+### Ilustración y educación: nueva línea prioritaria
+
+| ID | Persona | Relación documental |
+|---|---|---|
+| PER-MOG-061 | Juan Antonio Melón | Intelectual nacido en Mogarraz el 27 de mayo de 1758 según La Peña, legado escolar testamentario referido |
+| PER-MOG-062 | Jacinto Maíllo Criado | Fotógrafo citado en la revista local |
+| PER-MOG-063 | Ángel Díez Cascón | Médico citado en la revista local |
+
+Fuente: [La Peña de Mogarraz 2009, p. 71](https://mogarraz.es/_mgz_pdf/mogarraz_2009.pdf), extracto recuperado el 24-11-2026. Altas provisionales; pendiente comprobar biografías, testamento y patronato en documentación independiente.
