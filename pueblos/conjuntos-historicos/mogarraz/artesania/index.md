@@ -30,3 +30,8 @@ La producción textil documentada en Mogarraz invita a compararla con la de [La 
 [La Peña de Mogarraz, n.º 9 (2013), p. 15](https://www.mogarraz.es/_mgz_pdf/mogarraz_2013.pdf), extracto localizado el 24-11-2026.
 
 [Volver a Mogarraz](../).
+
+
+## Recuperación contemporánea de la indumentaria
+
+[Las labranderas de Mogarraz](../articulos/las-labranderas/) documenta testimonios sobre restauración y reproducción de prendas durante el siglo XX y su relación con La Alberca.
