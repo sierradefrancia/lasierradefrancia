@@ -1,8 +1,8 @@
 ---
 layout: default
 title: La biblioteca histórica del Desierto
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Monasterio del Desierto de San José"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Historia intelectual, lecturas eremíticas y fuentes para reconstruir la biblioteca carmelitana."
 permalink: /lugares/las-batuecas/biblioteca-carmelitana/

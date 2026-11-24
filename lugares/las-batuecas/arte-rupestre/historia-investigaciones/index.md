@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Historia de las investigaciones rupestres
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Arte rupestre de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Historia documental de los estudios rupestres de Las Batuecas, desde Breuil y Cabré hasta las investigaciones de Bécares."
 permalink: /lugares/las-batuecas/historia-investigaciones/

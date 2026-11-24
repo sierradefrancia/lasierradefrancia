@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Las Batuecas entre historia y leyenda
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Cultura, literatura y leyendas de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "La construcción literaria de Las Batuecas y la defensa histórica de Tomás González de Manuel en 1693."
 permalink: /lugares/las-batuecas/historia-leyenda/

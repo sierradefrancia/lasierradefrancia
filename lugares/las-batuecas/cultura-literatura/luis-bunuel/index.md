@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Luis Buñuel y Las Batuecas
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Cultura, literatura y leyendas de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "El monasterio como base del rodaje de Tierra sin pan, las gestiones de compra de 1935 y el regreso de Buñuel en 1971."
 permalink: /lugares/las-batuecas/luis-bunuel/

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Inventario arqueológico de Las Batuecas
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Arte rupestre de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Inventario documental de los quince abrigos rupestres recogidos en el expediente de 1999."
 permalink: /lugares/las-batuecas/inventario-arqueologico/

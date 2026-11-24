@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Arquitectura del Desierto de San José
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Monasterio del Desierto de San José"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Organización espacial del conjunto carmelitano y catálogo inicial de dependencias y ermitas."
 permalink: /lugares/las-batuecas/arquitectura-carmelitana/

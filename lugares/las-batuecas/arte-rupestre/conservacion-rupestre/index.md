@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Conservación de las pinturas rupestres de Las Batuecas
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Arte rupestre de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Estudio de las evidencias y preguntas sobre conservación, soporte rocoso y pigmentos de Las Batuecas."
 permalink: /lugares/las-batuecas/conservacion-rupestre/

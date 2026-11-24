@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Documentos gráficos del arte rupestre de Las Batuecas
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Arte rupestre de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Catálogo inicial de dibujos y láminas históricas del arte rupestre de Las Batuecas."
 permalink: /lugares/las-batuecas/documentos-rupestres/

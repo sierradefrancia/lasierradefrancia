@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Personajes y fundación carmelitana
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Monasterio del Desierto de San José"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Promotores, religiosos y autoridades vinculados a la fundación y recuperación del Desierto."
 permalink: /lugares/las-batuecas/personajes-carmelitanos/

@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Restauración del monasterio de Las Batuecas
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Monasterio del Desierto de San José"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Incendios, recuperación arquitectónica y cuatro fases de restauración del Desierto de San José."
 permalink: /lugares/las-batuecas/restauracion-monasterio/

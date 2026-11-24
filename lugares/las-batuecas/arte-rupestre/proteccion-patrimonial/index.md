@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Protección patrimonial de Las Batuecas
-parent: Las Batuecas
-grand_parent: Lugares de interés
+parent: "Arte rupestre de Las Batuecas"
+grand_parent: Las Batuecas
 last_modified_at: 2026-11-24
 description: "Historia documental de la protección de las pinturas y del Sitio Histórico de Las Batuecas."
 permalink: /lugares/las-batuecas/proteccion-patrimonial/
