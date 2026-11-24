@@ -1,4 +1,5 @@
 ---
+description: "La protección patrimonial de La Alberca desde 1940, la rehabilitación de edificios y los retos de conservar un pueblo habitado."
 layout: default
 title: "Proteger un pueblo habitado"
 parent: Artículos
