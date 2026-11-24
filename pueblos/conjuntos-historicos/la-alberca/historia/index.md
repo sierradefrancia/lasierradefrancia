@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: Historia
 parent: La Alberca
@@ -317,3 +318,8 @@ Es el resultado de siglos de decisiones, relaciones territoriales, trabajos, con
 Los documentos conservados permiten recuperar una parte de esa trayectoria. Otros episodios siguen esperando nuevas investigaciones.
 
 **El propósito de esta sección es conocer y comprender esa historia a partir de sus testimonios, sin confundir lo documentado con lo que todavía permanece por descubrir.**
+
+
+## Conexiones documentales y actualización
+
+La historia se complementa con el [inventario patrimonial](../patrimonio/inventario/), el [ciclo vital](../cultura-tradiciones/ciclo-vital/) y el [archivo sonoro](../cultura-tradiciones/fuentes-sonoras/). La [provisión de 1547 publicada por el Ayuntamiento](https://laalberca.com/tradiciones/dia-del-pendon/) añade una vía documental para estudiar el pendón y la financiación concejil de las romerías; su original sigue pendiente.
