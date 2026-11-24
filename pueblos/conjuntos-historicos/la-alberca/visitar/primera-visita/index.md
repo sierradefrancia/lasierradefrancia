@@ -27,3 +27,13 @@ No cuentes con encontrar abiertos todos los interiores. Las calles pueden tener 
 Si tienes poco tiempo, quédate en el pueblo. Las Batuecas y la Peña de Francia merecen su propia excursión.
 
 Para entender lo que estás viendo: [Patrimonio](../../patrimonio/), [Conjunto histórico](../../conjunto-historico/) y [Cultura y tradiciones](../../cultura-tradiciones/).
+
+## Cinco paradas para comprender el pueblo
+
+1. **Plaza Mayor.** Mira los soportales y compara sus columnas. Busca la fuente y el crucero; la plaza reunía comercio, administración y celebraciones. [Historia de la plaza](../../patrimonio/patrimonio-civil/plaza-mayor/).
+2. **Ayuntamiento y Casa Ducal.** Busca la inscripción de 1774 y observa las columnas reutilizadas en el edificio del teatro desde la calle de la Puente. No todas las piedras tienen la edad del edificio actual. [Casa Ducal](../../patrimonio/patrimonio-civil/casa-ducal/).
+3. **Iglesia de la Asunción.** Observa el volumen de la torre; si el templo está abierto y no hay culto, descubre el púlpito, el órgano y los retablos. [Iglesia](../../patrimonio/patrimonio-religioso/iglesia-asuncion/).
+4. **Ánimas y marrano de piedra.** Dos maneras muy distintas de comprender la solidaridad y la memoria comunitaria. [Ánimas](../../patrimonio/patrimonio-religioso/animas/).
+5. **Una casa serrana.** Si puedes visitar la Casa Museo Satur Juanela, en calle Mesón, descubrirás cómo se repartían las tareas domésticas entre plantas. [La casa museo](../../patrimonio/arquitectura-tradicional/casa-satur-juanela/).
+
+El orden es orientativo, no un circuito medido. Si solo tienes una hora, las tres primeras paradas proporcionan una buena introducción.
