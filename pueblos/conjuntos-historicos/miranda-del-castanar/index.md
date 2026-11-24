@@ -4,7 +4,8 @@ title: Miranda del Castañar
 parent: Conjuntos históricos
 grand_parent: Pueblos
 nav_order: 2
-has_children: false
+has_children: true
+last_modified_at: 2026-11-24
 description: "Conoce Miranda del Castañar, en la Sierra de Francia: historia de la villa, castillo, murallas, puertas medievales, arquitectura, patrimonio, paisaje y consejos para visitarla."
 permalink: /pueblos/conjuntos-historicos/miranda-del-castanar/
 ---
@@ -26,6 +27,12 @@ Es también un pueblo habitado, con tradiciones, arquitectura serrana, patrimoni
 Conocer Miranda significa descubrir cómo la geografía, las necesidades defensivas, la organización política y la vida cotidiana contribuyeron a configurar una villa histórica.
 
 ---
+
+## Investigaciones sobre Miranda del Castañar
+
+- [Historia](./historia/).
+- [Conjunto histórico](./conjunto-historico/).
+- [Patrimonio](./patrimonio/).
 
 ## Información general
 
