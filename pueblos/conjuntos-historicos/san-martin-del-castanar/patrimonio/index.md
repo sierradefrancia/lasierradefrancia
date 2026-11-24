@@ -30,6 +30,7 @@ permalink: /pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/
 | SMC-PAT-013 | Estelas romanas | Número y referencia pendientes de cotejo |
 | SMC-PAT-014 | La Legoriza | Catálogo p. 19 |
 | SMC-PAT-015 | Hospital y capilla | Catálogo p. 16 |
+| SMC-PAT-016 | Relicario de la Santa Espina | Estudio académico de 2024, extractos consultados |
 
 Inventario provisional derivado de la portada existente. [Iglesia](./iglesia/), [arqueología](./arqueologia/).
 
@@ -42,3 +43,5 @@ Inventario provisional derivado de la portada existente. [Iglesia](./iglesia/), 
 - [El puente y la Calzada](./puente-calzada/).
 - [Ermitas y hospital](./ermitas/).
 - [Arquitectura tradicional de San Martín](./arquitectura-tradicional/).
+
+- [Relicario de la Santa Espina](./relicario/).
