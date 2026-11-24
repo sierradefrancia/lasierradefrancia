@@ -89,6 +89,31 @@ Ensayos narrativos basados en los expedientes del atlas, con límites documental
 - [El bosque después del fuego](./el-bosque-despues-del-fuego/)
 - [El bosque que también construyeron nuestros antepasados](./el-bosque-que-heredamos/)
 
+### Quienes nos enseñaron a conocer La Alberca
+
+- [Mirar La Alberca con Maurice Legendre](./legendre-y-la-mirada/)
+- [José Luis Puerto: salvar una palabra](./puerto-y-la-memoria/)
+- [Dos investigadoras ante la vida y la muerte](./cano-y-sanz/)
+- [Lorenzo González Iglesias: leer una casa](./la-casa-como-documento/)
+- [Las fotografías que hacen preguntas](./fotografias-que-hacen-preguntas/)
+
+### Un pueblo que se transforma
+
+- [Un pueblo no es un censo](./un-pueblo-no-es-un-censo/)
+- [La Alberca que trabaja mientras la visitamos](./mas-alla-del-turismo/)
+- [Proteger un pueblo habitado](./proteger-un-pueblo-habitado/)
+- [Las casas y sus ausencias](./las-casas-y-sus-ausencias/)
+- [La Alberca que recibirán las próximas generaciones](./la-alberca-del-manana/)
+
+### Sentir La Alberca
+
+- [Una hora que no necesita ser una carrera](./una-hora-sin-prisa/)
+- [El día que aprendimos a mirar hacia arriba](./mirar-hacia-arriba/)
+- [Regresar cuando cambian las hojas](./regresar-en-otono/)
+- [La Alberca bajo la lluvia](./un-pueblo-cuando-llueve/)
+- [Volver a un lugar que creías conocer](./volver-a-la-alberca/)
+- [Una pregunta para llevarse a casa](./una-pregunta-para-llevarse/)
+
 ### Historias documentales
 
 - [La Alberca en 1791](../historia/articulos/la-alberca-1791-epidemia-hambre-impuestos/)
