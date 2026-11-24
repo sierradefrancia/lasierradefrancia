@@ -1,4 +1,5 @@
 ---
+description: "Fuentes para investigar Miranda del Castañar: bibliografía, documentos históricos y referencias patrimoniales."
 layout: default
 title: Fuentes de Miranda del Castañar
 parent: Miranda del Castañar
