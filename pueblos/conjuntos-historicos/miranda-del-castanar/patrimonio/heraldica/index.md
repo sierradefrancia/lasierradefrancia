@@ -15,3 +15,7 @@ El itinerario municipal, que remite a Julián Álvarez Villar, identifica armas 
 Estas atribuciones constituyen un inventario de investigación, no prueba de propiedad, linaje de habitantes actuales ni presencia institucional de una orden militar. Deben cotejarse fotografías, ubicación, blasonamiento y bibliografía original.
 
 [Itinerario municipal](https://www.xn--mirandadelcastaar-txb.es/itinerarios-de-visita-y-rutas-desde-miranda/itinerario-secretos-de-miranda/), extracto recuperado el 24-11-2026.
+
+## Ampliación del inventario de atribuciones
+
+La [ficha municipal de escudos](https://www.xn--mirandadelcastaar-txb.es/descubre-su-patrimonio-y-sus-recursos/escudos/) enumera cerca de cuarenta piezas y añade Díez de Ledesma, Rodríguez de Ledesma, Arcediano, Gutiérrez de Valbuena y Maldonado. Fuente cotejada en extracto el 24-11-2026; no confundir apellido compartido con parentesco probado. La ficha declara depender de Álvarez Villar.
