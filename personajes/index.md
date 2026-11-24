@@ -128,3 +128,10 @@ En cada bloque de investigación se incorporarán los nuevos nombres relevantes,
 | PER-MOG-016 | Alain Huetz de Lemps | Fondo fotográfico referido a 1957, revista 2015 |
 
 Fuentes y límites en [memoria visual](/pueblos/conjuntos-historicos/mogarraz/memoria-visual/). Consulta de extractos el 24-11-2026. Identidades y trayectorias abiertas.
+
+
+### Cultura alimentaria
+
+| ID | Persona | Relación |
+|---|---|---|
+| PER-MOG-017 | Héctor Minguela García | Autor de El limón serrano, revista local de 2018; [referencia](/pueblos/conjuntos-historicos/mogarraz/gastronomia/) |
