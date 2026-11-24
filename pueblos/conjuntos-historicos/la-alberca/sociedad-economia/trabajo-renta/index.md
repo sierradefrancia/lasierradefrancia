@@ -37,3 +37,11 @@ La media bruta aumentó nominalmente un 11,6 %. No implica una mejora equivalent
 - [AEAT, IRPF municipal 2024](https://sede.agenciatributaria.gob.es/AEAT/Contenidos_Comunes/La_Agencia_Tributaria/Estadisticas/Publicaciones/sites/irpfmunicipios/2024/jrubik55630a156a33c8e802bfa29fe65b8ebc3ecb8da6.html).
 
 Consulta: 24-11-2026. Pendiente contrastar distribución sectorial, estacionalidad y metodología territorial detallada de afiliación. No atribuir las variaciones al turismo sin evidencia específica.
+
+## Comparación de los indicadores de renta
+
+Entre 2023 y 2024 la renta disponible media declarada aumentó 1.927 euros (10,4 % nominal), mientras la bruta aumentó 2.532 euros (11,6 %). El número de declaraciones pasó de 494 a 495. La estabilidad aproximada del número de declaraciones no demuestra que se trate de las mismas personas ni permite atribuir el incremento a una actividad concreta.
+
+La comparación con la [estructura sectorial](../turismo-economia/) requiere datos compatibles por periodo y ámbito. Para estudiar bienestar material de residentes conviene incorporar el Atlas de Distribución de Renta de los Hogares del INE, sin mezclar sus unidades con las declaraciones tributarias.
+
+*Cálculos y síntesis del corpus existente; sin nuevo cotejo externo.*
