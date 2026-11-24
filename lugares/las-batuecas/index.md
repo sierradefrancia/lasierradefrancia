@@ -29,6 +29,9 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 
 ## Estudios e inventarios
 
+- [Documentos gráficos del arte rupestre](/lugares/las-batuecas/documentos-rupestres/): catálogo de dibujos y láminas históricas.
+- [Conservación de las pinturas rupestres](/lugares/las-batuecas/conservacion-rupestre/): evidencias, soporte, pigmentos y evaluación de daños.
+
 - [Historia de las investigaciones rupestres](/lugares/las-batuecas/historia-investigaciones/): investigadores, publicaciones y patrimonio documental.
 
 - [Geología y relieve](/lugares/las-batuecas/geologia/): dimensiones del inventario CI077, estructura, erosión y soporte rupestre.

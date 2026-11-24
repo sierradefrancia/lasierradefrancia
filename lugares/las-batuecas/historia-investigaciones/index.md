@@ -78,3 +78,5 @@ La unidad documental no equivale a la unidad arqueológica. Un dibujo puede repr
 Este estudio sintetiza la documentación localizada anteriormente. No reproduce imágenes cuyos derechos no se hayan comprobado. Las investigaciones permanecen abiertas.
 
 [Volver a Las Batuecas](/lugares/las-batuecas/)
+
+[Catálogo de documentos gráficos](/lugares/las-batuecas/documentos-rupestres/).

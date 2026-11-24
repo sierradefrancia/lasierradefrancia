@@ -65,3 +65,5 @@ La revisión futura deberá identificar variantes nominales, agrupaciones, fuent
 [Volver a Las Batuecas](/lugares/las-batuecas/)
 
 [Historia de las investigaciones rupestres](/lugares/las-batuecas/historia-investigaciones/): documentación gráfica, autores y publicaciones.
+
+[Documentos gráficos](/lugares/las-batuecas/documentos-rupestres/) · [Conservación rupestre](/lugares/las-batuecas/conservacion-rupestre/).
