@@ -16,7 +16,7 @@ El paseo desde el aparcamiento al monasterio y la prolongación hasta las pintur
 
 | Recorrido | Distancia publicada | Consideraciones |
 |---|---|---|
-| Aparcamiento–entorno del monasterio | Unos 500 m de ida | Pasarela adaptada según Diputación |
+| Aparcamiento–entorno del monasterio | Aproximadamente 700 m de senda adaptada | Distancia desde el vehículo variable según aparcamiento |
 | Monasterio–Cabras Pintadas | Pendiente de medición homogénea | Continuación señalizada; no asumir accesibilidad |
 | La Alberca–Batuecas–Cabras Pintadas | 7 km en ficha actual; 8 km en guía 2007–2008 | Lineal, dificultad alta |
 
@@ -37,3 +37,5 @@ En el fondo del valle, relaciona la humedad del cauce con la vegetación de ribe
 - [Programa de visitas interpretadas, primavera 2022](https://patrimonionatural.org/ficheros/Boletin_PRIMAVERA_2022.pdf): antecedente, no calendario vigente.
 
 No se ha confirmado el estado del firme, señalización o apertura actual. [Guía práctica](/lugares/las-batuecas/guia-visita/).
+
+La distancia de la senda adaptada no equivale necesariamente a la distancia desde el aparcamiento general. Consulta el estado del recorrido antes de acudir. Para disfrutar del río, véase [pozas y baño](/lugares/las-batuecas/pozas-bano/).

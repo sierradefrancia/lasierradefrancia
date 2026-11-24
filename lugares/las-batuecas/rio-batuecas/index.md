@@ -61,3 +61,5 @@ Quedan pendientes los afluentes individualizados, la delimitación cartográfica
 
 - [La vida acuática del río Batuecas](/lugares/las-batuecas/vida-acuatica/): datos de macroinvertebrados y diatomeas.
 - [Continuidad y restauración del río Batuecas](/lugares/las-batuecas/restauracion-fluvial/): inventario inicial de azudes y actuaciones previstas.
+
+Para la experiencia recreativa del visitante: [El río, las pozas y el baño](/lugares/las-batuecas/pozas-bano/).

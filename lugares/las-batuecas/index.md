@@ -454,7 +454,11 @@ La historia real del lugar es suficientemente interesante sin necesidad de prese
 
 ## Cómo visitar Las Batuecas
 
-- [Guía práctica de visita](/lugares/las-batuecas/guia-visita/): acceso, accesibilidad y propuestas.
+Las Batuecas es especialmente apropiada para una excursión de un día: caminar junto al río, descubrir las pinturas rupestres, contemplar el monasterio desde el exterior y disfrutar de las pozas naturales, incluido el baño en los meses cálidos.
+
+- [El río, las pozas y el baño](/lugares/las-batuecas/pozas-bano/).
+
+- [Qué ver y hacer en Las Batuecas en un día](/lugares/las-batuecas/guia-visita/): acceso, accesibilidad y propuestas.
 - [Senderos y recorridos](/lugares/las-batuecas/senderos-visita/): paseo corto y descenso desde La Alberca.
 
 
