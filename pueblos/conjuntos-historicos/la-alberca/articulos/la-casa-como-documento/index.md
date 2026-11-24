@@ -1,4 +1,5 @@
 ---
+description: "La vivienda tradicional de La Alberca como fuente histórica: entramados, distribución doméstica y Casa Satur Juanela."
 layout: default
 title: "Lorenzo González Iglesias: leer una casa"
 parent: Artículos
