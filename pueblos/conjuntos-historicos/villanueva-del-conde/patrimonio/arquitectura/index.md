@@ -1,4 +1,5 @@
 ---
+description: "Arquitectura tradicional de Villanueva del Conde: viviendas, materiales y relación con los espacios agrícolas interiores."
 layout: default
 title: "Arquitectura doméstica y esgrafiados"
 parent: "Patrimonio de Villanueva del Conde"
