@@ -1,4 +1,5 @@
 ---
+description: "La memoria visual de Miranda del Castañar a través de imágenes históricas y su contexto documental."
 layout: default
 title: "Memoria visual de Miranda"
 parent: "Cultura y tradiciones de Miranda"
