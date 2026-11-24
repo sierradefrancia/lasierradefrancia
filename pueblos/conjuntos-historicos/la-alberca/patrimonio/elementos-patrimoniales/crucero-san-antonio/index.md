@@ -65,3 +65,11 @@ Para avanzar en su historia serán especialmente útiles las fotografías fechad
 Las fichas de MonumentalNet pertenecen a un mismo repertorio documental; no constituyen contrastes independientes de la cronología del crucero.
 
 [Volver a Elementos patrimoniales](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/).
+
+## Tres componentes del espacio público
+
+La cruz, los dos pórticos y la ermita próxima deben mantener registros diferenciados. La inscripción del dintel de uno de los pórticos no fecha la columna; tampoco lo hace la fecha de 1670 atribuida a la [ermita](../../patrimonio-religioso/san-antonio/). Una serie fotográfica fechada permitiría comprobar si las estructuras conservaron su posición relativa.
+
+La comparación con el [Barrio Nuevo](../crucero-barrio-nuevo/) y la [Plaza Mayor](../crucero-plaza-mayor/) debe registrar por separado grada, basa, fuste, remate e iconografía de ambas caras. Así se podrán reconocer diferencias materiales sin convertirlas prematuramente en una clasificación de talleres o épocas.
+
+*Síntesis de documentación previamente registrada; sin nuevo cotejo externo.*
