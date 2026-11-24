@@ -93,3 +93,25 @@ La extensión de cada investigación estará determinada por la riqueza de sus f
 
 - [Sebastián Luis Luis, El Guinda](/personajes/el-guinda/), tamborilero.
 - [Tomás Hoyos, Tío Tomás](/personajes/tomas-hoyos/), informante del Archivo de la Tradición Oral en 1984.
+
+
+## Personajes identificados durante la investigación de Mogarraz
+
+Registro provisional procedente de los expedientes del atlas, no de una nueva consulta externa. Las atribuciones requieren cotejo independiente. Cada persona tendrá una única ficha canónica cuando exista evidencia suficiente.
+
+| ID | Persona | Ámbito | Línea documental |
+|---|---|---|---|
+| PER-MOG-001 | Florencio Maíllo | Mogarraz | [Retrata2/388; Camino del Agua](/pueblos/conjuntos-historicos/mogarraz/memoria-visual/) |
+| PER-MOG-002 | Alejandro Martín Criado | Mogarraz | [Archivo fotográfico de 1967; comprobar nombre completo y procedencia](/pueblos/conjuntos-historicos/mogarraz/memoria-visual/) |
+| PER-MOG-003 | Antonio Cea Gutiérrez | Mogarraz; La Alberca; Sierra de Francia | [Etnografía, patrimonio, pregón de 2011; bibliografía pendiente](/pueblos/conjuntos-historicos/mogarraz/patrimonio/) |
+| PER-MOG-004 | Miguel del Peral | Mogarraz | [Autoría atribuida de la torre; contratos pendientes](/pueblos/conjuntos-historicos/mogarraz/patrimonio/torre/) |
+| PER-MOG-005 | Ramón Hernández Martín | Mogarraz | [Estudio de la iglesia en revista local de 2011](/pueblos/conjuntos-historicos/mogarraz/patrimonio/iglesia-nieves/) |
+| PER-MOG-006 | Juan Valadés Sierra | Mogarraz; Extremadura; Portugal | [Investigación sobre orfebrería y movilidad artesanal](/pueblos/conjuntos-historicos/mogarraz/artesania/) |
+| PER-MOG-007 | Joaquín Mota Osuna | Mogarraz | [Orfebrería; identidad y cronología pendientes](/pueblos/conjuntos-historicos/mogarraz/artesania/) |
+| PER-MOG-008 | Rafael Rosellón Palomino | Mogarraz; Zarza la Mayor | [Orfebrería; identidad y cronología pendientes](/pueblos/conjuntos-historicos/mogarraz/artesania/) |
+| PER-MOG-009 | Jules Gervais-Courtellemont | Mogarraz | [Fotografías atribuidas a 1918; originales pendientes](/pueblos/conjuntos-historicos/mogarraz/memoria-visual/) |
+| PER-MOG-010 | Ruth Matilda Anderson | Mogarraz | [Fotografía atribuida a 1925; original pendiente](/pueblos/conjuntos-historicos/mogarraz/memoria-visual/) |
+
+## Registro continuo
+
+En cada bloque de investigación se incorporarán los nuevos nombres relevantes, incluso cuando todavía no permitan redactar una biografía. Antes de asignar un identificador se comprobarán variantes nominales y registros existentes. El prefijo de alta identifica el expediente de origen, no limita el ámbito territorial de la persona. No se duplicarán fichas por municipio. Se registrarán obras, fuentes, colaboradores y relaciones, distinguiendo atribuciones de hechos comprobados.
