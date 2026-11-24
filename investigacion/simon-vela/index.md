@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-14
 layout: default
 title: "¿Quién fue realmente Simón Vela?"
 parent: Investigación
