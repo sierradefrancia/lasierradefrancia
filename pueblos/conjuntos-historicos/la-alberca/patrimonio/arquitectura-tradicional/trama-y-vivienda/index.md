@@ -19,3 +19,10 @@ Preguntas: ¿qué parcelario precede a las fachadas actuales?, ¿qué solares se
 ## Referencias
 
 Véase el [registro bibliográfico del bloque](/pueblos/conjuntos-historicos/la-alberca/patrimonio/arquitectura-tradicional/). Consulta parcial de las fuentes, 24-11-2026; investigación abierta.
+
+
+## Documento gráfico histórico: ALB-GRA-003
+
+Eduardo Hernández-Pacheco, BH FOT HP 1165, 1900–1950 (intervalo de catalogación). Diapositiva sobre vidrio, Archivo fotográfico Hernández-Pacheco, Biblioteca Histórica UCM. El catálogo describe vecinos sentados junto a las entradas de viviendas. La calle exacta permanece sin identificar.
+
+[Consultar fotografía original y ficha](https://patrimoniodigital.ucm.es/s/patrimonio/item/1696915). Licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Derechos: Universidad Complutense de Madrid. Ficha comprobada el 24-11-2026; imagen original pendiente de descarga e inspección.
