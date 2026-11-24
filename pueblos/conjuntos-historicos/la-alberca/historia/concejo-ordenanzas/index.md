@@ -596,3 +596,8 @@ Aquellas disposiciones reflejan también las desigualdades, las restricciones y 
 ## Conexiones documentales y actualización
 
 La [ficha editorial del BOE](https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-H-1930-10038100441) confirma autoría, título, año y páginas 381–441 de Berrogain. No constituye una segunda edición independiente del PDF ministerial. La [provisión de 1547 publicada por el Ayuntamiento](https://laalberca.com/tradiciones/dia-del-pendon/) permite estudiar una autorización posterior de gasto concejil para fiestas y romerías; no confundirla con las ordenanzas de 1515. Véase [Pendón y Trago](../../cultura-tradiciones/pendon-y-trago/).
+
+
+## Transmisión documental: líneas de cotejo
+
+La [Berrogain, edición de 1930](https://revistas.mjusticia.gob.es/index.php/AHDE/article/download/5060/5060/4833) distingue la proclamación de 1515 de la formación anterior de las normas. Describe un registro de 273 hojas con cubierta de pergamino, con documentación posterior y referencias a 1568 y 1616. La [presentación de la edición facsimilar de 2015](https://salamancartvaldia.es/noticia/2015-11-27-jose-luis-puerto-pone-en-valor-las-ordenanzas-de-la-alberca-aprobadas-hace-500-anos-199935?rc=4) identifica otra edición, a cargo de José Luis Puerto; queda pendiente determinar qué testimonio reproduce. No contar ambas ediciones como fuentes independientes sin establecer su filiación.
