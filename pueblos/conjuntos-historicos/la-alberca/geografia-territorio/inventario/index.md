@@ -1,4 +1,5 @@
 ---
+description: "Inventario geográfico de La Alberca: lugares, caminos, cursos de agua, topónimos e identificadores para la investigación territorial."
 layout: default
 title: Inventario geográfico
 parent: Geografía y territorio
