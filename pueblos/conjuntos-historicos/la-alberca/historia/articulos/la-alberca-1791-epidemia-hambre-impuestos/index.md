@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: "1791: cuando La Alberca pidió al rey que escuchara su miseria"
 parent: "Artículos de Historia"
@@ -533,3 +534,11 @@ La investigación podrá ampliarse cuando se consulten las fuentes originales y 
 ---
 
 [Volver a Historia de La Alberca](/pueblos/conjuntos-historicos/la-alberca/historia/)
+
+## Una crisis dentro de una economía productiva
+
+El interrogatorio de 1791, conocido a través del estudio de José Luis Puerto sobre el lino, recoge ochenta tejedores y 350 arrobas de lino de regadío. No debe confundirse ese interrogatorio con el poder notarial del 5 de junio. Ambos testimonios ofrecen perspectivas diferentes sobre el mismo año: actividades económicas declaradas y una petición de alivio fiscal.
+
+La coexistencia de producción artesanal y dificultades económicas no es una contradicción automática. Para conocer su relación necesitamos precios, cosechas, ingresos y obligaciones tributarias, además de la cronología de la mortalidad. [Economía tradicional](../../../sociedad-economia/economia-tradicional/) · [Un pueblo de tejedores](../../../articulos/un-pueblo-de-tejedores/).
+
+*Ampliación a partir de expedientes existentes; sin nuevo cotejo externo.*
