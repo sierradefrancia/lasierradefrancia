@@ -1,4 +1,5 @@
 ---
+description: "La calle Calzada de Sequeros: patrimonio urbano y testimonios de las comunicaciones históricas."
 layout: default
 title: "Casas de la calle de la Calzada"
 parent: "Patrimonio de Sequeros"
