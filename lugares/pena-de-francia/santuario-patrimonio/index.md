@@ -792,6 +792,15 @@ El expediente oficial debe determinar:
 
 ---
 
+## Estudios documentales del patrimonio
+
+- [La imagen de la Virgen y los inventarios históricos](/lugares/pena-de-francia/santuario-patrimonio/imagen-virgen/)
+- [El rollo jurisdiccional y los privilegios del santuario](/lugares/pena-de-francia/santuario-patrimonio/rollo-jurisdiccional/)
+- [La Casa Baja y la arquitectura dominicana](/lugares/pena-de-francia/santuario-patrimonio/casa-baja/)
+- [Las obras del santuario entre 1867 y 1904](/lugares/pena-de-francia/santuario-patrimonio/obras-1867-1902/)
+
+La capilla de la Blanca y el Pozo Verde permanecen en el inventario hasta disponer de un cotejo individual suficiente. La atribución estilística de obras a Martín de Santiago es una nueva pista, no prueba de autoría de la Blanca.
+
 ## Inventario de detalles pendientes de documentar
 
 [Consultar el inventario individualizado de elementos y expedientes patrimoniales](/lugares/pena-de-francia/santuario-patrimonio/inventario/).
