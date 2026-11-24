@@ -1,4 +1,5 @@
 ---
+description: "Investigación sobre el crucero de la Plaza Mayor de La Alberca, su cronología y las dudas documentales sobre su traslado."
 layout: default
 title: "La cruz que no siempre estuvo allí"
 parent: Artículos
