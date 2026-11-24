@@ -1,4 +1,5 @@
 ---
+description: "La proclamación de las ordenanzas de La Alberca en septiembre de 1515: concejo, normas comunitarias, medidas y sanciones históricas."
 layout: default
 title: "Un día de septiembre de 1515"
 parent: Artículos
