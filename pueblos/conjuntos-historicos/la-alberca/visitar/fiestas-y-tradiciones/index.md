@@ -1,4 +1,5 @@
 ---
+description: "Guía de fiestas y tradiciones de La Alberca: Diagosto, Corpus, Pendón, romerías y recomendaciones para asistir con respeto."
 layout: default
 title: Vivir las tradiciones albercanas
 parent: Visitar La Alberca
