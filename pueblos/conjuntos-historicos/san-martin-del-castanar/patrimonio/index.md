@@ -36,3 +36,9 @@ Inventario provisional derivado de la portada existente. [Iglesia](./iglesia/), 
 - [Convento de Gracia](./convento-gracia/).
 - [La Legoriza](./legoriza/).
 - [Castillo](./castillo/).
+
+- [La plaza de toros y el castillo](./plaza-toros/).
+- [Las plazas y los edificios públicos](./plazas/).
+- [El puente y la Calzada](./puente-calzada/).
+- [Ermitas y hospital](./ermitas/).
+- [Arquitectura tradicional de San Martín](./arquitectura-tradicional/).
