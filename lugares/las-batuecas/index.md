@@ -29,6 +29,9 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 
 ## Estudios e inventarios
 
+- [Historia del Desierto de San José](/lugares/las-batuecas/historia-carmelitana/): fundación, derechos territoriales y recuperación religiosa.
+- [Arquitectura del Desierto de San José](/lugares/las-batuecas/arquitectura-carmelitana/): organización espacial e inventario arquitectónico.
+
 - [Documentos gráficos del arte rupestre](/lugares/las-batuecas/documentos-rupestres/): catálogo de dibujos y láminas históricas.
 - [Conservación de las pinturas rupestres](/lugares/las-batuecas/conservacion-rupestre/): evidencias, soporte, pigmentos y evaluación de daños.
 
