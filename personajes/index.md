@@ -82,3 +82,8 @@ Las investigaciones sobre personas se relacionarán con las monografías de pueb
 La extensión de cada investigación estará determinada por la riqueza de sus fuentes y del conocimiento que permita recuperar.
 
 **Conocer la Sierra de Francia a través de quienes contribuyeron a conocerla.**
+
+
+### Sátur Juanela
+
+[Saturnino Hoyos (Sátur Juanela)](/personajes/satur-juanela/), transmisor contemporáneo de memoria doméstica albercana y promotor de la casa museo junto a Mari.
