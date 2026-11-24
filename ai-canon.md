@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: "Canon IA"
 description: "Canon IA de La Sierra de Francia: identidad, Horizonte, metodología, evidencia, coherencia y evolución del atlas territorial."
@@ -12,7 +13,7 @@ search_exclude: true
 ```yaml
 canon:
   id: "lasierradefrancia.ai-canon"
-  version: "1.1.1"
+  version: "1.2.0"
   status: "release_candidate"
   format: "Jekyll-rendered HTML from Markdown source"
   language: "en"
@@ -24,7 +25,7 @@ canon:
   authority: "Project-level editorial guidance; not authority over external facts or agents"
   precedence: "Evidence > factual claims in this canon; human stewardship > project direction"
   interoperability: "Advisory, model-agnostic, no proprietary runtime required"
-  revision_date: "2026-11-14"
+  revision_date: "2026-11-24"
 ```
 
 ## 0. INTERPRETATION CONTRACT
@@ -90,6 +91,10 @@ identity:
 **[T-006] Taxonomic and spatial precision.** Scientific names require authority, accepted-name status and date-sensitive taxonomy where material. Spatial presence requires evidence appropriate to the claim: occurrence, probable habitat, regional distribution, and confirmed local record are different statuses. Never fabricate coordinates, locality records, conservation status, or species presence.
 
 **[T-007] Temporal precision.** Historical jurisdiction, place names, boundaries, habitats, and taxonomic concepts can change. Attach time or validity intervals where needed; do not project present-day boundaries backward without evidence.
+
+**[T-008] Territorial scope of knowledge.** Determine the evidenced geographic scope of each phenomenon independently of the location of a source, specimen, person or testimony. Shared phenomena belong primarily in the appropriate thematic territorial synthesis; local monographs document local manifestations, variants and evidence. A local record neither proves exclusivity nor establishes distribution across every locality. Unknown scope remains unresolved. Distinguish local, multi-local, comarcal and supra-comarcal scope; the atlas may discuss broader phenomena through their documented relationship with Sierra de Francia.
+
+**[T-009] General–particular relations.** Use explicit relationships such as `local_manifestation_of`, `documented_in` and `contributes_evidence_to`. A pilot locality is not the owner of shared knowledge. Retain valid local studies and link both ways when the thematic synthesis exists. Do not create empty pages or duplicate texts merely to complete the hierarchy.
 
 ## 3. EPISTEMIC MODEL
 
@@ -264,6 +269,8 @@ public_surfaces:
 
 **[Q-008] AI disagreement.** Several models agree on a historical assertion but cannot cite credible sources. `PASS`: treat agreement as a lead for investigation, not verification.
 
+**[Q-009] Serrano embroidery.** A documented embroidered textile in La Alberca belongs to its local record; the comparative study of serrano embroidery belongs under regional heritage. Do not infer that every village shares identical motifs or that the technique originated in La Alberca. Apply the same rule to architecture, food, music, ecology and history.
+
 ## 10. CHANGE CONTROL AND RELEASE SEMANTICS
 
 **[V-001] Versioning.** Use `MAJOR.MINOR.PATCH`: `MAJOR` for incompatible changes to fundamental semantics or Horizon representation; `MINOR` for new compatible rules, ontologies, or procedures; `PATCH` for clarifications and corrections that preserve intended meaning.
@@ -281,6 +288,8 @@ public_surfaces:
 | 1.0.0 | 2026-11-14 | Initial draft | Consolidates identity, Horizon, ontology, epistemics, methodology, integrity, and agent guidance. |
 | 1.1.0 | 2026-11-14 | Reviewed release candidate | Distinguishes status from evidence strength; clarifies source-access and initially specifies raw Markdown deployment. |
 | 1.1.1 | 2026-11-14 | Release candidate | Aligns publication rules, canonical URL, and metadata with Jekyll-rendered HTML; preserves substantive editorial rules. |
+
+| 1.2.0 | 2026-11-24 | Release candidate | Adds territorial scope and general–particular rules T-008/T-009 and test Q-009; no Horizon change or mandatory URL migration. |
 
 ## 11. FINAL INVARIANTS
 
