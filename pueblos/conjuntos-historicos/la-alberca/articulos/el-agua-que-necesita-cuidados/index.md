@@ -30,3 +30,13 @@ Si visitas San Marcos, observa desde los caminos y respeta los márgenes. El int
 El expediente fue promovido por el Servicio Territorial de Medio Ambiente de Salamanca y abrió un mes de exposición pública. La fecha de publicación permite identificar una etapa del procedimiento, no su resolución. El siguiente paso documental consiste en localizar la autorización, si existe, y las condiciones técnicas y ambientales aplicables. Una comparación fotográfica fechada podría complementar esa documentación, pero no sustituirla.
 
 **Fuente directa:** [BOE-B-2025-24706, expediente O-0165/2025](https://www.boe.es/diario_boe/txt.php?id=BOE-B-2025-24706), consultado el 24-11-2026. [Hidrografía](../../geografia-territorio/hidrografia/).
+
+## Un lugar con dos historias
+
+San Marcos reúne un humedal y las ruinas de una ermita. El inventario histórico de zonas húmedas identifica la laguna con el código SA09; el anuncio de 2025 sitúa la actuación solicitada en la parcela 193 del polígono 5. Son referencias documentales distintas: una identifica el espacio húmedo y la otra una intervención propuesta.
+
+Quien llega por el Camino de las Raíces puede observar la relación espacial entre agua, bosque y patrimonio construido sin confundirlos. La ruina de la [ermita de San Marcos](../../patrimonio/patrimonio-religioso/san-marcos/) requiere su propia investigación histórica. El humedal requiere conocer su funcionamiento y las consecuencias de cualquier actuación hidráulica.
+
+Referencia adicional: [documentación de zonas húmedas de Castilla y León](https://frmpcyl.es/wp-content/uploads/2018/01/NOR_17012011DRS.pdf), recogida en el expediente interno.
+
+*Ampliación basada en los expedientes existentes del atlas; sin nuevo cotejo externo.*
