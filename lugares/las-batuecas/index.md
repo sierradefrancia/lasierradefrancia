@@ -29,6 +29,8 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 
 ## Estudios e inventarios
 
+- [Restauración del monasterio](/lugares/las-batuecas/restauracion-monasterio/): pérdidas, fases de obra y documentación técnica.
+
 - [Biblioteca histórica](/lugares/las-batuecas/biblioteca-carmelitana/): patrimonio bibliográfico y lecturas.
 - [Ermitas y vida eremítica](/lugares/las-batuecas/vida-eremitica/): organización del retiro e inventarios históricos.
 - [Personajes y fundación](/lugares/las-batuecas/personajes-carmelitanos/): promotores y protagonistas.

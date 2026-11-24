@@ -66,7 +66,7 @@ El expediente describe ermitas interiores y exteriores, algunas en ruinas en los
 
 El Ministerio de Cultura dispone de un proyecto de restauración y su reformado. Son documentos potencialmente fundamentales para distinguir fábricas antiguas, reparaciones y añadidos. La ficha ministerial identifica además una construcción adosada a la iglesia realizada en 1945. No se debe confundir este edificio con las dependencias del siglo XVII.
 
-Las memorias y planos completos quedan pendientes de examen. La existencia de un proyecto no demuestra por sí misma que todas las actuaciones previstas se ejecutaran.
+Las memorias y planos completos quedan pendientes de examen. La existencia de un proyecto no demuestra por sí misma que todas las actuaciones previstas se ejecutaran. La ficha de intervenciones realizadas del IPCE permite confirmar parte de las obras y distinguirlas de las previsiones; véase [Restauración del monasterio](/lugares/las-batuecas/restauracion-monasterio/).
 
 ## Fuentes
 

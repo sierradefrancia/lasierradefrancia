@@ -83,3 +83,5 @@ Estudio complementario: [Historia territorial de Las Batuecas](/lugares/las-batu
 - [Biblioteca histórica](/lugares/las-batuecas/biblioteca-carmelitana/): patrimonio bibliográfico y lecturas.
 - [Ermitas y vida eremítica](/lugares/las-batuecas/vida-eremitica/): organización del retiro e inventarios históricos.
 - [Personajes y fundación](/lugares/las-batuecas/personajes-carmelitanos/): promotores y protagonistas.
+
+Estudio de las intervenciones contemporáneas: [Restauración del monasterio](/lugares/las-batuecas/restauracion-monasterio/).
