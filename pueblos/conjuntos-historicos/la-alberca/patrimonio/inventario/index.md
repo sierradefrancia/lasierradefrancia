@@ -844,3 +844,12 @@ Otros quedarán registrados en unas pocas líneas.
 Ambas formas de conocimiento tienen valor cuando son precisas y verificables.
 
 **Conocer el patrimonio exige identificarlo, estudiar sus evidencias, reconocer lo que ignoramos y mantener abierta la investigación.**
+
+
+### Ampliación de arquitectura tradicional — 2026-11-24
+
+| ID | Bien | Evidencia | Estudio |
+|---|---|---|---|
+| ALB-PAT-057 | Casa Museo Satur Juanela, calle Mesón 7 | E1 | [Ficha](/pueblos/conjuntos-historicos/la-alberca/patrimonio/arquitectura-tradicional/casa-satur-juanela/) |
+
+Total acumulado previsto: 57 registros, sujeto a revisión de duplicidades. Nueva monografía climática sin identificador material. Fuentes institucionales consultadas; no se acredita protección individual ni antigüedad constructiva.
