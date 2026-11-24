@@ -498,3 +498,9 @@ Privilegio ducal de 1558, legajo 1, según la referencia publicada por Mancebo G
 **Archivo de la Real Chancillería de Valladolid.**
 
 Causas judiciales de 1724–1725 y 1779, con las referencias identif
+
+## Representación vecinal y obligaciones familiares
+
+El privilegio de 1558 relativo a las declaraciones de mujeres y el poder de 1791 otorgado por autoridades y vecinos muestran formas distintas de acceso a instituciones externas. No permiten reconstruir por sí solos la participación de todas las familias. Los testimonios etnográficos de 1984 y el estudio de Cano y Sanz de 1989 aportan otra escala de observación: matrimonio, reciprocidad y trabajo doméstico. La distancia cronológica impide convertir esas prácticas en descripción del siglo XVI. Véase [ciclo vital](../../cultura-tradiciones/ciclo-vital/).
+
+*Integración del corpus existente; sin nuevo cotejo externo.*
