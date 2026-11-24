@@ -1,4 +1,5 @@
 ---
+description: "El castillo de San Martín del Castañar: fortificación, señorío episcopal y evolución de sus usos patrimoniales."
 layout: default
 title: "Castillo de San Martín"
 parent: "Patrimonio de San Martín del Castañar"
