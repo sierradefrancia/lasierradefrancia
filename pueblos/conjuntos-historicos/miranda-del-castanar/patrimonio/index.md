@@ -29,6 +29,14 @@ permalink: /pueblos/conjuntos-historicos/miranda-del-castanar/patrimonio/
 | MIR-PAT-012 | Acueducto | Decreto de 1973 |
 | MIR-PAT-013 | Plaza de Armas y uso taurino | Diputación |
 
+| MIR-PAT-014 | Casa del Escribano | Identificación turística provisional |
+| MIR-PAT-015 | Casa de los Tejeda | Identificación turística provisional |
+| MIR-PAT-016 | Carnicería Real | Identificación turística provisional |
+| MIR-PAT-017 | Cárcel Real | Identificación turística provisional |
+| MIR-PAT-018 | Peso Real | Identificación turística provisional |
+| MIR-PAT-019 | Casa del Cura | Identificación turística provisional |
+| MIR-PAT-020 | Casa Pando / Coto Escolar | Identificación turística provisional |
+
 ## Conservación
 
 El debate parlamentario de 6 de mayo de 2005 recoge problemas de conservación del castillo y la existencia de un plan director de murallas que incluía la fortaleza. No constituye diagnóstico actual.
@@ -44,3 +52,9 @@ Extractos consultados el 24-11-2026. Inventario provisional, no exhaustivo.
 
 - [Castillo](./castillo/).
 - [Muralla y puertas](./muralla/).
+
+- [Iglesia de Santiago y San Ginés](./iglesia/).
+- [Torre de las campanas](./torre-campanas/).
+- [Alhóndiga](./alhondiga/).
+- [Arquitectura civil y espacios públicos](./arquitectura-civil/).
+- [Ermitas y acueducto](./ermitas/).
