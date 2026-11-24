@@ -14,3 +14,8 @@
 ## Nueva pista verificable
 
 Gaceta de Madrid, 10-10-1894, n.º 283, relación de maestros no clasificados, ordinal 269: Nemesio Sánchez Martín, Mogarraz. El motivo individual de no clasificación no consta en la tabla. Fuente: https://www.boe.es/gazeta/dias/1894/10/10/pdfs/GMD-1894-283.pdf . Extracto recuperado el 24-11-2026. Pendiente cotejo de página y expediente personal.
+
+
+## Cotejo directo confirmado en bloque XVII
+
+BOE-A-1998-8051: texto completo recuperado. Met 17.190.142: ficha recuperada, dimensiones y datación confirmadas, fotografía dominio público, procedencia Mogarraz no explícita. Inventario previo: 36 Markdown, 82449 bytes. Bibliografía pública añadida. No se ha completado la auditoría integral de las demás referencias.
