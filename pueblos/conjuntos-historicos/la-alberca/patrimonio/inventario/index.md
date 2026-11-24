@@ -487,6 +487,23 @@ La tradición oral, la práctica devocional y la historia material del osario re
 
 ---
 
+### Registros incorporados durante la primera fase editorial
+
+Los siguientes identificadores son permanentes. E1 indica identificación documental referida en los artículos; no implica una nueva comprobación independiente de las fuentes externas. Los dos testimonios etnográficos permanecen provisionales.
+
+| ID | Bien | Evidencia | Artículo | Pendiente |
+|---|---|---|---|---|
+| ALB-PAT-016 | Crucero de San Antonio | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/crucero-san-antonio/) | Cronología, pórticos, ubicación original |
+| ALB-PAT-017 | Crucero del Barrio Nuevo | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/crucero-barrio-nuevo/) | Cronología y relación con fuente y hospicio |
+| ALB-PAT-018 | Busto de Mauricio Legendre | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/busto-mauricio-legendre/) | Autor, inauguración, acuerdo municipal |
+| ALB-PAT-019 | Fuente de la Plaza Mayor | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/fuentes/) | Cronología y reformas |
+| ALB-PAT-020 | Fuente del Barrio Nuevo | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/fuentes/) | Cronología y captación |
+| ALB-PAT-021 | Fuente del Tablado | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/fuentes/) | Escudo, edificio y división del pilón |
+| ALB-PAT-022 | Fuente Batuecas | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/fuentes/) | Cronología y usos históricos |
+| ALB-PAT-023 | Fuente del Indiano | E1 provisional | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/fuentes/) | Localización y testimonio etnográfico |
+| ALB-PAT-024 | Fuente del Castaño | E1 provisional | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/fuentes/) | Localización y testimonio etnográfico |
+| ALB-PAT-025 | Pozo de las Majadas Viejas | E1 | [Estudio](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/fuentes/) | Localización y relación con ermita |
+
 ### Consolidación de candidatos (24 de noviembre de 2026)
 
 Los siguientes nombres proceden del registro de transferencia y de las búsquedas de noviembre. No se les asigna identificador permanente hasta recuperar una fuente concreta o resolver su identidad.
@@ -499,9 +516,6 @@ Los siguientes nombres proceden del registro de transferencia y de las búsqueda
 | Torre, campanas, órgano, Cristo del Sudor | Individualizar piezas y documentación parroquial |
 | Ermita de San Blas / de la Bandera | Identidad y ficha técnica |
 | Hornacina y cruces de Ánimas de La Puente, Pedragal y Mochito | Distinguir del osario y cruceros; iniciales A B y fecha atribuida 1843 |
-| Cruceros de San Antonio y Barrio Nuevo | Identidad y localización |
-| Busto de Mauricio Legendre | Autor, fecha y emplazamiento |
-| Fuentes del Tablado, Barrio Nuevo, avenida Batuecas y Plaza Mayor | Identidad, cronología y abastecimiento |
 | Ciriales y azucenas de plata de las andas de la Virgen | Referencias comunicadas en presentación de Lo sagrado; verificar fichas |
 | Puentes, caminos, pavimentos, viviendas, dinteles, escudos, columnas, relieves y memoriales | Individualización documental y material |
 | Traje de Vistas, joyería, ajuar, oficios, fiestas, Moza de Ánimas y marrano vivo | Relaciones con cultura y tradiciones; separar objetos y prácticas |
@@ -522,9 +536,9 @@ No deben contabilizarse como registros individuales hasta su identificación.
 
 | Ámbito | Situación |
 |---|---|
-| Fuentes públicas | Falta relación nominal y localización |
-| Pozos y pilones | Falta inventario contrastado |
-| Otros cruceros | Falta identificación individual |
+| Otras fuentes públicas | Inventario parcial ALB-PAT-019–024; ampliar y contrastar |
+| Otros pozos y pilones | ALB-PAT-025 identificado; ampliar inventario |
+| Otros cruceros | Tres ejemplares registrados; ampliar identificación |
 | Dinteles fechados | Falta relación de inmuebles e inscripciones |
 | Escudos particulares | Falta inventario heráldico |
 | Hornacinas | Falta localización y descripción |
@@ -669,6 +683,11 @@ Estas obras están identificadas como referencias de investigación, pero sus co
 ---
 
 ## 8. Registro de seguimiento
+
+### Cierre editorial parcial — 24 de noviembre de 2026
+
+Siete artículos de elementos patrimoniales presentes en el repositorio; 25 identificadores asignados en total, incluidos dos registros provisionales. Publicación editorial no equivale a madurez científica. Pendientes: comprobación externa de referencias, catálogo oficial, inspección material y despliegue web. Los artículos de marrano y ara se vinculan a ALB-PAT-014 y 015; no se eleva su nivel de evidencia sin cotejo adicional.
+
 
 ### Fase I — Identificación inicial
 
