@@ -64,3 +64,16 @@ SMC-FUE-010: extractos del artículo de Herrera-Vicente (2024) cotejados el 24-1
 - SMC-FUE-011: extracto del diario parlamentario recuperado; testimonio retrospectivo, no prueba contemporánea medieval.
 
 Fecha de consulta: 24-11-2026. No se certifican otras consultas anteriores ni lecturas íntegras.
+
+## Fuentes consultadas en el bloque de paisaje y desarrollo — 24-11-2026
+
+- SMC-FUE-016. [Diputación: Asentadero](https://turismo.lasalina.es/es/que-hacer/actividades-en-la-naturaleza/senderismo/asentadero-bosque-de-los-espejos), descripción del trazado y autores de obras.
+- SMC-FUE-017. [Ficha PRC-SA 52](https://turismosierradefrancia.es/turismo-activo/caminos-de-arte-en-la-naturaleza/asentadero-bosques-de-los-espejos/), distancia y municipios.
+- SMC-FUE-018. [Salamanca RTV al Día, agosto 2016, p. 85](https://salamancartvaldia.es/periodico/1-Agosto-2016/1-Agosto-2016.pdf), extracto de entrevista sobre desarrollo local.
+- SMC-FUE-019. [Manual de buenas prácticas, apartado 13](https://turismosierradefrancia.es/wp-content/uploads/2025/05/MANUAL-BUENAS-PRACTICAS-VISITANTES-SIERRA-DE-FRANCIA-.pdf), convenio de rehabilitación de 2008.
+- SMC-FUE-020. [Folleto Sierra de Francia](https://turismosierradefrancia.es/wp-content/uploads/2023/12/004_Sierra_Francia_es.pdf), descripción urbana y puente.
+- SMC-FUE-021. [Municipio: San Martín](https://xn--sanmartindelcastaar-c4b.es/san-martin-del-castanar/), atribución romana del puente y servicios.
+- SMC-FUE-022. [Folleto del Bosque de los Espejos](https://turismo.lasalina.es/web001/turismo/wtur/archivo/pdf/024_Camino_Bosque_Espejos_es.pdf), variantes y recorrido.
+- SMC-FUE-023. [Municipio: turismo activo](https://xn--sanmartindelcastaar-c4b.es/turismo-activo/), Dehesa y rutas.
+
+Se recuperaron extractos textuales de estos ocho recursos en esta ejecución. No se acredita lectura íntegra ni independencia entre materiales turísticos. Los registros 001–015 necesitan revisión de la evidencia original: sus certificaciones anteriores no se han podido reproducir aquí.
