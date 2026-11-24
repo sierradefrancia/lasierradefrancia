@@ -1,4 +1,5 @@
 ---
+description: "León Felipe y su relación con Sequeros: memoria literaria y testimonios biográficos."
 layout: default
 title: "León Felipe y Sequeros"
 parent: "Cultura y tradiciones de Sequeros"
