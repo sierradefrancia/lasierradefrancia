@@ -133,3 +133,9 @@ Para conocer la evolución general del pueblo, sus instituciones y sus relacione
 También están disponibles las investigaciones sobre sus [orígenes](/pueblos/conjuntos-historicos/la-alberca/historia/origenes/), el [concejo y las ordenanzas](/pueblos/conjuntos-historicos/la-alberca/historia/concejo-ordenanzas/), las [relaciones con Las Hurdes](/pueblos/conjuntos-historicos/la-alberca/historia/alberca-hurdes/) y la [sociedad y vida cotidiana](/pueblos/conjuntos-historicos/la-alberca/historia/sociedad-vida-cotidiana/).
 
 [Volver a La Alberca](/pueblos/conjuntos-historicos/la-alberca/)
+
+## Lectura relacionada de los episodios
+
+Los artículos de 1558, la mayordomía del XVIII y la crisis de 1791 permiten seguir tres relaciones entre vecinos e instituciones: comparecencia judicial, obligación de ejercer cargos y representación fiscal. Sus documentos tienen naturaleza distinta: privilegio, expediente litigioso y poder notarial. La [cronología documental](../documentos-cronologia/) permite situarlos sin confundir alegaciones con resoluciones.
+
+*Integración del corpus existente; sin nuevo cotejo externo.*
