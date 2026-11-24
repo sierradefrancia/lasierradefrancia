@@ -256,3 +256,17 @@ Fuente: [La Peña de Mogarraz 2009, p. 71](https://mogarraz.es/_mgz_pdf/mogarraz
 
 
 PER-MOG-064: Antonio Calama, vecino ilustrado de Mogarraz citado en el Semanario Erudito y Curioso de Salamanca, n.º 409, 14-02-1797, según Rodríguez de la Flor (1990, p. 97). Identificación provisional; original pendiente.
+
+
+### Fundación Melón y transmisión cultural
+
+- PER-MOG-065: Joaquín de Vargas Aguirre, proyecto escolar atribuido de 1892.
+- PER-MOG-066: Ángel Seseña, autor atribuido de lápida de 1910; identidad generacional pendiente.
+- PER-MOG-067: Francisca Cascón, bordadora participante en actividad USAL de 2023.
+- PER-MOG-068: Visitación Cascón, bordadora participante.
+- PER-MOG-069: Carmela Cascón, bordadora participante; nombre según pie de fotografía.
+- PER-MOG-070: Soledad Álvarez Cascón, alcaldesa identificada por USAL en 2023.
+
+Sagrario Sánchez (PER-MOG-037) figura también como nombre de bordadora en 2023; no se presupone identidad con la informante histórica. Nemesio Sánchez Martín (PER-MOG-060): nueva pista de homenaje escolar en 1910.
+
+Fuentes: [Salamanca en el ayer, 2020](https://www.salamancaenelayer.com/2020/03/tres-angel-sesena-escultores-y.html) y [USAL, encuentros 2023](https://apstrad.usal.es/actividades/encuentros/), extractos recuperados el 24-11-2026. Registros provisionales.
