@@ -275,3 +275,6 @@ Fuentes: [Salamanca en el ayer, 2020](https://www.salamancaenelayer.com/2020/03/
 ## Miranda del Castañar: registro inicial de relaciones
 
 Identificadores de relaciones locales, pendientes de reconciliación con las identidades centrales: MIR-REL-001 Alfonso IX (fundación); 002 Diego López de Estúñiga (condado desde 1457); 003 Aldonza de Avellaneda y Arellano (capitulaciones de 1429); 004 Pedro de Estúñiga (padre de Diego); 005 Julio González (edición diplomática); 006 María Asenjo González y 007 José María Monsalvo Antón (investigación histórica); 008 Jesús Álvarez Villar (monografía citada en la nota 15; nombre de pila pendiente de comprobación). Fuentes: [Arkeolan 14, p. 231](https://diarium.usal.es/monsalvo/files/2012/09/arkeolan-cap92006.pdf) y [Monsalvo, nota 67](https://rua.ua.es/dspace/bitstream/10045/68531/1/Historia-Medieval_19_04.pdf). Extractos recuperados el 24-11-2026. No constituyen ocho nuevas identidades canónicas.
+
+
+Relaciones locales de Miranda y Villanueva del Conde: artistas del Camino de los Prodigios (Félix Curto, Alfredo Omaña, Marcos Rodríguez y Pablo S. Herrero). [Diputación](https://turismo.lasalina.es/es/que-hacer/actividades-en-la-naturaleza/senderismo/camino-de-los-prodigios), extracto consultado el 24-11-2026. Pendiente reconciliación de identidades centrales.
