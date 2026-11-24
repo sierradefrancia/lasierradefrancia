@@ -1,4 +1,5 @@
 ---
+description: "Información práctica para visitar La Alberca: acceso, aparcamiento, transporte, servicios municipales y consulta de horarios."
 layout: default
 title: Información práctica para tu visita
 parent: Visitar La Alberca
