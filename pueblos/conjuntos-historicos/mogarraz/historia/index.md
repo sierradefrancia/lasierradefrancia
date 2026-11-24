@@ -21,6 +21,10 @@ El mismo discurso confunde la fecha de incoación patrimonial (1986) con la decl
 
 La Peña de Mogarraz, n.º 9 (2013), p. 13, sitúa el villazgo en 1656, frente a 1671 en el diario parlamentario. No se puede resolver la discrepancia sin el privilegio original y sus posibles actos posteriores. [Fuente local](https://www.mogarraz.es/_mgz_pdf/mogarraz_2013.pdf).
 
+## Nueva evidencia sobre 1671
+
+La revista local de 2009 (p. 69) reproduce el encabezamiento de una ejecutoria de 24 de septiembre de 1671 que sitúa en el Archivo Municipal. Esta referencia refuerza 1671, sin resolver todavía el origen de la fecha alternativa de 1656. [Fuente consultada mediante extracto el 24-11-2026](https://mogarraz.es/_mgz_pdf/mogarraz_2009.pdf).
+
 ## Líneas abiertas
 
 Localizar el privilegio de villazgo, documentación fiscal del siglo XVIII y primeras menciones medievales. La tradición de repoblación francesa no acredita por sí sola una fundación concreta.
