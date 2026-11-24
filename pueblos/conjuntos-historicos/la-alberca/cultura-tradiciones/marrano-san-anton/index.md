@@ -1,4 +1,5 @@
 ---
+description: "El Marrano de San Antón de La Alberca: ciclo festivo, cuidado comunitario del animal y evolución de la tradición."
 layout: default
 title: Marrano de San Antón
 parent: Cultura y tradiciones
