@@ -62,3 +62,12 @@ Enlazar cada imagen autorizada desde el artículo correspondiente, con pie, auto
 - Fortes García: [registro del libro](https://gredos.usal.es/handle/10366/161852?show=full), CC0 en el registro que contiene resumen embargado hasta 2030-01-15, no extender al libro ni a fotografías. [Ficha de tesis doctoral](https://produccioncientifica.usal.es/documentos/5e4e72272999524eaa94e03a) declara más de 1500 imágenes con fichas por localidades; contactar autor e Instituto de las Identidades. Distinguir tesis y libro.
 
 Resultado: dos figuras individualizadas por rótulo; cero archivos gráficos autorizados e incorporados. No se han enviado solicitudes de permiso.
+
+## Fondo Hernández-Pacheco — UCM
+
+- ALB-GRA-003: SALAMANCA. La Alberca. Una calle. Eduardo Hernández-Pacheco (1872–1965), 1900–1950 según catálogo, BH FOT HP 1165, [ficha original](https://patrimoniodigital.ucm.es/s/patrimonio/item/1696915). Diapositiva sobre vidrio; vecinos sentados ante viviendas. Derechos UCM, licencia CC BY 4.0. Relación: trama urbana y vida comunitaria. Autorizado según ficha consultada; archivo pendiente de recuperar e inspeccionar.
+- ALB-GRA-004: La Alberca. Corrida de toros. Eduardo Hernández-Pacheco, 1900–1950 según catálogo, BH FOT HP 1155, [ficha original](https://patrimoniodigital.ucm.es/s/patrimonio/item/1696893). Derechos UCM, CC BY 4.0. Relación: usos festivos del espacio público; confirmar plaza concreta visualmente. Autorizado según ficha; archivo pendiente.
+
+Atribución: Eduardo Hernández-Pacheco, Archivo fotográfico Hernández-Pacheco, Biblioteca Histórica UCM, signatura, enlace a ficha y https://creativecommons.org/licenses/by/4.0/. Indicar cualquier modificación.
+
+Otros fondos: [Fundación Joaquín Díaz](https://funjdiaz.net/basefotos3.php?ID_lugar=145), ocho registros locales (sa0001, sa0010, sa0011, sa0015, sa0016, sa0048, sa0072, sa0074), derechos pendientes. [IPCE Wunderlich](https://catalogos.cultura.gob.es/IPCE/cgi-ipce/ipcefototeca?HELPID=AWUN), condiciones no comerciales y sin derivados; solicitar permiso si procede. [Commons](https://commons.wikimedia.org/wiki/Category:La_Alberca,_Salamanca), verificar licencia por archivo. Consulta 2026-11-24. No se han descargado ni publicado imágenes.
