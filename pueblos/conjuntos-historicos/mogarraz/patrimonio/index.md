@@ -59,6 +59,8 @@ La Peña de Mogarraz de 2009 enumera seis ermitas: Santa Lucía, San Blas, San P
 | MOG-PAT-016 | Plaqueta de marfil | Procedencia pendiente |
 | MOG-PAT-017 | Cuatro barquillos de plata | Documentados en estudio CSIC; inspección pendiente |
 
+| MOG-PAT-018 | Pizarras de Los Malvanes o Marvanes | [Expediente arqueológico](../historia/pizarras-visigodas/) |
+
 ## Fuentes
 
 - [La Peña de Mogarraz, 2009](https://mogarraz.es/_mgz_pdf/mogarraz_2009.pdf), extracto.
