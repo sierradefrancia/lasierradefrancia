@@ -1,18 +1,20 @@
 # Seguimiento editorial de conjuntos históricos
 
-Corte verificable: 2d6eca8e9b331a98104573efa9c115e1ef40aaeb
+Corte verificable: 0eb75be7ef8a47d68ed43b43508b42116f66719a
 Base del ciclo: 5d36dd2ed27285a5b0b02885e2909821c708c520
 
-Recuento de rutas Markdown existentes con diferencias de SHA de blob entre árboles completos. No equivale a validación científica ni técnica. Excluir gestión y personajes del denominador territorial.
+Recuento de rutas Markdown existentes con diferencias de SHA de blob entre árboles completos. No equivale a validación científica ni técnica. Excluir gestión, personajes e índice general de conjuntos del denominador territorial.
 
 | Pueblo | Rutas modificadas | Total existente |
 |---|---:|---:|
-| la-alberca | 140 | 142 |
+| la-alberca | 142 | 142 |
 | miranda-del-castanar | 32 | 32 |
 | mogarraz | 39 | 39 |
 | san-martin-del-castanar | 26 | 26 |
 | sequeros | 30 | 30 |
 | villanueva-del-conde | 22 | 22 |
+
+Total: 291/291.
 
 ## La Alberca: rutas modificadas
 
@@ -91,6 +93,7 @@ Recuento de rutas Markdown existentes con diferencias de SHA de blob entre árbo
 - historia/origenes/index.md
 - historia/siglos-xix-xx/index.md
 - historia/sociedad-vida-cotidiana/index.md
+- index.md
 - naturaleza/conservacion/index.md
 - naturaleza/espacios-protegidos/index.md
 - naturaleza/fauna/index.md
@@ -143,6 +146,7 @@ Recuento de rutas Markdown existentes con diferencias de SHA de blob entre árbo
 - sociedad-economia/index.md
 - sociedad-economia/trabajo-renta/index.md
 - sociedad-economia/turismo-economia/index.md
+- valor-global/index.md
 - visitar/accesibilidad/index.md
 - visitar/con-ninos/index.md
 - visitar/estaciones/index.md
@@ -159,12 +163,12 @@ Recuento de rutas Markdown existentes con diferencias de SHA de blob entre árbo
 
 ## Pendientes
 
-- pueblos/conjuntos-historicos/index.md
-- pueblos/conjuntos-historicos/la-alberca/index.md
-- pueblos/conjuntos-historicos/la-alberca/valor-global/index.md
+Ninguna ruta local sin intervenir en este ciclo.
 
-## Procedimiento
+## Procedimiento y siguiente fase
 
-Comparar árboles completos desde base fija hasta HEAD por ruta y SHA de blob; verificar que no estén truncados. La API compare alcanzó 300 archivos en bloque 43 y se sustituyó por comparación de árboles. No sumar manualmente. Pendiente auditoría de enlaces y fuentes.
+Comparar árboles completos desde base fija hasta HEAD por ruta y SHA de blob; verificar que no estén truncados. La API compare alcanzó 300 archivos en bloque 43. No sumar manualmente.
 
-Bloques 39–43: revisión de artículos divulgativos e históricos mediante expedientes existentes; sin nuevo cotejo externo. Bloque 38: separación de guía local y comarcal.
+Bloques 39–43: revisión de artículos divulgativos e históricos mediante expedientes existentes; sin nuevo cotejo externo. Bloque 38: separación de guía local y comarcal. Bloque 44: portada y síntesis de valor global de La Alberca.
+
+Pendiente: índice general de conjuntos históricos, auditoría de enlaces, compilación Jekyll, metadatos, fuentes, inventarios, profundidad editorial y coherencia con Canon IA. El cierre de intervención no equivale a certificación definitiva.
