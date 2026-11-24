@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: Conjuntos históricos
 parent: Pueblos
@@ -218,6 +219,23 @@ Las fechas corresponden a las declaraciones de protección de cada conjunto, no 
 La tabla resume algunos rasgos característicos, pero no pretende establecer una clasificación de importancia.
 
 ---
+
+## Seis perspectivas complementarias
+
+La protección jurídica es una característica compartida; las preguntas históricas que plantea cada localidad son diferentes. Para profundizar, proponemos estas entradas a sus investigaciones:
+
+| Pueblo | Pregunta de investigación | Lectura |
+|---|---|---|
+| La Alberca | ¿Cómo se relacionaban concejo, trabajo y territorio? | [Ordenanzas](la-alberca/historia/concejo-ordenanzas/) |
+| Miranda del Castañar | ¿Cómo se organizaba el poder señorial? | [Condado](miranda-del-castanar/historia/condado/) |
+| Mogarraz | ¿Cómo se conserva la memoria de los habitantes? | [Antes de los retratos](mogarraz/articulos/antes-de-los-retratos/) |
+| San Martín del Castañar | ¿Qué implicaba depender del obispado? | [Señorío episcopal](san-martin-del-castanar/historia/senorio-episcopal/) |
+| Sequeros | ¿Cómo cambió la organización judicial del territorio? | [Partido judicial](sequeros/historia/partido-judicial/) |
+| Villanueva del Conde | ¿Cómo se integraban vivienda y cultivo? | [Manzana y huertitas](villanueva-del-conde/patrimonio/manzana-huertitas/) |
+
+Cada lectura conduce a documentación específica y a preguntas todavía abiertas. No implica que el rasgo elegido sea exclusivo de ese pueblo.
+
+Para organizar una estancia que combine varios conjuntos, consulta [Turismo según tu tiempo](/turismo/segun-tu-tiempo/). Las recomendaciones locales se mantienen en las guías de cada localidad.
 
 ## La arquitectura tradicional de la Sierra de Francia
 
