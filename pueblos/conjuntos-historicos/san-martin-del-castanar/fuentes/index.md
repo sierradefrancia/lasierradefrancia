@@ -46,3 +46,7 @@ Estos cinco registros cuentan con extractos textuales recuperados; los siete ant
 ## Evidencia recuperada en la revisión del relicario
 
 SMC-FUE-010: extractos del artículo de Herrera-Vicente (2024) cotejados el 24-11-2026, descripción, patronazgo y procedencia posterior. SMC-FUE-013: [capítulo de 2023 del mismo autor](https://zaguan.unizar.es/record/126485/files/BOOK-2023-015.pdf), identificación parcial. No se ha leído íntegramente ninguno ni verificado aquí los demás registros de ejecuciones anteriores.
+
+## Cotejo reproducible adicional
+
+24-11-2026: recuperados extractos de SMC-FUE-003 (ficha 3, descripción arquitectónica), SMC-FUE-008 (historia institucional), SMC-FUE-010 (artículo, iconografía, patronazgo y procedencia) y SMC-FUE-011 (intervención parlamentaria sobre peregrinos). SMC-FUE-009 ampliado con [Censo-Guía, fondo 1000896](https://censoarchivos.cultura.gob.es/CensoGuia/imprimirFondo.htm?id=1000896), signaturas CLERO-SECULAR_REGULAR,6058 y L.11104/11105. Se acredita únicamente el contenido de los extractos recuperados, no lectura completa ni cotejo de manuscritos. Los estados restantes no cambian.
