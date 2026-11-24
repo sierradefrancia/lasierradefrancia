@@ -1,4 +1,5 @@
 ---
+description: "El Diagosto de La Alberca: fiestas de la Asunción, calendario ceremonial, participación vecinal y tradiciones transmitidas."
 layout: default
 title: Diagosto y Ofertorio
 parent: Cultura y tradiciones
