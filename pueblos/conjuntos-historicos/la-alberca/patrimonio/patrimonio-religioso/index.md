@@ -45,3 +45,11 @@ El inventario territorial de santuarios (tabla Salamanca, n.º 10) menciona asim
 ---
 
 *Esta sección se amplía conforme avanza la investigación documental del patrimonio religioso de La Alberca.*
+
+## Una red de espacios y prácticas
+
+La iglesia parroquial concentra bienes litúrgicos y testimonios de distintas fases constructivas. El Humilladero y San Blas ocupan el sector occidental; San Antonio se relaciona con la Corredera; Majadas Viejas y San Marcos permiten estudiar el paisaje devocional exterior. El osario y las cruces de Ánimas conectan la memoria funeraria con los desplazamientos cotidianos.
+
+Las prácticas religiosas no equivalen a la cronología de sus soportes materiales. La restauración de Majadas Viejas atribuida a 1954, la recuperación de la matraca en 2019 y la restauración del Rosario en 2022 representan procesos distintos de continuidad y recuperación. Los [elementos patrimoniales](../elementos-patrimoniales/) reúnen los cruceros y el ara sin duplicar sus registros.
+
+*Revisión del corpus existente; sin nuevo cotejo externo.*
