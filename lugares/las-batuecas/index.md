@@ -29,6 +29,9 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 
 ## Estudios e inventarios
 
+- [El río Batuecas y su reserva natural fluvial](/lugares/las-batuecas/rio-batuecas/): régimen, sedimentos, evaluación ecológica y protección.
+- [Vegetación y bosques de Las Batuecas](/lugares/las-batuecas/vegetacion/): comunidades ribereñas, mediterráneas y especies exóticas.
+
 - [Historia territorial de Las Batuecas](/lugares/las-batuecas/historia-territorial/): aprovechamientos, derechos concejiles, documentación medieval y fundación carmelitana.
 
 - [Las Batuecas entre historia y leyenda](/lugares/las-batuecas/historia-leyenda/): tradición literaria y defensa histórica de Tomás González de Manuel.
