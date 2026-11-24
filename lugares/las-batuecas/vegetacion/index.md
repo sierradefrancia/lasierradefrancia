@@ -69,3 +69,5 @@ La ficha ZEC ES4150107 describe además formaciones de cumbres y valles del conj
 Los extractos consultados permiten delimitar un primer inventario, no realizar un catálogo florístico exhaustivo. Quedan pendientes estudios por parcelas, distribución altitudinal y evolución de la vegetación. Véase [el río Batuecas](/lugares/las-batuecas/rio-batuecas/).
 
 [Volver a Las Batuecas](/lugares/las-batuecas/)
+
+Para la dimensión económica histórica del paisaje y su regulación, véase [Aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-tradicionales/).

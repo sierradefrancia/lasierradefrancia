@@ -33,6 +33,8 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 
 ## Estudios e inventarios
 
+- [Aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-tradicionales/): economía histórica, normas forestales y usos del paisaje.
+
 - [Granadilla, La Alberca y Las Hurdes](/lugares/las-batuecas/granadilla-hurdes-alberca/): jurisdicciones históricas y aprovechamientos compartidos.
 
 - [Luis Buñuel y Las Batuecas](/lugares/las-batuecas/luis-bunuel/): rodaje, negociaciones de compra y regreso en 1971.
