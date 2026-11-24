@@ -60,7 +60,7 @@ Fuente cotejada el 24-11-2026: Vicente de la Fuente, *Expedición científica y 
 
 ## Bienes parroquiales y devoción doméstica
 
-Los diez registros notariales de cruces de Santo Toribio entre 1670 y 1824 permiten estudiar combinaciones con rosarios, medallas y otros adornos. Las valoraciones de 20, 50 y 60 reales corresponden a conjuntos distintos; no forman una serie de precios comparable de una misma pieza. La relación con el [traje de vistas](../../../cultura-tradiciones/traje-de-vistas/) debe investigarse mediante inventarios y ejemplares identificados.
+Los diez registros notariales de cruces de Santo Toribio entre 1670 y 1824 permiten estudiar combinaciones con rosarios, medallas y otros adornos. Las valoraciones de 20, 50 y 60 reales corresponden a conjuntos distintos; no forman una serie de precios comparable de una misma pieza. La relación con el [traje de vistas](/pueblos/conjuntos-historicos/la-alberca/cultura-tradiciones/traje-de-vistas/) debe investigarse mediante inventarios y ejemplares identificados.
 
 Los [barquillos de Mogarraz](/pueblos/conjuntos-historicos/mogarraz/patrimonio/cuatro-barquillos/) ofrecen un contraste comarcal de propiedad concejil frente a bienes parroquiales y particulares. No se deduce una procedencia común de los talleres.
 
