@@ -23,3 +23,13 @@ La recuperación no se mide únicamente por el número de plantas introducidas. 
 El interés de esta historia está en las personas que decidieron intervenir y en la posibilidad de seguir aprendiendo de lo que hicieron. Volver al mismo lugar con fotografías fechadas puede ayudarnos a comprender el cambio.
 
 **Fuente directa:** [Fundación Patrimonio Natural, jornada de voluntariado, marzo de 2023](https://patrimonionatural.org/noticias/noticia/la-casa-del-parque-de-las-batuecas-organizo-una-jornada-de-voluntariado-ambiental-para-recuperar-una-zona-afectada-por-un-incendio), página consultada el 24-11-2026; detalles de ejecución procedentes del expediente interno, pendientes de cotejo del cuerpo íntegro. [Conservación](../../naturaleza/conservacion/).
+
+## Cincuenta y siete personas
+
+El expediente de conservación recoge que el 4 de marzo de 2023 participaron 57 voluntarios y se introdujeron 250 plantas de especies como roble, alcornoque y madroño. La cifra describe el esfuerzo de aquella jornada, no el número de plantas supervivientes años después.
+
+Las barreras de madera quemada tienen una función distinta de la plantación: buscan frenar el arrastre del suelo. Conservar suelo y recuperar vegetación son objetivos relacionados, pero requieren indicadores diferentes.
+
+El seguimiento debería distinguir supervivencia de plantas introducidas, regeneración natural y estabilidad del terreno. No disponemos de esas mediciones. La [sección de conservación](../../naturaleza/conservacion/) reúne las actuaciones y las referencias administrativas que permiten continuar la investigación.
+
+*Ampliación basada en los expedientes existentes del atlas; sin nuevo cotejo externo.*
