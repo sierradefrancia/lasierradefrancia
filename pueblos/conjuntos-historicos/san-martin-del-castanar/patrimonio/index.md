@@ -27,6 +27,12 @@ permalink: /pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/
 | SMC-PAT-010 | Humilladero | Ficha previa |
 | SMC-PAT-011 | Ermita del Socorro | Ficha previa |
 | SMC-PAT-012 | Convento de Gracia | Ficha previa |
-| SMC-PAT-013 | Estela romana | Identificación pendiente |
+| SMC-PAT-013 | Estelas romanas | Dos piezas, catálogo p. 14 |
+| SMC-PAT-014 | La Legoriza | Catálogo p. 19 |
+| SMC-PAT-015 | Hospital y capilla | Catálogo p. 16 |
 
 Inventario provisional derivado de la portada existente. [Iglesia](./iglesia/), [arqueología](./arqueologia/).
+
+- [Convento de Gracia](./convento-gracia/).
+- [La Legoriza](./legoriza/).
+- [Castillo](./castillo/).
