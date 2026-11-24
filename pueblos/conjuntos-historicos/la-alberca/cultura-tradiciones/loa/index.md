@@ -1,4 +1,5 @@
 ---
+description: "La Loa de la Asunción de La Alberca: historia documental, personajes, representación popular y protección como BIC inmaterial."
 layout: default
 title: La Loa de la Asunción
 parent: Cultura y tradiciones
