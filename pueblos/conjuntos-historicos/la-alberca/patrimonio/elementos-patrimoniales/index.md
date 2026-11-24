@@ -74,6 +74,10 @@ Su identificación requiere distinguir entre cruces exentas, cruces incorporadas
 
 No todas constituyen necesariamente bienes independientes ni pertenecen a una misma época.
 
+## Patrimonio arqueológico
+
+El [ara votiva de La Alberca](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/ara-votiva/) conserva una inscripción romana reutilizada en el culto cristiano. Los estudios epigráficos discrepan sobre la divinidad destinataria y su procedencia original.
+
 ## Monumentos conmemorativos
 
 El [marrano de piedra](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/marrano-de-piedra/) recuerda la crianza vecinal del marrano de San Antón. La escultura se atribuye a la Escuela Taller Sierra de Francia y a una inauguración en 1996.
