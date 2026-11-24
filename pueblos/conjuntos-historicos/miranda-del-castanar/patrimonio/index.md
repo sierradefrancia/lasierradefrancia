@@ -11,30 +11,32 @@ permalink: /pueblos/conjuntos-historicos/miranda-del-castanar/patrimonio/
 
 # Patrimonio de Miranda del Castañar
 
+Los enlaces conducen a expedientes individuales o agrupados; no implican que todos los bienes dispongan de una monografía independiente.
+
 ## Inventario inicial
 
 | ID | Elemento | Base |
 |---|---|---|
-| MIR-PAT-001 | Castillo | Decreto de 1973 |
-| MIR-PAT-002 | Muralla | Decreto de 1973 |
-| MIR-PAT-003 | Puerta de San Ginés | Decreto de 1973 |
-| MIR-PAT-004 | Puerta de la Villa | Decreto de 1973 |
-| MIR-PAT-005 | Puerta de Nuestra Señora | Decreto de 1973 |
-| MIR-PAT-006 | Puerta del Postigo | Decreto de 1973 |
-| MIR-PAT-007 | Iglesia parroquial | Decreto de 1973 |
-| MIR-PAT-008 | Torre de las Campanas | Decreto de 1973 |
-| MIR-PAT-009 | Alhóndiga | Decreto de 1973 |
-| MIR-PAT-010 | Ermita de Nuestra Señora de la Cuesta | Decreto de 1973 |
-| MIR-PAT-011 | Humilladero | Decreto de 1973 |
-| MIR-PAT-012 | Acueducto | Decreto de 1973 |
-| MIR-PAT-013 | Plaza de Armas y uso taurino | Diputación |
-| MIR-PAT-014 | Casa del Escribano | Identificación turística provisional |
-| MIR-PAT-015 | Casa de los Tejeda | Identificación turística provisional |
-| MIR-PAT-016 | Carnicería Real | Identificación turística provisional |
-| MIR-PAT-017 | Cárcel Real | Identificación turística provisional |
-| MIR-PAT-018 | Peso Real | Identificación turística provisional |
-| MIR-PAT-019 | Casa del Cura | Identificación turística provisional |
-| MIR-PAT-020 | Casa Pando / Coto Escolar | Identificación turística provisional |
+| MIR-PAT-001 | [Castillo](./castillo/) | Decreto de 1973 |
+| MIR-PAT-002 | [Muralla](./muralla/) | Decreto de 1973 |
+| MIR-PAT-003 | [Puerta de San Ginés](./muralla/) | Decreto de 1973 |
+| MIR-PAT-004 | [Puerta de la Villa](./muralla/) | Decreto de 1973 |
+| MIR-PAT-005 | [Puerta de Nuestra Señora](./muralla/) | Decreto de 1973 |
+| MIR-PAT-006 | [Puerta del Postigo](./muralla/) | Decreto de 1973 |
+| MIR-PAT-007 | [Iglesia parroquial](./iglesia/) | Decreto de 1973 |
+| MIR-PAT-008 | [Torre de las Campanas](./torre-campanas/) | Decreto de 1973 |
+| MIR-PAT-009 | [Alhóndiga](./alhondiga/) | Decreto de 1973 |
+| MIR-PAT-010 | [Ermita de Nuestra Señora de la Cuesta](./ermitas/) | Decreto de 1973 |
+| MIR-PAT-011 | [Humilladero](./ermitas/) | Decreto de 1973 |
+| MIR-PAT-012 | [Acueducto](./ermitas/) | Decreto de 1973 |
+| MIR-PAT-013 | [Plaza de Armas y uso taurino](./plaza-mayor/) | Diputación |
+| MIR-PAT-014 | [Casa del Escribano](./arquitectura-civil/) | Identificación turística provisional |
+| MIR-PAT-015 | [Casa de los Tejeda](./arquitectura-civil/) | Identificación turística provisional |
+| MIR-PAT-016 | [Carnicería Real](./arquitectura-civil/) | Identificación turística provisional |
+| MIR-PAT-017 | [Cárcel Real](./arquitectura-civil/) | Identificación turística provisional |
+| MIR-PAT-018 | [Peso Real](./arquitectura-civil/) | Identificación turística provisional |
+| MIR-PAT-019 | [Casa del Cura](./arquitectura-civil/) | Identificación turística provisional |
+| MIR-PAT-020 | [Casa Pando / Coto Escolar](./arquitectura-civil/) | Identificación turística provisional |
 
 ## Conservación
 
