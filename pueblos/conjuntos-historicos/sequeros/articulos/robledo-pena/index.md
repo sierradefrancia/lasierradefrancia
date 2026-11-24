@@ -1,4 +1,5 @@
 ---
+description: "El Robledo de Sequeros y su relación con la tradición histórica y religiosa de la Peña de Francia."
 layout: default
 title: "El Robledo, entre Sequeros y la Peña de Francia"
 parent: "Artículos de Sequeros"
