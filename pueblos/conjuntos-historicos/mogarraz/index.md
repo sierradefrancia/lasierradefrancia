@@ -50,6 +50,7 @@ Su arquitectura, sus tradiciones, su historia y su relación con el paisaje perm
 - [Gastronomía de Mogarraz](./gastronomia/).
 
 - [Visitar Mogarraz](./visitar/).
+- [Artículos de Mogarraz](./articulos/).
 
 ## Información general
 
