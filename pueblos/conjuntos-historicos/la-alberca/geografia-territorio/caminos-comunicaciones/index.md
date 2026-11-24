@@ -40,3 +40,9 @@ El [manual ministerial de buenas prácticas de turismo rural](https://www.mapa.g
 Localizar minutas del MTN, planos históricos, expedientes de caminos y testimonios de usos. Reconstruir conexiones con Mogarraz, Granadilla, Peña de Francia y Las Hurdes sin inferir trazados por proximidad. Distinguir restricciones vigentes de acceso de descripciones históricas. Fuentes enlazadas consultadas mediante resultados de búsqueda el 24-11-2026; no se ha comprobado su cartografía íntegra ni realizado trabajo de campo.
 
 Véanse [Toponimia](../toponimia-paisaje/), [Hidrografía](../hidrografia/), [Historia de La Alberca y Las Hurdes](../../historia/alberca-hurdes/) y [Economía tradicional](../../sociedad-economia/economia-tradicional/).
+
+## Caminos y documentación de desplazamientos
+
+La conexión divulgada con San Martín (7,86 km) y la etapa GR-10 desde Miranda son itinerarios contemporáneos identificables. El privilegio de 1558 relativo a comparecencias en Granadilla documenta otro destino, pero no su trazado. Para estudiar la continuidad de los caminos conviene comparar nodos, pasos fluviales y destinos, no únicamente longitudes. Véanse [puentes y caminos](../../patrimonio/patrimonio-civil/puentes-y-caminos/) y [el camino a Granadilla](../../historia/articulos/las-mujeres-y-el-camino-a-granadilla/).
+
+*Integración de referencias existentes; sin nuevo cotejo externo.*
