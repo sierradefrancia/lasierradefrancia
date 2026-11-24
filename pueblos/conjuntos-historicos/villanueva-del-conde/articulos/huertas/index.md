@@ -1,4 +1,5 @@
 ---
+description: "Las huertas interiores de Villanueva del Conde y su papel en la configuración histórica del pueblo."
 layout: default
 title: "Un pueblo construido alrededor de sus huertas"
 parent: "Artículos de Villanueva del Conde"
