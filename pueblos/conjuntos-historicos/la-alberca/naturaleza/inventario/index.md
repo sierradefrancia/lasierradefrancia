@@ -1,4 +1,5 @@
 ---
+description: "Inventario naturalista de La Alberca: especies, hábitats, árboles singulares y referencias documentales con su estado de verificación."
 layout: default
 title: Inventario naturalista
 parent: Naturaleza
