@@ -154,6 +154,58 @@ Su historia quedó vinculada a la administración de propiedades, las donaciones
 
 ---
 
+## Del hallazgo a la institución: 1434–1437
+
+La cronología fundacional no debe reducirse a una fecha única. La tradición del descubrimiento, la administración de las ofrendas y bienes, la intervención de la Corona y la toma de posesión por una orden religiosa son acontecimientos de naturaleza diferente. Su proximidad temporal constituye precisamente uno de los aspectos más interesantes de la historia de la Peña.
+
+### Simón Vela como administrador
+
+El estudio de Juan A. Prieto Sayagués (2025, p. 111, nota 18) remite a un poder fechado el 3 de julio de 1434, otorgado por Simón a Juan de Bonilla, bachiller. Las referencias archivísticas incluyen el Archivo del Convento de San Esteban, manuscrito 76/1, folio 1089, y la colección Salazar y Castro de la Real Academia de la Historia, G-49, folio 450. La investigación especializada previa identifica en este instrumento la condición de servidor y administrador atribuida a Simón y facultades de naturaleza económica.
+
+No hemos examinado directamente los testimonios manuscritos. Por ello, la referencia académica permite identificar un documento concreto y orientar su comprobación, pero no ofrecer una transcripción diplomática ni resolver las diferencias que pudieran existir entre copias.
+
+La importancia del poder reside en que introduce una dimensión distinta de la narración religiosa. Si se confirma la fecha y el tenor transmitidos, en julio de 1434 existía ya una actividad administrativa vinculada al nuevo centro de devoción. Entre el 19 de mayo, fecha tradicional del hallazgo, y el 3 de julio transcurren 45 días. Esa proximidad es significativa, aunque no convierte la primera fecha en un hecho probado por la segunda.
+
+El documento tampoco acredita por sí mismo el origen francés de Simón, su nombre anterior, sus viajes ni los sueños que le atribuyen las narraciones posteriores. Conviene estudiar la persona histórica y la construcción de su memoria como dimensiones relacionadas pero no equivalentes.
+
+### La intervención regia y la posesión dominicana
+
+La incorporación de la Orden de Predicadores debe entenderse como un proceso. El registro de autoridad del Portal de Archivos Españoles sitúa la entrega del santuario el 19 de septiembre de 1436. Diana Lucía Gómez-Chacón identifica, en cambio, una carta de Juan II expedida en Illescas el 19 de noviembre del mismo año (2016, p. 238). La bibliografía reunida en la investigación de Simón Vela contiene además otras fechas que requieren cotejo.
+
+No se ha establecido si las referencias corresponden a un mismo instrumento, a confirmaciones sucesivas o a actos jurídicos diferentes. Una cronología rigurosa debe identificar en cada caso emisor, destinatario, lugar, fecha, contenido dispositivo y tradición documental. No basta ordenar las fechas y asignarles una función por semejanza.
+
+Las posesiones civil y canónica de 1437, recogidas en la bibliografía, ilustran la necesidad de distinguir la atribución de derechos de su materialización institucional. La intervención de Lope de Barrientos y Juan de Villalón pertenece a este proceso, pero sus competencias concretas deben reconstruirse mediante los documentos que las establecieron.
+
+Tampoco se ha demostrado que el establecimiento de los dominicos supusiera un conflicto personal con Simón. La sucesión de administradores no prueba por sí sola una disputa.
+
+### La memoria escrita de la fundación
+
+El catálogo del Archivo Histórico Dominicano identifica una historia de la Peña de Francia atribuida a Alonso de Tetilla, fechada en 1567 (A-A-PEÑ-3). La distancia de más de un siglo respecto a 1434 obliga a estudiar las fuentes que utilizó, sus posibles documentos incorporados y la finalidad religiosa de la narración. Una crónica tardía puede transmitir información antigua, pero esa transmisión necesita análisis individual.
+
+El Libro de Privilegios de 1715 (A-A-PEÑ-1), atribuido a fray Pedro López, constituye otro testimonio fundamental. Sus 105 folios incluyen documentación histórica y referencias a derechos, donaciones y propiedades. La fecha del volumen no debe confundirse con la de los instrumentos que copia. La restauración y las pérdidas materiales descritas en el catálogo hacen especialmente importante registrar el estado de cada folio consultado.
+
+La investigación debe considerar también la posible circulación anterior de relatos de milagros. La bibliografía sobre la biblioteca de María de Zúñiga recoge un título relativo a los milagros de Nuestra Señora de la Peña de Francia en un inventario atribuido a 1534. La referencia abre una vía para estudiar la difusión de la devoción, pero no permite afirmar que se conserve una edición identificada, ni que ese texto contuviera la biografía de Simón.
+
+### El nombre Francia antes de la fundación
+
+Antonio Llorente Maldonado de Guevara recoge una referencia a Soto de Francia en 1188 en su estudio de toponimia salmantina. La historia divulgada por los dominicos menciona asimismo un documento de 1289 relacionado con la denominación territorial Francia. Ambas referencias requieren recuperar los instrumentos originales y comprobar su literalidad y alcance geográfico.
+
+El interés de estos testimonios es cronológico: apuntan a una denominación anterior al relato fundacional de 1434. No demuestran automáticamente que el nombre de la montaña tenga exactamente la misma antigüedad, ni que proceda de una comunidad de repobladores franceses. Para establecer una etimología se necesita estudiar las formas históricas del topónimo, su distribución territorial y las explicaciones lingüísticas alternativas.
+
+La coincidencia entre el supuesto origen de Simón y el nombre de la montaña pertenece al problema de la transmisión narrativa; no puede emplearse como prueba circular del origen del topónimo.
+
+### Referencias específicas y alcance de la investigación
+
+- [Juan A. Prieto Sayagués, estudio de 2025, p. 111, nota 18](https://web-argitalpena.adm.ehu.es/pdf/UHMPD259882.pdf): referencia académica al poder de 1434.
+- [Diana Lucía Gómez-Chacón, estudio de 2016, p. 238](https://www.ucm.es/data/cont/docs/584-2016-01-14-212-245%20Diana%20Lucia%20Gomez.pdf): intervención regia y contexto dominicano.
+- [PARES, autoridad conventual](https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/6111): cronología institucional.
+- [Archivo Histórico Dominicano](https://archivo.dominicoshispania.org/): A-A-PEÑ-1 y A-A-PEÑ-3.
+- [Antonio Llorente Maldonado, Toponimia salmantina](https://www.lasalina.es/documentacion/ebooks/84-7797-198-6.pdf): antecedente toponímico.
+- [Estudios sobre bibliotecas e imprenta, Universidad de Salamanca, 2020](https://iemyrhd.usal.es/wp-content/uploads/2020/11/PTHD_VII-2.pdf): pista bibliográfica sobre el libro de milagros.
+
+Esta síntesis aprovecha los expedientes de investigación Simon-vela y PqFrancia y el cotejo bibliográfico inicial registrado en Atlas-core. Los originales medievales no han sido examinados en esta fase. Las fechas discrepantes permanecen abiertas; no se ofrece una reconstrucción definitiva de la fundación.
+
+
 ## La construcción del santuario medieval
 
 Las fuentes históricas sitúan una primera ermita en los años posteriores al hallazgo de la imagen.
