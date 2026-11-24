@@ -32,3 +32,11 @@ La loa de Majadas Viejas es distinta: el expediente atribuye su composición a S
 - Eduardo Juliá Martínez, La Asunción de la Virgen y el teatro primitivo español, BRAE XLI (1961), pp. 179–334, referencia transmitida por la incoación, pendiente de lectura.
 
 Consulta documental: 24-11-2026. Investigación abierta.
+
+## Texto, representación y transmisión
+
+El expediente distingue antecedentes literarios, documentación notarial y práctica comunitaria. Son tres clases de evidencia que no deben confundirse: un motivo dramático del XVI no fecha por sí mismo una representación albercana. Las cuatro ediciones mencionadas permitirían comparar variantes si se recuperan ejemplares y fechas.
+
+La señal del Esquilón conecta la representación con el [patrimonio sonoro parroquial](../../patrimonio/patrimonio-religioso/iglesia-asuncion/campanas-reloj-matraca/). Los grupos infantiles y el reparto de dulces documentados por la incoación permiten estudiar la participación de distintas edades. La Loa de Majadas, atribuida a Saturnino Jiménez Hernández y estrenada en 1954 según el expediente, demuestra que la creación dramática local no se limita a textos anónimos de antigüedad incierta.
+
+*Síntesis de referencias existentes; sin nuevo cotejo externo.*
