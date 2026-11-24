@@ -23,3 +23,11 @@ Si tienes alergias o necesidades alimentarias, consulta ingredientes y contamina
 Esta guía no establece rankings comerciales ni atribuye orígenes históricos sin documentación. La investigación gastronómica territorial se desarrollará por separado.
 
 [Volver a Visitar La Alberca](../)
+
+## Sabores y preguntas que merece la pena llevarse
+
+El hornazo permite descubrir una elaboración salmantina de masa rellena de productos del cerdo, con variantes según el obrador. La chacinería conecta con una economía que conserva importancia en La Alberca: la industria alimentaria figura entre las principales actividades por afiliación en los datos recogidos en [sociedad y economía](../../sociedad-economia/).
+
+Los dulces y turrones ofrecen otra oportunidad para preguntar por recetas, ingredientes y elaboración. En temporada, pregunta por castañas y productos del bosque, sin asumir que todos proceden del municipio. Si compras embutidos, distingue lugar de elaboración, procedencia de la materia prima y certificaciones que realmente figuran en la etiqueta.
+
+Para comprender la relación entre cocina, conservación y vivienda, visita la [Casa Satur Juanela](../../patrimonio/arquitectura-tradicional/casa-satur-juanela/) si está abierta: cocina, sobrao y sequero ayudan a interpretar una economía doméstica anterior a la refrigeración moderna. Consulta también la [gastronomía de la Sierra](/gastronomia/).
