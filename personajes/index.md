@@ -87,3 +87,9 @@ La extensión de cada investigación estará determinada por la riqueza de sus f
 ### Sátur Juanela
 
 [Saturnino Hoyos (Sátur Juanela)](/personajes/satur-juanela/), transmisor contemporáneo de memoria doméstica albercana y promotor de la casa museo junto a Mari.
+
+
+## Transmisores de memoria oral y musical
+
+- [Sebastián Luis Luis, El Guinda](/personajes/el-guinda/), tamborilero.
+- [Tomás Hoyos, Tío Tomás](/personajes/tomas-hoyos/), informante del Archivo de la Tradición Oral en 1984.
