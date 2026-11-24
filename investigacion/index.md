@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: Investigación
 nav_order: 15
@@ -15,6 +16,17 @@ La investigación es el fundamento de este atlas de la Sierra de Francia. Estudi
 Además del trabajo de investigación presente en todo el atlas, desarrollamos dos grandes monográficos: **¿por qué se llama Sierra de Francia?** y **¿quién fue realmente Simón Vela?**
 
 ---
+
+## Expedientes y líneas de investigación territorial
+
+- [Historia de La Alberca](/pueblos/conjuntos-historicos/la-alberca/historia/) · [Artículos](/pueblos/conjuntos-historicos/la-alberca/articulos/)
+- [Historia de Mogarraz](/pueblos/conjuntos-historicos/mogarraz/historia/) · [Artículos](/pueblos/conjuntos-historicos/mogarraz/articulos/)
+- [Historia de Miranda del Castañar](/pueblos/conjuntos-historicos/miranda-del-castanar/historia/) · [Artículos](/pueblos/conjuntos-historicos/miranda-del-castanar/articulos/)
+- [Historia de San Martín del Castañar](/pueblos/conjuntos-historicos/san-martin-del-castanar/historia/) · [Artículos](/pueblos/conjuntos-historicos/san-martin-del-castanar/articulos/)
+- [Historia de Sequeros](/pueblos/conjuntos-historicos/sequeros/historia/) · [Artículos](/pueblos/conjuntos-historicos/sequeros/articulos/)
+- [Historia de Villanueva del Conde](/pueblos/conjuntos-historicos/villanueva-del-conde/historia/) · [Artículos](/pueblos/conjuntos-historicos/villanueva-del-conde/articulos/)
+
+El [método de investigación](/investigacion/metodo/) explica cómo tratamos las evidencias y las incertidumbres. El [directorio de personajes](/personajes/) conecta autores, informantes y protagonistas con sus respectivos estudios. La [riqueza global de la Sierra](/valor-global/) integra las dimensiones territoriales sin sustituir las investigaciones locales.
 
 ## Un territorio mucho más grande de lo que parece
 
