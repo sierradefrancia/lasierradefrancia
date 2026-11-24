@@ -1,4 +1,5 @@
 ---
+description: "El patrimonio concejil de Sequeros: edificios, instituciones y memoria del gobierno local."
 layout: default
 title: "Casas del Concejo y torre"
 parent: "Patrimonio de Sequeros"
