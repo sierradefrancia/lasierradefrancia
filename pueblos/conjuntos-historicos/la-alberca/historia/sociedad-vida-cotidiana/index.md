@@ -419,6 +419,12 @@ Por tanto, la pérdida de una parte de la documentación no significa que result
 
 Reconstruir la evolución del vecindario mediante censos, padrones, catastros y registros disponibles.
 
+
+Para estudiar cambios en las prácticas familiares durante el siglo XX, véase [Cano Herrera y Sanz García (1989), pp. 67–84](https://uvadoc.uva.es/handle/10324/42925) y [ciclo vital](../../cultura-tradiciones/ciclo-vital/). No extrapolar testimonios del siglo XX a la sociedad regulada por las ordenanzas de 1515.
+
+
+Las referencias catastrales localizadas para 1753 permiten orientar el estudio de la población y los hogares. La cifra publicada de 421 vecinos no equivale a 421 habitantes. Véase [Documentos y cronología](../documentos-cronologia/) para las referencias y límites del contraste.
+
 ### Catastro de Ensenada
 
 Examinar directamente las respuestas generales y particulares correspondientes a La Alberca para identificar ocupaciones, propiedades, hogares y cargas fiscales a mediados del siglo XVIII.
@@ -492,13 +498,3 @@ Privilegio ducal de 1558, legajo 1, según la referencia publicada por Mancebo G
 **Archivo de la Real Chancillería de Valladolid.**
 
 Causas judiciales de 1724–1725 y 1779, con las referencias identif
-
-
-## Conexiones documentales y actualización
-
-Para estudiar cambios en las prácticas familiares durante el siglo XX, véase [Cano Herrera y Sanz García (1989), pp. 67–84](https://uvadoc.uva.es/handle/10324/42925) y [ciclo vital](../../cultura-tradiciones/ciclo-vital/). No extrapolar testimonios del siglo XX a la sociedad regulada por las ordenanzas de 1515.
-
-
-## Avance documental — 24 de noviembre de 2026
-
-Un estudio sobre Las Hurdes identifica la visita catastral a La Alberca el 6 de octubre de 1753, con trece informantes albercanos y diez de cada uno de los concejos de Nuñomoral y Caminomorisco. Remite a AGS, Dirección General de Rentas, primera remesa, Respuestas Generales, libro 135, ff. 469r–531r y libro 140, ff. 494r–502r para el conjunto de operaciones estudiadas; pendiente asignar cada intervalo a su localidad mediante el manuscrito. [Estudio, nota 2](https://www.edmilenio.com/media/docs/9788497433617_L33_23.pdf). Autoría y título completo pendientes de cotejo. El artículo «Las Hurdes en el siglo XVIII: ¿alquerías aisladas entre bosques…?», Boletín de la Real Sociedad Geográfica, CLX (2023), pp. 179–218, p. 187, recoge 421 vecinos de La Alberca, no habitantes individuales. [Artículo](https://www.boletinrsg.com/index.php/boletinrsg/article/download/180/189/). No se ha cotejado el manuscrito; no asumir independencia de ambos estudios, basados en el mismo corpus.
