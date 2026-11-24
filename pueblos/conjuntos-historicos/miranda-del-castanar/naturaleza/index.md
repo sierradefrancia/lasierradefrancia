@@ -17,3 +17,7 @@ La ficha de la Reserva de la Biosfera del MITECO singulariza el bosque de madro�
 La Ley 16/2008 incluye Miranda entre los municipios afectados total o parcialmente por el parque natural y remite al Decreto 108/2007, específico de su área. No se equipara municipio y superficie protegida.
 
 Fuentes consultadas mediante resultados textuales el 24-11-2026: [Reserva de la Biosfera](https://www.miteco.gob.es/es/parques-nacionales-oapn/reservas-biosfera-mab/programa-mab-espana/nuestras-reservas-de-la-biosfera/sierrasbejarfrancia.html), [Reserva fluvial](https://www.miteco.gob.es/content/dam/miteco/es/agua/temas/delimitacion-y-restauracion-del-dominio-publico-hidraulico/ficha_065_francia_tcm30-383341.pdf), [Ley 16/2008](https://www.boe.es/buscar/act.php?id=BOE-A-2009-815). Pendientes: cartografía de límites y estudio del madroñal.
+
+## Gestión histórica del castañar
+
+Un [estudio de Salamanca, Revista de Estudios 43 (1999), pp. 97–139](https://www.lasalina.es/documentacion/revistadeestudios/52-99-267.pdf) reproduce disposiciones atribuidas a las ordenanzas de 1620: necesidad de licencia para cortar castaños y restricciones a ciertos usos de su madera; para escalones se prescribían roble o encina. Constituye evidencia secundaria de gestión histórica, no demostración de cumplimiento ni de continuidad de masas actuales. Véase [ordenanzas](../historia/ordenanzas/).
