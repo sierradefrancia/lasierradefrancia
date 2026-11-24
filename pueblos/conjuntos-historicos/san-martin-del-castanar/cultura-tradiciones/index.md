@@ -1,4 +1,5 @@
 ---
+description: "Cultura y tradiciones de San Martín del Castañar: celebraciones, memoria vecinal y patrimonio inmaterial."
 layout: default
 title: "Cultura y tradiciones de San Martín"
 parent: "San Martín del Castañar"
