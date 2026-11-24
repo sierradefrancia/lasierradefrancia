@@ -29,8 +29,17 @@ class Page(HTMLParser):
         self.description = ""
         self.robots = ""
         self.lang = ""
+        self.images = []
+        self.h1_count = 0
+        self.viewport = False
     def handle_starttag(self, tag, attrs):
         a = dict(attrs)
+        if tag == "img":
+            self.images.append(a)
+        if tag == "h1":
+            self.h1_count += 1
+        if tag == "meta" and a.get("name", "").lower() == "viewport":
+            self.viewport = True
         if tag == "title":
             self.in_title = True
         if tag == "html":
@@ -76,7 +85,17 @@ for f in pages:
     if rel != "404.html" and len(p.canonicals) != 1:
         issues.append(f"{rel}: canonical count {len(p.canonicals)}")
     inventory.append({"url": url, "title": p.title.strip(), "description": p.description, "canonical": p.canonicals, "robots": p.robots, "lang": p.lang})
+    inventory[-1].update({"html_bytes": f.stat().st_size, "images": len(p.images), "h1_count": p.h1_count, "viewport": p.viewport})
     if rel != "404.html":
+        if not p.viewport:
+            issues.append(f"{rel}: missing mobile viewport")
+        if p.h1_count != 1:
+            issues.append(f"{rel}: review H1 count {p.h1_count}")
+        for image in p.images:
+            if "alt" not in image:
+                issues.append(f"{rel}: image without alt attribute: {image.get('src', '')}")
+            if image.get("src") and not exists(urljoin(url, image["src"])):
+                issues.append(f"{rel}: missing image: {image['src']}")
         for label, value, registry in (("title", p.title.strip(), titles), ("description", p.description.strip(), descriptions)):
             if not value:
                 issues.append(f"{rel}: missing {label}")
@@ -149,5 +168,12 @@ if not pages:
 print(f"HTML pages: {len(pages)}; findings: {len(issues)}")
 for issue in sorted(set(issues)):
     print(issue)
-Path("seo-audit.json").write_text(json.dumps({"pages": inventory, "findings": sorted(set(issues))}, ensure_ascii=False, indent=2), encoding="utf-8")
+resources = []
+for f in sorted(root.rglob("*")):
+    if f.is_file() and f.suffix.lower() in {".jpg", ".jpeg", ".png", ".webp", ".avif", ".gif", ".svg", ".css", ".js", ".woff", ".woff2"}:
+        size = f.stat().st_size
+        resources.append({"path": f.relative_to(root).as_posix(), "bytes": size})
+        if f.suffix.lower() in {".jpg", ".jpeg", ".png", ".webp", ".avif", ".gif"} and size > 500000:
+            issues.append(f"Review image over 500 KB: {f.relative_to(root)} ({size} bytes)")
+Path("seo-audit.json").write_text(json.dumps({"pages": inventory, "resources": resources, "findings": sorted(set(issues))}, ensure_ascii=False, indent=2), encoding="utf-8")
 sys.exit(bool(issues))
