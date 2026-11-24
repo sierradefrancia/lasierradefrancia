@@ -15,3 +15,11 @@ La [descripción municipal](https://laalberca.com/tradiciones/san-anton/) vincul
 Esta práctica local no demuestra exclusividad comarcal ni origen converso. Su estudio material se relaciona con el [marrano de piedra](../../patrimonio/elementos-patrimoniales/marrano-de-piedra/). Pendiente: cuentas, beneficiarios históricos, reglas de cuidado y documentación normativa vigente. La descripción municipal no prueba por sí sola las condiciones actuales de bienestar del animal.
 
 Consulta de fichas y extractos: 2026-11-24. Investigación abierta.
+
+## Un ciclo de participación vecinal
+
+Las fechas de junio y enero corresponden a advocaciones diferentes. La alimentación y el alojamiento distribuidos entre vecinos distinguen la práctica de una mera exhibición festiva. Para investigar su evolución interesa separar quién adquiere el animal, quién asume su cuidado, cómo se financia y cómo se determina el destino final.
+
+El recuerdo de entrega a una familia necesitada y la recaudación social contemporánea describen modalidades diferentes de asistencia. No se conoce la fecha de transición ni se han examinado cuentas. La escultura atribuida a la Escuela Taller en 1996 documenta una forma de conmemoración material, estudiada en [marrano de piedra](../../patrimonio/elementos-patrimoniales/marrano-de-piedra/).
+
+*Síntesis de referencias existentes; sin nuevo cotejo externo.*
