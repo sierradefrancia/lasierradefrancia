@@ -375,3 +375,11 @@ La contratación de 1729 no marca el comienzo de todo el patrimonio parroquial. 
 La capilla del Rosario, atribuida a 1777, y la de los Dolores representan otras fases de ampliación. No deben confundirse la fecha de construcción de cada espacio y la de sus retablos. El expediente de [retablos y capillas](./retablos-y-capillas/) distingue ambas cuestiones.
 
 *Síntesis del corpus documental existente; sin nuevo cotejo externo en esta ampliación.*
+
+## Una iglesia, varias cronologías
+
+El pórtico documentado en 1515 pertenece a la historia institucional del templo precedente. Las fechas atribuidas a la torre (1519 y 1571) y al púlpito (1572) preceden al contrato de reconstrucción de 1729. La capilla del Rosario, atribuida a 1777, y las referencias posteriores a la de los Dolores muestran que la historia constructiva tampoco termina con la reconstrucción principal.
+
+La conservación de una pieza anterior no demuestra que permanezca en su emplazamiento original. El [púlpito](./pulpito/), la [pila y los bienes litúrgicos](./orfebreria-y-bienes-liturgicos/) y la [torre](./torre-y-heraldica/) requieren secuencias independientes. El archivo concejil descrito en el presbiterio en 1857 añade una función documental a las religiosas y funerarias. Véase [historia documental](../../../historia/documentos-cronologia/).
+
+*Síntesis de referencias ya registradas; sin nuevo cotejo externo en este bloque.*
