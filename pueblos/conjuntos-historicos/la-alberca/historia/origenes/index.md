@@ -510,3 +510,9 @@ Y las referencias a 1215 y al traslado de 1313 abren posibilidades de investigac
 La tradición sobre los pobladores franceses forma parte de la memoria histórica de la comarca, pero necesita pruebas específicas para convertirse en una conclusión sobre la población albercana.
 
 **Investigar los orígenes no consiste en encontrar la fecha más antigua posible, sino en determinar qué podemos demostrar sobre la formación del pueblo y cómo lo sabemos.**
+
+## Dos lecturas de un mismo testimonio antiguo
+
+La edición de Olivares de 2006 propone Ilurbeda; la comunicación del congreso de 2002 publicada en 2007 propone Liber Pater. Ambas reconocen a Albinus. La divergencia afecta a la identificación religiosa, pero ninguna lectura resuelve el emplazamiento original del soporte. La posible procedencia de San Martín del Castañar debe investigarse como hipótesis independiente. El [expediente del ara](../../patrimonio/elementos-patrimoniales/ara-votiva/) reúne las referencias y las cuestiones de reutilización.
+
+*Integración del corpus existente; sin nuevo cotejo externo.*
