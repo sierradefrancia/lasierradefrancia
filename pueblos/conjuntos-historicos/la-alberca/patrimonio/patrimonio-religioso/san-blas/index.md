@@ -25,3 +25,11 @@ La tradición atribuye a las mujeres albercanas la captura de una bandera portug
 - [Inventario de santuarios y ermitas, tabla Salamanca, n.º 8](https://etnoesfera.es/pdf/sagrados/Santuarios-ermitas-y-humilladeros2023.pdf).
 
 Consulta de extractos indexados: 24-11-2026. Estudio inicial abierto; no se han examinado íntegramente los documentos ni realizado inspección de campo.
+
+## La ermita como escenario de memoria colectiva
+
+Las denominaciones de San Blas, Santos Mártires y Bandera requieren comprobar si corresponden a advocaciones sucesivas, usos simultáneos o nombres populares. La relación histórica con el camposanto abre una línea distinta de la tradición del Pendón.
+
+La descripción publicada por Vicente de la Fuente en 1883, correspondiente a la expedición de 1857, aporta medidas del pendón y de sus componentes. Es un testimonio material decimonónico, no una prueba de su captura en 1475. El expediente [Pendón y Trago](../../../cultura-tradiciones/pendon-y-trago/) reúne la tradición festiva. La colocación ceremonial en la espadaña y el reparto de vino permiten investigar usos del edificio y financiación de la celebración mediante cuentas ducales y municipales.
+
+*Síntesis de documentación previamente registrada; sin nuevo cotejo externo.*
