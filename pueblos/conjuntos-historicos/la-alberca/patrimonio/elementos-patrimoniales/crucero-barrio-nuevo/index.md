@@ -60,3 +60,11 @@ La información disponible acredita su identificación como bien patrimonial dif
 - [Rurality Home: Mapa con rutas por las calles de La Alberca](https://ruralityhome.com/ruta-con-mapa-por-las-calles-de-la-alberca-lugares-de-interes-turistico/). Referencia divulgativa local a la plaza y al antiguo hospicio carmelita; no constituye documentación histórica de la fundación del crucero.
 
 Las fichas del mismo repertorio no se cuentan como fuentes independientes. No se reproducen fotografías de terceros sin autorización.
+
+## El espacio cotidiano y sus elementos
+
+La separación aproximada de 16 metros entre cruz y fuente permite plantear una lectura conjunta del ensanche, distinguiendo abastecimiento de agua y representación religiosa. Para investigar su evolución conviene localizar fotografías que incluyan ambos elementos y comprobar cambios de rasante, pavimento y fachadas. La denominación Hospicio debe contrastarse con documentación de propiedad y usos, sin atribuir el crucero a los carmelitas.
+
+El [inventario de Ánimas](../../patrimonio-religioso/animas/) contiene otras cruces vinculadas a caminos y huertos. No existe evidencia suficiente para incluir la del Barrio Nuevo entre ellas. Su fuste facetado y remate redondeado son criterios descriptivos, no indicadores cronológicos autónomos.
+
+*Síntesis de documentación previamente registrada; sin nuevo cotejo externo.*
