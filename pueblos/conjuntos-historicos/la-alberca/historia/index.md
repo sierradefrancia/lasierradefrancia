@@ -298,6 +298,8 @@ Entre ellas destacan:
 
 Las investigaciones podrán ampliarse cuando se localicen nuevos testimonios o se comprueben documentos que todavía no han sido consultados directamente.
 
+El [registro de investigaciones históricas pendientes](./investigaciones-pendientes/) reúne las preguntas abiertas, las referencias por cotejar y los avances documentales.
+
 ---
 
 ## La Alberca en su territorio

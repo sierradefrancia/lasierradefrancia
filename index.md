@@ -326,6 +326,8 @@ Y aportar, con nuestro trabajo y nuestra experiencia, algo que permanezca, que r
 
 **[Conoce nuestra historia y la filosofía del proyecto](/nosotros/)**
 
+También queremos reconocer a [quienes cuidan nuestra tierra](/entidades/): las personas, instituciones y asociaciones que contribuyen a conservarla y compartirla.
+
 ---
 
 ## Nuestro horizonte
