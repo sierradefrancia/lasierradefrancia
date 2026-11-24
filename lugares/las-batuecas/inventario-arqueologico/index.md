@@ -63,3 +63,5 @@ La revisión futura deberá identificar variantes nominales, agrupaciones, fuent
 [Historia de la protección patrimonial](/lugares/las-batuecas/proteccion-patrimonial/).
 
 [Volver a Las Batuecas](/lugares/las-batuecas/)
+
+[Historia de las investigaciones rupestres](/lugares/las-batuecas/historia-investigaciones/): documentación gráfica, autores y publicaciones.
