@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: Patrimonio y cultura
 nav_order: 5
@@ -30,6 +31,12 @@ No queremos presentar únicamente una colección de monumentos o lugares pintore
 Queremos comprender cómo surgieron, qué funciones desempeñaron, cómo se han transformado y qué representan para las comunidades actuales.
 
 ---
+
+## Patrimonio compartido y manifestaciones locales
+
+Esta sección es la sede temática de las investigaciones comparativas sobre arquitectura serrana, bordado, indumentaria, joyería, música, danzas, religiosidad, oficios y tradición oral. El alcance de cada fenómeno se determinará mediante fuentes, sin presuponer que se practica en todos los pueblos ni que es exclusivo de la comarca.
+
+Las monografías locales documentan casos concretos y aportan evidencia a las síntesis generales. Primeros casos: [arquitectura albercana](/pueblos/conjuntos-historicos/la-alberca/patrimonio/arquitectura-tradicional/), [Traje de Vistas](/pueblos/conjuntos-historicos/la-alberca/cultura-tradiciones/traje-de-vistas/) y [Loa de la Asunción](/pueblos/conjuntos-historicos/la-alberca/cultura-tradiciones/loa/). La [gastronomía](/gastronomia/) conserva su propia sede temática. No se duplicarán monografías locales aquí.
 
 ## Un paisaje cultural
 
