@@ -45,3 +45,9 @@ Los robledales del entorno de San Marcos y Majadas Viejas, los castañares hist�
 ## Continuidad
 
 Priorizar la ficha oficial vigente, inventarios forestales y estudios botánicos localizados. Mantener separados registro histórico, medición actual y declaración administrativa. Reservar coordenadas sensibles y evitar duplicar el estudio ecológico del valle en su monografía propia.
+
+## Árboles individuales y comunidades
+
+Los códigos AS-SA-03, 05 y 07 deben contrastarse con el catálogo oficial vigente antes de identificar los ejemplares de las propuestas divulgativas. Un árbol notable y un hábitat forestal son unidades distintas: las dimensiones del primero no describen la composición del segundo. La investigación de los robledales de Majadas Viejas y San Marcos puede relacionarse con [toponimia y paisaje](../../geografia-territorio/toponimia-paisaje/) y [conservación](../conservacion/).
+
+*Integración de referencias existentes; sin nuevo cotejo externo.*
