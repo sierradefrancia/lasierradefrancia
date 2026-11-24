@@ -1,9 +1,9 @@
 ---
 layout: default
 title: Gastronomía de Mogarraz
-parent: Mogarraz
-grand_parent: Conjuntos históricos
-nav_order: 12
+parent: Cultura y tradiciones de Mogarraz
+grand_parent: Mogarraz
+nav_order: 2
 last_modified_at: 2026-11-24
 description: "Limón serrano, bodegas y cultura alimentaria en las fiestas de Mogarraz."
 permalink: /pueblos/conjuntos-historicos/mogarraz/gastronomia/
