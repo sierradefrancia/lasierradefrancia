@@ -23,3 +23,15 @@ La separación entre iglesia y torre invita a comparar soluciones de otros puebl
 **Estado documental:** síntesis basada en extractos recuperados el 24-11-2026; cotejo de originales pendiente.
 
 [Patrimonio de Mogarraz](../).
+
+**Nota documental:** las referencias anteriores requieren cotejo reproducible; esta ampliación se basa en el registro existente.
+
+## Una cronología excepcionalmente precisa
+
+Las fechas del 22 de febrero de 1684 y del 14 de febrero de 1687 transmitidas por el diario parlamentario permiten orientar la búsqueda de contratos, pagos y actas de recepción. Todavía no sabemos qué acontecimientos concretos corresponden a ambos días. La atribución a Miguel del Peral tampoco permite identificar sin documentación su función exacta dentro de la obra.
+
+La referencia a una torre anterior plantea la posibilidad de sustitución o reutilización de estructuras. Un levantamiento arquitectónico ayudaría a reconocer discontinuidades de fábrica.
+
+## Campanas y comunidad
+
+La separación física respecto a la [iglesia](../iglesia-nieves/) permite comparar el edificio con la [torre de Miranda](/pueblos/conjuntos-historicos/miranda-del-castanar/patrimonio/torre-campanas/). Las funciones de aviso, culto y organización del tiempo deben estudiarse mediante testimonios locales. La hipótesis de refugio frente a incendios o amenazas no equivale a demostrar un uso defensivo efectivo. El inventario de campanas, inscripciones y mecanismos permitiría ampliar la historia del inmueble más allá de su construcción.
