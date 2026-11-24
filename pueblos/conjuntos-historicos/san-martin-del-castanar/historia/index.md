@@ -1,4 +1,5 @@
 ---
+description: "Historia de San Martín del Castañar: poblamiento, señorío episcopal, instituciones y evolución de la villa."
 layout: default
 title: "Historia de San Martín del Castañar"
 parent: "San Martín del Castañar"
