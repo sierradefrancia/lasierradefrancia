@@ -454,6 +454,10 @@ La historia real del lugar es suficientemente interesante sin necesidad de prese
 
 ## Cómo visitar Las Batuecas
 
+- [Guía práctica de visita](/lugares/las-batuecas/guia-visita/): acceso, accesibilidad y propuestas.
+- [Senderos y recorridos](/lugares/las-batuecas/senderos-visita/): paseo corto y descenso desde La Alberca.
+
+
 El acceso habitual se realiza por la carretera SA-201, que conecta La Alberca con el sector de Las Mestas.
 
 En el entorno del valle existen áreas de estacionamiento desde las que parten itinerarios señalizados.
