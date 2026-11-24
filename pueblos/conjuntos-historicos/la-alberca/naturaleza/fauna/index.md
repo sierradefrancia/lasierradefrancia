@@ -11,6 +11,8 @@ permalink: /pueblos/conjuntos-historicos/la-alberca/naturaleza/fauna/
 
 # Fauna documentada de La Alberca
 
+**Estado documental:** síntesis provisional. Las referencias y cifras requieren cotejo directo antes de considerarse verificadas; no se acredita aquí una consulta externa completa.
+
 ## Lagartija batueca
 
 Arribas, O. (2006), *Lagartija batueca – Iberolacerta martinezricai*, en Carrascal y Salvador (eds.), Enciclopedia Virtual de los Vertebrados Españoles, Museo Nacional de Ciencias Naturales, describe expresamente poblaciones en el entorno albercano. [Copia del autor](https://www.researchgate.net/publication/338223423_ARRIBAS_O_2006_Lagartija_batueca_-_Iberolacerta_martinezricai_En_Enciclopedia_Virtual_de_los_Vertebrados_Espanoles_Carrascal_LM_Salvador_A_Eds_Museo_Nacional_de_Ciencias_Naturales_Madrid_httpwwwverteb).
@@ -31,4 +33,4 @@ La [Fundación Patrimonio Natural](https://patrimonionatural.org/espacios-natura
 
 ## Estado y continuidad
 
-Extractos de las fuentes anteriores recuperados el 24-11-2026; no se han revisado todos los textos completos ni realizado observaciones de campo. Pendiente extracción de registros zoológicos individuales para anfibios de San Marcos, macroinvertebrados fluviales, escarabajos saproxílicos, aves y mamíferos. No publicar localidades precisas de reproducción o refugio sensibles. Relacionar con [vegetación](../vegetacion/), [espacios protegidos](../espacios-protegidos/) e [hidrografía](../../geografia-territorio/hidrografia/).
+Referencias identificadas en el expediente; cotejo directo pendiente de acreditación.
