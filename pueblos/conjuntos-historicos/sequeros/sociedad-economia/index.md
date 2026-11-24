@@ -16,3 +16,7 @@ La guía provincial (páginas PDF 7–9) describe la función crediticia en cere
 
 - [Resolución de 2002](https://boe.es/diario_boe/txt.php?id=BOE-A-2002-13556).
 - [Guía urbana provincial](https://www.lasalina.es/m/ru/sequeros/qr-espa/pdf/sequeros-ES.pdf).
+
+## Población y actividad
+
+El plan especial de 2015 destaca la concentración de pequeños negocios de servicios y actividades institucionales en el casco histórico. Es un diagnóstico fechado, no un censo empresarial actual. Dos agregadores atribuyen al INE 216 habitantes en 2025 frente a 207 en 2024; pendiente cotejo directo en INE antes de incorporar la cifra como oficial. [Plan especial](https://www.sequeros.es/urbanismo/2-PEPCH-SEQUEROS/TEXTO/PEPCH%20SEQUEROS%20MEMORIA%20Y%20NORMATIVA%20AI.pdf); [serie secundaria](https://inestats.es/municipios/37305).
