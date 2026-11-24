@@ -16,3 +16,7 @@ Busca las diferencias entre los retratos, no solo su número. Lee las fachadas c
 Para entender lo que ves: [memoria visual](../../memoria-visual/), [arquitectura](../../arquitectura-tradicional/), [patrimonio](../../patrimonio/). El [marfil medieval](../../patrimonio/marfil/) es una historia vinculada al pueblo, no una pieza que se pueda visitar en su iglesia.
 
 Guía editorial basada en los expedientes del atlas; no constituye una comprobación de campo ni de horarios actuales.
+
+## Cuatro detalles para interpretar el casco
+
+En los dinteles del Altozano distingue los motivos visibles de su interpretación comercial todavía pendiente. En Fuente Arriba, recuerda que el entorno fue modificado según el testimonio sobre las obras de 1981. En la iglesia, si está abierta, diferencia púlpito, retablo y losas funerarias: no pertenecen necesariamente a una sola fase. En la plaza, relaciona la vivienda que alberga la Casa de las Artesanías con los oficios estudiados en [artesanía](../../artesania/). No atribuyas a cada retrato una relación residencial concreta sin documentación.
