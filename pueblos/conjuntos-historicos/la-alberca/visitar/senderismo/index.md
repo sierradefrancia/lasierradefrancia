@@ -1,4 +1,5 @@
 ---
+description: "Senderismo desde La Alberca: Camino de las Raíces, senda hacia San Martín del Castañar y preparación de los recorridos."
 layout: default
 title: Caminar por los bosques y la sierra
 parent: Visitar La Alberca
