@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: Historia de la Sierra de Francia
 nav_order: 9
@@ -28,6 +29,24 @@ No pretendemos presentar una narración cerrada ni convertir las tradiciones pop
 Queremos comprender qué sabemos, cómo lo sabemos y qué cuestiones permanecen abiertas.
 
 ---
+
+## Historia documentada de los pueblos
+
+- [Historia de La Alberca](/pueblos/conjuntos-historicos/la-alberca/historia/)
+- [Historia de Mogarraz](/pueblos/conjuntos-historicos/mogarraz/historia/)
+- [Historia de Miranda del Castañar](/pueblos/conjuntos-historicos/miranda-del-castanar/historia/)
+- [Historia de San Martín del Castañar](/pueblos/conjuntos-historicos/san-martin-del-castanar/historia/)
+- [Historia de Sequeros](/pueblos/conjuntos-historicos/sequeros/historia/)
+- [Historia de Villanueva del Conde](/pueblos/conjuntos-historicos/villanueva-del-conde/historia/)
+
+### Hilos de investigación compartidos
+
+- Poder y jurisdicción: [condado de Miranda](/pueblos/conjuntos-historicos/miranda-del-castanar/historia/condado/), [señorío episcopal de San Martín](/pueblos/conjuntos-historicos/san-martin-del-castanar/historia/senorio-episcopal/), [villazgo de Sequeros](/pueblos/conjuntos-historicos/sequeros/historia/villazgo/) y [ordenanzas de La Alberca](/pueblos/conjuntos-historicos/la-alberca/historia/concejo-ordenanzas/).
+- Arqueología: [La Legoriza](/pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/legoriza/) y [pizarras visigodas](/pueblos/conjuntos-historicos/mogarraz/historia/pizarras-visigodas/).
+- Religión y territorio: [historia de la Peña](/lugares/pena-de-francia/historia/), [Simón Vela](/investigacion/simon-vela/) y [Las Batuecas](/lugares/las-batuecas/).
+- Sociedad: [economía tradicional albercana](/pueblos/conjuntos-historicos/la-alberca/sociedad-economia/economia-tradicional/) y [legado educativo de Melón](/pueblos/conjuntos-historicos/mogarraz/historia/fundacion-melon/).
+
+[Personajes históricos](/personajes/) · [Investigaciones abiertas](/investigacion/)
 
 ## Un territorio con una historia compleja
 
