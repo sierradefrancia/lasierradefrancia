@@ -27,3 +27,20 @@ Una reseña de Salamanca, Revista de Estudios, 35–36 (1995), p. 427, identific
 Extractos recuperados el 24-11-2026.
 
 [Volver a Mogarraz](../).
+
+
+## Demografía contemporánea
+
+| Año | Habitantes |
+|---|---:|
+| 1996 | 379 |
+| 2000 | 365 |
+| 2005 | 323 |
+| 2010 | 308 |
+| 2015 | 314 |
+| 2020 | 268 |
+| 2025 | 236 |
+
+Serie seleccionada reproducida por [INEstats](https://inestats.es/municipios/37194), consultada mediante extracto el 24-11-2026; pendiente de descarga directa de INE. La variación entre extremos es −143 personas (−37,7 %). El Registro de Entidades Locales coincide con la última cifra.
+
+El Censo Anual de 2025 registra 234 personas, de las cuales 88 tienen 65 años o más, 131 tienen entre 16 y 64 y 15 son menores de 16 años, según [Reloj Público](https://relojpublico.es/poblacion/municipios/salamanca/mogarraz/). No se mezclan los denominadores del censo y las cifras oficiales de población. Ambas reproducciones secundarias remiten al INE, por lo que no constituyen fuentes estadísticas independientes.
