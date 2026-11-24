@@ -1,4 +1,5 @@
 ---
+description: "Gastronomía de La Alberca: productos tradicionales, chacinería, dulces, castañas y claves para conocer la cultura alimentaria local."
 layout: default
 title: Saborear La Alberca
 parent: Visitar La Alberca
