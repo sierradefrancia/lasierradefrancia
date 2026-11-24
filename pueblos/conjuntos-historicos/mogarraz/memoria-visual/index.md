@@ -27,3 +27,19 @@ La noticia vincula las fotografías para documentos de identidad de Alejandro Ma
 Referencias consultadas el 24-11-2026. No se reproducen fotografías sin comprobación de derechos.
 
 [Volver a Mogarraz](../).
+
+
+## Cronología documental y colaboradores
+
+El artículo de Maíllo publicado en agosto de 2010, difundido en su blog en abril de 2011, demuestra que la recuperación pública de fotografías precedió a la exposición. Identifica a Florindo Sánchez Iglesias y Ángeles de Nacimiento Lorenzo como colaboradores documentales. RTVE acredita 388 pinturas en septiembre de 2012; El País informa de más de 700 en junio de 2018. Son cifras fechadas de distinta cobertura, no un recuento actual.
+
+La revista local de 2015 reproduce fotografías atribuidas a Kurt Hielscher (1922, calle Nueva y Fuente Arriba), Ruth Matilda Anderson (1925, procesión y ofertorio, entre otras) y Alain Huetz de Lemps (1957, Fuente Arriba). Los originales y derechos siguen pendientes. [Revista 2015](https://mogarraz.es/_mgz_pdf/mogarraz_2015.pdf). [El País, 2018](https://elpais.com/elpais/2018/06/07/album/1528395617_879919.html).
+
+- [Florencio Maíllo](/personajes/florencio-maillo/).
+- [Alejandro Martín Criado](/personajes/alejandro-martin-criado/).
+
+## Fuentes consultadas el 24-11-2026
+
+- [Florencio Maíllo, La fotografía como esencia gemela II (2010; publicación digital 2011)](https://florenciomaillo.blogspot.com/2011/04/la-fotografia-como-esencia-gemela-ii.html).
+- [RTVE, Retrata2/388, 27-09-2012](https://www.rtve.es/play/videos/creadores-1999-2001/aventura-del-saber-retrata2-388/1537561/), sinopsis, no visionado completo.
+- [La Peña de Mogarraz, 2018, Fernando Castro Ramírez](https://mogarraz.es/_mgz_pdf/mogarraz_2018.pdf), extracto.
