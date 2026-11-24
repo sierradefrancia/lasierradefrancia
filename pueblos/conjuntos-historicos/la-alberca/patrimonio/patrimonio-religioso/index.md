@@ -34,11 +34,13 @@ La investigación aborda la historia del edificio, su arquitectura, el patronazg
 
 Humilladero serrano del acceso occidental, con pórtico de columnas jónicas y cierre tradicional de madera. Estudio técnico, identificación catastral y procesión del Jueves Santo.
 
-La Alberca conserva otros testimonios de su historia religiosa, entre ellos las ermitas del Santo Cristo del Humilladero, San Antonio y Majadas Viejas, así como los restos asociados a San Marcos.
+- [San Blas o de la Bandera](./san-blas/).
+- [San Antonio](./san-antonio/).
+- [Majadas Viejas](./majadas-viejas/).
+- [San Marcos](./san-marcos/).
+- [Osario y Ánimas Benditas](./animas/).
 
-También forman parte de este patrimonio espacios relacionados con la memoria de los difuntos, como el Osario de las Ánimas.
-
-Estos elementos se incorporarán progresivamente mediante investigaciones individuales, atendiendo a su documentación histórica, características materiales y relación con las prácticas de la comunidad.
+El inventario territorial de santuarios (tabla Salamanca, n.º 10) menciona asimismo una capilla del Cristo de los Humillados. Su identidad, ubicación y posible relación con otros edificios quedan pendientes; no se presume desaparecida. [Fuente](https://etnoesfera.es/pdf/sagrados/Santuarios-ermitas-y-humilladeros2023.pdf).
 
 ---
 
