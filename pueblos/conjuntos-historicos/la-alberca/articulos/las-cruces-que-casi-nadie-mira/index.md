@@ -31,3 +31,13 @@ Cuando pasees por La Alberca, mira también las piedras que no tienen cartel. No
 La próxima pista quizá esté en una piedra ante la que hemos pasado muchas veces.
 
 **Base documental:** [Patrimonio religioso](../../patrimonio/patrimonio-religioso/) e [inventario patrimonial](../../patrimonio/inventario/). Ensayo de observación basado en registros internos; identificación, localización y datación de marcas pendientes de comprobación de campo.
+
+## Tres escalas de una misma pregunta
+
+En Barrio Nuevo, el crucero se levanta sobre una base escalonada, cerca de una fuente de dos caños. En la plaza de San Antonio, el crucero presenta una configuración distinta y se relaciona visualmente con los soportales. El Mochito conserva una referencia a una cruz patriarcal y a una posible fecha de 1843 cuya lectura requiere comprobación.
+
+Los dos primeros son monumentos individualizados; el tercero pertenece al conjunto de marcas devocionales que estamos investigando. No conviene atribuirles automáticamente el mismo origen o función. Una comparación de fotografías, dimensiones y contexto urbano permitiría reconocer diferencias que una simple lista de cruces no muestra.
+
+[Crucero de Barrio Nuevo](../../patrimonio/elementos-patrimoniales/crucero-barrio-nuevo/) · [Crucero de San Antonio](../../patrimonio/elementos-patrimoniales/crucero-san-antonio/) · [Ánimas](../../patrimonio/patrimonio-religioso/animas/).
+
+*Ampliación basada en los expedientes existentes del atlas, sin nuevo cotejo externo.*
