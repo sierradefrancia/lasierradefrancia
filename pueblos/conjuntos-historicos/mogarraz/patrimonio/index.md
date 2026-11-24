@@ -23,6 +23,8 @@ permalink: /pueblos/conjuntos-historicos/mogarraz/patrimonio/
 
 - [El marfil de Mogarraz](./marfil/).
 
+- [Cuatro piezas de plata para un concejo](./cuatro-barquillos/).
+
 ## Patrimonio por localizar
 
 Antonio Cea Gutiérrez menciona una plaqueta de marfil atribuida al siglo XI en su pregón de 2011, publicado en [La Peña de Mogarraz de 2012](https://mogarraz.es/_mgz_pdf/mogarraz_2012.pdf). El expediente específico recoge una identificación museística propuesta; su procedencia completa sigue pendiente de cotejo. Extracto localizado el 24-11-2026.
@@ -55,6 +57,7 @@ La Peña de Mogarraz de 2009 enumera seis ermitas: Santa Lucía, San Blas, San P
 | MOG-PAT-014 | Fuente de Cabolaldea | Fecha atribuida 1672 |
 | MOG-PAT-015 | Dinteles del Altozano | Interpretación comercial pendiente |
 | MOG-PAT-016 | Plaqueta de marfil | Procedencia pendiente |
+| MOG-PAT-017 | Cuatro barquillos de plata | Documentados en estudio CSIC; inspección pendiente |
 
 ## Fuentes
 
