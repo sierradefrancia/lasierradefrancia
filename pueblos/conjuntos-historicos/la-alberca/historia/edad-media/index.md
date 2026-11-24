@@ -518,3 +518,7 @@ La cesión de derechos sobre Las Hurdes y Las Batuecas explica una parte importa
 Y el archivo descrito por Vicente de la Fuente demuestra la importancia que estos documentos conservaron durante siglos.
 
 **Reconstruir la historia medieval de La Alberca exige seguir sus documentos, distinguir sus diferentes épocas y reconocer aquello que todavía no sabemos.**
+
+## Localización documental de la cesión
+
+La nota de Berrogain (1930, p. 382), cotejada el 24-11-2026 en la [edición digitalizada](https://revistas.mjusticia.gob.es/index.php/AHDE/article/download/5060/5060/4833), atribuye la donación al 8 de enero de la era 1327 y remite a los folios 34 y 36 del registro. La equivalencia publicada es 1291, mientras la resta de 38 produce 1289. El siguiente paso comprobable es localizar esos folios, distinguir sus manos y fechas y comparar el traslado de 1313. Véase [documentos y cronología](../documentos-cronologia/).
