@@ -78,3 +78,11 @@ Los repertorios de difuntos muestran que el número de golpes podía comunicar s
 La grabación ATO 101 de 1984 vincula La Alberca con el músico Víctor Pavón de Miranda. El registro de [fuentes sonoras](../../../cultura-tradiciones/fuentes-sonoras/) permite integrar esa relación sin duplicar el archivo. La matraca de 2019 representa recuperación de una práctica mediante un instrumento nuevo, no conservación física del ejemplar desmontado en 1979.
 
 *Síntesis del corpus documental existente; sin nuevo cotejo externo en esta ampliación.*
+
+## El sonido como documento social
+
+Los números de golpes transmitidos por Cea permiten estudiar cómo se distinguían categorías de difuntos y pertenencias a cofradías. El paso de 72 a 7 golpes del Santo Sepulcro constituye una modificación referida dentro de una misma tradición, mientras 44 frente a 49 para San Juan de Sahagún es una discrepancia entre testimonios. No son el mismo tipo de variación.
+
+El registro ATO 101 ofrece un contexto ceremonial diferente, la boda de junio de 1984, y conecta con [fuentes sonoras](../../../../cultura-tradiciones/fuentes-sonoras/) y [ciclo vital](../../../../cultura-tradiciones/ciclo-vital/). Antes de identificar un toque en esa grabación deben examinarse su duración, secuencia y calidad. La matraca reconstruida en 2019 documenta una recuperación comunitaria, no la supervivencia material de la pieza retirada en 1979.
+
+*Síntesis de referencias ya registradas; sin nuevo cotejo externo en este bloque.*
