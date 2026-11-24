@@ -69,3 +69,7 @@ Queda pendiente localizar los acuerdos de obras del siglo XVIII, los expedientes
 - Concepción Camarero Bullón y colaboradores (2023), [Boletín de la Real Sociedad Geográfica, CLX](https://www.boletinrsg.com/index.php/boletinrsg/article/download/180/189/), pp. 179–218, cuadro 1, p. 184.
 
 Las referencias académicas se han consultado en los pasajes indicados el 24 de noviembre de 2026. Los documentos originales de archivo citados por ellas no se han examinado directamente.
+
+## La responsabilidad municipal en la conservación
+
+El decreto de 1940 imponía obligaciones patrimoniales tanto a la corporación como a propietarios y poseedores. La orden de diciembre situaba al alcalde en la presidencia de la Junta de conservación. Esta función institucional no permite identificar automáticamente al alcalde por su nombre ni atribuirle una intervención concreta. Las actas municipales y las de la Junta pueden ayudar a reconstruir las decisiones sobre la plaza y el caserío. [Fuentes oficiales de 1940](../../../conjunto-historico/).
