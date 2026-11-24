@@ -108,3 +108,11 @@ Referencias recuperadas a través de la edición de 2006, pendientes de consulta
 - [Elementos patrimoniales](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/).
 
 *Investigación abierta: quedan pendientes el contraste material independiente de la inscripción, la revisión completa de sus antecedentes bibliográficos y la identificación de su procedencia original.*
+
+## Biografía material y contexto regional
+
+La descripción de Maluquer de 1956 y la de Olivares de 2006 permiten distinguir dos testimonios de reutilización cristiana: soporte de pila y cavidad para agua bendita. No establecen por sí solos el orden de todas las modificaciones. La comparación de fotografías y dibujos de ambas publicaciones ayudaría a determinar qué superficies fueron alteradas.
+
+La hipótesis de procedencia del convento de Gracia debe contrastarse con el [expediente del convento](/pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/convento-gracia/) y la [arqueología de San Martín](/pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/arqueologia/). La presencia regional de epigrafía romana no identifica el lugar de hallazgo. El nombre de Albinus merece conservarse como testimonio epigráfico, sin reconstruir una biografía desconocida.
+
+*Revisión del corpus existente; sin nuevo cotejo externo.*
