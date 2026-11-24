@@ -1,4 +1,5 @@
 ---
+description: "La iglesia de Miranda del Castañar: arquitectura religiosa, historia y elementos patrimoniales."
 layout: default
 title: "Iglesia de Santiago y San Ginés"
 parent: "Patrimonio de Miranda del Castañar"
