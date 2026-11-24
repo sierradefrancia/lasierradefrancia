@@ -1,4 +1,5 @@
 ---
+description: "Arquitectura tradicional de La Alberca: entramados de madera, piedra, organización de la vivienda, técnicas constructivas y conservación."
 layout: default
 title: Arquitectura tradicional
 parent: Patrimonio
