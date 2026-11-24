@@ -66,6 +66,8 @@ Los indicadores se presentarán con su año y fuente, evitando mezclar series es
 
 ---
 
+Los censos de 1960 y 2021 registran respectivamente 457 y 524 hogares, con 1.905 y 1.064 residentes de derecho o residentes. La comparación exige cautela por las diferencias censales. La documentación sanitaria oficial también acredita la función supramunicipal de La Alberca. Véase [Demografía y centralidad asistencial](./demografia/).
+
 ## La organización de la comunidad
 
 La vida social de La Alberca ha estado vinculada a formas de organización familiar, religiosa, económica y vecinal.
