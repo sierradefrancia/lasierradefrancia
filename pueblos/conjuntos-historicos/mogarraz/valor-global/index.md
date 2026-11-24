@@ -44,3 +44,13 @@ El reto de futuro es que la visibilidad turística del patrimonio contribuya a s
 - [Fuentes e investigación](../fuentes/): estados y límites del corpus.
 
 Síntesis interpretativa provisional basada en los expedientes existentes del atlas. No implica una nueva comprobación de sus fuentes ni una comparación cuantitativa con otros municipios.
+
+## Relaciones que amplían la interpretación
+
+La [Fundación Melón](../historia/fundacion-melon/) añade la educación a la historia de la transmisión cultural. El legado testamentario, el proyecto escolar atribuido a 1892 y la actividad con bordadoras registrada en 2023 corresponden a momentos distintos que permiten estudiar cómo cambian los usos de una institución.
+
+El [marfil medieval](../patrimonio/marfil/) y el [relicario procedente de Gracia](/pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/relicario/) muestran dos trayectorias patrimoniales diferentes: una pieza vinculada a Mogarraz y posteriormente identificada en una colección internacional, y otra vinculada a un convento vecino y conservada después en Mogarraz según la bibliografía. Ambas requieren reconstruir sus transmisiones.
+
+La [economía histórica](../sociedad-economia/) incorpora arriería y especialización artesanal, mientras la evolución demográfica contemporánea plantea preguntas sobre la transmisión futura de conocimientos. La síntesis no permite atribuir al arte contemporáneo un efecto demográfico concreto. Su valor consiste en conectar dimensiones documentales distintas sin reducir Mogarraz a sus retratos.
+
+**Alcance documental:** ampliación basada en las referencias ya registradas, pendientes de cotejo reproducible.
