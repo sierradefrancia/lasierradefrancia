@@ -1,4 +1,5 @@
 ---
+description: "La iglesia parroquial de Villanueva del Conde: arquitectura, historia y patrimonio religioso."
 layout: default
 title: "Iglesia de San Fabián y San Sebastián"
 parent: "Patrimonio de Villanueva del Conde"
