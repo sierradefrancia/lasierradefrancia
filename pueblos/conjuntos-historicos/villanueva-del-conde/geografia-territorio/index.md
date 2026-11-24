@@ -1,4 +1,5 @@
 ---
+description: "Geografía de Villanueva del Conde: relieve, caminos, cultivos y relaciones con el territorio serrano."
 layout: default
 title: "Geografía y territorio de Villanueva del Conde"
 parent: Villanueva del Conde
