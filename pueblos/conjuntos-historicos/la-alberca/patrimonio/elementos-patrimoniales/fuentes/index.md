@@ -75,3 +75,11 @@ La investigación continuará con las ordenanzas, acuerdos municipales, proyecto
 - [E1] Instituto de las Identidades, [Identidad y poder en Castilla y León](https://www.institutodelasidentidades.es/publicaciones/serie-abierta/foros-identidades/08-Identidad-y-Poder-CyL.pdf). Pasaje sobre la juventud, el cortejo y las fuentes del Indiano y del Castaño; identificación de autoría y página exacta pendiente.
 
 Consultas realizadas el 24 de noviembre de 2026. Las fichas M1–M4 pertenecen al mismo repertorio y no se consideran fuentes independientes entre sí. No se reproducen sus fotografías, cuyos derechos están reservados.
+
+## Abastecimiento, memoria y arquitectura
+
+Las cuatro fuentes descritas materialmente y las dos mencionadas por testimonio etnográfico constituyen niveles de identificación diferentes. El pilón dividido del Tablado y la pila monolítica del Barrio Nuevo permiten comparar soluciones constructivas sin atribuirles una función ganadera exclusiva. La referencia a las gradas de una fuente en la ordenanza VI de 1515 aporta un antecedente histórico, no una identificación de la fuente actual de la plaza.
+
+Para reconstruir la red de abastecimiento interesa distinguir captaciones, conducciones, surtidores, pilones y reformas. La presencia de agua en una fuente histórica no acredita potabilidad actual. Véanse [Plaza Mayor](../../patrimonio-civil/plaza-mayor/) y [puentes y caminos](../../patrimonio-civil/puentes-y-caminos/).
+
+*Revisión del corpus existente; sin nuevo cotejo externo.*
