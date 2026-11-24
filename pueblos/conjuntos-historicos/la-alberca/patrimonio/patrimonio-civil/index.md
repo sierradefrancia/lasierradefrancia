@@ -22,8 +22,10 @@ Los edificios civiles y espacios públicos permiten conocer la organización mun
 
 - [Casa Ducal y Teatro Municipal](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/casa-ducal/): arquitectura, heráldica, usos y rehabilitación.
 
+- [Hospital de Menesterosos y Peregrinos](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/hospital/): asistencia, peregrinaciones y rentas territoriales.
+
 ## Líneas abiertas
 
-Hospital de Menesterosos y Peregrinos; antiguas escuelas; puentes y comunicaciones históricas.
+antiguas escuelas; puentes y comunicaciones históricas.
 
 Los [elementos patrimoniales](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/) asociados se estudian en sus propias monografías.
