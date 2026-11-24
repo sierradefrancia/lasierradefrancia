@@ -1,4 +1,5 @@
 ---
+description: "Patrimonio arqueológico de San Martín del Castañar: testimonios materiales, yacimientos y cuestiones abiertas sobre el poblamiento."
 layout: default
 title: "Arqueología de San Martín"
 parent: "Patrimonio de San Martín del Castañar"
