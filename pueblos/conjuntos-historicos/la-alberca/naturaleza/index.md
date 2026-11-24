@@ -4,6 +4,8 @@ title: Naturaleza
 parent: La Alberca
 grand_parent: Conjuntos históricos
 nav_order: 6
+has_children: true
+last_modified_at: 2026-11-24
 description: "Naturaleza singular de La Alberca: Laguna de San Marcos, bosques de Las Batuecas, río Batuecas, tejos del convento, árboles singulares y biodiversidad documentada."
 permalink: /pueblos/conjuntos-historicos/la-alberca/naturaleza/
 ---
@@ -23,6 +25,10 @@ Su propósito es identificar y estudiar **los lugares, comunidades biológicas, 
 Los conocimientos generales de botánica, zoología, micología y ecología se desarrollarán en las secciones temáticas de la web.
 
 ---
+
+## Espacios protegidos y hábitats
+
+La [investigación de espacios protegidos](./espacios-protegidos/) identifica las figuras oficiales, sus códigos, los hábitats candidatos y los límites de la evidencia municipal.
 
 ## Los grandes ambientes naturales de La Alberca
 
