@@ -24,3 +24,11 @@ La ficha municipal describe el adorno de balcones y ventanas con textiles. El Co
 Pendiente: escuchar y transcribir con marcas temporales, verificar condiciones de reproducción, identificar itinerario y altares, estudiar variantes históricas y relacionar las prendas con inventarios concretos.
 
 Consulta documental: 2026-11-24. Estudio inicial abierto.
+
+## Textiles y transformación del espacio público
+
+El adorno de balcones convierte temporalmente elementos de la vivienda en soportes de una celebración colectiva. El registro ATO 103 reúne explicaciones sobre textiles y vivienda junto a música procesional. Permite estudiar la relación entre objetos domésticos y uso ceremonial, aunque todavía no se conoce qué prendas concretas aparecen en cada corte.
+
+El conjunto del [Traje de Vistas](../traje-de-vistas/) conservado en el Museo del Traje ofrece una referencia material distinta de las prendas descritas oralmente. No deben identificarse sin documentación. La [trama urbana](../../patrimonio/arquitectura-tradicional/trama-y-vivienda/) proporciona el marco para estudiar fachadas, recorridos y posibles altares mediante fotografías fechadas.
+
+*Síntesis de referencias existentes; sin nuevo cotejo externo.*
