@@ -31,3 +31,15 @@ Al pasar junto a la iglesia, piensa en ese otro uso del espacio: un lugar donde 
 **Referencias:** [Berrogain, Ordenanzas de La Alberca (1930), pp. 381–441](https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-H-1930-10038100441), pp. 381–383 y ordenanza XVIII; [Concejo y ordenanzas](../../historia/concejo-ordenanzas/).
 
 *Nota documental: síntesis narrativa de los expedientes históricos del atlas. En esta fase se han leído los expedientes internos, no cotejado directamente las fuentes externas ni los originales archivísticos.*
+
+## La medida de una obligación
+
+El expediente de las ordenanzas recoge referencias a distancias expresadas en estadales, entre ellas 160 para determinados cerramientos, y sanciones de 500 maravedíes a oficiales en la ordenanza XVIII. La ordenanza XIX contempla una sanción de 1.000 relacionada con el fuego. Son referencias transmitidas por la edición histórica cuya literalidad debe comprobarse antes de reconstruir cada supuesto jurídico.
+
+Las cifras permiten advertir que las normas distinguían conductas, autoridades y consecuencias. No debemos convertirlas a euros ni metros mediante una equivalencia automática: el valor monetario y las medidas históricas requieren su propio contexto.
+
+La provisión de 1547 asociada a la tradición del Pendón constituye otro documento, no una parte que podamos atribuir sin más a la proclamación de 1515.
+
+[La medida grabada en la piedra](../la-medida-grabada-en-la-piedra/) · [Pendón y Trago](../../cultura-tradiciones/pendon-y-trago/).
+
+*Ampliación basada en los expedientes existentes del atlas, sin nuevo cotejo externo.*
