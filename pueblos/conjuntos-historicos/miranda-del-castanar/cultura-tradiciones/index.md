@@ -1,4 +1,5 @@
 ---
+description: "Cultura y tradiciones de Miranda del Castañar: celebraciones, memoria colectiva y testimonios de la vida local."
 layout: default
 title: "Cultura y tradiciones de Miranda"
 parent: "Miranda del Castañar"
