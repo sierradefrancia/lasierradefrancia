@@ -29,6 +29,9 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 
 ## Estudios e inventarios
 
+- [Fauna vertebrada](/lugares/las-batuecas/fauna/): contexto regional y evidencias locales.
+- [Reptiles y lagartija batueca](/lugares/las-batuecas/reptiles/): investigaciones y registros herpetológicos.
+
 - [La vida acuática del río Batuecas](/lugares/las-batuecas/vida-acuatica/): datos de macroinvertebrados y diatomeas.
 - [Continuidad y restauración del río Batuecas](/lugares/las-batuecas/restauracion-fluvial/): inventario inicial de azudes y actuaciones previstas.
 
