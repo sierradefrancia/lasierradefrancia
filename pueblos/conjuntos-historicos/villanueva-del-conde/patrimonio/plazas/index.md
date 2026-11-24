@@ -1,4 +1,5 @@
 ---
+description: "Las plazas de Villanueva del Conde: espacios públicos, arquitectura y vida comunitaria."
 layout: default
 title: "Plazas y Ayuntamiento"
 parent: "Patrimonio de Villanueva del Conde"
