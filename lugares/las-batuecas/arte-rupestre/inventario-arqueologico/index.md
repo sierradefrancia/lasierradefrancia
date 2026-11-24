@@ -3,7 +3,7 @@ layout: default
 title: Inventario arqueológico de Las Batuecas
 parent: "Arte rupestre de Las Batuecas"
 grand_parent: Las Batuecas
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Inventario documental de los quince abrigos rupestres recogidos en el expediente de 1999."
 permalink: /lugares/las-batuecas/inventario-arqueologico/
 ---
@@ -46,7 +46,7 @@ El inventario nominal de esta página es, por tanto, una base histórica de trab
 
 El nombre de un abrigo no identifica automáticamente una figura concreta. Para comparar publicaciones históricas será preciso diferenciar enclave, sector, panel, motivo y documento gráfico. Tampoco se debe deducir la presencia de una especie animal a partir del topónimo de un canchal.
 
-Las Cabras Pintadas poseen una referencia jurídica específica a 1924 en el expediente. El Pallón y el Corral de Morcilla cuentan con publicaciones de Julián Bécares Pérez en Zephyrus, que ofrecen puntos de partida para reconstruir su documentación científica. Su lectura íntegra queda pendiente y no se incorporan aquí recuentos de figuras ni atribuciones cronológicas particulares sin comprobar.
+Las Cabras Pintadas poseen una referencia jurídica específica a 1924 en el expediente. El Pallón y el Corral de Morcilla cuentan con publicaciones de Julián Bécares Pérez en Zephyrus, que ofrecen puntos de partida para reconstruir su documentación científica. Los expedientes individuales reúnen las revisiones posteriores de estas publicaciones; el inventario mantiene su función nominal.
 
 ## Uso y conservación
 
@@ -67,3 +67,14 @@ La revisión futura deberá identificar variantes nominales, agrupaciones, fuent
 [Historia de las investigaciones rupestres](/lugares/las-batuecas/historia-investigaciones/): documentación gráfica, autores y publicaciones.
 
 [Documentos gráficos](/lugares/las-batuecas/documentos-rupestres/) · [Conservación rupestre](/lugares/las-batuecas/conservacion-rupestre/).
+
+
+## Concordancia con expedientes abiertos
+
+| Identificador | Expediente |
+|---|---|
+| BAT-ARQ-001 | [Cabras Pintadas](/lugares/las-batuecas/arte-rupestre/cabras-pintadas/) |
+| BAT-ARQ-011 | [Corral de Morcilla](/lugares/las-batuecas/arte-rupestre/corral-morcilla/) |
+| BAT-ARQ-012 | [Pallón](/lugares/las-batuecas/arte-rupestre/pallon/) |
+
+Los restantes identificadores conservan su carácter de entradas nominales. No se crean fichas individuales sin documentación suficiente. Véase [campaña de 1922](/lugares/las-batuecas/arte-rupestre/campana-1922/) para las concordancias nominales pendientes.

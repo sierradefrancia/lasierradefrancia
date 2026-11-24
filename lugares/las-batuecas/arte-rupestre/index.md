@@ -70,3 +70,9 @@ Fuentes de partida: [BOE, declaración de 2000](https://www.boe.es/diario_boe/tx
 Los estudios de [Pallón](/lugares/las-batuecas/arte-rupestre/pallon/) y [Corral de Morcilla](/lugares/las-batuecas/arte-rupestre/corral-morcilla/) ampliaron el repertorio de antropomorfos conocido por Bécares y reforzaron su interpretación del valle dentro del arte esquemático. El primero aporta una figura bicolor y el segundo un tectiforme. Ambos muestran que la comparación de motivos exige distinguir alteración del soporte, descripción e interpretación cronológica.
 
 Textos originales: [1974](https://revistas.usal.es/uno/index.php/0514-7336/es/article/download/1953/2009/4764) y [1975–1976](https://revistas.usal.es/uno/index.php/0514-7336/it/article/download/442/616/1325). La consulta de los PDF permite superar la fase de resúmenes; queda pendiente cotejar gráficamente las láminas.
+
+
+## Estudios transversales
+
+- [Color y policromía](/lugares/las-batuecas/arte-rupestre/policromia/).
+- [La documentación rupestre de 1922](/lugares/las-batuecas/arte-rupestre/campana-1922/).

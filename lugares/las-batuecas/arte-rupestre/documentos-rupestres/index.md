@@ -3,7 +3,7 @@ layout: default
 title: Documentos gráficos del arte rupestre de Las Batuecas
 parent: "Arte rupestre de Las Batuecas"
 grand_parent: Las Batuecas
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Catálogo inicial de dibujos y láminas históricas del arte rupestre de Las Batuecas."
 permalink: /lugares/las-batuecas/documentos-rupestres/
 ---
@@ -70,3 +70,8 @@ Para establecer cambios materiales se necesitan registros comparables, una corre
 Este catálogo se relaciona con la [historia de las investigaciones](/lugares/las-batuecas/historia-investigaciones/) y el [inventario arqueológico](/lugares/las-batuecas/inventario-arqueologico/). Los tres registros son iniciales y no constituyen un inventario completo de los fondos conservados.
 
 [Volver a Las Batuecas](/lugares/las-batuecas/)
+
+
+## Concordancia de la campaña de 1922
+
+El [estudio transversal de la campaña](/lugares/las-batuecas/arte-rupestre/campana-1922/) reúne las signaturas ya registradas y las cuestiones de identificación pendientes.

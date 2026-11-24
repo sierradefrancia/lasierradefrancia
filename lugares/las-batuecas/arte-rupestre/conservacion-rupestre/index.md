@@ -3,7 +3,7 @@ layout: default
 title: Conservación de las pinturas rupestres de Las Batuecas
 parent: "Arte rupestre de Las Batuecas"
 grand_parent: Las Batuecas
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Estudio de las evidencias y preguntas sobre conservación, soporte rocoso y pigmentos de Las Batuecas."
 permalink: /lugares/las-batuecas/conservacion-rupestre/
 ---
@@ -51,3 +51,8 @@ El inventario de abrigos no constituye una autorización de acceso. Deben respet
 Quedan pendientes la identificación de la tesis mencionada por el IGME, los resultados analíticos por muestra, los informes de intervención y el estado actual de los paneles. No se ha realizado inspección de campo ni nueva lectura de originales para este estudio. Véanse también [geología y relieve](/lugares/las-batuecas/geologia/) y [protección patrimonial](/lugares/las-batuecas/proteccion-patrimonial/).
 
 [Volver a Las Batuecas](/lugares/las-batuecas/)
+
+
+## Color y soporte
+
+La [investigación sobre policromía](/lugares/las-batuecas/arte-rupestre/policromia/) diferencia descripción visual, identificación material y alteración del soporte. El trabajo analítico de 2007 continúa pendiente de consulta íntegra verificada.

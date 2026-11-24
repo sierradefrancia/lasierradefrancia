@@ -51,3 +51,8 @@ El motivo 28 combina rojo y blanco y se compara con la Umbría del Canchal del C
 La referencia de Cabré de 1922 (Coleccionismo, 116, p. 150) y la obra de Pilar Acosta de 1968 son líneas bibliográficas explícitas. El resultado negativo de la fotografía infrarroja en la unidad 30 no demuestra ausencia de pigmento ni invalida técnicas actuales.
 
 [Texto original completo](https://revistas.usal.es/uno/index.php/0514-7336/es/article/download/1953/2009/4764). Consulta del texto extraído; no cotejo visual sistemático de láminas ni inspección de campo. La revisión anterior que señalaba falta de acceso al texto queda superada.
+
+
+## Relación temática
+
+[Color y policromía](/lugares/las-batuecas/arte-rupestre/policromia/): comparación crítica de la figura 28 con otros registros del valle.
