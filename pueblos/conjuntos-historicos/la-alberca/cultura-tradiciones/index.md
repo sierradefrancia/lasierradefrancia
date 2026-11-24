@@ -4,6 +4,8 @@ title: Cultura y tradiciones
 parent: La Alberca
 grand_parent: Conjuntos históricos
 nav_order: 4
+has_children: true
+last_modified_at: 2026-11-24
 description: "Cultura y tradiciones de La Alberca, Salamanca: La Loa, Diagosto, Moza de Ánimas, marrano de San Antón, Traje de Vistas, danzas, romerías y memoria popular."
 permalink: /pueblos/conjuntos-historicos/la-alberca/cultura-tradiciones/
 ---
@@ -22,7 +24,7 @@ Esta sección reúne las principales manifestaciones de la cultura albercana y e
 
 ---
 
-## La Loa de la Asunción
+## [La Loa de la Asunción](./loa/)
 
 **La Loa de la Asunción de Nuestra Señora** es una representación de teatro popular vinculada a las fiestas patronales de La Alberca.
 
@@ -152,7 +154,7 @@ La antigüedad de la tradición no debe confundirse con una continuidad demostra
 
 ---
 
-## El Traje de Vistas y la indumentaria tradicional
+## [El Traje de Vistas](./traje-de-vistas/) y la indumentaria tradicional
 
 La indumentaria tradicional albercana constituye uno de los ámbitos más ricos de su patrimonio cultural.
 
