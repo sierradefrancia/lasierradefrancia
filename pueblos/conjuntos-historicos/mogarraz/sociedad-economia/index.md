@@ -3,10 +3,11 @@ layout: default
 title: "Sociedad y economía de Mogarraz"
 parent: Mogarraz
 grand_parent: Conjuntos históricos
-nav_order: 6
+nav_order: 7
 last_modified_at: 2026-11-24
 description: "Arriería, propiedad y economía histórica de la villa."
 permalink: /pueblos/conjuntos-historicos/mogarraz/sociedad-economia/
+has_children: true
 ---
 
 # Sociedad y economía de Mogarraz
@@ -49,3 +50,8 @@ El Censo Anual de 2025 registra 234 personas, de las cuales 88 tienen 65 años o
 ## Contraste bibliográfico (24-11-2026)
 
 El [catálogo editorial de 2019, p. 16](https://www.lasalina.es/cultura/cultura/difusionypublicaciones/virtualcatalogoediciones/16/) identifica a Joaquín Rodríguez Arzúa, *Mogarraz en el siglo XVIII*, ISBN 84-7797-058-0, 1991, 198 páginas. La [reseña académica de 1995, p. 427](https://www.lasalina.es/documentacion/revistadeestudios/45-99-91.pdf) indica 1990 y 190 páginas. Ambos extractos se han recuperado en esta búsqueda; falta cotejar portada y colofón. La obra sigue pendiente de lectura íntegra.
+
+
+## Explorar esta sección
+
+- [Artesanía y oficios](../artesania/).
