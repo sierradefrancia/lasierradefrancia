@@ -18,6 +18,15 @@ El Museo del Traje distingue denominaciones locales de la indumentaria nupcial: 
 
 Estas mujeres nos recuerdan que la tradición no es una pieza inmóvil: también es el trabajo de quienes saben repararla y transmitirla.
 
+
+## Recuperar una técnica
+
+La restauración de una prenda y la reproducción de otra son trabajos distintos. El relato de 2016 permite identificar aportaciones concretas: Alfonsa en la restauración, Conchita en las técnicas de la camisa galana y Juanita en la reproducción de una mantita. No conocemos todavía los materiales, puntadas ni decisiones de intervención de cada trabajo.
+
+La colaboración con Francisca Becerro introduce una relación entre Mogarraz y La Alberca. El conocimiento circulaba entre personas, y no necesariamente dentro de los límites de un pueblo. Las denominaciones vistas, dádivas y arras recogidas por el Museo del Traje ofrecen un punto de partida para comparar indumentarias sin borrar sus diferencias.
+
+El [ofertorio](../../cultura-tradiciones/) aporta el contexto de uso ceremonial. La [Casa de las Artesanías](../../patrimonio/casa-artesanias/) permite estudiar cómo se presenta ese patrimonio material al público. La conservación de las prendas y la transmisión de las técnicas requieren investigaciones complementarias.
+
 ## Fuentes y límites
 
 - [Testimonio publicado el 4 de marzo de 2016](https://salamancartvaldia.es/noticia/2016-03-04-fallece-pilar-magadan-referente-del-folklore-salmantino-191532?rc=4).
@@ -27,3 +36,6 @@ Estas mujeres nos recuerdan que la tradición no es una pieza inmóvil: también
 Extractos recuperados el 24-11-2026. Las fechas de restauración proceden del testimonio retrospectivo; faltan fichas de las prendas y documentación independiente de los trabajos. No se reproducen fotografías.
 
 [Artesanía](../../artesania/) · [Personajes](/personajes/)
+
+
+**Nota documental:** ampliación basada en el corpus previo; las declaraciones anteriores de consulta quedan pendientes de cotejo reproducible.
