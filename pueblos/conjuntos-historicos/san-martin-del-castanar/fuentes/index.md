@@ -32,3 +32,13 @@ Localizar el informe académico previo a la declaración del conjunto, documenta
 
 
 Las afirmaciones de cotejo de las dos disposiciones legales añadidas posteriormente tampoco cuentan con evidencia recuperable en esta sesión. Se mantienen pendientes las siete referencias.
+
+## Registros efectivamente recuperados el 24-11-2026
+
+- SMC-FUE-008 [PARES autoridad 6087](https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/6087): extracto de historia institucional.
+- SMC-FUE-009 [PARES fondo 1676301](https://pares.cultura.gob.es/ParesBusquedas20/catalogo/description/1676301): descripción archivística AHN, no originales.
+- SMC-FUE-010 [Cuadernos Medievales 36, 2024, pp. 43–57](https://fh.mdp.edu.ar/revistas/index.php/cm/article/view/7808/8154): extracto de estudio de Herrera-Vicente sobre el relicario y la arquitectura.
+- SMC-FUE-011 [Cortes de Castilla y León, DS(C) 355/4, 5-5-1998](https://www.ccyl.es/Publicaciones/TextoEntradaDiario?Legislatura=4&NumeroPublicacion=355&SeriePublicacion=DS%28C%29): extracto de intervención parlamentaria, no prueba directa medieval.
+- SMC-FUE-012 [AHDOPE A-B-PEÑ-2-6](https://archivo.dominicoshispania.org/index.php/san-martin-del-castanar-salamanca): descripción de documento de 1834, no lectura del manuscrito.
+
+Estos cinco registros cuentan con extractos textuales recuperados; los siete anteriores conservan su estado pendiente. Contradicciones 1523/1537 y 1835/1837 abiertas.
