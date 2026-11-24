@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 layout: default
 title: Clima y observación
 parent: Peña de Francia
@@ -54,6 +54,10 @@ Para conocer la diferencia real entre la Peña y las poblaciones próximas se ne
 No utilizaremos una corrección térmica fija como sustituto de mediciones reales.
 
 ---
+
+## La expedición científica de 1857
+
+[Estudio de la expedición universitaria, las mediciones históricas y la documentación patrimonial](/lugares/pena-de-francia/clima-observacion/expedicion-1857/).
 
 ## La estación meteorológica automática de 1966
 

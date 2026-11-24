@@ -391,6 +391,10 @@ La evolución de la iglesia, las capillas, la plaza y las dependencias conventua
 
 ---
 
+## La expedición científica de 1857
+
+[Estudio de la expedición universitaria, las mediciones históricas y la documentación patrimonial](/lugares/pena-de-francia/clima-observacion/expedicion-1857/).
+
 ## La crisis del siglo XIX
 
 El siglo XIX supuso una ruptura importante en la continuidad institucional del convento.
