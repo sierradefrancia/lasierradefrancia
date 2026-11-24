@@ -323,3 +323,9 @@ Es el resultado de siglos de decisiones, relaciones territoriales, trabajos, con
 Los documentos conservados permiten recuperar una parte de esa trayectoria. Otros episodios siguen esperando nuevas investigaciones.
 
 **El propósito de esta sección es conocer y comprender esa historia a partir de sus testimonios, sin confundir lo documentado con lo que todavía permanece por descubrir.**
+
+## Instituciones y escalas territoriales
+
+La documentación de 1558 sobre comparecencias judiciales en Granadilla y el poder fiscal de 1791 para negociar en Plasencia muestran dependencias diferentes. La primera pertenece al ámbito señorial y judicial; la segunda al fiscal. La división provincial de 1833 no debe proyectarse retrospectivamente sobre ambas. Véanse [sociedad y vida cotidiana](./sociedad-vida-cotidiana/) y [siglos XIX y XX](./siglos-xix-xx/).
+
+*Integración del corpus existente; sin nuevo cotejo externo.*
