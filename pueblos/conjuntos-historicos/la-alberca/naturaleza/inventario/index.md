@@ -113,3 +113,9 @@ María Bausá Alcalde y Sergio Pérez Gorjón: candidatos para Personajes releva
 5. Registrar correcciones conservando identificadores y trazabilidad.
 
 Total: 41 registros heterogéneos provisionales; no es un recuento de especies.
+
+## Control de alcance
+
+Los registros ALB-NAT-030 a 032 identifican publicaciones, no especies; ALB-NAT-035 a 041 identifican acontecimientos o actuaciones. El total de 41 no es una medida de biodiversidad. La extracción futura de citas individuales deberá vincular cada registro a publicación, localidad general y taxón, manteniendo el nombre original y la revisión taxonómica por separado. Véase [inventario geográfico](../../geografia-territorio/inventario/).
+
+*Integración de referencias existentes; sin nuevo cotejo externo.*
