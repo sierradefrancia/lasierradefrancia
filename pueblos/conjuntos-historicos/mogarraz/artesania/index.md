@@ -40,3 +40,17 @@ La producción textil documentada en Mogarraz invita a compararla con la de [La 
 ## Zapatería
 
 [La huella de los zapateros](../articulos/los-zapateros/) reúne una referencia indirecta al Catastro, testimonios de aprendizaje y la conexión con Variaciones (2008).
+
+**Nota documental:** las declaraciones de consulta anteriores quedan pendientes de cotejo reproducible; esta ampliación utiliza el corpus existente.
+
+## Oficios y especialización
+
+Los doce carpinteros y dieciséis tejedores mencionados en el pregón publicado en 2013 ofrecen una aproximación a la diversidad profesional del siglo XVIII. Para interpretar esas cifras es necesario recuperar el registro fiscal original y conocer si contabiliza maestros, trabajadores, hogares u otras categorías. El alemanisco identifica una especialidad textil que merece cotejo con inventarios de bienes y contratos.
+
+Las arcas de castaño y nogal relacionan carpintería y mobiliario doméstico. Su atribución a talleres concretos requiere marcas, documentación de compra o testimonios identificados. La [Casa de las Artesanías](../patrimonio/casa-artesanias/) constituye otro ámbito de estudio de la conservación y presentación de los oficios.
+
+## Aprendizaje y circulación de conocimientos
+
+Los vínculos documentales atribuidos a Joaquín Mota Osuna y Rafael Rosellón Palomino permiten estudiar la movilidad de los orives entre Mogarraz, Extremadura y Portugal. No demuestran un origen único de toda la orfebrería local. El [artículo sobre los orives](../articulos/los-orives-y-las-fronteras/) desarrolla esta relación.
+
+Las [labranderas](../articulos/las-labranderas/) y los [zapateros](../articulos/los-zapateros/) aportan testimonios sobre aprendizaje y transformación de los oficios. La actividad con bordadoras registrada en la [Fundación Melón](../historia/fundacion-melon/) en 2023 permite incorporar una dimensión contemporánea sin confundir recuperación cultural con continuidad productiva.
