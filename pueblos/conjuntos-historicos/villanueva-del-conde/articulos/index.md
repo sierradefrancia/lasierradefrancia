@@ -1,4 +1,5 @@
 ---
+description: "Artículos sobre Villanueva del Conde: huertas interiores, bancales, bodegas y memoria agrícola."
 layout: default
 title: "Artículos de Villanueva del Conde"
 parent: Villanueva del Conde
