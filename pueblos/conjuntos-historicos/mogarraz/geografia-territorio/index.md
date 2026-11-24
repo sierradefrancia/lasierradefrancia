@@ -3,7 +3,7 @@ layout: default
 title: "Geografía y territorio de Mogarraz"
 parent: Mogarraz
 grand_parent: Conjuntos históricos
-nav_order: 10
+nav_order: 5
 last_modified_at: 2026-11-24
 description: "Superficie, organización administrativa y paisaje municipal."
 permalink: /pueblos/conjuntos-historicos/mogarraz/geografia-territorio/
