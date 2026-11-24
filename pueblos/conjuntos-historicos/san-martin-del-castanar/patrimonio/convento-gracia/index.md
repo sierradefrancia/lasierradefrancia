@@ -38,3 +38,13 @@ El debate de 1998 atribuye a los marqueses de Cerralvo parte de la biblioteca y 
 ## Patrimonio mueble
 
 El [relicario de la Santa Espina](../relicario/) dispone de expediente individual basado en extractos recuperados del estudio de Herrera-Vicente (2024). Su trayectoria posterior relaciona el convento con Mogarraz.
+
+## Unidades archivísticas y descripción material
+
+Consulta reproducible 24-11-2026: el [Censo-Guía del AHN](https://censoarchivos.cultura.gob.es/CensoGuia/imprimirFondo.htm?id=1000896) identifica CLERO-SECULAR_REGULAR,6058 y L.11104/11105 (1826). Un legajo y dos libros; contenido pendiente.
+
+La ficha 3 del [informe arqueológico de 2006](https://www.lasalina.es/documentacion/normasurbanisticas/286_1_Informe%20Arqueol%C3%B3gico.pdf) describe un recinto rectangular de unos 50 por 35 m, muro oriental de unos 6 m, tres arcos de medio punto, puerta adintelada, huertas meridionales y vestigios de torre al norte. Describe el estado de 2006, no el actual.
+
+El [diario parlamentario de 1998](https://sirdoc.ccyl.es/sirdoc/PDF/PUBLOFI/DS/COM/4L/DSCOM4L00355A.pdf) contiene un testimonio retrospectivo sobre hospedaje y donaciones de peregrinos de la Peña. Buscar testimonios históricos independientes antes de reconstruir itinerarios. No presupone relaciones institucionales entre las órdenes.
+
+La [ficha de autoridad PARES](https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/6087) y el [artículo de Herrera-Vicente](https://fh.mdp.edu.ar/revistas/index.php/cm/article/view/7808/8154) han sido recuperados también en esta consulta, corroborando la atribución de la fundación a Sancho y la procedencia conventual del relicario según el investigador. Las escrituras originales siguen pendientes.
