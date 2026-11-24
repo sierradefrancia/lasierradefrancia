@@ -35,3 +35,9 @@ Las referencias siguientes son pistas bibliográficas ya presentes en los expedi
 Distinguir documento original, transcripción, testimonio, interpretación y pista. No contar republicaciones del mismo texto como fuentes independientes. Una referencia incluida en un artículo no acredita por sí sola la comprobación de su contenido. Salvo las dos fichas comprobadas arriba, las declaraciones previas de consulta de los expedientes no disponen de evidencia recuperable suficiente para certificar su verificación. Se mantienen como referencias pendientes de cotejo.
 
 [Historia](../historia/) · [Patrimonio](../patrimonio/) · [Artículos](../articulos/)
+
+## Prioridades documentales
+
+Recuperar el privilegio o ejecutoria de 1671 y aclarar la fecha alternativa de 1656; consultar el Catastro original y la monografía de Rodríguez Arzúa; localizar planos y cuentas de la Fundación Melón; cotejar el catálogo de Gómez-Moreno y la procedencia museística; recuperar los originales fotográficos y sus licencias. Las referencias sobre ermitas desaparecidas requieren un inventario propio antes de asignar emplazamientos.
+
+**Rectificación de alcance:** tampoco se dispone en esta revisión de evidencia externa recuperable para certificar retrospectivamente las dos consultas encabezadas como comprobadas directamente. Se conservan sus enlaces como referencias prioritarias, no como certificación de consulta.
