@@ -31,3 +31,13 @@ El documento oficial distingue testimonios notariales del XVII y antecedentes li
 Cuando asistas a la Loa, mira también a quienes rodean el tablado. El patrimonio que se protege no es solo lo que ocurre encima.
 
 **Fuente:** [Acuerdo 10/2022, BOE-A-2022-1316](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2022-1316), consultado el 24-11-2026, anexo descriptivo. [Investigación sobre la Loa](../../cultura-tradiciones/loa/).
+
+## El día anterior
+
+La representación del 16 de agosto forma parte de un ciclo festivo más amplio. El día 15, el Diagosto reúne ofrendas, indumentaria ceremonial y participación vecinal. El traje de vistas y los palmeros permiten descubrir formas de expresión que no se reducen al argumento teatral.
+
+La Loa de la Asunción tampoco debe confundirse con las representaciones vinculadas a Majadas Viejas. El expediente de esta ermita recoge la restauración impulsada por Saturnino Jiménez Hernández y la celebración de 1954. Son contextos distintos que ayudan a comprender la diversidad del teatro religioso local.
+
+Para preparar la visita: [Diagosto](../../cultura-tradiciones/diagosto/), [Majadas Viejas](../../patrimonio/patrimonio-religioso/majadas-viejas/) y [calendario festivo](../../visitar/fiestas-y-tradiciones/).
+
+*Ampliación basada en los expedientes existentes del atlas; sin nuevo cotejo externo.*
