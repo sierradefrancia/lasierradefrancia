@@ -33,6 +33,8 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 
 ## Estudios e inventarios
 
+- [Historia de la recuperación de fauna](/lugares/las-batuecas/recuperacion-fauna/): reintroducciones, memoria profesional y conservación.
+
 - [Protección ambiental y gestión territorial](/lugares/las-batuecas/proteccion-ambiental/): figuras de protección, planificación y montes.
 
 - [Aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-tradicionales/): economía histórica, normas forestales y usos del paisaje.

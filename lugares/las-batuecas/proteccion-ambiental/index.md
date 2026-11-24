@@ -59,3 +59,5 @@ El expediente SA-FOR-2/2024 de la Junta distingue el monte Santuario de la Peña
 - [Expediente SA-FOR-2/2024, p. 6](https://contrataciondelestado.es/wps/wcm/connect/PLACE_es/Site/area/docAccCmpnt?DocumentIdParam=f8db0f13-2f00-4262-a33c-9dc21ef615cf&cmpntname=GetDocumentsById&source=library&srv=cmpnt).
 
 Consultados textos y extractos; no se ha realizado análisis SIG ni verificado la normativa posterior a la orden de revisión. Véanse [protección patrimonial](/lugares/las-batuecas/proteccion-patrimonial/), [río Batuecas](/lugares/las-batuecas/rio-batuecas/) y [aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-tradicionales/).
+
+Antecedentes de conservación: [Historia de la recuperación de fauna](/lugares/las-batuecas/recuperacion-fauna/).

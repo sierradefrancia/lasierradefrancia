@@ -69,3 +69,5 @@ Este índice zoológico inicial separa las escalas territoriales. Se ampliará �
 [Volver a Las Batuecas](/lugares/las-batuecas/)
 
 Marco de gestión: [Protección ambiental y gestión territorial](/lugares/las-batuecas/proteccion-ambiental/).
+
+Estudio histórico: [Historia de la recuperación de fauna](/lugares/las-batuecas/recuperacion-fauna/).
