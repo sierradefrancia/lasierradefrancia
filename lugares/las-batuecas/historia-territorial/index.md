@@ -54,6 +54,29 @@ La edición está localizada en la Biblioteca Jurídica del BOE. Los intentos an
 
 El título de la edición acredita el ámbito nominal del conjunto documental, pero no que cada disposición se aplicara de igual manera a todos los lugares mencionados. El análisis deberá conservar las fechas y ámbitos de cada ordenanza, distinguir las disposiciones originales de las notas editoriales y comprobar si existen confirmaciones o reformas posteriores.
 
+## 1291 y 1455: nuevas referencias territoriales
+
+Esteban Corral García, en su estudio sobre potestad concejil (p. 66), fecha el 8 de enero de 1291 la concesión de las dehesas de Las Hurdes y Las Batuecas por el concejo y comunidad de Granadilla. Una transcripción parcial reproducida en un estudio del Centro de Historia de Trujillo remite a José Pablo Blanco Carrasco (2008, pp. 49–50) y contiene una fecha de era 1327, correspondiente aritméticamente a 1289 si se emplea la era hispánica. Por tanto, existe una discrepancia 1289–1291 que requiere cotejar la escritura completa y su tradición documental. No debe identificarse automáticamente esta concesión con la noticia eclesiástica de 1288.
+
+La tesis doctoral de Ana Belén Valiente Martín (2024, p. 56) remite a Luciano Fernández Gómez (1984, p. 76) para las escrituras de arrendamiento de la dehesa de la Sierra o de Jurde de 1455. Entre las procedencias de los moradores que intervinieron figura Batuecas. La noticia constituye una pista concreta de poblamiento anterior al monasterio, aunque no permite localizar las viviendas, calcular población ni precisar la extensión territorial del topónimo. Falta cotejar el estudio de 1984 y la escritura.
+
+## Las ordenanzas de 1515: recuperación de una edición accesible
+
+La introducción de Berrogain (1930, p. 381), recuperada mediante la plataforma de revistas del Ministerio de Justicia, explica que su edición utiliza una copia de 1668 de las ordenanzas, renovada a partir del original concejil conservado en la iglesia parroquial. La proclamación tuvo lugar el 17 de septiembre de 1515. El acta menciona disposiciones antiguas y recientes; la fecha de promulgación no equivale necesariamente a la de creación de cada norma.
+
+Corral García contabiliza 163 capítulos y describe materias forestales, agrícolas, apícolas, comerciales y de gobierno local. La aplicación a cada sector del territorio debe comprobarse artículo por artículo. Una investigación posterior sobre apicultura reproduce la ordenanza XVIII, que regulaba distancias entre instalaciones ganaderas y colmenares, distinguiendo 160 estadales para corrales cerrados y 100 para puestos. No se convierten estas medidas a metros sin comprobar el patrón local. La norma revela una regulación de usos competidores, no la localización de colmenares concretos en el valle.
+
+La Diputación publicó en 2015 una edición de José Luis Puerto Hernández (77 páginas, ISBN 978-84-7797-485-7), nueva vía de cotejo.
+
+### Nuevas fuentes
+
+- [Berrogain, AHDE VII, 1930, p. 381 y ss.](https://revistas.mjusticia.gob.es/index.php/AHDE/article/download/5060/5060/4833): introducción recuperada; articulado completo pendiente.
+- [Esteban Corral García, estudio sobre potestad concejil, p. 66](https://riubu.ubu.es/bitstream/10259.4/2023/1/0211-8998_n202_p035-070.pdf).
+- [Ana Belén Valiente Martín, tesis doctoral, 2024, p. 56](https://dehesa.unex.es/bitstream/10662/19209/1/TDUEX_2024_Valiente_Martin.pdf).
+- [Referencia a Blanco Carrasco, 2008](https://chdetrujillo.com/pan-de-trigo-y-pan-de-ideas-las-limosnas-que-un-poeta-reclamo-y-un-obispo-consiguio/): transcripción indirecta.
+- [Estudio apícola, p. 59](https://www.index-f.com/lascasas/documentos/lc0611.pdf): reproducción parcial de la ordenanza XVIII.
+- [Catálogo Diputación, p. 51](https://www.lasalina.es/cultura/cultura/difusionypublicaciones/virtualcatalogoediciones/51/index.html): edición de 2015.
+
 ## 1599–1601: establecimiento religioso y derechos preexistentes
 
 La fundación carmelitana cuenta con varias fechas transmitidas por fuentes institucionales. La licencia episcopal de abril de 1599 y las noticias de establecimiento de mayo y junio deben estudiarse como actos posiblemente distintos. Véase la [historia del Desierto de San José](/lugares/las-batuecas/historia-carmelitana/).
@@ -98,6 +121,6 @@ Esta tabla no representa una secuencia de acontecimientos igualmente demostrados
 
 Estudios complementarios: [historia y leyenda](/lugares/las-batuecas/historia-leyenda/), [arquitectura carmelitana](/lugares/las-batuecas/arquitectura-carmelitana/) y [protección patrimonial](/lugares/las-batuecas/proteccion-patrimonial/).
 
-Este estudio sintetiza fuentes identificadas en fases anteriores. No incorpora una nueva lectura de originales ni una reconstrucción cartográfica verificada.
+El estudio incorpora nuevos extractos académicos y de la introducción de Berrogain. No se han cotejado las escrituras originales ni reconstruido cartográficamente los términos.
 
 [Volver a Las Batuecas](/lugares/las-batuecas/)
