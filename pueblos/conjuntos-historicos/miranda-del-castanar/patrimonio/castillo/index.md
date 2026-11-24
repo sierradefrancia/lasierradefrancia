@@ -1,4 +1,5 @@
 ---
+description: "El castillo de Miranda del Castañar: fortificación, historia condal y relación con el recinto urbano."
 layout: default
 title: "Castillo"
 parent: Patrimonio de Miranda del Castañar
