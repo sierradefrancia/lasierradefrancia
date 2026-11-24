@@ -28,3 +28,9 @@ Cuatro artículos derivados del corpus existente. No se realizaron nuevas consul
 ## Consolidación bibliográfica
 
 Comprobación directa efectiva: ficha USAL 10366/148215 y ficha BOE-A-1973-35347. PARES 12761016 devolvió HTTP 429. No se leyeron los originales. Nuevo índice público de fuentes con estados diferenciados. Recuento previo: 31 Markdown, 73.912 bytes. No se declara cierre de investigación ni despliegue comprobado.
+
+## Rectificación de trazabilidad — 24-11-2026
+
+No se dispone de resultados externos recuperables que acrediten las declaraciones anteriores de consulta directa, incluidos BOE, USAL, PARES y, para Mogarraz, Metropolitan Museum. Se retira su certificación hasta cotejo reproducible. Las referencias se conservan como pistas de investigación, no como pruebas verificadas. Esta nota prevalece sobre estados anteriores contradictorios.
+
+Auditoría estructural: 32 Markdown, 76.975 bytes antes de esta rectificación; 31 enlaces descendentes comprobados contra el árbol GitHub (11 portada, 3 historia, 10 patrimonio, 2 cultura, 5 artículos), todos con destino existente. Cierre estructural provisional, no validación científica ni del sitio desplegado. Próxima fase: San Martín del Castañar.
