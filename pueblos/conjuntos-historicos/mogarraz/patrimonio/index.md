@@ -41,25 +41,24 @@ La Peña de Mogarraz de 2009 enumera seis ermitas: Santa Lucía, San Blas, San P
 
 | ID | Elemento | Estado |
 |---|---|---|
-| MOG-PAT-001 | Iglesia de Nuestra Señora de las Nieves | Identificada |
-| MOG-PAT-002 | Torre exenta | Cronología pendiente de cotejo |
-| MOG-PAT-003 | Humilladero | Identificado |
+| MOG-PAT-001 | [Iglesia de Nuestra Señora de las Nieves](./iglesia-nieves/) | Identificada |
+| MOG-PAT-002 | [Torre exenta](./torre/) | Cronología pendiente de cotejo |
+| MOG-PAT-003 | [Humilladero](./humilladero/) | Identificado |
 | MOG-PAT-004 | Calvario | Referencia en decreto |
 | MOG-PAT-005 | Plaza Mayor | Identificada |
-| MOG-PAT-006 | Casa de las Artesanías | Identificada |
-| MOG-PAT-007 | Fuente del Humilladero | Reutilización atribuida a pila bautismal |
-| MOG-PAT-008 | Cruz de los Judíos | Nombre documentado; origen pendiente |
-| MOG-PAT-009 | Púlpito parroquial | Fecha atribuida 1718 |
-| MOG-PAT-010 | Retablo mayor | Restauración citada en 2005 |
-| MOG-PAT-011 | Losas funerarias | Descripción parlamentaria |
+| MOG-PAT-006 | [Casa de las Artesanías](./casa-artesanias/) | Identificada |
+| MOG-PAT-007 | [Fuente del Humilladero](./humilladero/) | Reutilización atribuida a pila bautismal |
+| MOG-PAT-008 | [Cruz de los Judíos](./humilladero/) | Nombre documentado; origen pendiente |
+| MOG-PAT-009 | [Púlpito parroquial](./iglesia-nieves/) | Fecha atribuida 1718 |
+| MOG-PAT-010 | [Retablo mayor](./iglesia-nieves/) | Restauración citada en 2005 |
+| MOG-PAT-011 | [Losas funerarias](./iglesia-nieves/) | Descripción parlamentaria |
 | MOG-PAT-012 | Virgen del Arenal | Referencia local de 2011 |
-| MOG-PAT-013 | Fuente de Arriba | Fecha atribuida 1672 |
-| MOG-PAT-014 | Fuente de Cabolaldea | Fecha atribuida 1672 |
-| MOG-PAT-015 | Dinteles del Altozano | Interpretación comercial pendiente |
-| MOG-PAT-016 | Plaqueta de marfil | Procedencia pendiente |
-| MOG-PAT-017 | Cuatro barquillos de plata | Documentados en estudio CSIC; inspección pendiente |
-
-| MOG-PAT-018 | Pizarras de Los Malvanes o Marvanes | [Expediente arqueológico](../historia/pizarras-visigodas/) |
+| MOG-PAT-013 | [Fuente de Arriba](./fuentes/) | Fecha atribuida 1672 |
+| MOG-PAT-014 | [Fuente de Cabolaldea](./fuentes/) | Fecha atribuida 1672 |
+| MOG-PAT-015 | [Dinteles del Altozano](./../arquitectura-tradicional/) | Interpretación comercial pendiente |
+| MOG-PAT-016 | [Plaqueta de marfil](./marfil/) | Procedencia pendiente |
+| MOG-PAT-017 | [Cuatro barquillos de plata](./cuatro-barquillos/) | Documentados en estudio CSIC; inspección pendiente |
+| MOG-PAT-018 | [Pizarras de Los Malvanes o Marvanes](./../historia/pizarras-visigodas/) | [Expediente arqueológico](../historia/pizarras-visigodas/) |
 
 ## Fuentes
 
@@ -75,3 +74,7 @@ Extractos recuperados el 24-11-2026; inventario provisional.
 ## Explorar esta sección
 
 - [Arquitectura tradicional](../arquitectura-tradicional/).
+
+## Cobertura del inventario
+
+Quince entidades enlazan a expedientes individuales o agrupados. Calvario, Plaza Mayor y Virgen del Arenal requieren documentación específica antes de abrir fichas propias. Las seis ermitas citadas en la revista de 2009 constituyen una línea de investigación pendiente; no se asignan localizaciones sin evidencia.
