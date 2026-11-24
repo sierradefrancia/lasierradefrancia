@@ -1,4 +1,5 @@
 ---
+description: "Las plazas de San Martín del Castañar: espacios públicos, arquitectura y funciones en la vida histórica de la villa."
 layout: default
 title: "Las plazas y los edificios públicos"
 parent: Patrimonio de San Martín del Castañar
