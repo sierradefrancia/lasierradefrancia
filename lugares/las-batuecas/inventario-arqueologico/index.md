@@ -1,0 +1,55 @@
+---
+layout: default
+title: Inventario arqueológico de Las Batuecas
+parent: Las Batuecas
+grand_parent: Lugares de interés
+last_modified_at: 2026-11-24
+description: "Inventario documental de los quince abrigos rupestres recogidos en el expediente de 1999."
+permalink: /lugares/las-batuecas/inventario-arqueologico/
+---
+
+# Inventario arqueológico de Las Batuecas
+
+## Alcance y método
+
+La resolución de 26 de enero de 1999 permite establecer una base nominal comprobable para estudiar el patrimonio rupestre del valle. Los identificadores siguientes son editoriales, no códigos oficiales de yacimiento. Conservan el orden y las denominaciones de la fuente. Una entrada puede representar un conjunto de abrigos, de modo que quince entradas no equivalen necesariamente a quince paneles ni a quince cavidades individuales.
+
+| Identificador | Denominación de 1999 |
+|---|---|
+| BAT-ARQ-001 | Canchal de las Cabras Pintadas |
+| BAT-ARQ-002 | Canchal del Águila |
+| BAT-ARQ-003 | Canchales de la Pizarra |
+| BAT-ARQ-004 | Canchales del Zarzalón |
+| BAT-ARQ-005 | Cueva del Cristo |
+| BAT-ARQ-006 | Umbría del Canchal del Cristo |
+| BAT-ARQ-007 | Canchales de Mahoma |
+| BAT-ARQ-008 | Umbría de la Cotorrina |
+| BAT-ARQ-009 | Majadilla de las Torres |
+| BAT-ARQ-010 | Canchal de los Acerones |
+| BAT-ARQ-011 | Corral de Morcilla |
+| BAT-ARQ-012 | Covacho del Pallón |
+| BAT-ARQ-013 | Risco del Ciervo |
+| BAT-ARQ-014 | Canchal de Villita |
+| BAT-ARQ-015 | Canchal de las Torres |
+
+## Diferencias de escala
+
+El nombre de un abrigo no identifica automáticamente una figura concreta. Para comparar publicaciones históricas será preciso diferenciar enclave, sector, panel, motivo y documento gráfico. Tampoco se debe deducir la presencia de una especie animal a partir del topónimo de un canchal.
+
+Las Cabras Pintadas poseen una referencia jurídica específica a 1924 en el expediente. El Pallón y el Corral de Morcilla cuentan con publicaciones de Julián Bécares Pérez en Zephyrus, que ofrecen puntos de partida para reconstruir su documentación científica. Su lectura íntegra queda pendiente y no se incorporan aquí recuentos de figuras ni atribuciones cronológicas particulares sin comprobar.
+
+## Uso y conservación
+
+El inventario no es un itinerario turístico ni establece condiciones de acceso. No incluye coordenadas de enclaves sensibles. Las denominaciones permiten relacionar estudios y documentos patrimoniales, no localizar físicamente pinturas fuera de recorridos autorizados.
+
+La revisión futura deberá identificar variantes nominales, agrupaciones, fuentes gráficas y posibles incorporaciones al inventario. Las correcciones documentadas conservarán el identificador editorial para facilitar la trazabilidad.
+
+## Documentación
+
+- [Resolución de 1999: anexo, relación nominal de abrigos](https://www.boe.es/diario_boe/txt.php?id=BOE-A-1999-4615), texto completo cotejado.
+- [Bécares: Covacho del Pallón](https://revistas.usal.es/uno/index.php/0514-7336/es/article/view/1953), referencia para ampliación.
+- [Bécares: Corral de Morcilla](https://revistas.usal.es/uno/index.php/0514-7336/it/article/view/442), referencia para ampliación.
+
+[Historia de la protección patrimonial](/lugares/las-batuecas/proteccion-patrimonial/).
+
+[Volver a Las Batuecas](/lugares/las-batuecas/)

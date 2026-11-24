@@ -1,10 +1,10 @@
 ---
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 layout: default
 title: Las Batuecas
 parent: Lugares de interés
 nav_order: 2
-has_children: false
+has_children: true
 description: "Conoce el valle de Las Batuecas, en la Sierra de Francia: paisaje, río, arte rupestre, monasterio carmelita, biodiversidad, historia y consejos para visitarlo."
 permalink: /lugares/las-batuecas/
 ---
@@ -24,6 +24,13 @@ Pero Las Batuecas no destaca solamente por su naturaleza.
 Entre sus abrigos rocosos se conservan pinturas prehistóricas realizadas hace miles de años. Y en el interior del valle se encuentra el monasterio carmelita del Desierto de San José, vinculado durante siglos a la vida contemplativa.
 
 Esta combinación de valores naturales, arqueológicos, históricos y espirituales convierte Las Batuecas en un lugar extraordinario para conocer y comprender la Sierra de Francia.
+
+---
+
+## Estudios e inventarios
+
+- [Protección patrimonial de Las Batuecas](/lugares/las-batuecas/proteccion-patrimonial/): evolución jurídica, delimitación y fuentes originales.
+- [Inventario arqueológico de Las Batuecas](/lugares/las-batuecas/inventario-arqueologico/): registro documental de los quince conjuntos del expediente de 1999.
 
 ---
 
