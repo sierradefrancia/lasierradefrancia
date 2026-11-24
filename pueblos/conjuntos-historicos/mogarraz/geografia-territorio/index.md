@@ -21,3 +21,17 @@ El municipio y el conjunto histórico protegido son ámbitos distintos. Quedan p
 - [Diputación de Salamanca, ficha municipal](https://www.lasalina.es/Aplicaciones/GestorInter.jsp?codMunicipio=194&funcion=MuestraInformacionMunicipio&prestacion=Cipublico).
 
 Extractos recuperados mediante búsqueda el 24-11-2026.
+
+## Tres escalas territoriales
+
+Los 9,05 km² registrados y los 9 km² de la ficha provincial son compatibles con un redondeo. La densidad de 26,08 habitantes por km² corresponde aproximadamente a dividir 236 habitantes entre aquella superficie. No debe extrapolarse al casco urbano, donde la concentración residencial es diferente.
+
+La altitud de 766 metros caracteriza una referencia del núcleo, no sus cotas extremas. El [paisaje y los caminos](../paisaje-y-caminos/) permiten estudiar la relación entre el asentamiento, las laderas y los cauces.
+
+## Jurisdicción histórica y administración actual
+
+La pertenencia al partido judicial de Ciudad Rodrigo recogida en la ficha provincial corresponde a la organización administrativa contemporánea. La antigua dependencia del [condado de Miranda](/pueblos/conjuntos-historicos/miranda-del-castanar/historia/condado/) y el villazgo discutido en [historia](../historia/) pertenecen a otro marco jurídico.
+
+El itinerario compartido con Monforte de la Sierra constituye una relación territorial que supera los límites municipales. La cartografía de [naturaleza](../naturaleza/) deberá distinguir las cuencas, los usos agrarios y las figuras de protección de estos ámbitos administrativos.
+
+**Alcance documental:** ampliación basada en las referencias ya registradas, pendientes de cotejo reproducible.
