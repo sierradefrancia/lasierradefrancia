@@ -1,4 +1,5 @@
 ---
+description: "El condado de Miranda del Castañar y la organización del poder señorial en su contexto histórico."
 layout: default
 title: "La Casa y el condado de Miranda"
 parent: Historia de Miranda del Castañar
