@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Las pizarras visigodas de Mogarraz"
-parent: Mogarraz
-grand_parent: Conjuntos históricos
-nav_order: 15
+parent: Historia de Mogarraz
+grand_parent: Mogarraz
+nav_order: 1
 last_modified_at: 2026-11-24
 permalink: /pueblos/conjuntos-historicos/mogarraz/historia/pizarras-visigodas/
 ---
