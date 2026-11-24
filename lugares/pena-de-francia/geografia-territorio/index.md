@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Geografía y territorio
+title: Geografía y territorio de la Peña de Francia
 parent: Peña de Francia
 grand_parent: Lugares de interés
 nav_order: 2
