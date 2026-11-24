@@ -22,3 +22,10 @@ Inventario inicial de registros catalogados; no implica escucha ni autorización
 ATO 102 y 103 fueron recopilados por Antonio Sánchez del Barrio y Mercedes Cano (Herrera en ATO 102). Para cada pista registrar soporte, fecha, informante, recopilador, minuto, transcripción, alcance temporal del recuerdo, derechos y contraste. No identificar informantes homónimos sin evidencia. La mención de un remedio popular no acredita eficacia sanitaria. Todos los registros están en estado catalogado, audio no escuchado.
 
 Consulta de fichas y extractos: 2026-11-24. Investigación abierta.
+
+
+| ID local | Registro | Fecha | Alcance |
+|---|---|---|---|
+| ALB-SON-005 | [ATO 101](https://funjdiaz.net/fono1.php?pag=6) | 21–22-06-1984 | Boda, Víctor Pavón de Miranda del Castañar y vecinos de La Alberca; defectos de audio documentados |
+
+Relacionado con [ciclo vital](../ciclo-vital/). Catalogado; audio no escuchado.
