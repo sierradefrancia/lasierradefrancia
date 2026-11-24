@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-24
 layout: default
 title: Santuario y patrimonio
 parent: Peña de Francia
@@ -793,6 +793,8 @@ El expediente oficial debe determinar:
 ---
 
 ## Inventario de detalles pendientes de documentar
+
+[Consultar el inventario individualizado de elementos y expedientes patrimoniales](/lugares/pena-de-francia/santuario-patrimonio/inventario/).
 
 El conocimiento del santuario puede ampliarse considerablemente mediante un inventario fotográfico y documental.
 
