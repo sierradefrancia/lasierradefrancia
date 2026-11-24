@@ -29,3 +29,7 @@ El hogar, la reserva de combustible y el secado muestran cómo una vivienda pod�
 ## Referencias
 
 Véase el [registro bibliográfico del bloque](/pueblos/conjuntos-historicos/la-alberca/patrimonio/arquitectura-tradicional/). Consulta parcial de las fuentes, 24-11-2026; investigación abierta.
+
+## Caso individual
+
+La [Casa Museo Satur Juanela](/pueblos/conjuntos-historicos/la-alberca/patrimonio/arquitectura-tradicional/casa-satur-juanela/) aporta una distribución documentada por niveles y vocabulario local (salaero, campocasa, sobrao). Se distingue la organización histórica de la musealización actual. El TFG de Fuentes Hernández cuenta con trabajo de campo confirmado en su ficha USAL; no se ha verificado que ambas fuentes describan una misma casa.
