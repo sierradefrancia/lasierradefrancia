@@ -31,3 +31,17 @@ La [ficha oficial del Metropolitan Museum](https://www.metmuseum.org/art/collect
 ## Recuperación de la memoria de procedencia
 
 Una [noticia de F. Blázquez, 24-04-2009](https://www.i-bejar.com/noticias/comarca/tablilla-medieval-mogarraz-metropolitano-nueva-york-5366.htm) atribuye a María Nieves Maíllo Vicente, Ignacio Pastor y Concha Hernández las gestiones para corregir la procedencia consignada por el museo. Afirma que los investigadores vieron correspondencia de Luis R. de Miguel y documentación de la colección Morgan. No hemos consultado esa correspondencia. La ficha actual recuperada no muestra explícitamente Mogarraz en su descripción visible; queda pendiente recuperar el historial de procedencia completo. No se conoce cómo salió de la parroquia.
+
+**Nota documental:** las declaraciones de consulta anteriores quedan pendientes de cotejo reproducible; esta ampliación utiliza el corpus existente.
+
+## Identificación y procedencia: dos problemas distintos
+
+El número de inventario 17.190.142 permite seguir una pieza concreta en el catálogo museístico. La proximidad de las dimensiones transmitidas por Gómez-Moreno y las de la ficha moderna constituye un indicio de identificación, que debe contrastarse con fotografías y descripción original. Las diferencias de medidas pueden responder a métodos de medición, pero no se ha comprobado esa explicación.
+
+La escena representada admite interpretaciones diferentes. La atribución a una hermana de san Vicente y la posibilidad de una curación deben conservarse como lecturas iconográficas, no como identificación definitiva.
+
+## La trayectoria del objeto
+
+La referencia a Luis R. de Miguel, la incorporación a la colección Morgan y la donación de 1917 proporcionan hitos para investigar la procedencia. Falta documentar las transmisiones intermedias y las circunstancias de salida de Mogarraz. No procede calificarlas jurídicamente sin conocer los documentos.
+
+El [artículo sobre el marfil](../../articulos/el-marfil-que-cruzo-el-oceano/) desarrolla su dimensión narrativa. El [relicario de Gracia](/pueblos/conjuntos-historicos/san-martin-del-castanar/patrimonio/relicario/), conservado posteriormente en Mogarraz según la bibliografía registrada, ofrece otra trayectoria patrimonial, independiente de esta pieza.
