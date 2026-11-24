@@ -89,3 +89,11 @@ La ceremonia de enero de 2015 documenta un uso conmemorativo del monumento, dist
 La referencia a 1291 en Berrogain debe leerse junto a la discrepancia entre era 1327 y su conversión a 1289, desarrollada en [documentos y cronología](../../../historia/documentos-cronologia/). La tesis de Legendre sobre Las Hurdes aporta una perspectiva geográfica del siglo XX, no una confirmación independiente de la fecha medieval.
 
 *Revisión del corpus existente; sin nuevo cotejo externo.*
+
+## El monumento y la historia de la investigación
+
+La ceremonia de enero de 2015 aporta un término anterior al cual existía el busto, no su fecha de inauguración. La condición de hijo adoptivo y el encargo escultórico requieren acuerdos municipales distintos. La residencia de Legendre en la calle Prados, referida en la crónica, ofrece otra línea documental independiente de la historia material del monumento.
+
+Ignacio Hoyos, citado como guía, permite investigar la contribución de los habitantes al conocimiento territorial. La tesis de 1927 y su edición castellana de 2006 pertenecen a la historia intelectual, no a la cronología escultórica. Véanse [La Alberca y Las Hurdes](../../../historia/alberca-hurdes/) y [Legendre y la mirada](../../../articulos/legendre-y-la-mirada/).
+
+*Síntesis de fuentes previamente registradas; sin nuevo cotejo externo.*
