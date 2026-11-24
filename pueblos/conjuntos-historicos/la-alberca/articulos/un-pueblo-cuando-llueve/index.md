@@ -1,4 +1,5 @@
 ---
+description: "Descubrir La Alberca bajo la lluvia: soportales, arquitectura de la Plaza Mayor y alternativas de visita cultural."
 layout: default
 title: "La Alberca bajo la lluvia"
 parent: Artículos
