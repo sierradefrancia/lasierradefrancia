@@ -26,8 +26,10 @@ Los edificios civiles y espacios públicos permiten conocer la organización mun
 
 - [Antiguas escuelas](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/escuelas/): organización educativa y edificio de 1935.
 
-## Líneas abiertas
+- [Puentes y caminos históricos](/pueblos/conjuntos-historicos/la-alberca/patrimonio/patrimonio-civil/puentes-y-caminos/): La Puente y conexiones territoriales.
 
-antiguas escuelas; puentes y comunicaciones históricas.
+## Continuidad de la investigación
+
+Primera serie de seis monografías incorporada. Permanecen abiertas la revisión de fuentes, la ampliación del inventario y las investigaciones específicas de cada inmueble.
 
 Los [elementos patrimoniales](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/) asociados se estudian en sus propias monografías.
