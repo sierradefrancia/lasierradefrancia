@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Historia
+title: Historia de la Peña de Francia
 parent: Peña de Francia
 grand_parent: Lugares de interés
 nav_order: 1
