@@ -1,4 +1,5 @@
 ---
+description: "De la alhóndiga al teatro: evolución de un espacio público de Sequeros y memoria de sus usos."
 layout: default
 title: "De la alhóndiga al teatro"
 parent: "Artículos de Sequeros"
