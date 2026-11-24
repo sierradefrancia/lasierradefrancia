@@ -1,7 +1,7 @@
 {% comment %}
 ==================================================
 LA SIERRA DE FRANCIA
-SCHEMA TERRITORIAL — V5
+SCHEMA TERRITORIAL — V6
 ==================================================
 
 Fuente principal:
@@ -78,7 +78,7 @@ alternativos del front matter.
 No se generan entidades sin nombre y tipo.
 {% endcomment %}
 
-{% assign allowed_types = "Place,City,AdministrativeArea,Mountain,TouristAttraction,NaturalFeature,Taxon" | split: "," %}
+{% assign allowed_types = "Place,City,AdministrativeArea,Landform,TouristAttraction,Taxon,Person" | split: "," %}
 
 {% if entity_type and entity_name %}
 {% if allowed_types contains entity_type %}
@@ -117,7 +117,7 @@ El documento conserva su URL canónica.
   "sameAs": {{ entity_same_as | jsonify }}
   {% endif %}
 
-  {% unless entity_type == "Taxon" %}
+  {% unless entity_type == "Taxon" or entity_type == "Person" %}
 
     {% if entity_latitude != nil and entity_longitude != nil %},
     "geo": {
