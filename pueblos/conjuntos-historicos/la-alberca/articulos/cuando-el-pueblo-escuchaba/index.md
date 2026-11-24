@@ -45,3 +45,13 @@ Cuando visites La Alberca, deja un momento para escuchar. No esperes que el pueb
 - [Fuentes sonoras](../../cultura-tradiciones/fuentes-sonoras/).
 
 Ensayo basado en referencias internas pendientes de cotejo externo. No reconstruye sonidos ni afirma vigencia de los toques históricos.
+
+## Contar los golpes
+
+El repertorio recogido en el expediente distingue toques asociados a cofradías: se citan 72 golpes para el Santo Sepulcro y 33 en relación con el Cristo. Para San Juan de Sahagún aparecen dos cifras, 44 y 49. Esa diferencia no debe resolverse eligiendo la que parezca más convincente: puede deberse a variantes o a errores de transmisión.
+
+La precisión importa porque un toque no es solamente una sucesión de golpes. También cuenta su ritmo, sus pausas y el contexto en que se ejecuta. El catálogo de la boda de junio de 1984 constituye una pista para contrastar parte de aquel paisaje sonoro, no una transcripción musical.
+
+La investigación del [repertorio de campanas](../../patrimonio/patrimonio-religioso/iglesia-asuncion/campanas-reloj-matraca/) conserva estas discrepancias.
+
+*Ampliación basada en los expedientes existentes del atlas; sin nuevo cotejo externo.*
