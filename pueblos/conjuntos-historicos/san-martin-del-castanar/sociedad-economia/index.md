@@ -11,3 +11,5 @@ permalink: /pueblos/conjuntos-historicos/san-martin-del-castanar/sociedad-econom
 # Sociedad y economía de San Martín
 
 El antiguo uso de edificios vinculados al obispado, mencionado en la portada, abre una investigación sobre almacenamiento, rentas y economía local. Debe comprobarse mediante inventarios y documentación fiscal. El Catastro de Ensenada, padrones y estadísticas INE son fuentes prioritarias aún no consultadas.
+
+El catálogo (p. 16) describe intercambio de vino y lino por cereales del Campo de Salamanca y ausencia de vacuno en los datos catastrales de 1752 que resume. Pendiente cotejo del Catastro original.
