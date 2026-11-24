@@ -353,3 +353,9 @@ Simón Vela: mantener la línea existente, sin duplicación. [Fuentes de Sequero
 
 - Carlos Flores López: interpretación arquitectónica citada en la [incoación de 2015](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2016-568); edición y página originales pendientes. Verificar si ya existe identidad central antes de asignar ID.
 - Antonio Bazquez: grafía municipal del autor atribuido de retablos en 1795; identidad y documentación original pendientes.
+
+### Mogarraz — relaciones complementarias del ciclo editorial
+
+Los 70 identificadores PER-MOG existentes se conservan sin nuevas altas duplicadas. Ángeles de Nacimiento Lorenzo (012), Adela Núñez Maíllo (036), Alfonsa Herrero Maíllo (040), Francisca Becerro (041), Conchita Criado Criado (042), Juanita Criado Puerto (043) y Agustín López Martín (054) disponen de contexto ampliado en los [artículos de Mogarraz](/pueblos/conjuntos-historicos/mogarraz/articulos/).
+
+Relaciones artísticas pendientes de reconciliación: Miguel Poza, Virginia Calvo, Alfredo Sánchez, Juárez & Palmero y Juanvi Sánchez, según el [expediente del Camino del Agua](/pueblos/conjuntos-historicos/mogarraz/paisaje-y-caminos/). Manuel Pérez de Arrilucea y Florencio Maíllo ya aparecen en el registro; añadir relaciones, no duplicar identidades. Comprobar si Juárez & Palmero corresponde a los artistas registrados en San Martín. No se certifica una nueva consulta externa.
