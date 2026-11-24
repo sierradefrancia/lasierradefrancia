@@ -2,7 +2,7 @@
 {% comment %}
 ====================================================
 LA SIERRA DE FRANCIA
-HEAD CUSTOM — V2
+HEAD CUSTOM — V3
 ====================================================
 
 Capa semántica complementaria para:
@@ -69,71 +69,17 @@ Se conserva el identificador estable
 {% comment %}
 BREADCRUMBS
 
-Se resuelven los padres mediante:
-- Título exacto.
-- Ubicación jerárquica de la URL.
-- Existencia de una página real.
-
-Esto reduce las ambigüedades que produciría
-buscar únicamente por título.
-
-No se inventan URLs.
+Se resuelven los ancestros por prefijos completos de URLs de páginas reales.
 No se generan breadcrumbs para la portada.
 {% endcomment %}
 
 {% unless page.url == '/' %}
 
-{% assign parent_page = nil %}
-{% assign grandparent_page = nil %}
-
-{% if page.grand_parent %}
-
-  {% for candidate in site.pages %}
-
-    {% if candidate.title == page.grand_parent %}
-
-      {% assign candidate_path = candidate.url %}
-      {% assign candidate_size = candidate_path | size %}
-      {% assign current_prefix = page.url | slice: 0, candidate_size %}
-
-      {% if candidate_path == current_prefix %}
-        {% assign grandparent_page = candidate %}
-        {% break %}
-      {% endif %}
-
-    {% endif %}
-
-  {% endfor %}
-
-{% endif %}
-
-{% if page.parent %}
-
-  {% for candidate in site.pages %}
-
-    {% if candidate.title == page.parent %}
-
-      {% assign candidate_path = candidate.url %}
-      {% assign candidate_size = candidate_path | size %}
-      {% assign current_prefix = page.url | slice: 0, candidate_size %}
-
-      {% if candidate_path == current_prefix %}
-        {% assign parent_page = candidate %}
-        {% break %}
-      {% endif %}
-
-    {% endif %}
-
-  {% endfor %}
-
-{% endif %}
-
 {% comment %}
-GENERACIÓN DE BREADCRUMBLIST
-
-Posiciones consecutivas.
-Solo páginas existentes.
+Ancestros documentales reales por prefijo de URL, ordenados de menor a mayor profundidad.
+No se crean niveles inexistentes.
 {% endcomment %}
+{% assign breadcrumb_candidates = site.pages | sort: "url" %}
 
 {% assign breadcrumb_position = 1 %}
 
@@ -150,31 +96,21 @@ Solo páginas existentes.
       "item": {{ home_url | jsonify }}
     }
 
-    {% if grandparent_page %}
-
-      {% assign breadcrumb_position = breadcrumb_position | plus: 1 %}
-
-      ,{
-        "@type": "ListItem",
-        "position": {{ breadcrumb_position }},
-        "name": {{ grandparent_page.title | jsonify }},
-        "item": {{ grandparent_page.url | absolute_url | jsonify }}
-      }
-
-    {% endif %}
-
-    {% if parent_page %}
-
-      {% assign breadcrumb_position = breadcrumb_position | plus: 1 %}
-
-      ,{
-        "@type": "ListItem",
-        "position": {{ breadcrumb_position }},
-        "name": {{ parent_page.title | jsonify }},
-        "item": {{ parent_page.url | absolute_url | jsonify }}
-      }
-
-    {% endif %}
+    {% for ancestor in breadcrumb_candidates %}
+      {% assign ancestor_url = ancestor.url | default: "" %}
+      {% assign ancestor_length = ancestor_url | size %}
+      {% assign ancestor_prefix = page.url | slice: 0, ancestor_length %}
+      {% assign ancestor_last = ancestor_url | slice: -1, 1 %}
+      {% if ancestor_url != "/" and ancestor_url != page.url and ancestor_last == "/" and ancestor_prefix == ancestor_url and ancestor.title and ancestor.published != false %}
+        {% assign breadcrumb_position = breadcrumb_position | plus: 1 %}
+        ,{
+          "@type": "ListItem",
+          "position": {{ breadcrumb_position }},
+          "name": {{ ancestor.title | jsonify }},
+          "item": {{ ancestor_url | absolute_url | jsonify }}
+        }
+      {% endif %}
+    {% endfor %}
 
     {% assign breadcrumb_position = breadcrumb_position | plus: 1 %}
 
