@@ -26,3 +26,13 @@ Véase el [registro bibliográfico del bloque](/pueblos/conjuntos-historicos/la-
 Eduardo Hernández-Pacheco, BH FOT HP 1165, 1900–1950 (intervalo de catalogación). Diapositiva sobre vidrio, Archivo fotográfico Hernández-Pacheco, Biblioteca Histórica UCM. El catálogo describe vecinos sentados junto a las entradas de viviendas. La calle exacta permanece sin identificar.
 
 [Consultar fotografía original y ficha](https://patrimoniodigital.ucm.es/s/patrimonio/item/1696915). Licencia [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). Derechos: Universidad Complutense de Madrid. Ficha comprobada el 24-11-2026; imagen original pendiente de descarga e inspección.
+
+## La calle como espacio compartido
+
+El registro fotográfico HP 1165 describe vecinos sentados junto a entradas de viviendas. Aporta una pista sobre la relación entre umbral y calle, distinta de la información que proporciona un plano parcelario. Su intervalo de catalogación, 1900–1950, no permite situar la escena antes o después de la protección de 1940.
+
+Para identificar el emplazamiento deben compararse alineaciones, huecos, vuelos y accesos con imágenes fechadas. No se ha inspeccionado la diapositiva. Los soportales de la [Plaza Mayor](../../patrimonio-civil/plaza-mayor/) representan otra relación entre edificio y espacio público, que no debe generalizarse a las calles residenciales.
+
+La [adaptación climática](../arquitectura-y-clima/) y la distribución de la [Casa Satur Juanela](../casa-satur-juanela/) permiten relacionar parcela, altura y usos sin deducir la edad del trazado de su irregularidad.
+
+*Síntesis del corpus documental existente; sin nuevo cotejo externo.*
