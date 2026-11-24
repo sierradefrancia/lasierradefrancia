@@ -1,4 +1,5 @@
 ---
+description: "Historia de Sequeros: villazgo, jurisdicción, partido judicial y evolución de sus instituciones."
 layout: default
 title: "Historia de Sequeros"
 parent: Sequeros
