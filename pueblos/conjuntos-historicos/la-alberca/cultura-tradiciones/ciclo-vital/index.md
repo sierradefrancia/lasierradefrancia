@@ -38,3 +38,11 @@ El artículo distingue la esquila cotidiana de una mensual y describe obligacion
 - Comparar etapas y variantes con otras localidades sin convertir la práctica albercana en norma comarcal.
 
 Consulta documental: 24-11-2026. No se han examinado registros civiles o parroquiales ni escuchado los audios.
+
+## Reciprocidad y transformación de la vida familiar
+
+La espiga y las cuartillas descritas por Cano y Sanz permiten investigar la boda como intercambio entre hogares, además de celebración religiosa. El desplazamiento del convite hacia establecimientos hoteleros modifica el lugar de preparación y consumo, pero no demuestra por sí solo la desaparición de las obligaciones familiares. La distribución de tareas debe contrastarse con testimonios de distintas generaciones.
+
+ATO 101 registra una boda concreta de junio de 1984; ATO 102 recoge recuerdos de Tomás Hoyos. La diferencia entre observación y memoria retrospectiva permite plantear una comparación histórica, sin atribuir a todos los matrimonios las características de aquel registro. Véanse [fuentes sonoras](../fuentes-sonoras/) y [vida doméstica](../../patrimonio/arquitectura-tradicional/vida-domestica/).
+
+*Síntesis de referencias existentes; sin nuevo cotejo externo.*
