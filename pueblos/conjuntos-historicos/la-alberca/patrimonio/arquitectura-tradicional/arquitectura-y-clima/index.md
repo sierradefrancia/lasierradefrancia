@@ -25,3 +25,13 @@ La descripción de muros pétreos portantes debe contrastarse con la de soportes
 - [Habitar sostenible. Integración medioambiental en 15 casas de arquitectura popular española](https://publicaciones.transportes.gob.es/downloadcustom/sample/1022), figura 02.16, sección transversal; autoría completa y relación con el artículo pendientes de cotejo.
 
 Consulta de fuentes y extractos: 2026-11-24. Investigación abierta.
+
+## La sección vertical como sistema ambiental
+
+El calor de los animales, el hogar y la exposición solar son aportes de naturaleza diferente. Su efecto depende de la comunicación entre plantas, el aislamiento, la ocupación y las pérdidas de aire. El secado de castañas sobre la cocina aprovecha calor y circulación de gases, pero no permite afirmar que el ambiente residencial fuese saludable según criterios actuales.
+
+Los vuelos pueden proteger parte de la fachada frente a la lluvia y modificar el soleamiento de la calle; el efecto depende de su profundidad, altura y orientación. La solana descrita en el estudio de 2007 debe analizarse por vivienda, no como orientación obligatoria de todas las casas. La [trama urbana](../trama-y-vivienda/) condiciona esa exposición mediante medianerías y edificios vecinos.
+
+La [economía doméstica](../vida-domestica/) permite identificar las actividades que explican parte de estos mecanismos. Para evaluar su eficacia serían necesarias mediciones estacionales de temperatura, humedad, ventilación y partículas, además de conocer las modificaciones de cada edificio.
+
+*Síntesis del corpus documental existente; sin nuevo cotejo externo.*
