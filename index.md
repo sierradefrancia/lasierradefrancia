@@ -4,7 +4,7 @@ title: La Sierra de Francia
 nav_order: 0
 description: "Descubre la Sierra de Francia, sus pueblos, la Peña de Francia, Las Batuecas, rutas, naturaleza, historia y gastronomía. Un atlas abierto y riguroso para conocer Salamanca y su entorno."
 permalink: /
-last_modified_at: 2026-11-19
+last_modified_at: 2026-11-24
 ---
 
 # La Sierra de Francia
@@ -24,6 +24,29 @@ Es también la historia de sus habitantes, sus tradiciones, sus formas de vida, 
 **Esta web nace para ayudarte a descubrirla, conocerla y comprenderla.**
 
 Tanto si estás preparando una visita como si quieres profundizar en su historia, su naturaleza o su patrimonio, queremos que encuentres aquí información útil, rigurosa y accesible.
+
+---
+
+## Empieza a descubrir la Sierra de Francia
+
+- **[Organiza tu viaje](/turismo/)**: elige experiencias y [recorridos según tus días disponibles](/turismo/segun-tu-tiempo/).
+- **[Conoce los seis conjuntos históricos](/pueblos/conjuntos-historicos/)**: seis maneras distintas de comprender la arquitectura y la historia serranas.
+- **[Sube a la Peña de Francia](/lugares/pena-de-francia/)** y descubre el [valle de Las Batuecas](/lugares/las-batuecas/).
+- **[Camina por la Sierra](/rutas/)** o explora su [naturaleza](/flora-fauna/) y el [Parque Natural](/parque-natural/).
+- **[Profundiza en el territorio](/investigacion/)**: investigaciones, [personajes](/personajes/) y [artículos](/articulos/).
+
+### Seis pueblos, seis identidades
+
+| Pueblo | Qué descubrir | Preparar la visita |
+|---|---|---|
+| [La Alberca](/pueblos/conjuntos-historicos/la-alberca/) | Ordenanzas, arquitectura, tradiciones y memoria oral | [Guía](/pueblos/conjuntos-historicos/la-alberca/visitar/) |
+| [Mogarraz](/pueblos/conjuntos-historicos/mogarraz/) | Retratos, artesanía y memoria fotográfica | [Guía](/pueblos/conjuntos-historicos/mogarraz/visitar/) |
+| [Miranda del Castañar](/pueblos/conjuntos-historicos/miranda-del-castanar/) | Condado, castillo y recinto amurallado | [Guía](/pueblos/conjuntos-historicos/miranda-del-castanar/visitar/) |
+| [San Martín del Castañar](/pueblos/conjuntos-historicos/san-martin-del-castanar/) | Señorío episcopal, castillo y arqueología | [Guía](/pueblos/conjuntos-historicos/san-martin-del-castanar/visitar/) |
+| [Sequeros](/pueblos/conjuntos-historicos/sequeros/) | Villazgo, teatro y santuario del Robledo | [Guía](/pueblos/conjuntos-historicos/sequeros/visitar/) |
+| [Villanueva del Conde](/pueblos/conjuntos-historicos/villanueva-del-conde/) | Huertas interiores, bancales y viticultura | [Guía](/pueblos/conjuntos-historicos/villanueva-del-conde/visitar/) |
+
+[Todos los pueblos](/pueblos/) · [Otros pueblos de la Sierra](/pueblos/otros-pueblos/)
 
 ---
 
