@@ -19,3 +19,15 @@ Comprar, comer o alojarse son formas de relacionarse con su economía. Preguntar
 **Referencia:** [Turismo y transformación económica](../../sociedad-economia/turismo-economia/), con boletín SEPE pendiente de nuevo cotejo.
 
 *Nota editorial: ensayo narrativo o experiencial basado en los expedientes internos del atlas; no se han cotejado de nuevo las fuentes externas ni realizado observaciones de campo en esta fase.*
+
+## Qué dicen los datos de empleo
+
+El expediente municipal del SEPE para 2025 recoge 522 afiliaciones: 119 en industria alimentaria, 108 en alojamiento, 61 en servicios de comidas y bebidas, 50 en comercio minorista, 32 en asistencia residencial, 29 en construcción especializada y 13 en silvicultura, entre otras actividades.
+
+Alojamiento y restauración suman 169 afiliaciones, aproximadamente el 32,4 % del total. No es una estimación de la aportación turística al producto municipal: parte del comercio y otros sectores puede depender también de visitantes, y parte de la restauración atiende a residentes. Las afiliaciones tampoco equivalen necesariamente a personas distintas.
+
+La industria alimentaria aparece como la actividad individual más numerosa entre las categorías recogidas. Este dato ayuda a reconocer una dimensión productiva que el visitante no siempre percibe desde la Plaza Mayor.
+
+Las definiciones y referencias se desarrollan en [trabajo y renta](../../sociedad-economia/trabajo-renta/) y [economía tradicional](../../sociedad-economia/economia-tradicional/).
+
+*Ampliación basada en los expedientes existentes del atlas, sin nuevo cotejo externo.*
