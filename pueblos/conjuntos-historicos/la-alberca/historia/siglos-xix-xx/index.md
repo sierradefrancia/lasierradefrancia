@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: Siglos XIX y XX
 parent: Historia
@@ -509,3 +510,8 @@ Y la segunda mitad del siglo XX estuvo caracterizada por una transformación dem
 Quedan preguntas esenciales por responder sobre la emigración, el trabajo, la escuela, las comunicaciones y el turismo.
 
 **Conocer la historia contemporánea de La Alberca significa estudiar cómo cambió la vida de sus habitantes, no solamente cómo cambió la imagen del pueblo ante quienes lo visitaban.**
+
+
+## Conexiones documentales y actualización
+
+La [investigación del crucero de la Plaza Mayor](../../patrimonio/elementos-patrimoniales/crucero-plaza-mayor/) examina la relación entre protección patrimonial de 1940 y actuaciones materiales cuya cronología sigue abierta. El acto de declaración no acredita por sí mismo obras concretas.
