@@ -1,4 +1,5 @@
 ---
+description: "Los orives de Mogarraz, la orfebrería tradicional y las relaciones históricas entre territorios."
 layout: default
 title: "Los orives y las fronteras"
 parent: Artículos de Mogarraz
