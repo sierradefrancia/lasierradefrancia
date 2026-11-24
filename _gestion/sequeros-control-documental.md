@@ -26,3 +26,7 @@ Cotejados extractos BOE 2002, guía provincial apartado 6, memoria PEPCH 2015 y 
 ## Bloque territorial 24-11-2026
 
 Barrero y Cabezuela documentados mediante guía provincial y PEPCH. Casa del Escribano pendiente; 19 de 20 IDs tratados según cobertura anterior. Nueva sección Naturaleza, sin inventario específico de especies; memoria de Moza Santa y León Felipe diferenciada de hechos probados. Expediente provincial 2024 localizado. Demografía secundaria pendiente INE original. No comprobado despliegue ni licencias.
+
+## Cierre editorial provisional — 24-11-2026
+
+Primer ciclo estructural completado: artículos de síntesis, enlaces de portada, naturaleza, geografía, visita y valor global. Artículos derivados del material existente, sin nuevas consultas externas en este bloque. Pendientes Casa del Escribano (014), cotejo original de fuentes, deduplicación de personas, cartografía, INE, licencias, revisión integral de navegación y despliegue. No declarar cierre científico ni certificación de fuentes anteriores. Próximo conjunto: Villanueva del Conde.
