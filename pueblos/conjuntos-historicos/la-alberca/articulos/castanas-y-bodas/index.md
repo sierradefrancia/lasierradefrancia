@@ -1,4 +1,5 @@
 ---
+description: "Una grabación de Tomás Hoyos de 1984 abre una investigación sobre las castañas, los matrimonios y los calendarios agrícolas de La Alberca."
 layout: default
 title: "Cuando las castañas también hablaban de amor"
 parent: Artículos
