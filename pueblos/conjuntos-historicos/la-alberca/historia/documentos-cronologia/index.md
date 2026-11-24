@@ -1,4 +1,5 @@
 ---
+last_modified_at: 2026-11-24
 layout: default
 title: Documentos y cronología
 parent: Historia
@@ -697,3 +698,14 @@ Los censos muestran cambios demográficos.
 Pero ninguna de estas fuentes contiene, por sí sola, toda la historia del pueblo.
 
 **Este registro documental permanecerá abierto a nuevas fuentes, correcciones y revisiones. Su finalidad es que cada afirmación importante pueda rastrearse hasta las pruebas que la sostienen.**
+
+
+## Conexiones documentales y actualización
+
+| Referencia | Estado documental a 24-11-2026 |
+|---|---|
+| 7 mayo 1547 | [provisión de 1547 publicada por el Ayuntamiento](https://laalberca.com/tradiciones/dia-del-pendon/); transcripción accesible, original y signatura pendientes |
+| 1930 | [ficha editorial del BOE](https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-H-1930-10038100441); metadatos confirmados |
+| 1989 | [Cano Herrera y Sanz García (1989), pp. 67–84](https://uvadoc.uva.es/handle/10324/42925); ficha universitaria confirmada, cotejo íntegro pendiente |
+
+La provisión de 1547 recoge una petición sobre vino concejil y tres celebraciones. No identifica explícitamente a las mujeres como protagonistas de la captura del pendón.
