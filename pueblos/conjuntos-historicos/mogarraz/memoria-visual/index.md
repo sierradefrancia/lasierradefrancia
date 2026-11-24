@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Memoria visual de Mogarraz"
-parent: Mogarraz
-grand_parent: Conjuntos históricos
-nav_order: 4
+parent: Cultura y tradiciones de Mogarraz
+grand_parent: Mogarraz
+nav_order: 1
 last_modified_at: 2026-11-24
 description: "Fotografía histórica y retratos contemporáneos como fuentes de memoria colectiva."
 permalink: /pueblos/conjuntos-historicos/mogarraz/memoria-visual/
