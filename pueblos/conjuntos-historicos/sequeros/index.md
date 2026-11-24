@@ -35,8 +35,10 @@ Su emplazamiento, rodeado de bosques y con amplias vistas hacia las montañas, c
 - [Patrimonio de Sequeros](./patrimonio/)
 - [Cultura y tradiciones de Sequeros](./cultura-tradiciones/)
 - [Geografía y territorio de Sequeros](./geografia-territorio/)
+- [Naturaleza de Sequeros](./naturaleza/)
 - [Sociedad y economía de Sequeros](./sociedad-economia/)
 - [Visitar Sequeros](./visitar/)
+- [Artículos de Sequeros](./articulos/)
 - [Sequeros en su conjunto](./valor-global/)
 - [Fuentes de Sequeros](./fuentes/)
 
