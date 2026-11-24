@@ -1,4 +1,5 @@
 ---
+description: "El privilegio de 1558 sobre los desplazamientos de las mujeres de La Alberca a Granadilla para declarar ante la justicia."
 layout: default
 title: "El derecho a ser escuchado"
 parent: Artículos
