@@ -68,3 +68,10 @@ Comparar las seis reproducciones del catálogo con las láminas de Breuil y dibu
 - [Resolución de 1999](https://www.boe.es/diario_boe/txt.php?id=BOE-A-1999-4615).
 
 [Inventario arqueológico](/lugares/las-batuecas/inventario-arqueologico/) · [Arte rupestre](/lugares/las-batuecas/arte-rupestre/)
+
+
+## Conexión con el estudio del Pallón
+
+Bécares, en su artículo de 1974 (p. 294, nota 4), remite a Breuil, *Les peintures rupestres schématiques de la Péninsule Ibérique*, volumen I, 1933, p. 15, figura 7, al mencionar dos pequeños arqueros de Cabras Pintadas. Esta referencia ofrece un punto concreto para cotejar el catálogo de 1921 con la monografía de 1933. No se ha consultado aún esa figura de Breuil directamente.
+
+[Fuente de la referencia](https://revistas.usal.es/uno/index.php/0514-7336/es/article/download/1953/2009/4764) · [Covacho del Pallón](/lugares/las-batuecas/arte-rupestre/pallon/).

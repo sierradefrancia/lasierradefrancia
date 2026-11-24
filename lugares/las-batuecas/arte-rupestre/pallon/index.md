@@ -32,3 +32,22 @@ La identificación patrimonial y la referencia bibliográfica están registradas
 - [Resolución patrimonial de 1999](https://www.boe.es/diario_boe/txt.php?id=BOE-A-1999-4615).
 
 [Inventario arqueológico](/lugares/las-batuecas/inventario-arqueologico/) · [Arte rupestre](/lugares/las-batuecas/arte-rupestre/)
+
+
+## Revisión del artículo original (25 de noviembre de 2026)
+
+El PDF de 1974, pp. 281–294, confirma que el abrigo estudiado es distinto de la majada de la Palla, donde los investigadores no identificaron pinturas inequívocas. Bécares documenta 30 unidades numeradas, distribuidas en tres agrupaciones (p. 282). Esta numeración incluye manchas y restos, no exclusivamente figuras completas.
+
+| Unidad | Interés documental | Página |
+|---|---|---|
+| 3 | Antropomorfo tipo phi | 283 |
+| 7 | Figura con tocado y posibles objetos | 284–286 |
+| 12–13 | Superposición observada | 286–287 |
+| 28 | Figura bicolor, 120 × 60 mm | 292 |
+| 30 | Ensayo infrarrojo sin resultado positivo | 292 |
+
+El motivo 28 combina rojo y blanco y se compara con la Umbría del Canchal del Cristo. La interpretación ritual de ciertas figuras y la propuesta de una fase avanzada del Bronce (p. 294) son hipótesis históricas del autor, no dataciones directas. Los colores no establecen por sí solos una secuencia ni identifican sustancias.
+
+La referencia de Cabré de 1922 (Coleccionismo, 116, p. 150) y la obra de Pilar Acosta de 1968 son líneas bibliográficas explícitas. El resultado negativo de la fotografía infrarroja en la unidad 30 no demuestra ausencia de pigmento ni invalida técnicas actuales.
+
+[Texto original completo](https://revistas.usal.es/uno/index.php/0514-7336/es/article/download/1953/2009/4764). Consulta del texto extraído; no cotejo visual sistemático de láminas ni inspección de campo. La revisión anterior que señalaba falta de acceso al texto queda superada.

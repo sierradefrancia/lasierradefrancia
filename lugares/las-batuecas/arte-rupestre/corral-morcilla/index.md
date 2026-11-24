@@ -32,3 +32,23 @@ El estudio original debe examinarse íntegramente para registrar orientación, d
 - [Resolución patrimonial de 1999](https://www.boe.es/diario_boe/txt.php?id=BOE-A-1999-4615).
 
 [Inventario arqueológico](/lugares/las-batuecas/inventario-arqueologico/) · [Arte rupestre](/lugares/las-batuecas/arte-rupestre/)
+
+
+## Revisión del artículo original (25 de noviembre de 2026)
+
+El trabajo impreso, pp. 225–232, aporta una franja pictórica aproximada de 5 × 1,10 m y documenta restos de un recinto ganadero y una cabaña pastoril. No fecha esas estructuras (p. 225).
+
+Los problemas de visibilidad descritos ofrecen un registro histórico de conservación:
+
+| Unidades | Observación de Bécares |
+|---|---|
+| 6 | Líquenes sobre parte de las barras |
+| 11 | Alteración asociada a escorrentía |
+| 7–8 | Posible pérdida de partes que modificaría la clasificación |
+| 19–20 | Depósitos de humo que dificultaban la lectura |
+
+Referencias: pp. 226–228. La forma conservada no siempre equivale a la forma original; esta limitación es central al comparar tipologías.
+
+El autor distingue un grupo rojo con predominio humano y otro ocre rojizo con signo tectiforme, puntos y trazos. Propone para el segundo comparaciones con Cachão da Rapa, Fresnedo y Peñalsordo (pp. 231–232). Su estimación entre el Bronce avanzado y la Edad del Hierro es comparativa: reconoce la ausencia de superposiciones que permitan precisar la relación con el grupo rojo. El término tectiforme describe una categoría formal, no demuestra que represente una vivienda.
+
+[Texto original completo](https://revistas.usal.es/uno/index.php/0514-7336/it/article/download/442/616/1325). Se ha consultado el texto extraído, no realizado una evaluación visual exhaustiva de las láminas. El estado actual de conservación sigue sin verificar.
