@@ -293,3 +293,8 @@ Relaciones locales de Miranda y Villanueva del Conde: artistas del Camino de los
 ### Corrección bibliográfica de Miranda
 
 Julián Álvarez Villar, autor de *La Villa Condal de Miranda del Castañar*, identificado por [El Toreo](https://www.escaleradelexito.com/PDFs/revistas/Los_Sabios_del_Toreo_35.pdf). Corrige la atribución provisional a Jesús Álvarez Villar; pendiente cotejo de la edición original. No crear una segunda identidad.
+
+
+### Miranda — relaciones con fuentes recuperadas el 24-11-2026
+
+Nicolás Antonio Díez de Ledesma y Diego de la Peña (escribanos, [Ms. 2765](https://www.letrasmexicanas.mx/portales/biblioteca_nacional_de_mexico/obra/ordenanzas-de-la-villa-de-miranda-del-castanar-salamanca-ms-2765-1138023/)); Otto Wunderlich (fotógrafo, [publicación de 2019](https://salamancartvaldia.es/noticia/2019-08-21-miranda-del-castanar-en-los-anos-30-51867)); Rosa Gómez (autora, [obra](https://www.antropologiavisual.es/miranda-del-castanar-la-noche-de-los-candiles/)); Encarnación Torija y Jonathan Cenzual (anuncio y pregón de 2017, [crónica](https://salamancartvaldia.es/noticia/2017-09-07-la-junta-declara-la-procesion-de-los-candiles-fiesta-de-interes-turistico-regional-132606?rc=18)). Reconciliar identidades antes de asignar fichas definitivas.
