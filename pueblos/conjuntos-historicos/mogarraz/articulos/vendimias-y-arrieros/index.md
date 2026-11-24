@@ -1,4 +1,5 @@
 ---
+description: "Vendimias y arriería en Mogarraz: trabajo agrícola, transporte y relaciones comerciales tradicionales."
 layout: default
 title: "Cuando la vendimia reunía a dos comarcas"
 parent: Artículos de Mogarraz
