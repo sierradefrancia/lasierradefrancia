@@ -42,3 +42,7 @@ Las afirmaciones de cotejo de las dos disposiciones legales añadidas posteriorm
 - SMC-FUE-012 [AHDOPE A-B-PEÑ-2-6](https://archivo.dominicoshispania.org/index.php/san-martin-del-castanar-salamanca): descripción de documento de 1834, no lectura del manuscrito.
 
 Estos cinco registros cuentan con extractos textuales recuperados; los siete anteriores conservan su estado pendiente. Contradicciones 1523/1537 y 1835/1837 abiertas.
+
+## Evidencia recuperada en la revisión del relicario
+
+SMC-FUE-010: extractos del artículo de Herrera-Vicente (2024) cotejados el 24-11-2026, descripción, patronazgo y procedencia posterior. SMC-FUE-013: [capítulo de 2023 del mismo autor](https://zaguan.unizar.es/record/126485/files/BOOK-2023-015.pdf), identificación parcial. No se ha leído íntegramente ninguno ni verificado aquí los demás registros de ejecuciones anteriores.
