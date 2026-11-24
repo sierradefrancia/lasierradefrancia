@@ -1,4 +1,5 @@
 ---
+description: "Tomás Hoyos y la memoria oral de La Alberca conservada en las grabaciones catalogadas de junio de 1984."
 layout: default
 title: "La voz de Tomás Hoyos"
 parent: Artículos
