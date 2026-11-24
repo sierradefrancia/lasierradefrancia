@@ -1,4 +1,5 @@
 ---
+description: "Maurice Legendre y su investigación sobre La Alberca y Las Hurdes: memoria, hospital histórico y relaciones territoriales."
 layout: default
 title: "Mirar La Alberca con Maurice Legendre"
 parent: Artículos
