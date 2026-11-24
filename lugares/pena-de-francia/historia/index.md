@@ -340,6 +340,8 @@ Los dominicos desempeñaron un papel relevante en la difusión de la advocación
 
 ### América y Filipinas
 
+[Estudio de la expansión internacional de la advocación: Portugal, América y Filipinas](/lugares/pena-de-francia/historia/devocion-internacional/).
+
 La documentación de la Orden de Predicadores relaciona la expansión de esta devoción con la actividad de religiosos enviados a América y Filipinas.
 
 Este proceso abre una línea de investigación sobre las conexiones entre un santuario de la Sierra de Francia y territorios situados a miles de kilómetros.
