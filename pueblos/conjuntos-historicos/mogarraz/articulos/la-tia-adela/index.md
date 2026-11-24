@@ -1,4 +1,5 @@
 ---
+description: "La Tía Adela y la memoria personal y comunitaria de Mogarraz."
 layout: default
 title: "La tía Adela y un cuento de otros siglos"
 parent: Artículos de Mogarraz
