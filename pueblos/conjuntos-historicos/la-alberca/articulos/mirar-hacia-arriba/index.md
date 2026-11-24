@@ -1,4 +1,5 @@
 ---
+description: "Una lectura de la arquitectura de La Alberca a través de sus columnas, inscripciones, entramados y solanas."
 layout: default
 title: "El día que aprendimos a mirar hacia arriba"
 parent: Artículos
