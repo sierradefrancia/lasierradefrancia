@@ -330,6 +330,8 @@ La localización de nidos, refugios y lugares de reproducción de especies sensi
 
 ## Un paisaje natural transformado por sus habitantes
 
+La [investigación de conservación y transformación ambiental](./conservacion/) documenta los incendios de 1872 y 2022, actuaciones de restauración de 2023 y referencias de conservación hidráulica y forestal.
+
 La historia del territorio de La Alberca incluye aprovechamientos forestales, ganaderos y agrícolas.
 
 La documentación del camino hacia Las Batuecas menciona el traslado de colmenas, la extracción de corcho y la producción de carbón vegetal.
