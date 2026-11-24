@@ -31,6 +31,12 @@ La figura de Simón Vela está vinculada a la tradición del hallazgo de la imag
 
 La investigación de este personaje constituye también una vía para conocer la formación del santuario, su proyección territorial y las relaciones históricas que se han atribuido a Francia.
 
+### José Luis Puerto
+
+Poeta, escritor e investigador del patrimonio albercano. Sus trabajos sobre memoria visual, etnografía y patrimonio religioso y civil constituyen una línea prioritaria de conocimiento del territorio.
+
+- [José Luis Puerto: obra y contribución al conocimiento de La Alberca](/personajes/jose-luis-puerto/).
+
 ## Inventario abierto de personajes y líneas de investigación
 
 Este inventario conserva los candidatos identificados hasta ahora. Su inclusión señala una línea de investigación, no una biografía validada ni una atribución histórica definitiva. Se ampliará conforme aparezcan nuevas fuentes.
@@ -42,7 +48,7 @@ Este inventario conserva los candidatos identificados hasta ahora. Su inclusión
 | Miguel de Unamuno | Viajes, correspondencia, escritos y percepción histórica del territorio. |
 | Manuel Gómez-Moreno | Arquitectura, patrimonio y protección monumental de La Alberca. |
 | Eduardo Hernández-Pacheco | Geología, geografía y documentación fotográfica histórica. |
-| José Luis Puerto | Etnografía, memoria oral y patrimonio albercano. |
+| [José Luis Puerto](/personajes/jose-luis-puerto/) | Investigación prioritaria: literatura, etnografía, memoria visual y patrimonio albercano. |
 | Cándido Ansede | Fotografía histórica y documentación visual del territorio. |
 | Luis Buñuel | Representación cinematográfica de Las Hurdes y su repercusión cultural. |
 | Gregorio Marañón | Historia sanitaria y social de Las Hurdes. |
