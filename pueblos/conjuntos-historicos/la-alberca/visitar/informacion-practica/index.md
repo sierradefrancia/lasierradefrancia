@@ -33,3 +33,17 @@ En una emergencia llama al 112. No dependas de la cobertura móvil durante una r
 No hemos comprobado en tiempo real horarios, tarifas, estacionamientos, transporte ni aperturas. Preferimos remitir a la fuente responsable antes que ofrecer datos prácticos que puedan quedar desactualizados. [Accesibilidad](../accesibilidad/) · [Senderismo](../senderismo/).
 
 [Volver a Visitar La Alberca](../)
+
+## Llegar y dejar el coche
+
+El [directorio municipal de servicios](https://laalberca.com/servicios-municipales/) identifica un aparcamiento público en avenida de las Batuecas 12, otro gratuito para turismos en la carretera de Salamanca con limitación de altura y una zona municipal para autobuses y autocaravanas en avenida de las Batuecas. Consulta ocupación, señalización y condiciones antes de entrar. El mismo directorio recoge recarga eléctrica.
+
+## Sin coche
+
+La [página municipal de transportes](https://laalberca.com/servicio-de-transporte/) publica conexiones con Salamanca, Béjar y Ciudad Rodrigo. No todas son diarias. Para una excursión confirma primero el regreso. La estación de Salamanca figura con el teléfono 923 220 187 y Autocares V. Cosme con el 923 120 800.
+
+## Visitas culturales
+
+El [Museo del Traje Típico Albercano](https://laalberca.com/museos_la_alberca/museo-del-traje-tipico-albercano/) publica el contacto 923 415 387. Para consultas municipales generales: [Ayuntamiento](https://laalberca.com/contacto/), 923 415 036. Confirma apertura y reserva antes de desplazarte.
+
+Fuentes municipales consultadas el 24 de noviembre de 2026; no se ha comprobado por teléfono su vigencia operativa.
