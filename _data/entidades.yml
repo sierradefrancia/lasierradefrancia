@@ -1,7 +1,7 @@
 
 # ====================================================
 # LA SIERRA DE FRANCIA
-# REGISTRO CENTRAL DE ENTIDADES — V2
+# REGISTRO CENTRAL DE ENTIDADES — V3
 # ====================================================
 #
 # Fuente de datos para Schema.org.
@@ -67,7 +67,7 @@
   parent_url: "/"
 
 - id: pena-de-francia
-  type: Mountain
+  type: Landform
   name: "Peña de Francia"
   url: "/lugares/pena-de-francia/"
   parent_url: "/"
@@ -82,3 +82,38 @@
   type: Place
   name: "Parque Natural Las Batuecas-Sierra de Francia"
   url: "/parque-natural/"
+
+- id: alejandro-martin-criado
+  type: Person
+  name: "Alejandro Martín Criado"
+  url: "/personajes/alejandro-martin-criado/"
+
+- id: el-guinda
+  type: Person
+  name: "Sebastián Luis Luis"
+  url: "/personajes/el-guinda/"
+
+- id: florencio-maillo
+  type: Person
+  name: "Florencio Maíllo Cascón"
+  url: "/personajes/florencio-maillo/"
+
+- id: jose-luis-puerto
+  type: Person
+  name: "José Luis Puerto"
+  url: "/personajes/jose-luis-puerto/"
+
+- id: juan-antonio-melon
+  type: Person
+  name: "Juan Antonio Melón González"
+  url: "/personajes/juan-antonio-melon/"
+
+- id: satur-juanela
+  type: Person
+  name: "Saturnino Hoyos"
+  url: "/personajes/satur-juanela/"
+
+- id: tomas-hoyos
+  type: Person
+  name: "Tomás Hoyos"
+  url: "/personajes/tomas-hoyos/"
