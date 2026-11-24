@@ -29,3 +29,9 @@ Pero la próxima vez que contemples la casa del concejo, recuerda que la arquite
 **Referencias:** [Berrogain, Ordenanzas de La Alberca (1930), pp. 381–441](https://www.boe.es/biblioteca_juridica/anuarios_derecho/articulo.php?id=ANU-H-1930-10038100441), ordenanza XII, pp. 387–391; [expediente de ordenanzas](../../historia/concejo-ordenanzas/).
 
 *Nota documental: síntesis narrativa de los expedientes históricos del atlas. En esta fase se han leído los expedientes internos, no cotejado directamente las fuentes externas ni los originales archivísticos.*
+
+## Medir distancias y medir capacidad
+
+La expedición de 1857 registra tres patrones de madera para áridos, de 2,66, 2,14 y 1,15 litros según la publicación. Estos objetos no deben confundirse con el patrón longitudinal mencionado en las ordenanzas apícolas. Ambos testimonios muestran distintas funciones del control concejil de las medidas. Su conservación actual requiere comprobación.
+
+Fuente cotejada el 24-11-2026: Vicente de la Fuente, *Expedición científica y artística a la Sierra de Francia*, BRAH 3 (1883), pp. 165–167, [edición digital](https://www.cervantesvirtual.com/obra-visor/boletin-de-la-real-academia-de-la-historia--23/html/02531a66-82b2-11df-acc7-002185ce6064_49.html). Consulta del pasaje publicado, no de los objetos ni manuscritos originales.
