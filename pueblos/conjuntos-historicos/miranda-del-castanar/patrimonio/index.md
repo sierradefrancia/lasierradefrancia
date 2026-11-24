@@ -1,4 +1,5 @@
 ---
+description: "Patrimonio de Miranda del Castañar: castillo, murallas, arquitectura civil, iglesia, ermitas y heráldica."
 layout: default
 title: "Patrimonio de Miranda del Castañar"
 parent: Miranda del Castañar
