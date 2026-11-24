@@ -1,4 +1,5 @@
 ---
+description: "El humilladero de Villanueva del Conde: patrimonio religioso y contexto de la devoción local."
 layout: default
 title: "Ermita del Humilladero"
 parent: "Patrimonio de Villanueva del Conde"
