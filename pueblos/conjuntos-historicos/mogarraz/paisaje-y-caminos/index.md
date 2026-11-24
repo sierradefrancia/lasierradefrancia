@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Paisaje y caminos de Mogarraz"
-parent: Mogarraz
-grand_parent: Conjuntos históricos
-nav_order: 7
+parent: Naturaleza de Mogarraz
+grand_parent: Mogarraz
+nav_order: 1
 last_modified_at: 2026-11-24
 description: "El Camino del Agua y las relaciones paisajísticas entre Mogarraz y Monforte."
 permalink: /pueblos/conjuntos-historicos/mogarraz/paisaje-y-caminos/
