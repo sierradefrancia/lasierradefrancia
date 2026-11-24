@@ -24,3 +24,15 @@ El diario parlamentario de 2005 describe planta de cruz latina, retablo barroco,
 **Estado documental:** síntesis basada en extractos recuperados el 24-11-2026; cotejo de originales pendiente.
 
 [Patrimonio de Mogarraz](../).
+
+**Nota documental:** las referencias anteriores requieren cotejo reproducible; esta ampliación se basa en el registro existente.
+
+## Una ampliación entre dos siglos
+
+La secuencia atribuida a Hernández Martín permite distinguir la cabecera y el crucero de la ampliación iniciada en 1789. El atrio fechado en 1813 por la revista local constituye otro hito, no necesariamente la conclusión de todas las obras. La intervención de 1848 en la cúpula pertenece a una fase posterior. Para reconstruirlas interesa localizar cuentas de fábrica, contratos y visitas pastorales.
+
+El púlpito de arenisca atribuido a 1718 precede a la ampliación de finales del XVIII. Su cronología no fecha el lugar que ocupa actualmente. Las losas numeradas abren una investigación sobre enterramientos y organización del espacio parroquial, que requiere cotejar registros funerarios.
+
+## Bienes y conservación
+
+El retablo mayor, la pila y el púlpito deben registrarse como bienes diferenciados. La licitación de 1998 no acredita por sí sola la ejecución de la restauración. La [torre exenta](../torre/) conserva una cronología constructiva propia. La pila reutilizada descrita en el [Humilladero](../humilladero/) requiere investigar su procedencia antes de relacionarla con la parroquia.
