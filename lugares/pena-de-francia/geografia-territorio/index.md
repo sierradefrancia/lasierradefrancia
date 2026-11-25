@@ -466,3 +466,5 @@ Y su perfil, visible desde amplios sectores del entorno, ayuda a comprender por 
 [Agua, fuentes y cabeceras fluviales](/lugares/pena-de-francia/geografia-territorio/agua-y-fuentes/).
 
 [Fuente de Simón Vela](/lugares/pena-de-francia/geografia-territorio/fuente-simon-vela/): referencia de la ascensión por la SA-203; historia constructiva y captación pendientes de investigación.
+
+[Miradores y lectura del paisaje](/lugares/pena-de-francia/geografia-territorio/miradores-paisaje/): interpretación del horizonte y relación entre conjunto monumental y territorio.
