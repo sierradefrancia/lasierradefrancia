@@ -39,6 +39,8 @@ Esta página reconstruye su evolución distinguiendo los hechos documentados, la
 
 - [Exclaustración dominicana y continuidad del santuario](/lugares/pena-de-francia/historia/exclaustracion/): comunidad, custodia y administración en el siglo XIX.
 
+- [Reconstrucción y administración del santuario](/lugares/pena-de-francia/historia/reconstruccion-santuario/): inventarios, financiación y cofradía de 1869.
+
 ## La montaña antes del santuario
 
 La Peña de Francia existía como referencia geográfica mucho antes de la construcción de su santuario.
