@@ -11,7 +11,7 @@ description: "Pionera de la física y meteorología españolas y autora del estu
 
 ## La relación con la Sierra de Francia
 
-Su artículo Estación Meteorológica automática de la Peña de Francia, publicado en el boletín de la Asociación Meteorológica Española en 1967, documenta la instrumentación de la cumbre. El repositorio de AEMET conserva el facsímil, cuya primera página (31) confirma autoría, emplazamiento y enumeración de sensores. La publicación remite al número cero del boletín como antecedente. Es una pista bibliográfica que queda pendiente de recuperación.
+Su artículo Estación Meteorológica automática de la Peña de Francia, publicado en el boletín de la Asociación Meteorológica Española en 1967, documenta la instrumentación de la cumbre. El repositorio de AEMET conserva el facsímil, cuya p. 31 se identifica en la referencia previa como localizador de autoría, emplazamiento y sensores. La publicación remite al número cero del boletín como antecedente. Es una pista bibliográfica que queda pendiente de recuperación.
 
 La autoría acredita su intervención en la documentación científica del proyecto; no demuestra por sí sola que diseñara individualmente todos los equipos o que instalara personalmente los sensores.
 
@@ -25,7 +25,7 @@ La historiadora Carmen Magallón Portolés señala su participación en las prim
 
 ## Fuentes
 
-Extractos recuperados el 25/11/2026:
+Referencias registradas en la investigación anterior. En la auditoría del 25/11/2026 el facsímil de AEMET devolvió HTTP 403; la comprobación directa de su contenido y de los datos biográficos queda pendiente.
 
 - [Martín Bravo, artículo técnico de 1967, p. 31, facsímil AEMET](https://repositorio.aemet.es/bitstream/20.500.11765/7842/1/BAME_1967_3%20%283%29.pdf).
 - [AEMET, Las primeras mujeres en el Servicio Meteorológico español](https://aemetblog.es/2017/03/07/las-primeras-mujeres-en-el-servicio-meteorologico-espanol/).
