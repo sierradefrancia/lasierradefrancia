@@ -458,3 +458,5 @@ Y su perfil, visible desde amplios sectores del entorno, ayuda a comprender por 
 **Conocer su geografía es empezar a comprender la montaña más allá de su cumbre.**
 
 [Inventario de lugares singulares](/lugares/pena-de-francia/geografia-territorio/lugares-singulares/).
+
+[El Paso de los Lobos: caminos históricos, altimetría y patrimonio geológico](/lugares/pena-de-francia/geografia-territorio/paso-de-los-lobos/).
