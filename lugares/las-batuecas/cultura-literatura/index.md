@@ -51,3 +51,7 @@ Una línea complementaria estudiará la experiencia sensorial del valle, las vis
 
 
 [Viajeros y geógrafos en Las Batuecas](/lugares/las-batuecas/cultura-literatura/viajeros-geografos/).
+
+
+
+[Unamuno, Legendre y Chevalier](/lugares/las-batuecas/cultura-literatura/unamuno-legendre-chevalier/).
