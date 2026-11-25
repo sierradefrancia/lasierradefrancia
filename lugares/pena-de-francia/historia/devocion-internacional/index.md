@@ -79,3 +79,9 @@ La difusión más allá de Salamanca también requiere estudiar la actividad de 
 Se han examinado extractos accesibles de estas fuentes, no la totalidad de los estudios ni los manuscritos originales. No se ofrecen cifras de peregrinos sin metodología verificable. El estudio permanece abierto a la comprobación de los archivos locales.
 
 [Historia de la Peña de Francia](/lugares/pena-de-francia/historia/) · [Cultura y tradiciones](/lugares/pena-de-francia/cultura-tradiciones/)
+
+## Conexiones territoriales
+
+- [Expedición de Unamuno, Legendre y Chevalier](/lugares/las-batuecas/cultura-literatura/unamuno-legendre-chevalier/).
+- [Legendre y la mirada sobre La Alberca](/pueblos/conjuntos-historicos/la-alberca/articulos/legendre-y-la-mirada/).
+- [Busto de Mauricio Legendre](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/busto-mauricio-legendre/).
