@@ -3,7 +3,7 @@ layout: default
 title: Granadilla, La Alberca y Las Hurdes
 parent: "Historia territorial de Las Batuecas"
 grand_parent: Las Batuecas
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Jurisdicción, bienes concejiles y aprovechamientos históricos compartidos con Las Batuecas."
 permalink: /lugares/las-batuecas/granadilla-hurdes-alberca/
 ---
@@ -55,3 +55,15 @@ Consultados extractos, no originales archivísticos. Véase [Historia territoria
 - [Cronología histórica de Las Batuecas](/lugares/las-batuecas/historia/cronologia/): secuencia territorial y estados de evidencia.
 - [Repertorio documental](/lugares/las-batuecas/historia/documentos/): localizadores archivísticos y vías de consulta.
 - [Personajes y testimonios históricos](/lugares/las-batuecas/historia/personajes/): actores y transmisión de las noticias.
+
+## Poblamiento disperso y administración eclesiástica: 1734
+
+El estudio de Blanco Carrasco, [Diablos, pastores y demografía](https://dehesa.unex.es/bitstreams/c839997e-25fb-4e33-9d92-a456f207e39d/download), p. 248, identifica los autos de Antonio Jarero para el reconocimiento de la serranía de las Batuecas en el Archivo de la Diputación Provincial de Cáceres. El autor publicó además una edición específica del auto en Alcántara 31–32 (1994), pp. 161–192, localizada bibliográficamente pero no cotejada aquí.
+
+Según [Martín Marcos, 2022](https://doi.org/10.5209/chmo.77469), p. 194, Ortiz Jarero recorrió los valles hurdanos en julio y agosto de 1734 por mandato del obispo de Coria. La propuesta de concentración de habitantes relacionaba dificultades pastorales, dispersión y dependencia económica respecto a La Alberca. No llegó a ejecutarse. El informe ofrece una perspectiva eclesiástica y reformadora, no una descripción neutral ni un censo exclusivo del valle salmantino.
+
+## Los recuentos y sus unidades
+
+Blanco Carrasco, p. 233, indica 370 vecinos para La Alberca y su socampana en 1534 y 624 en 1591; para Pinofranqueado registra 20 y 35 respectivamente. El recuento episcopal de 1587–1588 ofrece 100 vecinos para Nuñomoral y anexos y 43 para Pino. La unidad territorial cambia: no procede calcular tasas entre Nuñomoral y el conjunto albercano. Vecinos tampoco equivale a habitantes individuales. Ninguna cifra constituye un censo del fondo del valle de Batuecas.
+
+Estos datos contextualizan los [conflictos concejiles](/lugares/las-batuecas/historia/conflictos-concejiles/) y permiten contrastar la [leyenda del aislamiento](/lugares/las-batuecas/historia-leyenda/). Los extractos académicos han sido consultados; recuentos originales pendientes.
