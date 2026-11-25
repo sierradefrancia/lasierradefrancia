@@ -27,6 +27,11 @@ Incluso elementos aparentemente secundarios, como las claves de las bóvedas, lo
 
 ---
 
+## Expedientes arquitectónicos
+
+- [Iglesia conventual: arquitectura y fases](/lugares/pena-de-francia/santuario-patrimonio/iglesia-conventual/)
+- [Convento dominicano y abastecimiento de agua](/lugares/pena-de-francia/santuario-patrimonio/convento-pozo-verde/)
+
 ## Un conjunto arquitectónico desarrollado durante siglos
 
 La configuración actual del santuario es resultado de sucesivas construcciones, ampliaciones, reparaciones y transformaciones.
