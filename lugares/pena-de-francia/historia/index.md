@@ -35,6 +35,8 @@ Esta página reconstruye su evolución distinguiendo los hechos documentados, la
 
 - [Fundación, patronazgo y conflictos jurisdiccionales (1434–1445)](/lugares/pena-de-francia/historia/fundacion-patronazgo/): nuevas referencias académicas, discrepancias de fecha y conflicto con el infante Enrique.
 
+- [Economía conventual](/lugares/pena-de-francia/historia/economia-conventual/): haciendas, rentas y organización laboral de la feria.
+
 ## La montaña antes del santuario
 
 La Peña de Francia existía como referencia geográfica mucho antes de la construcción de su santuario.
