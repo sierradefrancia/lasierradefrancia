@@ -603,3 +603,7 @@ Incluso los muros históricos del santuario han llegado a formar parte del hábi
 ## Pedreras, agua y suelo
 
 El [expediente sobre canchales, manantiales y suelos](/lugares/pena-de-francia/geologia/canchales-agua-suelos/) reúne la interpretación hidrogeológica del Alto Agadón de la Confederación Hidrográfica del Duero y un perfil edafológico local publicado en las bases ecológicas del hábitat 8220. Distingue observaciones documentadas de hipótesis ecológicas pendientes de comprobación.
+
+## Investigación botánica histórica
+
+[Estudios botánicos de 1975 y 1983 y contexto forestal regional](/lugares/pena-de-francia/naturaleza/investigacion-botanica/): pteridófitos, testimonios de herbario, comunidades liquénicas y región de procedencia del rebollo. Referencias documentadas mediante extractos, con lectura íntegra pendiente.
