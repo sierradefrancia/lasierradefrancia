@@ -97,3 +97,9 @@ La ceremonia de enero de 2015 aporta un término anterior al cual existía el bu
 Ignacio Hoyos, citado como guía, permite investigar la contribución de los habitantes al conocimiento territorial. La tesis de 1927 y su edición castellana de 2006 pertenecen a la historia intelectual, no a la cronología escultórica. Véanse [La Alberca y Las Hurdes](../../../historia/alberca-hurdes/) y [Legendre y la mirada](../../../articulos/legendre-y-la-mirada/).
 
 *Síntesis de fuentes previamente registradas; sin nuevo cotejo externo.*
+
+## Conexiones territoriales
+
+- [Expedición de Unamuno, Legendre y Chevalier](/lugares/las-batuecas/cultura-literatura/unamuno-legendre-chevalier/).
+- [Devoción internacional de la Peña de Francia](/lugares/pena-de-francia/historia/devocion-internacional/).
+- [Legendre y la mirada sobre La Alberca](/pueblos/conjuntos-historicos/la-alberca/articulos/legendre-y-la-mirada/).
