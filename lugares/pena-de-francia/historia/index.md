@@ -37,6 +37,8 @@ Esta página reconstruye su evolución distinguiendo los hechos documentados, la
 
 - [Economía conventual](/lugares/pena-de-francia/historia/economia-conventual/): haciendas, rentas y organización laboral de la feria.
 
+- [Exclaustración dominicana y continuidad del santuario](/lugares/pena-de-francia/historia/exclaustracion/): comunidad, custodia y administración en el siglo XIX.
+
 ## La montaña antes del santuario
 
 La Peña de Francia existía como referencia geográfica mucho antes de la construcción de su santuario.
