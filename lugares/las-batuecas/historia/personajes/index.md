@@ -42,3 +42,9 @@ Los moradores y contratantes de 1455 constituyen una línea de investigación es
 - [Fernández Gómez, 1984](https://www.persee.fr/doc/casa_0076-230x_1984_num_20_1_2411).
 
 Repertorio inicial basado en expedientes existentes. [Cronología](/lugares/las-batuecas/historia/cronologia/) · [Documentos](/lugares/las-batuecas/historia/documentos/).
+
+
+Alonso Piés y Alonso Velasco, vecinos de La Alberca, aparecen como partes demandadas en el pleito de Nuñomoral de 1539–1544 según el estudio citado en el expediente de conflictos. No se han recuperado biografías ni identidades adicionales.
+
+
+[Pleitos, recursos y derechos concejiles](/lugares/las-batuecas/historia/conflictos-concejiles/).
