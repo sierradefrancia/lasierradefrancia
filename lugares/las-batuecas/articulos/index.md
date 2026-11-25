@@ -26,6 +26,8 @@ Esta síntesis se apoya en los estudios existentes del atlas; no implica una nue
 
 ## Explorar esta sección
 
+- [El verano de 1913: cuatro hombres y una sierra](/lugares/las-batuecas/articulos/el-verano-de-1913/): relato documental de la expedición y del conocimiento local del territorio.
+
 - [Estar en Las Batuecas: el arte de perderse](/lugares/las-batuecas/articulos/el-arte-de-perderse/): paisaje, contemplación e historia de la expresión popular.
 
 - [Cuando Las Batuecas conquistaron la imaginación europea](/lugares/las-batuecas/articulos/imaginacion-europea/): ensayo sobre la circulación de la leyenda, la literatura y la exploración territorial.
