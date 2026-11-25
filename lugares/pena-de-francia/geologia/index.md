@@ -593,3 +593,7 @@ Los canchales y las pedreras muestran que los procesos de transformación del pa
 ## Investigación estructural regional
 
 [La estructura geológica regional de la Peña](/lugares/pena-de-francia/geologia/estructura-regional/) incorpora la introducción de Macaya (1981), p. 567, y relaciona el granito de La Alberca–Sequeros, Tamames y Paso de los Lobos. El artículo completo continúa pendiente de lectura.
+
+## Investigación estratigráfica de 2009
+
+El [estudio del límite Cámbrico-Ordovícico](/lugares/pena-de-francia/geologia/limite-cambrico-ordovicico/) incorpora los resultados de Valladares y colaboradores (Geogaceta 47, 49–52) sobre la diferenciación de conglomerados y sus ambientes sedimentarios, con observaciones en varios sectores serranos. Consultados resumen y extractos; no constituye una nueva comprobación de campo.
