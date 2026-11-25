@@ -64,6 +64,20 @@ Esta cronología distingue acontecimientos, fechas de documentos y fechas transm
 
 [Fuente catalográfica](https://archivo.dominicoshispania.org/index.php/informationobject/browse?collection=390&places=36185&sort=startDate&sortDir=desc&topLod=0).
 
+## Ciencia, infraestructuras y paisaje contemporáneo
+
+| Fecha | Acontecimiento | Alcance |
+|---|---|---|
+| 1905–1906 | Deslinde del santuario | PEF-DOC-042; catálogo, no delimitación vigente. |
+| 1921 | Proyecto viario El Cabaco–Monsagro | PEF-DOC-043; ejecución pendiente. |
+| 1950 | Acuerdo provincial | PEF-DOC-044; original pendiente. |
+| Marzo 1962 | Correspondencia sobre repetidor | PEF-DOC-045 y 046; no acredita puesta en servicio. |
+| 1966 | Estación meteorológica automática | Investigación de clima; cotejo técnico pendiente. |
+| 1967 | Artículo de Felisa Martín Bravo | PEF-DOC-048; referencia bibliográfica, facsímil pendiente. |
+| 1975 | Inauguración de la Rotonda | PEF-DOC-049; referencia institucional previa, cotejo pendiente. |
+
+[Historia de la modernización](/lugares/pena-de-francia/historia/modernizacion-siglo-xx/) · [Clima](/lugares/pena-de-francia/clima-observacion/) · [Lugares singulares](/lugares/pena-de-francia/geografia-territorio/lugares-singulares/).
+
 ## Cómo interpretar las fechas fundacionales
 
 El poder de julio de 1434, si se confirma su tenor, aporta evidencia de actividad administrativa temprana, no de la literalidad del hallazgo milagroso. Las disposiciones regias y posesiones de 1436–1437 deben identificarse por emisor, destinatario y contenido antes de determinar si son actos sucesivos o referencias discrepantes.
