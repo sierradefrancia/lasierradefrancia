@@ -3,7 +3,7 @@ layout: default
 title: Geología y relieve de Las Batuecas
 parent: "Geografía y territorio de Las Batuecas"
 grand_parent: Las Batuecas
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Interpretación del relieve, las cuarcitas, la erosión fluvial y el patrimonio geológico del valle de Las Batuecas."
 permalink: /lugares/las-batuecas/geologia/
 ---
@@ -79,3 +79,7 @@ Quedan abiertas la cartografía comparada de perímetros, la sucesión estratigr
 [Volver a Las Batuecas](/lugares/las-batuecas/)
 
 [Las Batuecas y la memoria del tiempo](/lugares/las-batuecas/articulos/la-memoria-del-tiempo/): ensayo sobre geología, arte rupestre, investigación y conservación.
+
+## Contexto de la estructura regional
+
+El [estudio estructural de la Peña de Francia](/lugares/pena-de-francia/geologia/estructura-regional/) incorpora la interpretación de Macaya (1981, p. 567) y contextualiza los lugares de interés geológico CI065, CI066 y CI077. El nexo no supone identidad de perímetros ni de procesos geomorfológicos locales.
