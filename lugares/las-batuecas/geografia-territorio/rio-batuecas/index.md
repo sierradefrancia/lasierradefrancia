@@ -63,3 +63,5 @@ Quedan pendientes los afluentes individualizados, la delimitación cartográfica
 - [Continuidad y restauración del río Batuecas](/lugares/las-batuecas/restauracion-fluvial/): inventario inicial de azudes y actuaciones previstas.
 
 Para la experiencia recreativa del visitante: [El río, las pozas y el baño](/lugares/las-batuecas/pozas-bano/).
+
+[El valle vivo: la extraordinaria naturaleza de Las Batuecas](/lugares/las-batuecas/articulos/el-valle-vivo/): una interpretación conjunta del bosque, el río, la fauna y la conservación.
