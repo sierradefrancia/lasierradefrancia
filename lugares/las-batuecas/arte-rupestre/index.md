@@ -5,6 +5,7 @@ parent: Las Batuecas
 grand_parent: Lugares de interés
 has_children: true
 last_modified_at: 2026-11-25
+description: "Abrigos, pinturas esquemáticas, historia de la investigación, inventario arqueológico y conservación del arte rupestre de Las Batuecas."
 permalink: /lugares/las-batuecas/arte-rupestre/
 ---
 

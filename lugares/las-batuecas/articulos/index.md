@@ -5,6 +5,7 @@ parent: Las Batuecas
 grand_parent: Lugares de interés
 has_children: true
 last_modified_at: 2026-11-25
+description: "Diez relatos y ensayos documentados sobre la naturaleza, historia, literatura, arqueología y vida carmelitana de Las Batuecas."
 permalink: /lugares/las-batuecas/articulos/
 ---
 

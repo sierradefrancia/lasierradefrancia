@@ -1,7 +1,7 @@
 
 # ====================================================
 # LA SIERRA DE FRANCIA
-# REGISTRO CENTRAL DE ENTIDADES — V8
+# REGISTRO CENTRAL DE ENTIDADES — V9
 # ====================================================
 #
 # Fuente de datos para Schema.org.
@@ -323,3 +323,16 @@
   url: "/lugares/pena-de-francia/santuario-patrimonio/rollo-jurisdiccional/"
   parent_url: "/lugares/pena-de-francia/santuario-patrimonio/"
   description: "Monumento vinculado a los privilegios jurisdiccionales del santuario; fecha de ejecución pendiente de comprobación."
+
+- id: monasterio-batuecas
+  type: Place
+  name: "Monasterio del Desierto de San José de Las Batuecas"
+  url: "/lugares/las-batuecas/monasterio/"
+  parent_url: "/lugares/las-batuecas/"
+  description: "Conjunto patrimonial carmelita de iglesia, celdas, ermitas, cercas y bosque."
+
+- id: rio-batuecas
+  type: Place
+  name: "Río Batuecas"
+  url: "/lugares/las-batuecas/rio-batuecas/"
+  description: "Curso fluvial de la cuenca del Tajo, con una reserva natural fluvial diferenciada del río completo."

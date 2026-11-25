@@ -5,6 +5,7 @@ parent: Las Batuecas
 grand_parent: Lugares de interés
 has_children: true
 last_modified_at: 2026-11-25
+description: "Historia, arquitectura, vida eremítica y patrimonio del monasterio carmelita del Desierto de San José de Las Batuecas."
 permalink: /lugares/las-batuecas/monasterio/
 ---
 
