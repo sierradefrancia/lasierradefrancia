@@ -126,3 +126,11 @@ Véase [Aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-t
 - BAT-DOC-035: Miguel de Unamuno, Las Hurdes, en [Andanzas y visiones españolas, Madrid, Renacimiento, 1922](https://www.gutenberg.org/files/78052/78052-h/78052-h.htm), capítulo pp. 107–124; pasaje final consultado en transcripción digital. [Ficha institucional de la edición](https://www.cervantesvirtual.com/obra/andanzas-y-visiones-espanolas/). Fecha impresa agosto de 1914; fecha del viaje pendiente de cotejo con diario y correspondencia, pues la bibliografía especializada lo sitúa en 1913.
 
 [Viajeros y geógrafos](/lugares/las-batuecas/cultura-literatura/viajeros-geografos/).
+
+## Expedición de 1913
+
+- BAT-DOC-036: [Carta de Legendre, París, 25 julio 1913](https://archivo.dip-caceres.es/wp-content/uploads/2024/01/03-031-032-011-El_viaje.pdf), fragmento reproducido en estudio; original pendiente.
+- BAT-DOC-037: Diario del viaje a Las Hurdes, Casa-Museo Unamuno, localizado indirectamente mediante [Erquiaga, 2019, p. 172](https://www.researchgate.net/publication/377241298_Maurice_Legendre_Francia_Salamanca_Y_Las_Hurdes); signatura individual y manuscrito pendientes.
+- BAT-DOC-038: [Correspondencia Unamuno-Chevalier, 2018](https://eusal.es/producto/correspondencia-miguel-de-unamuno-jacques-chevalier-1907-1935/), ficha editorial consultada, anexo IV fotográfico pendiente.
+
+[Unamuno, Legendre y Chevalier](/lugares/las-batuecas/cultura-literatura/unamuno-legendre-chevalier/).
