@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Las Batuecas antes del monasterio"
-parent: "Artículos sobre Las Batuecas"
+parent: "Artículos de Las Batuecas"
 grand_parent: Las Batuecas
 last_modified_at: 2026-11-25
 description: "Un recorrido por la historia medieval, la economía concejil y los testimonios del siglo XVI anteriores al Desierto de San José."
@@ -70,3 +70,5 @@ La investigación continúa en la [historia territorial de Las Batuecas](/lugare
 - [Salmanticensis 48, 2001, p. 313](https://summa.upsa.es/high.raw?id=0000007692&name=00000001.original.pdf): referencia al litigio.
 
 La edición de 1995 ha sido consultada en este ciclo; los originales manuscritos siguen pendientes.
+
+Lectura divulgativa relacionada: [El bosque de Las Batuecas: cinco siglos de aprovechamientos y transformación](/lugares/las-batuecas/articulos/el-bosque-de-las-batuecas/).
