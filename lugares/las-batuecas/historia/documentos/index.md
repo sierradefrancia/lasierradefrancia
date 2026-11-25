@@ -96,3 +96,12 @@ Véase [Aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-t
 - BAT-DOC-025: [BOE, 10/08/1984](https://www.boe.es/boe/dias/1984/08/10/pdfs/A23206-23239.pdf), tabla con montes 48 y 49 y sus cabidas; extracto recuperado, contexto administrativo pendiente.
 
 [Historia forestal](/lugares/las-batuecas/aprovechamientos-tradicionales/).
+
+## Documentación demográfica y eclesiástica
+
+- BAT-DOC-026: Autos realizados para el reconocimiento de la serranía de las Batuecas, Antonio Ortiz Jarero, 1734, Archivo de la Diputación Provincial de Cáceres. Localizador institucional según Blanco Carrasco, p. 248; signatura e imágenes pendientes. Edición específica: Alcántara 31–32 (1994), pp. 161–192, localizada bibliográficamente.
+- BAT-DOC-027: Vecindario de la Corona de Castilla, 1534, Archivo General de Simancas; extracto numérico secundario en Blanco Carrasco, p. 233.
+- BAT-DOC-028: Censo episcopal de 1587–1588, Archivo General de Simancas; misma fuente secundaria.
+- BAT-DOC-029: Vecindario de 1591, Archivo General de Simancas; misma fuente secundaria.
+
+[Blanco Carrasco, estudio demográfico, pp. 233 y 248](https://dehesa.unex.es/bitstreams/c839997e-25fb-4e33-9d92-a456f207e39d/download). Son documentos de contexto regional, con unidades territoriales diferentes. [Granadilla, La Alberca y Las Hurdes](/lugares/las-batuecas/granadilla-hurdes-alberca/).
