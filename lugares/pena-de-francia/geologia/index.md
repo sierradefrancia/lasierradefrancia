@@ -5,6 +5,7 @@ title: Geología
 parent: Peña de Francia
 grand_parent: Lugares de interés
 nav_order: 3
+has_children: true
 description: "Geología de la Peña de Francia: cuarcita armoricana, sinclinales colgados, relieve invertido, rocas ordovícicas, fósiles de actividad, canchales y evolución geológica de la montaña."
 permalink: /lugares/pena-de-francia/geologia/
 ---
