@@ -26,6 +26,8 @@ Esta síntesis se apoya en los estudios existentes del atlas; no implica una nue
 
 ## Explorar esta sección
 
+- [Cuando Las Batuecas conquistaron la imaginación europea](/lugares/las-batuecas/articulos/imaginacion-europea/): ensayo sobre la circulación de la leyenda, la literatura y la exploración territorial.
+
 - [El bosque de Las Batuecas: cinco siglos de aprovechamientos y transformación](/lugares/las-batuecas/articulos/el-bosque-de-las-batuecas/): historia forestal, economía y conservación.
 - [Las Batuecas antes del monasterio](/lugares/las-batuecas/articulos/antes-del-monasterio/): documentación medieval y moderna.
 - [El monasterio que Buñuel quiso comprar](/lugares/las-batuecas/articulos/bunuel-y-el-desierto/).
