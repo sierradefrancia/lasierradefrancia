@@ -51,3 +51,5 @@ Fuentes: [resolución de 1999](https://www.boe.es/diario_boe/txt.php?id=BOE-A-19
 Síntesis documental basada en los expedientes existentes del atlas. No supone una nueva inspección ni consulta íntegra de originales.
 
 [Monasterio](/lugares/las-batuecas/monasterio/) · [Inventario patrimonial](/lugares/las-batuecas/monasterio/inventario/).
+
+[Los hombres que dibujaron Las Batuecas](/lugares/las-batuecas/articulos/los-hombres-que-dibujaron-las-batuecas/): historia de la cartografía, exploración y testimonios gráficos del valle.
