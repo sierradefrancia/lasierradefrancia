@@ -64,3 +64,5 @@ La futura transcripción deberá conservar moneda y unidades de capacidad origin
 Acceso efectivo: descripciones catalográficas consultadas; no originales ni copias íntegras. Los datos económicos detallados siguen pendientes.
 
 [Casa Baja](/lugares/pena-de-francia/santuario-patrimonio/casa-baja/) · [Cofradía y comunidad](/lugares/pena-de-francia/historia/comunidad-cofradia/) · [Repertorio documental](/lugares/pena-de-francia/historia/documentos/).
+
+[Una feria entre dos mundos](/lugares/pena-de-francia/articulos/una-feria-entre-dos-mundos/) — lectura interpretativa sobre trabajo, devoción y territorio.
