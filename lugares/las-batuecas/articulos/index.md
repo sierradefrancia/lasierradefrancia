@@ -24,8 +24,9 @@ Para profundizar, consulta [cultura y literatura](/lugares/las-batuecas/cultura-
 
 Esta síntesis se apoya en los estudios existentes del atlas; no implica una nueva comprobación de los originales.
 
-## Estudios y contenidos
+## Explorar esta sección
 
 - [El monasterio que Buñuel quiso comprar](/lugares/las-batuecas/articulos/bunuel-y-el-desierto/).
+
 
 [Volver a Las Batuecas](/lugares/las-batuecas/).
