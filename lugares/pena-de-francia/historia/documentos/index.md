@@ -45,6 +45,15 @@ Localizadores: [apéndice académico](https://gredos.usal.es/bitstream/handle/10
 
 [Catálogo consultado](https://archivo.dominicoshispania.org/index.php/informationobject/browse?collection=390&places=36185&sort=startDate&sortDir=desc&topLod=0). [Estudio de comunidad y cofradía](/lugares/pena-de-francia/historia/comunidad-cofradia/).
 
+| PEF-DOC-026 | Propiedades en El Maíllo, 1769 | A-B-PEÑ-2-1 | Catálogo; copia autorizada pendiente. |
+| PEF-DOC-027 | Rentas de 1807 | A-B-PEÑ-2-3 | Catálogo; informe pendiente. |
+| PEF-DOC-028 | Inventario de 1822 | A-B-PEÑ-2-4 ff. 26–95; AHN Clero 5804–5805 | Catálogo; copia pendiente. |
+| PEF-DOC-029 | Rentas 1835 y deudas hasta 1839 | A-B-PEÑ-2-4 ff. 1–25 | Catálogo; instrumento distinto de 028. |
+| PEF-DOC-030 | Dotación de aceite y reclamación de 1817 | A-B-PEÑ-4-3 | Catálogo; escrituras pendientes. |
+| PEF-DOC-031 | Poder sobre censo, 11 diciembre 1839 | A-B-PEÑ-4-3 | Catálogo; instrumento distinto de 030. |
+
+[Inventario y rentas: ficha individual](https://archivo.dominicoshispania.org/index.php/rentas-del-convento-santuario-de-la-pena-de-francia-en-diversos-lugares-1822-1839-xerocopias). [Economía conventual](/lugares/pena-de-francia/historia/economia-conventual/).
+
 ## Prioridades de investigación
 
 El poder de 1434 permite estudiar a Simón como agente histórico sin depender exclusivamente de su biografía legendaria. El Libro de Privilegios puede contener copias de instrumentos anteriores; cada uno deberá recibir un registro subordinado cuando se conozca su identidad. Las cuentas del XIX permiten investigar la continuidad material del santuario tras la supresión, sin extrapolar sus cifras a la comunidad medieval.
