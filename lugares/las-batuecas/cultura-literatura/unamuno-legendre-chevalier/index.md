@@ -62,3 +62,5 @@ La tesis de 1927, las publicaciones de 1913 y 1945 y los documentos de las pereg
 [Cuando Las Batuecas conquistaron la imaginación europea](/lugares/las-batuecas/articulos/imaginacion-europea/): ensayo sobre la circulación de la leyenda, la literatura y la exploración territorial.
 
 [Estar en Las Batuecas: el arte de perderse](/lugares/las-batuecas/articulos/el-arte-de-perderse/): paisaje, contemplación e historia de la expresión popular.
+
+[El verano de 1913: cuatro hombres y una sierra](/lugares/las-batuecas/articulos/el-verano-de-1913/): relato documental de la expedición y del conocimiento local del territorio.
