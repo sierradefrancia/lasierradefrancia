@@ -1,10 +1,11 @@
 ---
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 layout: default
 title: Artículos sobre la Peña de Francia
 parent: Peña de Francia
 grand_parent: Lugares de interés
 nav_order: 9
+has_children: true
 description: "Investigaciones, historias, descubrimientos, relatos y nuevas perspectivas sobre la Peña de Francia, su patrimonio, naturaleza y relación con los pueblos de la Sierra."
 permalink: /lugares/pena-de-francia/articulos/
 ---
@@ -26,6 +27,8 @@ No buscamos publicar por publicar.
 ---
 
 ## Lecturas e investigaciones disponibles
+
+- [Una feria entre dos mundos](/lugares/pena-de-francia/articulos/una-feria-entre-dos-mundos/) — lectura interpretativa sobre trabajo, devoción y territorio.
 
 - [La montaña que volvió a levantarse](/lugares/pena-de-francia/articulos/la-montana-que-volvio-a-levantarse/).
 - [La expedición científica de 1857](/lugares/pena-de-francia/clima-observacion/expedicion-1857/).
