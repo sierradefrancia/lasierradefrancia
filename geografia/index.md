@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 layout: default
 title: Geografía y paisaje
 nav_order: 8
@@ -641,3 +641,5 @@ Una base que permita situar cada elemento del territorio dentro de un conjunto c
 ---
 
 *La Sierra de Francia · Atlas territorial de conocimiento.*
+
+[Estudio de las cumbres y organización del relieve](/lugares/pena-de-francia/geografia-territorio/cumbres-y-relieve/). El IGN identifica la Hastiala (1.735 m) como culminación de la Sierra de la Peña de Francia, unidad orográfica de 41 km que no equivale a la comarca.
