@@ -27,7 +27,7 @@ La fecha de 1288 no debe confundirse con la concesión concejil. En esta última
 
 ## El territorio antes del Desierto
 
-El 17 de septiembre de 1515 se proclamaron las ordenanzas albercanas, que reunían disposiciones de distinta antigüedad. La regulación del corcho, madera y colmenares permite comprender una economía territorial anterior a la fundación religiosa, sin atribuir automáticamente cada actividad a una parcela del valle. Las relaciones topográficas de 1574 ofrecen otra vía de contraste, todavía pendiente de lectura local completa.
+El 17 de septiembre de 1515 se proclamaron las ordenanzas albercanas, que reunían disposiciones de distinta antigüedad. La regulación del corcho, madera y colmenares permite comprender una economía territorial anterior a la fundación religiosa, sin atribuir automáticamente cada actividad a una parcela del valle. Las relaciones topográficas de 1574 mencionan expresamente las sierras de Batuecas en los capítulos 7 y 9 de La Alberca (edición de 1995, p. 334). El original manuscrito no se ha cotejado.
 
 La mención de contratantes procedentes de Batuecas en 1455 merece especial atención: no establece por sí sola una aldea permanente, pero impide tratar la ausencia de población como una conclusión demostrada. Véanse los [aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-tradicionales/) y la [historia territorial](/lugares/las-batuecas/historia-territorial/).
 
@@ -57,3 +57,5 @@ La exclaustración, los propietarios particulares y la recuperación religiosa d
 - [Decreto 92/2000](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2000-14223).
 
 Síntesis de expedientes existentes; no implica nueva consulta de originales. [Repertorio documental](/lugares/las-batuecas/historia/documentos/) · [Personajes](/lugares/las-batuecas/historia/personajes/).
+
+Lectura complementaria: [Las Batuecas antes del monasterio](/lugares/las-batuecas/articulos/antes-del-monasterio/).
