@@ -39,6 +39,19 @@ Esta cronología distingue acontecimientos, fechas de documentos y fechas transm
 | 3 marzo 1902 | Presupuesto de hospedería | Catálogo AHDOPE; ejecución no demostrada. |
 | 1956 | Reconocimiento monumental | Ficha TERPAT; disposición original pendiente. |
 
+## Nuevas referencias cronológicas
+
+| Fecha | Referencia | Estado |
+|---|---|---|
+| 9 septiembre 1436 | Disposición regia, apéndice Juan II 29 | Discrepancia pendiente |
+| 18 septiembre 1436 | Cesión de Sancho de Castilla | Indirecta |
+| 9 noviembre 1436 | Disposición regia, estudio p. 74 | Discrepancia pendiente |
+| 6 mayo 1437 | Cesión de Barrientos a Villalón | Indirecta |
+| 1445 | Exención jurisdiccional regia | Indirecta |
+| 1551–1553 | Pleito con Ciudad Rodrigo | Catálogo AHDOPE A-B-PEÑ-1-1 |
+
+[Estudio de fundación y patronazgo](/lugares/pena-de-francia/historia/fundacion-patronazgo/).
+
 ## Cómo interpretar las fechas fundacionales
 
 El poder de julio de 1434, si se confirma su tenor, aporta evidencia de actividad administrativa temprana, no de la literalidad del hallazgo milagroso. Las disposiciones regias y posesiones de 1436–1437 deben identificarse por emisor, destinatario y contenido antes de determinar si son actos sucesivos o referencias discrepantes.
