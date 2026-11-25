@@ -40,3 +40,6 @@ Esta síntesis se apoya en los estudios existentes del atlas; no implica una nue
 - [Luis Buñuel y Las Batuecas](/lugares/las-batuecas/luis-bunuel/).
 
 [Volver a Las Batuecas](/lugares/las-batuecas/).
+
+
+[Las Batuecas en la literatura europea](/lugares/las-batuecas/cultura-literatura/recepcion-europea/): ediciones, traducciones y recepción internacional.
