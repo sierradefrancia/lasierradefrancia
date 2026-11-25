@@ -5,6 +5,7 @@ title: Santuario y patrimonio
 parent: Peña de Francia
 grand_parent: Lugares de interés
 nav_order: 4
+has_children: true
 description: "Estudio del santuario de la Peña de Francia: iglesia, convento, Virgen, capilla de la Blanca, cripta, rollo jurisdiccional, hospedería, capillas, inscripciones y patrimonio histórico."
 permalink: /lugares/pena-de-francia/santuario-patrimonio/
 ---
