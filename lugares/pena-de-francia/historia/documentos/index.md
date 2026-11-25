@@ -68,3 +68,15 @@ El poder de 1434 permite estudiar a Simón como agente histórico sin depender e
 Estos enlaces proceden de la bibliografía previa; su disponibilidad y el contenido íntegro de los originales deberán comprobarse individualmente.
 
 [Historia](/lugares/pena-de-francia/historia/) · [Cronología](/lugares/pena-de-francia/historia/cronologia/) · [Inventario patrimonial](/lugares/pena-de-francia/santuario-patrimonio/inventario/).
+
+## Exclaustración y recuperación institucional
+
+| ID | Documento | Localizador | Estado |
+|---|---|---|---|
+| PEF-DOC-032 | Contribución a la curia, 2 noviembre 1805 | A-B-PEÑ-4-1 f. 1 | Catálogo |
+| PEF-DOC-033 | Relación de religiosos, 23 noviembre 1834 | A-B-PEÑ-4-1 f. 2 | Catálogo; nombres y edades pendientes |
+| PEF-DOC-034 | Relación atribuida a 1835 | A-B-PEÑ-4-1 f. 3 | Catálogo; sin firma ni fecha exacta |
+| PEF-DOC-035 | Custodia y administración, 1835–1858 | A-B-PEÑ-4-2 | Catálogo; documentos individuales pendientes |
+| PEF-DOC-036 | Carta de Francisco del Canto, 28 septiembre 1877 | B-C-SAL-b-14/1-3 doc. 1 | Catálogo; copia pendiente |
+
+[Catálogo de exclaustración](https://archivo.dominicoshispania.org/index.php/exclaustracion?onlyDirect=1) · [Monografía](/lugares/pena-de-francia/historia/exclaustracion/).
