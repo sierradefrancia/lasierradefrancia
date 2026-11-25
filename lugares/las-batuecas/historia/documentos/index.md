@@ -81,3 +81,10 @@ Fuente de los localizadores: [Martín Marcos, 2022, pp. 195–196, notas 64–66
 - BAT-DOC-020: ARCHV, Gobierno de la Sala del Crimen, caja 104, 26, 14/08–17/11/1832: diligencias relativas a la reclusión de Miguel Cuadrado en el monasterio. Registro localizado en resultados de [PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/find?archivo=8&idAut=101007&idD=S&idFF=19&idFI=19&tipoAsocAut=1); imágenes y contenido íntegro pendientes.
 
 Véanse [Aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-tradicionales/) y [Desamortización y recuperación](/lugares/las-batuecas/desamortizacion-recuperacion/).
+
+## Continuación de la serie forestal
+
+- BAT-DOC-021: [Gaceta de Madrid, 30/01/1902](https://www.boe.es/diario_gazeta/comun/pdf.php?do=1&p=1902%2F01%2F30%2Fpdfs%2FGMD-1902-30.pdf), segunda convocatoria tras quedar desierta la primera subasta del corcho; texto recuperado, adjudicación pendiente.
+- BAT-DOC-022: [Gaceta de Madrid, 19/04/1921](https://www.boe.es/gazeta/dias/1921/04/19/pdfs/C00173-00180.pdf), segunda convocatoria para dos pelas de 6.639 alcornoques del monte 48, previstas en 1921 y 1932; cifras económicas y pesos pendientes de cotejo visual.
+
+Véase [Aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-tradicionales/).
