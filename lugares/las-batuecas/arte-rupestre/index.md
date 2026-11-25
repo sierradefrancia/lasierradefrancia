@@ -46,23 +46,22 @@ La siguiente ampliación debe partir de expedientes individuales de los abrigos,
 
 Fuentes de partida: [BOE, declaración de 2000](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2000-14223), [Breuil, colección CSIC](https://simurg.csic.es/view/990001001030204201/les-peintures-rupestres-d-espagne), [Bécares, Pallón](https://revistas.usal.es/uno/index.php/0514-7336/es/article/view/1953), [Bécares, Corral de Morcilla](https://revistas.usal.es/uno/index.php/0514-7336/it/article/view/442). Esta síntesis reutiliza los expedientes existentes; no supone una nueva inspección arqueológica.
 
-## Estudios y contenidos
+## Explorar esta sección
 
-- [Inventario arqueológico de Las Batuecas](/lugares/las-batuecas/inventario-arqueologico/).
-- [Historia de las investigaciones rupestres](/lugares/las-batuecas/historia-investigaciones/).
-- [Documentos gráficos del arte rupestre de Las Batuecas](/lugares/las-batuecas/documentos-rupestres/).
+- [Canchal de las Cabras Pintadas](/lugares/las-batuecas/arte-rupestre/cabras-pintadas/).
+- [La documentación rupestre de 1922](/lugares/las-batuecas/arte-rupestre/campana-1922/).
 - [Conservación de las pinturas rupestres de Las Batuecas](/lugares/las-batuecas/conservacion-rupestre/).
+- [Corral de Morcilla](/lugares/las-batuecas/arte-rupestre/corral-morcilla/).
+- [Documentos gráficos del arte rupestre de Las Batuecas](/lugares/las-batuecas/documentos-rupestres/).
+- [Historia de las investigaciones rupestres](/lugares/las-batuecas/historia-investigaciones/).
+- [Inventario arqueológico de Las Batuecas](/lugares/las-batuecas/inventario-arqueologico/).
+- [Covacho del Pallón](/lugares/las-batuecas/arte-rupestre/pallon/).
+- [Color y policromía en el arte rupestre](/lugares/las-batuecas/arte-rupestre/policromia/).
 - [Protección patrimonial de Las Batuecas](/lugares/las-batuecas/proteccion-patrimonial/).
+
 
 [Volver a Las Batuecas](/lugares/las-batuecas/).
 
-
-## Expedientes individuales de abrigos
-
-- [Covacho del Pallón](/lugares/las-batuecas/arte-rupestre/pallon/) — expediente inicial.
-- [Corral de Morcilla](/lugares/las-batuecas/arte-rupestre/corral-morcilla/) — expediente inicial.
-
-- [Canchal de las Cabras Pintadas](/lugares/las-batuecas/arte-rupestre/cabras-pintadas/) — documentación histórica y protección.
 
 
 ## Investigación comparada: los conjuntos estudiados en los años setenta
@@ -71,8 +70,3 @@ Los estudios de [Pallón](/lugares/las-batuecas/arte-rupestre/pallon/) y [Corral
 
 Textos originales: [1974](https://revistas.usal.es/uno/index.php/0514-7336/es/article/download/1953/2009/4764) y [1975–1976](https://revistas.usal.es/uno/index.php/0514-7336/it/article/download/442/616/1325). La consulta de los PDF permite superar la fase de resúmenes; queda pendiente cotejar gráficamente las láminas.
 
-
-## Estudios transversales
-
-- [Color y policromía](/lugares/las-batuecas/arte-rupestre/policromia/).
-- [La documentación rupestre de 1922](/lugares/las-batuecas/arte-rupestre/campana-1922/).
