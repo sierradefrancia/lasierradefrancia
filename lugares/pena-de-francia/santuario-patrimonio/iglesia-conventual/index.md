@@ -36,4 +36,16 @@ Síntesis del [estudio patrimonial preexistente](/lugares/pena-de-francia/santua
 
 ## Contraste cronológico
 
-La ficha [TERPAT 2022](https://www.jcyl.es/jcyl/patrimoniocultural/TERPAT/SantuariosErmitasHumilladeros/index_htm_files/04-Pena%20de%20Francia%2C%20El%20Cabaco.pdf) recuperada en esta consulta fecha la construcción en 1521 y reconoce una cabecera anterior. [Kindelán 1956, p. 7](https://info.igme.es/biblioteca/ficheros/NotasComunicaciones/Comunicaciones_041_1956.pdf) propone hacia 1450. Son atribuciones de fuentes distintas; la hipótesis de campañas sucesivas requiere prueba arquitectónica. TERPAT identifica asimismo acceso por el norte y torre sobre el ábside del Evangelio.
+En el nuevo intento de acceso del 25/11/2026, TERPAT no respondió dentro del plazo de consulta. No se acredita aquí una nueva lectura de esa ficha. Kindelán queda igualmente pendiente de cotejo directo en este bloque.
+
+La ficha [TERPAT 2022](https://www.jcyl.es/jcyl/patrimoniocultural/TERPAT/SantuariosErmitasHumilladeros/index_htm_files/04-Pena%20de%20Francia%2C%20El%20Cabaco.pdf) citada en el repertorio previo fecha la construcción en 1521 y reconoce una cabecera anterior. [Kindelán 1956, p. 7](https://info.igme.es/biblioteca/ficheros/NotasComunicaciones/Comunicaciones_041_1956.pdf) propone hacia 1450. Son atribuciones de fuentes distintas; la hipótesis de campañas sucesivas requiere prueba arquitectónica. TERPAT identifica asimismo acceso por el norte y torre sobre el ábside del Evangelio.
+
+## Arquitectura y función litúrgica
+
+La cabecera, las naves y la sacristía deben estudiarse como espacios funcionalmente diferenciados. Los ábsides alojan la terminación oriental de las naves o capillas; su relación con los soportes y arranques de bóveda puede ayudar a reconocer cambios de proyecto. La sacristía responde a necesidades de preparación y custodia del culto, mientras que la disposición de los accesos condiciona la circulación de religiosos y peregrinos. No disponemos de un plano histórico que permita reconstruir esa circulación para cada época.
+
+La torre añade otra dimensión funcional: campanas y referencia territorial, posteriormente también soporte de una señal geodésica. Las fechas de construcción, instalación de campanas y señal IGN son problemas diferentes.
+
+## Relación con el conjunto
+
+La iglesia no debe interpretarse separadamente de la [capilla de la Blanca](/lugares/pena-de-francia/santuario-patrimonio/capilla-blanca/), la [plaza y capillas exteriores](/lugares/pena-de-francia/santuario-patrimonio/plaza-capillas/) y la [hospedería](/lugares/pena-de-francia/santuario-patrimonio/hospederia/). La recuperación del culto en el siglo XIX y la reconstrucción de dependencias pudieron seguir ritmos distintos. La secuencia de obras documentadas en el atlas proporciona puntos de partida para cotejar la fábrica conservada.
