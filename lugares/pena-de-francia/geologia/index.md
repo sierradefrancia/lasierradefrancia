@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 layout: default
 title: Geología
 parent: Peña de Francia
@@ -589,3 +589,7 @@ La erosión ha dejado en resalte determinados conjuntos cuarcíticos y ha excava
 Los canchales y las pedreras muestran que los procesos de transformación del paisaje no pertenecen exclusivamente a un pasado remoto.
 
 **Comprender la geología de la Peña de Francia es descubrir que su forma actual no es casual: es el resultado de una historia que todavía puede reconocerse sobre el terreno.**
+
+## Investigación estructural regional
+
+[La estructura geológica regional de la Peña](/lugares/pena-de-francia/geologia/estructura-regional/) incorpora la introducción de Macaya (1981), p. 567, y relaciona el granito de La Alberca–Sequeros, Tamames y Paso de los Lobos. El artículo completo continúa pendiente de lectura.
