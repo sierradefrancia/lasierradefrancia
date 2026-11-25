@@ -49,3 +49,5 @@ Pendientes: inventario nominal completo, plantas, fases de obra y comprobación 
 
 
 [Inventario patrimonial](/lugares/las-batuecas/monasterio/inventario/) · [Recinto y paisaje](/lugares/las-batuecas/monasterio/recinto-paisaje/).
+
+[La soledad habitada: cuatro siglos de retiro carmelitano](/lugares/las-batuecas/articulos/la-soledad-habitada/): historia de la relación entre arquitectura, trabajo, bosque y contemplación.
