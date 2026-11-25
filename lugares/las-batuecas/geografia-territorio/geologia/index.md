@@ -87,3 +87,7 @@ El [estudio estructural de la Peña de Francia](/lugares/pena-de-francia/geologi
 ## Investigación estratigráfica de 2009
 
 El [estudio del límite Cámbrico-Ordovícico](/lugares/pena-de-francia/geologia/limite-cambrico-ordovicico/) incorpora los resultados de Valladares y colaboradores (Geogaceta 47, 49–52) sobre la diferenciación de conglomerados y sus ambientes sedimentarios, con observaciones en varios sectores serranos. Consultados resumen y extractos; no constituye una nueva comprobación de campo.
+
+## Monsagro: del afloramiento al patrimonio cultural
+
+El [expediente de Monsagro](/pueblos/otros-pueblos/monsagro/) documenta la ruta urbana inaugurada en 2015 y el centro abierto en 2018, así como los estudios de Martínez-Graña et al. (2017) y Simón-Porcar et al. (2020). Distingue el contexto geológico original de las piedras incorporadas a fachadas y el valor social de ese patrimonio.
