@@ -40,3 +40,7 @@ Esta síntesis se apoya en los estudios existentes del atlas; no implica una nue
 - [El río Batuecas y su reserva natural fluvial](/lugares/las-batuecas/rio-batuecas/).
 
 [Volver a Las Batuecas](/lugares/las-batuecas/).
+
+## El límite forestal como referencia territorial
+
+El Decreto 92/2000 delimita el Sitio Histórico al norte y nordeste por la divisoria de los montes 48 y 49. La guía micológica de 2017 denomina al 48 Las Batuecas y al 49 Los Brezales, mientras una tabla del BOE de agosto de 1984 reproduce Las Batuecas para ambos. Se trata de unidades administrativas forestales, no de una delimitación hidrográfica. La reconstrucción cartográfica requiere los planos y expedientes de deslinde. [Historia de los aprovechamientos](/lugares/las-batuecas/aprovechamientos-tradicionales/) · [Decreto de declaración](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2000-14223).
