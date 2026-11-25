@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 layout: default
 title: Las Batuecas
 parent: Lugares de interés
@@ -40,6 +40,31 @@ Esta combinación de valores naturales, arqueológicos, históricos y espiritual
 - [Protección y conservación de Las Batuecas](/lugares/las-batuecas/conservacion/).
 - [Visitar Las Batuecas](/lugares/las-batuecas/visitar/).
 - [Artículos de Las Batuecas](/lugares/las-batuecas/articulos/).
+
+## Diez historias para comprender el valle
+
+La colección de artículos desarrolla perspectivas originales a partir de las investigaciones del atlas. Permite recorrer el valle desde la prehistoria hasta la conservación contemporánea, pasando por la literatura europea, los viajeros y la vida carmelitana.
+
+- [El valle vivo: la extraordinaria naturaleza de Las Batuecas](/lugares/las-batuecas/articulos/el-valle-vivo/): una interpretación conjunta del bosque, el río, la fauna y la conservación.
+- [Las Batuecas y la memoria del tiempo](/lugares/las-batuecas/articulos/la-memoria-del-tiempo/): ensayo sobre geología, arte rupestre, investigación y conservación.
+- [Los hombres que dibujaron Las Batuecas](/lugares/las-batuecas/articulos/los-hombres-que-dibujaron-las-batuecas/): historia de la cartografía, exploración y testimonios gráficos del valle.
+- [La soledad habitada: cuatro siglos de retiro carmelitano](/lugares/las-batuecas/articulos/la-soledad-habitada/): historia de la relación entre arquitectura, trabajo, bosque y contemplación.
+- [El verano de 1913: cuatro hombres y una sierra](/lugares/las-batuecas/articulos/el-verano-de-1913/): relato documental de la expedición y del conocimiento local del territorio.
+- [Estar en Las Batuecas: el arte de perderse](/lugares/las-batuecas/articulos/el-arte-de-perderse/): paisaje, contemplación e historia de la expresión popular.
+- [Cuando Las Batuecas conquistaron la imaginación europea](/lugares/las-batuecas/articulos/imaginacion-europea/): ensayo sobre la circulación de la leyenda, la literatura y la exploración territorial.
+- [El bosque de Las Batuecas: cinco siglos de aprovechamientos y transformación](/lugares/las-batuecas/articulos/el-bosque-de-las-batuecas/): historia forestal, economía y conservación.
+- [Las Batuecas antes del monasterio](/lugares/las-batuecas/articulos/antes-del-monasterio/): documentación medieval y moderna.
+- [El monasterio que Buñuel quiso comprar](/lugares/las-batuecas/articulos/bunuel-y-el-desierto/).
+
+[Explorar todos los artículos](/lugares/las-batuecas/articulos/).
+
+## Investigar Las Batuecas
+
+La documentación histórica dispone de tres puertas de entrada complementarias: [cronología](/lugares/las-batuecas/historia/cronologia/), [repertorio documental](/lugares/las-batuecas/historia/documentos/) y [personajes](/lugares/las-batuecas/historia/personajes/). Los [conflictos concejiles](/lugares/las-batuecas/historia/conflictos-concejiles/) permiten seguir los derechos y aprovechamientos anteriores y posteriores a la fundación religiosa.
+
+El patrimonio carmelitano cuenta con un [inventario arquitectónico](/lugares/las-batuecas/monasterio/inventario/), estudios de la [iglesia](/lugares/las-batuecas/monasterio/iglesia/), el [recinto y paisaje](/lugares/las-batuecas/monasterio/recinto-paisaje/) y las [dependencias](/lugares/las-batuecas/monasterio/dependencias/). La investigación cultural incluye la [recepción europea](/lugares/las-batuecas/cultura-literatura/recepcion-europea/), los [viajeros y geógrafos](/lugares/las-batuecas/cultura-literatura/viajeros-geografos/) y la [expedición de 1913](/lugares/las-batuecas/cultura-literatura/unamuno-legendre-chevalier/).
+
+Estos estudios distinguen evidencias documentales, interpretaciones y cuestiones pendientes. No constituyen una certificación de que todos los originales hayan sido examinados.
 
 ## Cómo visitar Las Batuecas
 
