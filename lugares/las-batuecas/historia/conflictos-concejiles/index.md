@@ -43,3 +43,5 @@ Martín Marcos (2022, pp. 195–196, notas 64–66) localiza la ejecutoria de 15
 La serie identificada alcanza 1777 y muestra la pertinencia de estudiar los derechos a largo plazo. No todos los expedientes conciernen directamente al valle: los litigios entre concejos hurdanos y albercano constituyen contexto regional, mientras la mención del carbón en 1587 es una pista específicamente batueca.
 
 [Estudio consultado, pp. 195–196](https://oai.e-spacio.uned.es/server/api/core/bitstreams/4a985912-6712-4915-873c-bc68e3e7ca4a/content). [Consultar repertorio de signaturas](/lugares/las-batuecas/historia/documentos/).
+
+Lectura divulgativa relacionada: [El bosque de Las Batuecas: cinco siglos de aprovechamientos y transformación](/lugares/las-batuecas/articulos/el-bosque-de-las-batuecas/).
