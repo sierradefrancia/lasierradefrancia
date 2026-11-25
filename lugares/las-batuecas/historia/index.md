@@ -41,3 +41,9 @@ Esta síntesis se apoya en los estudios existentes del atlas; no implica una nue
 - [Aprovechamientos tradicionales de Las Batuecas](/lugares/las-batuecas/aprovechamientos-tradicionales/).
 
 [Volver a Las Batuecas](/lugares/las-batuecas/).
+
+## Cronología, documentos y protagonistas
+
+- [Cronología histórica de Las Batuecas](/lugares/las-batuecas/historia/cronologia/): secuencia territorial y estados de evidencia.
+- [Repertorio documental](/lugares/las-batuecas/historia/documentos/): localizadores archivísticos y vías de consulta.
+- [Personajes y testimonios históricos](/lugares/las-batuecas/historia/personajes/): actores y transmisión de las noticias.
