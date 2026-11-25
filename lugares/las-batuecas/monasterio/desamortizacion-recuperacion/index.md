@@ -3,7 +3,7 @@ layout: default
 title: Desamortización y recuperación del Desierto
 parent: "Monasterio del Desierto de San José"
 grand_parent: Las Batuecas
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Propietarios, subasta, abandono y recuperación religiosa del monasterio entre 1836 y 1950."
 permalink: /lugares/las-batuecas/desamortizacion-recuperacion/
 ---
@@ -67,3 +67,7 @@ Las fuentes discrepan sobre la fundación canónica femenina de 1939: Alonso Rom
 - [Daniel de Pablo Maroto, Salmanticensis 48 (2001)](https://summa.upsa.es/high.raw?id=0000007692&name=00000001.original.pdf): noticia sobre permanencia de religiosos hasta 1846.
 
 Se han consultado extractos y la ficha institucional; no las escrituras ni los decretos originales. Véanse [historia carmelitana](/lugares/las-batuecas/historia-carmelitana/), [personajes](/lugares/las-batuecas/personajes-carmelitanos/) y [restauración](/lugares/las-batuecas/restauracion-monasterio/).
+
+## Un expediente anterior a la exclaustración: 1832
+
+El catálogo de PARES identifica diligencias relativas a la reclusión de Miguel Cuadrado, presbítero y capellán de catedral, en el monasterio de Las Batuecas, fechadas entre el 14 de agosto y el 17 de noviembre de 1832. Archivo de la Real Chancillería de Valladolid, Gobierno de la Sala del Crimen, caja 104, 26. Se ha localizado la descripción en resultados del catálogo, no consultado el expediente. No se conocen las causas, condiciones ni desenlace de la reclusión. [Repertorio documental](/lugares/las-batuecas/historia/documentos/).
