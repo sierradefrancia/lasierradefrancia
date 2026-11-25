@@ -33,6 +33,19 @@ Registro inicial de personas vinculadas a la montaña y su santuario, construido
 
 [Estudio de fundación y patronazgo](/lugares/pena-de-francia/historia/fundacion-patronazgo/).
 
+| PEF-PER-017 | Toribio de El Cabaco | Prior, sacerdote, capítulo 11 enero 1504, AHDOPE A-B-PEÑ-1-2 | Catálogo; biografía y procedencia pendientes. |
+| PEF-PER-018 | Alonso de Espinosa | Vicario, sacerdote, capítulo 11 enero 1504, AHDOPE A-B-PEÑ-1-2 | Catálogo; biografía y procedencia pendientes. |
+| PEF-PER-019 | Juan de Santa María | Bachiller, sacerdote, capítulo 11 enero 1504, AHDOPE A-B-PEÑ-1-2 | Catálogo; biografía y procedencia pendientes. |
+| PEF-PER-020 | Sancho de Tamames | Sacerdote, capítulo 11 enero 1504, AHDOPE A-B-PEÑ-1-2 | Catálogo; biografía y procedencia pendientes. |
+| PEF-PER-021 | Bartolomé Guillén | Sacerdote, capítulo 11 enero 1504, AHDOPE A-B-PEÑ-1-2 | Catálogo; biografía y procedencia pendientes. |
+| PEF-PER-022 | Alonso de San Martín | Sacerdote, capítulo 11 enero 1504, AHDOPE A-B-PEÑ-1-2 | Catálogo; biografía y procedencia pendientes. |
+| PEF-PER-023 | Francisco de Nurueña | Sacerdote, capítulo 11 enero 1504, AHDOPE A-B-PEÑ-1-2 | Catálogo; biografía y procedencia pendientes. |
+| PEF-PER-024 | Juan de Tamames | Sacerdote, capítulo 11 enero 1504, AHDOPE A-B-PEÑ-1-2 | Catálogo; biografía y procedencia pendientes. |
+| PEF-PER-025 | Lucas de Ledesma | Hermano lego, capítulo 11 enero 1504, AHDOPE A-B-PEÑ-1-2 | Catálogo; biografía y procedencia pendientes. |
+| PEF-PER-026 | Melchior de Santo Domingo | Hermano lego, capítulo 11 enero 1504, AHDOPE A-B-PEÑ-1-2 | Catálogo; biografía y procedencia pendientes. |
+| PEF-PER-027 | Juan de Todos los Santos | Hermano lego, capítulo 11 enero 1504, AHDOPE A-B-PEÑ-1-2 | Catálogo; biografía y procedencia pendientes. |
+| PEF-PER-028 | Lorenzo de Valdefuentes | Hermano lego, capítulo 11 enero 1504, AHDOPE A-B-PEÑ-1-2 | Catálogo; biografía y procedencia pendientes. |
+
 ## Personas, instituciones y tradiciones
 
 La historia del santuario no puede reducirse a sus fundadores. Los administradores, religiosos, miembros de cofradías, trabajadores y peregrinos forman parte de su trayectoria. Las fuentes disponibles permiten identificar algunas personas, pero todavía no reconstruir la composición social completa.
