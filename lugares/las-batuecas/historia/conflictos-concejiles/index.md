@@ -35,3 +35,11 @@ Estas normas revelan mecanismos de vigilancia y protección económica del arbol
 - [Estar en Las Batuecas](https://revistas.ucm.es/index.php/CHMO/es/article/download/77469/4564456560320/4564456641754), notas 61–64: extracto consultado; expedientes judiciales originales pendientes.
 
 [Repertorio documental](/lugares/las-batuecas/historia/documentos/) · [Personajes](/lugares/las-batuecas/historia/personajes/) · [Las Batuecas antes del monasterio](/lugares/las-batuecas/articulos/antes-del-monasterio/).
+
+## Continuidad judicial y contrato de 1531
+
+Martín Marcos (2022, pp. 195–196, notas 64–66) localiza la ejecutoria de 1587 en Registro de Ejecutorias, caja 1588, 19. Su lectura historiográfica relaciona los fallos favorables a La Alberca con las reservas de aprovechamiento del contrato enfitéutico de 1531. El contrato y las sentencias requieren cotejo independiente: la interpretación publicada no sustituye sus cláusulas ni sus fallos literales.
+
+La serie identificada alcanza 1777 y muestra la pertinencia de estudiar los derechos a largo plazo. No todos los expedientes conciernen directamente al valle: los litigios entre concejos hurdanos y albercano constituyen contexto regional, mientras la mención del carbón en 1587 es una pista específicamente batueca.
+
+[Estudio consultado, pp. 195–196](https://oai.e-spacio.uned.es/server/api/core/bitstreams/4a985912-6712-4915-873c-bc68e3e7ca4a/content). [Consultar repertorio de signaturas](/lugares/las-batuecas/historia/documentos/).
