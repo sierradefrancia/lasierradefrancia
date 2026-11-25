@@ -79,3 +79,5 @@ Estudio relacionado: [Incendios forestales y regeneración del paisaje](/lugares
 ## Una referencia histórica al alcornocal
 
 El anuncio oficial de abril de 1921 comprendía dos extracciones de corcho de 6.639 alcornoques del monte número 48. Es un dato contractual histórico, no un censo botánico completo ni un indicador de densidad actual. El turno previsto de once años aporta contexto sobre la gestión humana de la vegetación. [Fuente oficial](https://www.boe.es/gazeta/dias/1921/04/19/pdfs/C00173-00180.pdf) · [Historia de los aprovechamientos](/lugares/las-batuecas/aprovechamientos-tradicionales/).
+
+Lectura divulgativa relacionada: [El bosque de Las Batuecas: cinco siglos de aprovechamientos y transformación](/lugares/las-batuecas/articulos/el-bosque-de-las-batuecas/).
