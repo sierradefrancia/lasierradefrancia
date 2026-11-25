@@ -74,3 +74,7 @@ Miguel de Unamuno: testimonio directo de un viaje por Las Hurdes y Batuecas en t
 Jean-Baptiste Bide y conde de Saint-Saud: expedición documentada en 1890 mediante noticia reproducida por la RSG; Bide presentó conferencias en 1891–1892. Francisco Coello y A. Pezuela: antecedentes cartográficos y grabado del mapa de 1892, respectivamente. Ludovic Beauchet: obra de 1895 localizada bibliográficamente. Ignacio de La Alberca: guía de Legendre, citado por Annales de géographie (1997); identificación completa pendiente.
 
 [Viajeros y geógrafos en Las Batuecas](/lugares/las-batuecas/cultura-literatura/viajeros-geografos/).
+
+## Nuevas pistas literarias y visuales
+
+Pedro González de Velasco: su publicación de 1880 fue una lectura que motivó el interés de Bide, según la introducción de sus conferencias. Cecilia Böhl de Faber (Fernán Caballero) y Charles Davillier: referencias literarias localizadas indirectamente, sin visita acreditada por estas fuentes. Marcos Rafael Blanco-Belmonte y Venancio Gombau: autor y fotógrafo relacionados con Por la España desconocida, hacia 1911, según bibliografía de la RSG de 2022; originales pendientes. [Viajeros](/lugares/las-batuecas/cultura-literatura/viajeros-geografos/) · [Recepción europea](/lugares/las-batuecas/cultura-literatura/recepcion-europea/).
