@@ -139,3 +139,5 @@ Relato documental elaborado a partir de la investigación previa del atlas. No i
 - [Revista de Folklore, estudio sobre Legendre](https://funjdiaz.net/folklore/07ficha.php?id=2774).
 
 El manuscrito del diario, la correspondencia íntegra, la dedicatoria original de la tesis, el anexo fotográfico y la identificación completa de Ignacio siguen pendientes de cotejo. Véase el [repertorio documental](/lugares/las-batuecas/historia/documentos/) y la [investigación sobre los viajeros](/lugares/las-batuecas/cultura-literatura/viajeros-geografos/).
+
+[Los hombres que dibujaron Las Batuecas](/lugares/las-batuecas/articulos/los-hombres-que-dibujaron-las-batuecas/): historia de la cartografía, exploración y testimonios gráficos del valle.
