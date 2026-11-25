@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Felisa Martín Bravo
-parent: Personajes
+parent: Personajes históricos
 last_modified_at: 2026-11-25
 permalink: /personajes/felisa-martin-bravo/
 description: "Pionera de la física y meteorología españolas y autora del estudio técnico de la estación automática de la Peña de Francia."
