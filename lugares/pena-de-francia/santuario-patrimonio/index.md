@@ -682,6 +682,8 @@ No debe presentarse como un edificio libremente visitable.
 
 ## Escudos, inscripciones y símbolos
 
+[Estudio transversal de escudos, inscripciones y memoria monumental](/lugares/pena-de-francia/santuario-patrimonio/heraldica-inscripciones/).
+
 El conjunto conserva o tiene documentados diversos elementos heráldicos y simbólicos.
 
 Entre los identificados por las fuentes figuran:
