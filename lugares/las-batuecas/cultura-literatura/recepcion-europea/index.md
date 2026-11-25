@@ -4,6 +4,7 @@ title: "Las Batuecas en la literatura europea"
 parent: "Cultura, literatura y leyendas de Las Batuecas"
 grand_parent: Las Batuecas
 last_modified_at: 2026-11-25
+description: "Recepción literaria europea de Las Batuecas y circulación de sus representaciones históricas."
 permalink: /lugares/las-batuecas/cultura-literatura/recepcion-europea/
 ---
 

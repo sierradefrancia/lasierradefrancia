@@ -5,6 +5,7 @@ parent: Las Batuecas
 grand_parent: Lugares de interés
 has_children: true
 last_modified_at: 2026-11-25
+description: "Protección ambiental, conservación de fauna, regeneración forestal y restauración fluvial en Las Batuecas."
 permalink: /lugares/las-batuecas/conservacion/
 ---
 

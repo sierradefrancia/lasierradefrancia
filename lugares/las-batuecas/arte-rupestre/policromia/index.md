@@ -4,6 +4,7 @@ title: "Color y policromía en el arte rupestre"
 parent: "Arte rupestre de Las Batuecas"
 grand_parent: Las Batuecas
 last_modified_at: 2026-11-25
+description: "Estudio del color, los pigmentos y las alteraciones de las pinturas rupestres de Las Batuecas."
 permalink: /lugares/las-batuecas/arte-rupestre/policromia/
 ---
 

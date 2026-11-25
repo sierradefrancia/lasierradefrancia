@@ -5,6 +5,7 @@ parent: Las Batuecas
 grand_parent: Lugares de interés
 has_children: true
 last_modified_at: 2026-11-25
+description: "Relieve, geología, organización territorial e hidrología del valle de Las Batuecas."
 permalink: /lugares/las-batuecas/geografia-territorio/
 ---
 

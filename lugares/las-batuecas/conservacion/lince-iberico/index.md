@@ -1,6 +1,6 @@
 ---
 layout: default
-title: El lince ibérico: memoria y evidencia
+title: "El lince ibérico: memoria y evidencia"
 parent: "Protección y conservación de Las Batuecas"
 grand_parent: Las Batuecas
 last_modified_at: 2026-11-24

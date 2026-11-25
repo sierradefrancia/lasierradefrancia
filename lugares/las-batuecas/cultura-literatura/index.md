@@ -5,6 +5,7 @@ parent: Las Batuecas
 grand_parent: Lugares de interés
 has_children: true
 last_modified_at: 2026-11-25
+description: "Historia de las representaciones literarias, leyendas, viajeros y testimonios culturales sobre Las Batuecas."
 permalink: /lugares/las-batuecas/cultura-literatura/
 ---
 

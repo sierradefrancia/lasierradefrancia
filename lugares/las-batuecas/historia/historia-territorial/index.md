@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Historia territorial de Las Batuecas
+title: "Historia de la organización territorial de Las Batuecas"
 parent: "Historia territorial de Las Batuecas"
 grand_parent: Las Batuecas
 last_modified_at: 2026-11-25

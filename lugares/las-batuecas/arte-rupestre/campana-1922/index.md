@@ -4,6 +4,7 @@ title: "La documentación rupestre de 1922"
 parent: "Arte rupestre de Las Batuecas"
 grand_parent: Las Batuecas
 last_modified_at: 2026-11-25
+description: "Documentación gráfica de las pinturas rupestres de Las Batuecas en 1922 y distinción entre dibujos y registros científicos."
 permalink: /lugares/las-batuecas/arte-rupestre/campana-1922/
 ---
 

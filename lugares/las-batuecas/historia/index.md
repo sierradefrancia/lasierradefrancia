@@ -5,6 +5,7 @@ parent: Las Batuecas
 grand_parent: Lugares de interés
 has_children: true
 last_modified_at: 2026-11-25
+description: "Historia del valle de Las Batuecas: cronología, derechos territoriales, personajes y repertorio de documentos."
 permalink: /lugares/las-batuecas/historia/
 ---
 

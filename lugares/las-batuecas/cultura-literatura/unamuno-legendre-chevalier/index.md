@@ -4,6 +4,7 @@ title: "Unamuno, Legendre y Chevalier"
 parent: "Cultura, literatura y leyendas de Las Batuecas"
 grand_parent: Las Batuecas
 last_modified_at: 2026-11-25
+description: "Testimonios y perspectivas de Unamuno, Legendre y Chevalier sobre Las Batuecas."
 permalink: /lugares/las-batuecas/cultura-literatura/unamuno-legendre-chevalier/
 ---
 
