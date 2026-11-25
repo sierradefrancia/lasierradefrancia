@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 layout: default
 title: Flora y fauna
 nav_order: 7
@@ -814,3 +814,7 @@ Una base abierta a nuevas investigaciones, revisiones y aportaciones fundamentad
 ---
 
 *La Sierra de Francia · Atlas territorial de conocimiento.*
+
+## Los tejos y la conectividad forestal
+
+La [monografía comarcal de los tejos](/flora-fauna/tejos/) analiza el censo publicado en Forest Systems (2015): 2.450 ejemplares en cinco cuencas del parque natural y distintas dinámicas de regeneración. El total corresponde al estudio comarcal, no exclusivamente a este enclave. Las jornadas de 2014 y el artículo de 2015 pertenecen a la misma línea de investigación.
