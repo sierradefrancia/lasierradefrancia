@@ -4,6 +4,7 @@ title: "Pleitos, recursos y derechos concejiles"
 parent: "Historia territorial de Las Batuecas"
 grand_parent: Las Batuecas
 last_modified_at: 2026-11-25
+description: "Pleitos, aprovechamientos y derechos concejiles vinculados al valle de Las Batuecas."
 permalink: /lugares/las-batuecas/historia/conflictos-concejiles/
 ---
 

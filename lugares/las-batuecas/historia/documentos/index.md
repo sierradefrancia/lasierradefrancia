@@ -4,6 +4,7 @@ title: "Repertorio documental de Las Batuecas"
 parent: "Historia territorial de Las Batuecas"
 grand_parent: Las Batuecas
 last_modified_at: 2026-11-25
+description: "Repertorio de documentos y referencias para investigar la historia de Las Batuecas."
 permalink: /lugares/las-batuecas/historia/documentos/
 ---
 

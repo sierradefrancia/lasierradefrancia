@@ -4,6 +4,7 @@ title: "Inventario patrimonial del Desierto de San José"
 parent: "Monasterio del Desierto de San José"
 grand_parent: Las Batuecas
 last_modified_at: 2026-11-25
+description: "Inventario de elementos patrimoniales del Desierto de San José de Las Batuecas."
 permalink: /lugares/las-batuecas/monasterio/inventario/
 ---
 

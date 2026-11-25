@@ -5,6 +5,7 @@ parent: Las Batuecas
 grand_parent: Lugares de interés
 has_children: true
 last_modified_at: 2026-11-25
+description: "Vegetación, fauna, reptiles y ecosistemas acuáticos del valle de Las Batuecas."
 permalink: /lugares/las-batuecas/naturaleza/
 ---
 

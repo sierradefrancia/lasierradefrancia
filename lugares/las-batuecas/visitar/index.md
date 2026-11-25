@@ -5,6 +5,7 @@ parent: Las Batuecas
 grand_parent: Lugares de interés
 has_children: true
 last_modified_at: 2026-11-25
+description: "Orientación para visitar Las Batuecas: itinerarios, acceso y recomendaciones para conocer y respetar el valle."
 permalink: /lugares/las-batuecas/visitar/
 ---
 

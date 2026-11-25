@@ -4,6 +4,7 @@ title: "Cronología histórica de Las Batuecas"
 parent: "Historia territorial de Las Batuecas"
 grand_parent: Las Batuecas
 last_modified_at: 2026-11-25
+description: "Cronología documentada de Las Batuecas y distinción entre fechas, testimonios y cuestiones pendientes."
 permalink: /lugares/las-batuecas/historia/cronologia/
 ---
 

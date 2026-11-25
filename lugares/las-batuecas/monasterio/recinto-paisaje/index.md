@@ -4,6 +4,7 @@ title: "El recinto carmelitano y su paisaje"
 parent: "Monasterio del Desierto de San José"
 grand_parent: Las Batuecas
 last_modified_at: 2026-11-25
+description: "Organización del recinto carmelitano y relaciones entre arquitectura y paisaje de Las Batuecas."
 permalink: /lugares/las-batuecas/monasterio/recinto-paisaje/
 ---
 

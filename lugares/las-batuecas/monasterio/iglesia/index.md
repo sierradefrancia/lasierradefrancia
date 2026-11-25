@@ -4,6 +4,7 @@ title: "La iglesia del Desierto de San José"
 parent: "Monasterio del Desierto de San José"
 grand_parent: Las Batuecas
 last_modified_at: 2026-11-25
+description: "Estudio patrimonial de la iglesia del monasterio carmelita del Desierto de San José."
 permalink: /lugares/las-batuecas/monasterio/iglesia/
 ---
 

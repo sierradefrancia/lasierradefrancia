@@ -4,6 +4,7 @@ title: "Dependencias, trabajo y economía del monasterio"
 parent: "Monasterio del Desierto de San José"
 grand_parent: Las Batuecas
 last_modified_at: 2026-11-25
+description: "Dependencias comunitarias, trabajo y organización económica del Desierto de San José de Las Batuecas."
 permalink: /lugares/las-batuecas/monasterio/dependencias/
 ---
 

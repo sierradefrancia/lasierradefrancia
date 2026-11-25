@@ -4,6 +4,7 @@ title: "Personajes y testimonios históricos de Las Batuecas"
 parent: "Historia territorial de Las Batuecas"
 grand_parent: Las Batuecas
 last_modified_at: 2026-11-25
+description: "Personajes y testimonios vinculados a la historia y documentación del valle de Las Batuecas."
 permalink: /lugares/las-batuecas/historia/personajes/
 ---
 
