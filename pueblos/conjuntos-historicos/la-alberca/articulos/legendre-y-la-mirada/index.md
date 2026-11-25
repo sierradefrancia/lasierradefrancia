@@ -36,3 +36,5 @@ El busto de Legendre documentado en el pueblo constituye otro objeto de estudio,
 - [Expedición de Unamuno, Legendre y Chevalier](/lugares/las-batuecas/cultura-literatura/unamuno-legendre-chevalier/).
 - [Devoción internacional de la Peña de Francia](/lugares/pena-de-francia/historia/devocion-internacional/).
 - [Busto de Mauricio Legendre](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/busto-mauricio-legendre/).
+
+[El verano de 1913: cuatro hombres y una sierra](/lugares/las-batuecas/articulos/el-verano-de-1913/): relato documental de la expedición y del conocimiento local del territorio.
