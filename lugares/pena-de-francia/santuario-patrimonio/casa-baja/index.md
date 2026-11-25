@@ -1,7 +1,8 @@
 ---
 layout: default
 title: La Casa Baja y la arquitectura dominicana
-nav_exclude: true
+parent: "Santuario y patrimonio"
+grand_parent: Peña de Francia
 last_modified_at: 2026-11-25
 permalink: /lugares/pena-de-francia/santuario-patrimonio/casa-baja/
 ---
