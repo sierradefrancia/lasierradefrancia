@@ -30,3 +30,9 @@ Su relato permite entender que una institución situada en La Alberca podía sos
 El busto de Legendre documentado en el pueblo constituye otro objeto de estudio, diferente de su obra escrita. [Hospital de Menesterosos](../../patrimonio/patrimonio-civil/hospital/) · [Busto de Maurice Legendre](../../patrimonio/elementos-patrimoniales/busto-mauricio-legendre/) · [Les Jurdes, capítulo VII](https://lashurdescentrodedocumentacion.eu/files/pdf-libro/13.pdf).
 
 *Ampliación basada en los expedientes existentes del atlas, sin nuevo cotejo externo.*
+
+## Conexiones territoriales
+
+- [Expedición de Unamuno, Legendre y Chevalier](/lugares/las-batuecas/cultura-literatura/unamuno-legendre-chevalier/).
+- [Devoción internacional de la Peña de Francia](/lugares/pena-de-francia/historia/devocion-internacional/).
+- [Busto de Mauricio Legendre](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/busto-mauricio-legendre/).
