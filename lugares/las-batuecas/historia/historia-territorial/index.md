@@ -3,7 +3,7 @@ layout: default
 title: Historia territorial de Las Batuecas
 parent: "Historia territorial de Las Batuecas"
 grand_parent: Las Batuecas
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Relaciones históricas entre Las Batuecas y La Alberca, aprovechamientos ganaderos, jurisdicción y establecimiento carmelitano."
 permalink: /lugares/las-batuecas/historia-territorial/
 ---
@@ -32,9 +32,9 @@ La noticia no debe confundirse con el deslinde de 1289 citado en investigaciones
 
 La edición de Arias González, Chocarro y Martín de las relaciones topográficas de La Alberca y Sotoserrano, publicada en 1995, constituye una vía de investigación anterior a la fundación carmelitana.
 
-Las respuestas de esta clase de interrogatorios pueden aportar datos sobre jurisdicción, términos, comunicaciones y recursos. Sin embargo, todavía no se han comprobado aquí las respuestas concretas relativas a Las Batuecas. No se atribuye a los declarantes ninguna descripción que no haya sido leída.
+Las respuestas de esta clase de interrogatorios pueden aportar datos sobre jurisdicción, términos, comunicaciones y recursos. La consulta de la edición de 1995 permite comprobar menciones expresas a Batuecas en los capítulos 7 y 9 (p. 334).
 
-El interés de la fuente reside también en su contexto: precede en veinticinco años a las fechas fundacionales de 1599. Una eventual mención del valle permitiría contrastar la documentación territorial con los relatos posteriores de descubrimiento. Su ausencia, si se confirmase, tampoco demostraría desconocimiento del lugar, pues habría que considerar el alcance de las preguntas y respuestas.
+El interés de la fuente reside también en su contexto: precede en veinticinco años a las fechas fundacionales de 1599. La mención confirma que el topónimo y las sierras eran conocidos antes de la fundación. No determina el poblamiento del fondo del valle.
 
 ## Aprovechamientos ganaderos y estacionalidad
 
@@ -116,7 +116,7 @@ La investigación debe distinguir caminos históricos, vías pecuarias, accesos 
 | 1192 | Batacas en deslinde | Referencia archivística indirecta; identificación historiográfica |
 | 1455 | Procedencia de moradores | Estudio de Fernández Gómez cotejado en extracto; contrato pendiente |
 | 1288 | Privilegio con el topónimo Batuecas | Testimonio indirecto transmitido por Feijoo |
-| 1574 | Relaciones topográficas | Edición localizada, contenido local pendiente |
+| 1574 | Relaciones topográficas | Edición consultada, capítulos 7 y 9 |
 | 1599 | Fundación carmelitana | Fuentes institucionales, originales pendientes |
 | 1601 | Litigio por terrenos y aprovechamientos | Extracto académico, expediente pendiente |
 | 1665 | Descripción histórica mencionada por Feijoo | Referencia indirecta |
@@ -129,7 +129,7 @@ Esta tabla no representa una secuencia de acontecimientos igualmente demostrados
 ## Fuentes y relaciones
 
 - [Feijoo, Teatro crítico universal, tomo IV](https://www.cervantesvirtual.com/portales/benito_jeronimo_feijoo/obra-visor/teatro-critico-universal-o-discursos-varios-en-todo-genero-de-materias-para-desengano-de-errores-comunes-tomo-iv--0/html/ff1fdf64-82b1-11df-acc7-002185ce6064_14.html): extracto consultado anteriormente.
-- [Relaciones topográficas de 1574, edición de 1995](https://www.lasalina.es/documentacion/revistadeestudios/45-99-76.pdf): referencia pendiente de lectura.
+- [Relaciones topográficas de 1574, edición de 1995](https://www.lasalina.es/documentacion/revistadeestudios/45-99-76.pdf): edición consultada, pp. 333–335.
 - [Berrogain, edición de ordenanzas, 1930](https://www.boe.es/biblioteca_juridica/anuarios_derecho/abrir_pdf.php?id=ANU-H-1930-10038100441): documento localizado, lectura no completada.
 - [Salmanticensis 48 (2001), 311–333](https://summa.upsa.es/high.raw?id=0000007692&name=00000001.original.pdf): extracto de p. 313 consultado anteriormente.
 - [IPCE, documentación de restauración](https://www.cultura.gob.es/planes-nacionales/en/planes-nacionales/abadias-monasterios-conventos/actuaciones/monasterio-batuecas.html): ficha y extractos previos.
@@ -150,3 +150,11 @@ Estudio complementario: [Aprovechamientos tradicionales](/lugares/las-batuecas/a
 - [Cronología histórica de Las Batuecas](/lugares/las-batuecas/historia/cronologia/): secuencia territorial y estados de evidencia.
 - [Repertorio documental](/lugares/las-batuecas/historia/documentos/): localizadores archivísticos y vías de consulta.
 - [Personajes y testimonios históricos](/lugares/las-batuecas/historia/personajes/): actores y transmisión de las noticias.
+
+## El testimonio de 1574: alcance territorial
+
+La relación albercana (Real Biblioteca del Escorial, Ms. J-1-18, fol. 12r; edición de 1995, p. 334) incluye Batuecas en la descripción del entorno y agrupa la fauna de tres sierras. La relación no es un inventario zoológico exclusivo del valle. El capítulo 21 (p. 335) niega conocer despoblados próximos, testimonio que no resuelve la situación de 1455. La respuesta debe interpretarse según su ámbito y propósito, no como prueba de ausencia de habitantes.
+
+[Edición consultada](https://www.lasalina.es/documentacion/revistadeestudios/45-99-76.pdf).
+
+Lectura complementaria: [Las Batuecas antes del monasterio](/lugares/las-batuecas/articulos/antes-del-monasterio/).
