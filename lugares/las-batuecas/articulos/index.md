@@ -26,9 +26,10 @@ Esta síntesis se apoya en los estudios existentes del atlas; no implica una nue
 
 ## Explorar esta sección
 
+- [El bosque de Las Batuecas: cinco siglos de aprovechamientos y transformación](/lugares/las-batuecas/articulos/el-bosque-de-las-batuecas/): historia forestal, economía y conservación.
+- [Las Batuecas antes del monasterio](/lugares/las-batuecas/articulos/antes-del-monasterio/): documentación medieval y moderna.
 - [El monasterio que Buñuel quiso comprar](/lugares/las-batuecas/articulos/bunuel-y-el-desierto/).
 
 
 [Volver a Las Batuecas](/lugares/las-batuecas/).
 
-Lectura complementaria: [Las Batuecas antes del monasterio](/lugares/las-batuecas/articulos/antes-del-monasterio/).
