@@ -60,3 +60,5 @@ La tesis de 1927, las publicaciones de 1913 y 1945 y los documentos de las pereg
 - [Busto de Mauricio Legendre](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/busto-mauricio-legendre/).
 
 [Cuando Las Batuecas conquistaron la imaginación europea](/lugares/las-batuecas/articulos/imaginacion-europea/): ensayo sobre la circulación de la leyenda, la literatura y la exploración territorial.
+
+[Estar en Las Batuecas: el arte de perderse](/lugares/las-batuecas/articulos/el-arte-de-perderse/): paisaje, contemplación e historia de la expresión popular.
