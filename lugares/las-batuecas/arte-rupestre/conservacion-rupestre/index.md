@@ -56,3 +56,5 @@ Quedan pendientes la identificación de la tesis mencionada por el IGME, los res
 ## Color y soporte
 
 La [investigación sobre policromía](/lugares/las-batuecas/arte-rupestre/policromia/) diferencia descripción visual, identificación material y alteración del soporte. El trabajo analítico de 2007 continúa pendiente de consulta íntegra verificada.
+
+[Las Batuecas y la memoria del tiempo](/lugares/las-batuecas/articulos/la-memoria-del-tiempo/): ensayo sobre geología, arte rupestre, investigación y conservación.
