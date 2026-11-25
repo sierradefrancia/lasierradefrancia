@@ -52,3 +52,9 @@ La tesis Las Jurdes: étude de géographie humaine (1927) incluye una dedicatori
 La [Orden de Predicadores](https://www2.dominicos.org/pdefrancia/pagines/legendre.htm) sitúa las peregrinaciones de 1934 y 1945, la publicación Notre Dame de France en Espagne (1945), su fallecimiento el 12 de febrero de 1955 y el traslado de sus restos al santuario el 1 de julio de 1956. La [crónica local de Rosa Gómez de 2015](https://salamancartvaldia.es/noticia/2015-01-12-recuerdo-a-mauricio-legendre-un-hombre-de-razon-y-corazon-239706) ofrece fechas diferentes (12 de enero y 1 de julio de 1955) y recoge recuerdos vecinales sobre sus paseos. Se conserva la contradicción y se prioriza provisionalmente la cronología de los dominicos, pendiente de comprobar documentos funerarios. La crónica es valiosa como memoria local, sin resolver por sí sola la cronología.
 
 La tesis de 1927, las publicaciones de 1913 y 1945 y los documentos de las peregrinaciones quedan pendientes de lectura directa. No se extrapolan las observaciones hurdanas al valle de Las Batuecas.
+
+## Conexiones territoriales
+
+- [Devoción internacional de la Peña de Francia](/lugares/pena-de-francia/historia/devocion-internacional/).
+- [Legendre y la mirada sobre La Alberca](/pueblos/conjuntos-historicos/la-alberca/articulos/legendre-y-la-mirada/).
+- [Busto de Mauricio Legendre](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/busto-mauricio-legendre/).
