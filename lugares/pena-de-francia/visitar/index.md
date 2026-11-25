@@ -616,3 +616,7 @@ Detenerse ante el rollo, descubrir el reloj de sol, reconocer los canchales o id
 [Fuente de Simón Vela](/lugares/pena-de-francia/geografia-territorio/fuente-simon-vela/): referencia de la ascensión por la SA-203; historia constructiva y captación pendientes de investigación.
 
 [La Rotonda y el reloj solar](/lugares/pena-de-francia/santuario-patrimonio/rotonda-reloj-solar/): construcción contemporánea, inscripción latina y paisaje interpretado.
+
+## Dos perspectivas complementarias
+
+[Miradores y lectura del paisaje](/lugares/pena-de-francia/geografia-territorio/miradores-paisaje/) · [Camino de la Peña de Francia desde Puerto de Béjar](/lugares/pena-de-francia/cultura-tradiciones/camino-de-la-pena/). El camino de 72 km no debe confundirse con las ascensiones locales.
