@@ -26,6 +26,8 @@ Esta síntesis se apoya en los estudios existentes del atlas; no implica una nue
 
 ## Explorar esta sección
 
+- [Las Batuecas y la memoria del tiempo](/lugares/las-batuecas/articulos/la-memoria-del-tiempo/): ensayo sobre geología, arte rupestre, investigación y conservación.
+
 - [Los hombres que dibujaron Las Batuecas](/lugares/las-batuecas/articulos/los-hombres-que-dibujaron-las-batuecas/): historia de la cartografía, exploración y testimonios gráficos del valle.
 
 - [La soledad habitada: cuatro siglos de retiro carmelitano](/lugares/las-batuecas/articulos/la-soledad-habitada/): historia de la relación entre arquitectura, trabajo, bosque y contemplación.
