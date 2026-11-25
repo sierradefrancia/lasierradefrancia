@@ -614,3 +614,5 @@ Detenerse ante el rollo, descubrir el reloj de sol, reconocer los canchales o id
 [El Paso de los Lobos: caminos históricos, altimetría y patrimonio geológico](/lugares/pena-de-francia/geografia-territorio/paso-de-los-lobos/).
 
 [Fuente de Simón Vela](/lugares/pena-de-francia/geografia-territorio/fuente-simon-vela/): referencia de la ascensión por la SA-203; historia constructiva y captación pendientes de investigación.
+
+[La Rotonda y el reloj solar](/lugares/pena-de-francia/santuario-patrimonio/rotonda-reloj-solar/): construcción contemporánea, inscripción latina y paisaje interpretado.
