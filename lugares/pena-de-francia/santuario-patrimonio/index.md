@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 layout: default
 title: Santuario y patrimonio
 parent: Peña de Francia
@@ -31,6 +31,9 @@ Incluso elementos aparentemente secundarios, como las claves de las bóvedas, lo
 
 - [Iglesia conventual: arquitectura y fases](/lugares/pena-de-francia/santuario-patrimonio/iglesia-conventual/)
 - [Convento dominicano y abastecimiento de agua](/lugares/pena-de-francia/santuario-patrimonio/convento-pozo-verde/)
+
+- [Plaza, soportales y capillas exteriores](/lugares/pena-de-francia/santuario-patrimonio/plaza-capillas/)
+- [Hospedería: acogida, abandono y reconstrucción](/lugares/pena-de-francia/santuario-patrimonio/hospederia/)
 
 ## Un conjunto arquitectónico desarrollado durante siglos
 
