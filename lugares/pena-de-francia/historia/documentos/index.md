@@ -30,6 +30,8 @@ Registro abierto de instrumentos, testimonios y series identificados en los estu
 | PEF-DOC-015 | Testimonio de Vicente de la Fuente, 1857, publicado 1883 | Boletín RAH; expediente de traslados de imagen. | Diferenciar observación, noticias recibidas y propuestas. |
 | PEF-DOC-016 | Título de milagros en inventario atribuido a 1534 | Bibliografía de María de Zúñiga; localizador exacto pendiente. | Identificar inventario y obra; no afirmar edición conservada. |
 
+| ID | Documento | Localizador | Estado |
+|---|---|---|---|
 | PEF-DOC-017 | Cesión episcopal, 18 septiembre 1436 | Prieto Sayagués, apéndice entrada Juan II 29; indirecto | Original pendiente. |
 | PEF-DOC-018 | Cesión Barrientos–Villalón, 6 mayo 1437 | Estudio coordinado por Prieto Sayagués, p. 74; indirecto | Facultades y documento pendientes. |
 | PEF-DOC-019 | Exención jurisdiccional de 1445 | Mismo estudio, p. 74; indirecto | Instrumento y alcance pendientes. |
@@ -37,6 +39,8 @@ Registro abierto de instrumentos, testimonios y series identificados en los estu
 
 Localizadores: [apéndice académico](https://gredos.usal.es/bitstream/handle/10366/171488/Ape%CC%81ndice.pdf?isAllowed=y&sequence=1), [estudio p. 74](https://gredos.usal.es/bitstream/handle/10366/169742/PRIETO_SAYAGUES_Juan_A_Patronos_protecto.pdf?isAllowed=y&sequence=1), [catálogo](https://archivo.dominicoshispania.org/index.php/informationobject/browse?collection=390&places=36185&sort=referenceCode&sortDir=asc&topLod=0&view=table).
 
+| ID | Documento | Localizador | Estado |
+|---|---|---|---|
 | PEF-DOC-021 | Estatutos y acta de cofradía | A-A-PEÑ-2; complementa PEF-DOC-008 | Catálogo; original pendiente. |
 | PEF-DOC-022 | Traslado autenticado de cofradía | A-B-PEÑ-1-2; 1793 | Catálogo; cotejar con 021. |
 | PEF-DOC-023 | Fotografías Libro de Profesiones | A-B-PEÑ-3-1; complementa PEF-DOC-006 | Fotografías pendientes. |
@@ -45,6 +49,8 @@ Localizadores: [apéndice académico](https://gredos.usal.es/bitstream/handle/10
 
 [Catálogo consultado](https://archivo.dominicoshispania.org/index.php/informationobject/browse?collection=390&places=36185&sort=startDate&sortDir=desc&topLod=0). [Estudio de comunidad y cofradía](/lugares/pena-de-francia/historia/comunidad-cofradia/).
 
+| ID | Documento | Localizador | Estado |
+|---|---|---|---|
 | PEF-DOC-026 | Propiedades en El Maíllo, 1769 | A-B-PEÑ-2-1 | Catálogo; copia autorizada pendiente. |
 | PEF-DOC-027 | Rentas de 1807 | A-B-PEÑ-2-3 | Catálogo; informe pendiente. |
 | PEF-DOC-028 | Inventario de 1822 | A-B-PEÑ-2-4 ff. 26–95; AHN Clero 5804–5805 | Catálogo; copia pendiente. |
@@ -105,3 +111,13 @@ Estos enlaces proceden de la bibliografía previa; su disponibilidad y el conten
 | PEF-DOC-047 | Concesión medalla 4 julio 1966 | B-C-SAL-b-14/1-6 doc. 2 | Catálogo |
 
 [Fuentes y estudio](/lugares/pena-de-francia/historia/modernizacion-siglo-xx/).
+
+## Ciencia y memoria contemporánea
+
+| ID | Documento | Localizador | Estado |
+|---|---|---|---|
+| PEF-DOC-048 | Artículo técnico de Felisa Martín Bravo, 1967 | [Facsímil AEMET, p. 31](https://repositorio.aemet.es/bitstream/20.500.11765/7842/1/BAME_1967_3%20%283%29.pdf) | Referencia previa; cotejo pendiente. |
+| PEF-DOC-049 | La Rotonda | [Dominicos](https://www2.dominicos.org/pdefrancia/pagines/larotonda.htm) | Referencia institucional previa; fecha de publicación y cotejo pendientes. |
+| PEF-DOC-050 | El Pozo Verde, Salustiano Mateos | [Cuaderno del caminante 10](https://www2.dominicos.org/pdefrancia/pagines/CC%2010%20-%20EL%20POZO%20VERDE.htm) | Testimonio atribuido; cotejo pendiente. |
+
+[Clima](/lugares/pena-de-francia/clima-observacion/) · [Lugares singulares](/lugares/pena-de-francia/geografia-territorio/lugares-singulares/).
