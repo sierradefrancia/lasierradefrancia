@@ -10,7 +10,7 @@ permalink: /lugares/las-batuecas/articulos/
 
 # Artículos de Las Batuecas
 
-Los relatos documentados acercan episodios concretos sin sustituir los estudios históricos.
+Diez relatos y ensayos documentados permiten conocer Las Batuecas desde perspectivas históricas, literarias, arqueológicas, espirituales y ecológicas. Complementan las monografías sin sustituirlas.
 
 ## Relatos vinculados a investigaciones
 
@@ -18,7 +18,7 @@ Esta sección ofrece una lectura narrativa del valle, complementaria a sus monog
 
 ## Líneas editoriales
 
-El descubrimiento literario del valle, la documentación histórica de las pinturas, los cambios de propiedad del monasterio y los aprovechamientos tradicionales son posibles temas futuros. Cada artículo deberá partir de un expediente contrastado y aportar una perspectiva propia, no repetir mecánicamente una ficha.
+La colección aborda la recepción literaria del valle, la investigación rupestre, la historia carmelitana, los aprovechamientos tradicionales y la naturaleza. Las nuevas investigaciones permitirán ampliar estas líneas. Cada artículo deberá partir de un expediente contrastado y aportar una perspectiva propia, no repetir mecánicamente una ficha.
 
 Para profundizar, consulta [cultura y literatura](/lugares/las-batuecas/cultura-literatura/), [arte rupestre](/lugares/las-batuecas/arte-rupestre/) y [monasterio](/lugares/las-batuecas/monasterio/).
 
