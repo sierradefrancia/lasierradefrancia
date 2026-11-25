@@ -85,3 +85,5 @@ Estudio complementario: [Historia territorial de Las Batuecas](/lugares/las-batu
 - [Personajes y fundación](/lugares/las-batuecas/personajes-carmelitanos/): promotores y protagonistas.
 
 Estudio de las intervenciones contemporáneas: [Restauración del monasterio](/lugares/las-batuecas/restauracion-monasterio/).
+
+[La soledad habitada: cuatro siglos de retiro carmelitano](/lugares/las-batuecas/articulos/la-soledad-habitada/): historia de la relación entre arquitectura, trabajo, bosque y contemplación.
