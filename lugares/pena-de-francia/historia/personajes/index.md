@@ -46,6 +46,13 @@ Registro inicial de personas vinculadas a la montaña y su santuario, construido
 | PEF-PER-027 | Juan de Todos los Santos | Hermano lego, capítulo 11 enero 1504, AHDOPE A-B-PEÑ-1-2 | Catálogo; biografía y procedencia pendientes. |
 | PEF-PER-028 | Lorenzo de Valdefuentes | Hermano lego, capítulo 11 enero 1504, AHDOPE A-B-PEÑ-1-2 | Catálogo; biografía y procedencia pendientes. |
 
+| PEF-PER-029 | Pedro Robles | Prior, informe feria 1806 | A-B-PEÑ-2-5, catálogo. |
+| PEF-PER-030 | Benito Antonio Álvarez | Apoderado, rentas 1807 | A-B-PEÑ-2-3, catálogo. |
+| PEF-PER-031 | Antonio Soriano | Escribano, inventario 1822 | A-B-PEÑ-2-4, catálogo. |
+| PEF-PER-032 | José Vela | Prior y maestro, inventario 1822 | A-B-PEÑ-2-4, catálogo; no inferir parentesco con Simón. |
+| PEF-PER-033 | Agustín Hernández | Prior, reclamación 1817 | A-B-PEÑ-4-3, catálogo. |
+| PEF-PER-034 | María Hernández | Viuda, poder sobre censo 1839 | A-B-PEÑ-4-3, catálogo. |
+
 ## Personas, instituciones y tradiciones
 
 La historia del santuario no puede reducirse a sus fundadores. Los administradores, religiosos, miembros de cofradías, trabajadores y peregrinos forman parte de su trayectoria. Las fuentes disponibles permiten identificar algunas personas, pero todavía no reconstruir la composición social completa.
