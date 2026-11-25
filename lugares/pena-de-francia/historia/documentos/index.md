@@ -92,3 +92,16 @@ Estos enlaces proceden de la bibliografía previa; su disponibilidad y el conten
 | PEF-DOC-041 | Ejemplar dedicado de Por la España desconocida, 1912 | B-C-SAL-b-14/2-1 | Catálogo; edición 1911 |
 
 [Investigación y localizadores](/lugares/pena-de-francia/historia/reconstruccion-santuario/).
+
+## Modernización contemporánea
+
+| ID | Documento | Localizador | Acceso |
+|---|---|---|---|
+| PEF-DOC-042 | Notas de deslinde 1905–1906 | B-C-SAL-b-14/1-4 doc. 1 | Catálogo |
+| PEF-DOC-043 | Proyecto El Cabaco–Monsagro 1921 | B-C-SAL-b-14/3-4 doc. 4 | Catálogo; plano pendiente |
+| PEF-DOC-044 | Acuerdo provincial 1950 | B-C-SAL-b-14/1-6 doc. 1 | Catálogo |
+| PEF-DOC-045 | Carta de Cascón 17 marzo 1962 | B-C-SAL-b-14/1-6 doc. 3 | Catálogo |
+| PEF-DOC-046 | Respuesta ministerial 22 marzo 1962 | B-C-SAL-b-14/1-6 doc. 4 | Catálogo |
+| PEF-DOC-047 | Concesión medalla 4 julio 1966 | B-C-SAL-b-14/1-6 doc. 2 | Catálogo |
+
+[Fuentes y estudio](/lugares/pena-de-francia/historia/modernizacion-siglo-xx/).
