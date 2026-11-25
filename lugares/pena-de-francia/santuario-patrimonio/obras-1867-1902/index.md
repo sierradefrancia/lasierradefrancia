@@ -2,7 +2,7 @@
 layout: default
 title: Las obras del santuario entre 1867 y 1904
 nav_exclude: true
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 permalink: /lugares/pena-de-francia/santuario-patrimonio/obras-1867-1902/
 ---
 
@@ -19,3 +19,7 @@ El expediente de cuentas B-C-SAL-b-14/3-2 recoge limosnas de 1859–1867 y conta
 Fuentes: [catálogo de obras y cuentas](https://archivo.dominicoshispania.org/index.php/informationobject/browse?levels=226&places=36185&sort=lastUpdated&sortDir=asc&subjects=40203&topLod=0), [catálogo temático de obras](https://archivo.dominicoshispania.org/index.php/obras?listLimit=40&onlyDirect=1&sort=alphabetic&sortDir=asc).
 
 [Volver a Santuario y patrimonio](/lugares/pena-de-francia/santuario-patrimonio/) · [Inventario](/lugares/pena-de-francia/santuario-patrimonio/inventario/)
+
+## Financiación y administración
+
+El libro B-C-SAL-b-14/2-3 (1869–1890) se solapa con las cuentas ya identificadas. El cotejo debe evitar duplicar operaciones. La [investigación sobre la reconstrucción](/lugares/pena-de-francia/historia/reconstruccion-santuario/) registra también el diario de 1911–1923 y la cofradía de 1869.
