@@ -1,7 +1,8 @@
 ---
 layout: default
 title: La imagen de la Virgen y los inventarios históricos
-nav_exclude: true
+parent: "Santuario y patrimonio"
+grand_parent: Peña de Francia
 last_modified_at: 2026-11-24
 permalink: /lugares/pena-de-francia/santuario-patrimonio/imagen-virgen/
 ---
