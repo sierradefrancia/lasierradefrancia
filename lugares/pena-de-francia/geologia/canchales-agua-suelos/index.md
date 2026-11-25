@@ -38,3 +38,5 @@ No se ha efectuado muestreo propio. Futuras investigaciones: inventario de fuent
 ## Hábitats y suelo del Paso de los Lobos
 
 La [monografía de hábitats de montaña](/lugares/pena-de-francia/naturaleza/habitats-montana/) incorpora el perfil descrito por Fernando Santos Francés en julio de 2003 (MITECO, hábitat 5120, p. 52): 13 cm de suelo sobre cuarcita, a 1520 m, con uso de pastizal. Distingue las observaciones puntuales de los inventarios comarcales de hábitats.
+
+[Agua, fuentes y cabeceras fluviales](/lugares/pena-de-francia/geografia-territorio/agua-y-fuentes/).
