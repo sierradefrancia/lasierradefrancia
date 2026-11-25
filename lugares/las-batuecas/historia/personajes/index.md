@@ -70,3 +70,7 @@ Condesa de Genlis: autora de Les Battuécas (1816). George Sand: lectora cuya re
 ## Unamuno y Maurice Legendre
 
 Miguel de Unamuno: testimonio directo de un viaje por Las Hurdes y Batuecas en texto fechado en agosto de 1914; recuerda una visita anterior de hacía dieciséis o dieciocho años (aproximadamente 1896–1898). Maurice Legendre: interlocutor al que atribuye la noticia sobre Genlis y Sand. Fuente: [Andanzas y visiones españolas, p. 124](https://web.english.upenn.edu/~cavitch/pdf-library/Unamuno_Andanzas_y_visiones_espan%CC%83olas.pdf). La relación intelectual está documentada; las motivaciones concretas de cada visita requieren más evidencias. [Recepción europea](/lugares/las-batuecas/cultura-literatura/recepcion-europea/).
+
+Jean-Baptiste Bide y conde de Saint-Saud: expedición documentada en 1890 mediante noticia reproducida por la RSG; Bide presentó conferencias en 1891–1892. Francisco Coello y A. Pezuela: antecedentes cartográficos y grabado del mapa de 1892, respectivamente. Ludovic Beauchet: obra de 1895 localizada bibliográficamente. Ignacio de La Alberca: guía de Legendre, citado por Annales de géographie (1997); identificación completa pendiente.
+
+[Viajeros y geógrafos en Las Batuecas](/lugares/las-batuecas/cultura-literatura/viajeros-geografos/).
