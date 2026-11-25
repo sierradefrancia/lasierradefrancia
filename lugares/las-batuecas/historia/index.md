@@ -40,7 +40,6 @@ Esta síntesis se apoya en los estudios existentes del atlas; no implica una nue
 - [Granadilla, La Alberca y Las Hurdes](/lugares/las-batuecas/granadilla-hurdes-alberca/).
 - [Aprovechamientos tradicionales de Las Batuecas](/lugares/las-batuecas/aprovechamientos-tradicionales/).
 
-[Volver a Las Batuecas](/lugares/las-batuecas/).
 
 ## Cronología, documentos y protagonistas
 
@@ -50,3 +49,5 @@ Esta síntesis se apoya en los estudios existentes del atlas; no implica una nue
 
 
 [Pleitos, recursos y derechos concejiles](/lugares/las-batuecas/historia/conflictos-concejiles/).
+
+[Volver a Las Batuecas](/lugares/las-batuecas/).
