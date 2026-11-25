@@ -80,3 +80,15 @@ Estos enlaces proceden de la bibliografía previa; su disponibilidad y el conten
 | PEF-DOC-036 | Carta de Francisco del Canto, 28 septiembre 1877 | B-C-SAL-b-14/1-3 doc. 1 | Catálogo; copia pendiente |
 
 [Catálogo de exclaustración](https://archivo.dominicoshispania.org/index.php/exclaustracion?onlyDirect=1) · [Monografía](/lugares/pena-de-francia/historia/exclaustracion/).
+
+## Recuperación patrimonial y devocional
+
+| ID | Documento | Localizador | Estado |
+|---|---|---|---|
+| PEF-DOC-037 | Inventario general 1900–1923 | B-C-SAL-b-14/3-1 doc. 6 | Catálogo |
+| PEF-DOC-038 | Libro de cuentas 1869–1890 | B-C-SAL-b-14/2-3 | Catálogo; cotejar con 012 |
+| PEF-DOC-039 | Diario 1911–1923 | B-C-SAL-a-9-2 | Catálogo |
+| PEF-DOC-040 | Cofradía 1869–1912 | B-C-PEÑ-a-5-1 | Catálogo |
+| PEF-DOC-041 | Ejemplar dedicado de Por la España desconocida, 1912 | B-C-SAL-b-14/2-1 | Catálogo; edición 1911 |
+
+[Investigación y localizadores](/lugares/pena-de-francia/historia/reconstruccion-santuario/).
