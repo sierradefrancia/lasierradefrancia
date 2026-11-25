@@ -63,3 +63,7 @@ En [Andanzas y visiones españolas, p. 124](https://web.english.upenn.edu/~cavit
 Pitollet (1928) identifica un antecedente francés en Antoine de Latour, Valence et Valladolid (1877), pp. 327–372. Original pendiente. [Estudio de Pitollet](https://doi.org/10.3406/hispa.1928.2304).
 
 [Viajeros y geógrafos en Las Batuecas](/lugares/las-batuecas/cultura-literatura/viajeros-geografos/).
+
+## Latour, Fernán Caballero y el lector de Las Batuecas
+
+La edición de [Valence et Valladolid, 1877, E. Plon, 372 páginas](https://play.google.com/store/books/details/Antoine_de_Latour_Valence_et_Valladolid?id=rOILAAAAYAAJ) está localizada en Google Books; el capítulo de las Batuecas, pp. 327–372, sigue pendiente de lectura directa. La tesis [La producción geosimbólica de Las Hurdes, volumen I](https://www.academia.edu/29974789/TESIS_DOCTORAL_La_producci%C3%B3n_geosimb%C3%B3lica_de_Las_Hurdes_Teor%C3%ADa_historia_y_pr%C3%A1ctica_de_un_territorio_imaginario_vol_1) remite a las pp. 327–328 y 334 de Latour y a las novelas Lágrimas y Clemencia de Cecilia Böhl de Faber (Fernán Caballero). La reedición de Clemencia de 1862 contiene una carta dirigida a su lector de Las Batuecas, según la tesis. Es una pista concreta para estudiar la locución y la representación del lector imaginario sin atribuir visitas reales. El mismo estudio remite a Charles Davillier, L'Espagne (1874), p. 646, como crítico de la verosimilitud geográfica de Genlis. Estas referencias son indirectas y requieren cotejo de originales.
