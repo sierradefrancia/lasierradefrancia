@@ -78,3 +78,7 @@ Jean-Baptiste Bide y conde de Saint-Saud: expedición documentada en 1890 median
 ## Nuevas pistas literarias y visuales
 
 Pedro González de Velasco: su publicación de 1880 fue una lectura que motivó el interés de Bide, según la introducción de sus conferencias. Cecilia Böhl de Faber (Fernán Caballero) y Charles Davillier: referencias literarias localizadas indirectamente, sin visita acreditada por estas fuentes. Marcos Rafael Blanco-Belmonte y Venancio Gombau: autor y fotógrafo relacionados con Por la España desconocida, hacia 1911, según bibliografía de la RSG de 2022; originales pendientes. [Viajeros](/lugares/las-batuecas/cultura-literatura/viajeros-geografos/) · [Recepción europea](/lugares/las-batuecas/cultura-literatura/recepcion-europea/).
+
+Jacques Chevalier: filósofo francés y participante en la expedición de 1913; correspondencia editada por la Universidad de Salamanca en 2018. Ignacio de La Alberca: guía previsto en la carta de Legendre del 25 de julio de 1913 y acreditado en la reconstrucción histórica; nombre completo pendiente.
+
+[Unamuno, Legendre y Chevalier](/lugares/las-batuecas/cultura-literatura/unamuno-legendre-chevalier/).
