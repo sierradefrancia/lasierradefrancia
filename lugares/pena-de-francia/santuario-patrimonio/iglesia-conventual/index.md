@@ -34,3 +34,6 @@ Registros relacionados: PEF-PAT-001 a 010. La investigación de las [obras de 18
 
 Síntesis del [estudio patrimonial preexistente](/lugares/pena-de-francia/santuario-patrimonio/) y su [inventario](/lugares/pena-de-francia/santuario-patrimonio/inventario/). La ficha de la Junta (TERPAT, Peña de Francia, El Cabaco) no pudo recuperarse en esta consulta; las atribuciones proceden del cotejo anterior registrado en el atlas. No se ha realizado inspección de campo ni levantamiento arquitectónico nuevo.
 
+## Contraste cronológico
+
+La ficha [TERPAT 2022](https://www.jcyl.es/jcyl/patrimoniocultural/TERPAT/SantuariosErmitasHumilladeros/index_htm_files/04-Pena%20de%20Francia%2C%20El%20Cabaco.pdf) recuperada en esta consulta fecha la construcción en 1521 y reconoce una cabecera anterior. [Kindelán 1956, p. 7](https://info.igme.es/biblioteca/ficheros/NotasComunicaciones/Comunicaciones_041_1956.pdf) propone hacia 1450. Son atribuciones de fuentes distintas; la hipótesis de campañas sucesivas requiere prueba arquitectónica. TERPAT identifica asimismo acceso por el norte y torre sobre el ábside del Evangelio.
