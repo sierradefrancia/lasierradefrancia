@@ -60,7 +60,6 @@ Fuentes de partida: [BOE, declaración de 2000](https://www.boe.es/diario_boe/tx
 - [Protección patrimonial de Las Batuecas](/lugares/las-batuecas/proteccion-patrimonial/).
 
 
-[Volver a Las Batuecas](/lugares/las-batuecas/).
 
 
 
@@ -71,3 +70,5 @@ Los estudios de [Pallón](/lugares/las-batuecas/arte-rupestre/pallon/) y [Corral
 Textos originales: [1974](https://revistas.usal.es/uno/index.php/0514-7336/es/article/download/1953/2009/4764) y [1975–1976](https://revistas.usal.es/uno/index.php/0514-7336/it/article/download/442/616/1325). La consulta de los PDF permite superar la fase de resúmenes; queda pendiente cotejar gráficamente las láminas.
 
 [Las Batuecas y la memoria del tiempo](/lugares/las-batuecas/articulos/la-memoria-del-tiempo/): ensayo sobre geología, arte rupestre, investigación y conservación.
+
+[Volver a Las Batuecas](/lugares/las-batuecas/).
