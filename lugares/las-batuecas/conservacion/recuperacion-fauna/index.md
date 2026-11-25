@@ -3,7 +3,7 @@ layout: default
 title: Historia de la recuperación de fauna
 parent: "Protección y conservación de Las Batuecas"
 grand_parent: Las Batuecas
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Reintroducción de ungulados, refugios de aves y evolución de la gestión de fauna en Las Batuecas."
 permalink: /lugares/las-batuecas/recuperacion-fauna/
 ---
@@ -52,3 +52,7 @@ La respuesta de la vegetación a los ungulados, los incendios y los cambios de u
 Consultados extractos el 24/11/2026. Véanse [fauna](/lugares/las-batuecas/fauna/) y [protección ambiental](/lugares/las-batuecas/proteccion-ambiental/). Pendientes documentación original de reintroducción, censos contemporáneos y series de incendios y regeneración.
 
 Estudio relacionado: [Incendios forestales y regeneración del paisaje](/lugares/las-batuecas/incendios-regeneracion/).
+
+## Recuperación histórica de la cabra montés
+
+La [monografía comarcal de la cabra montés](/flora-fauna/cabra-montes/) reúne los registros de reintroducción desde Gredos (36 animales, 1974–1979), las referencias poblacionales históricas y los posteriores aportes de Batuecas a Riaño y Guadarrama. Diferencia cifras de la reserva, testimonios y datos de otras poblaciones.
