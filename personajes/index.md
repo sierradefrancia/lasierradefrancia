@@ -5,7 +5,7 @@ nav_order: 12
 has_children: true
 description: "Personas que contribuyeron a conocer, documentar, preservar y comprender la Sierra de Francia y su entorno histórico, natural y cultural."
 permalink: /personajes/
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 ---
 
 # Personajes históricos de la Sierra de Francia
@@ -381,3 +381,7 @@ Candidatos identificados en el [poder de 5 de junio de 1791](/pueblos/conjuntos-
 | Francisco García Pascual Ambrón | Administrador principal de rentas de Plasencia y su partido |
 
 Agustín de Puerto: litigante en el expediente sobre [mayordomía concejil](/pueblos/conjuntos-historicos/la-alberca/historia/articulos/los-mayordomos-del-concejo/), hacia 1756–1760. Esteban Sánchez: contratista de las [escuelas de 1935](/pueblos/conjuntos-historicos/la-alberca/historia/articulos/las-escuelas-de-1935/), según Puerto (2015). Joaquín Secall y Domingo: candidato a la identificación del arquitecto citado como Secall, no autoría confirmada. No fusionar Antonio González Pabón con Antonio González Pavón sin cotejar identidad y cronología. Tampoco inferir parentescos a partir de apellidos o fórmulas nominales.
+
+## Felisa Martín Bravo y la historia de la ciencia
+
+La [ficha biográfica de Felisa Martín Bravo](/personajes/felisa-martin-bravo/) documenta su trayectoria como primera doctora en Física de España y su relación con la Peña mediante el artículo técnico publicado en 1967. El facsímil de AEMET remite al número cero del boletín, pendiente de recuperación. La autoría no demuestra que ejecutara individualmente toda la instalación.
