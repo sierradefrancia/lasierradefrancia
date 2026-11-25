@@ -336,3 +336,8 @@
   name: "Río Batuecas"
   url: "/lugares/las-batuecas/rio-batuecas/"
   description: "Curso fluvial de la cuenca del Tajo, con una reserva natural fluvial diferenciada del río completo."
+
+- id: felisa-martin-bravo
+  type: Person
+  name: "Felisa Martín Bravo"
+  url: "/personajes/felisa-martin-bravo/"
