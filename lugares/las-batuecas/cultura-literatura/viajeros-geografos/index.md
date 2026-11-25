@@ -51,3 +51,11 @@ Camille Pitollet, en [A propos des Batuecas et des Jurdes, Bulletin Hispanique 3
 - [Repertorio documental](/lugares/las-batuecas/historia/documentos/).
 
 Grado de acceso: fichas de catálogo, extractos de estudios y repertorio audiovisual recuperados; mapa, conferencias, fotografías y libros originales pendientes de examen íntegro.
+
+## La introducción de Bide: testimonio directo
+
+La [copia de las conferencias alojada en la Universidad de Macerata](https://docenti.unimc.it/luciana.gentilli/teaching/2022/25972/files/a.a.2022-2023-i-magistrale-bibliografia/6.%201892%20BIDE-%20Las%20Batuecas%20y%20las%20Jurdes.pdf) permite leer su introducción. Bide sitúa su llegada a España en 1880 y el origen de su interés en la lectura del folleto del médico Pedro Velasco. Critica la persistencia de fabulaciones sobre la población hurdana. Se trata de la motivación declarada por el propio autor, no de una reconstrucción psicológica posterior.
+
+La portada fecha las conferencias los días 23 de diciembre de 1891 y 19 de enero de 1892. El estudio retrospectivo de la RSG de 2022 indica el 22 de diciembre. Se conserva la discrepancia hasta cotejar las actas de la sesión. La introducción ha sido consultada mediante texto recuperado, no la totalidad del libro.
+
+La bibliografía de Manuel Valenzuela Rubio ([RSG 2022, p. 96](https://www.boletinrsg.com/index.php/boletinrsg/article/download/166/174/)) identifica la edición en el boletín XXXII, n.º 2, pp. 257–357, y la tirada aparte de Gutenberg, Madrid, 1892, 111 páginas. Identifica además la excursión de Marcos Rafael Blanco-Belmonte hacia 1911, con fotografías de Venancio Gombau, reeditada en Salamanca en 1991. Nueva línea de investigación visual y territorial, no leída aún.
