@@ -54,3 +54,9 @@ La tabla es un punto de partida para expedientes individuales, no una biografía
 Los propietarios particulares, intermediarios y promotores del siglo XIX y XX se registran en [Desamortización y recuperación del Desierto](/lugares/las-batuecas/desamortizacion-recuperacion/), con las identidades pendientes de cotejo notarial.
 
 Estudio específico: [Luis Buñuel y Las Batuecas](/lugares/las-batuecas/luis-bunuel/).
+
+## Cronología, documentos y protagonistas
+
+- [Cronología histórica de Las Batuecas](/lugares/las-batuecas/historia/cronologia/): secuencia territorial y estados de evidencia.
+- [Repertorio documental](/lugares/las-batuecas/historia/documentos/): localizadores archivísticos y vías de consulta.
+- [Personajes y testimonios históricos](/lugares/las-batuecas/historia/personajes/): actores y transmisión de las noticias.
