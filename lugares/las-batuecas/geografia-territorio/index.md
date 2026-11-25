@@ -39,7 +39,6 @@ Esta síntesis se apoya en los estudios existentes del atlas; no implica una nue
 - [Geología y relieve de Las Batuecas](/lugares/las-batuecas/geologia/).
 - [El río Batuecas y su reserva natural fluvial](/lugares/las-batuecas/rio-batuecas/).
 
-[Volver a Las Batuecas](/lugares/las-batuecas/).
 
 ## El límite forestal como referencia territorial
 
@@ -52,3 +51,5 @@ El [mapa de Bide de 1892](https://bibliotecavirtual.defensa.gob.es/BVMDefensa/en
 [Viajeros y geógrafos en Las Batuecas](/lugares/las-batuecas/cultura-literatura/viajeros-geografos/).
 
 [Los hombres que dibujaron Las Batuecas](/lugares/las-batuecas/articulos/los-hombres-que-dibujaron-las-batuecas/): historia de la cartografía, exploración y testimonios gráficos del valle.
+
+[Volver a Las Batuecas](/lugares/las-batuecas/).
