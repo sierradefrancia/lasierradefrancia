@@ -460,3 +460,5 @@ Y su perfil, visible desde amplios sectores del entorno, ayuda a comprender por 
 [Inventario de lugares singulares](/lugares/pena-de-francia/geografia-territorio/lugares-singulares/).
 
 [El Paso de los Lobos: caminos históricos, altimetría y patrimonio geológico](/lugares/pena-de-francia/geografia-territorio/paso-de-los-lobos/).
+
+[Estudio de las cumbres y organización del relieve](/lugares/pena-de-francia/geografia-territorio/cumbres-y-relieve/). El IGN identifica la Hastiala (1.735 m) como culminación de la Sierra de la Peña de Francia, unidad orográfica de 41 km que no equivale a la comarca.
