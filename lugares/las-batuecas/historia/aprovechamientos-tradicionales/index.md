@@ -3,7 +3,7 @@ layout: default
 title: Aprovechamientos tradicionales de Las Batuecas
 parent: "Historia territorial de Las Batuecas"
 grand_parent: Las Batuecas
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Corcho, madera, apicultura, ganadería y gestión concejil del paisaje histórico."
 permalink: /lugares/las-batuecas/aprovechamientos-tradicionales/
 ---
@@ -56,3 +56,11 @@ Véanse [historia territorial](/lugares/las-batuecas/historia-territorial/), [re
 
 
 [Pleitos, recursos y derechos concejiles](/lugares/las-batuecas/historia/conflictos-concejiles/).
+
+## El corcho en 1901: una subasta de veinticuatro años
+
+La Gaceta de Madrid del 13 de diciembre de 1901, n.º 347, p. 1071, anuncia una primera subasta simultánea en el Distrito Forestal de Salamanca y la Alcaldía de La Alberca para el 15 de enero de 1902. El objeto era el corcho producido durante veinticuatro años por el monte público Las Batuecas, perteneciente a La Alberca. El tipo era de 141.660 pesetas y el depósito exigido del 5 %. El anuncio está firmado por el inspector general Rafael Breñosa en Segovia, el 8 de diciembre de 1901.
+
+El mismo anuncio recoge otro aprovechamiento en el monte La Sierra de Herguijuela de la Sierra, por doce años y 38.400 pesetas. No son comparables directamente sin considerar superficies, turnos de descorche, calidad y condiciones contractuales. Tampoco conocemos la adjudicación efectiva ni la producción real. El pliego y el resultado de subasta son nuevas prioridades de búsqueda.
+
+La comparación con las ordenanzas de 1515 permite investigar cambios entre la regulación concejil y la administración forestal contemporánea sin presuponer continuidad ininterrumpida. [Gaceta original](https://www.boe.es/diario_gazeta/comun/pdf.php?do=1&p=1901%2F12%2F13%2Fpdfs%2FGMD-1901-347.pdf). [Repertorio documental](/lugares/las-batuecas/historia/documentos/).
