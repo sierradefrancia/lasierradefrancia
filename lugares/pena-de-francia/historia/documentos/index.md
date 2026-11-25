@@ -127,3 +127,10 @@ Estos enlaces proceden de la bibliografía previa; su disponibilidad y el conten
 | ID | Documento | Localizador | Estado |
 |---|---|---|---|
 | PEF-DOC-051 | Bide y Saint-Saud, 1892 | Las Batuecas y las Jurdes, p. 111 | Tabla de itinerarios recuperada 25/11/2026; mapa pendiente. [Estudio](/lugares/pena-de-francia/geografia-territorio/paso-de-los-lobos/). |
+
+## Patrimonio paisajístico contemporáneo
+
+| ID | Documento | Localizador | Estado |
+|---|---|---|---|
+| PEF-DOC-052 | Pérez Casado y Encinas Martín, 2003 | Peña de Francia: historia, arte, entorno, p. 67 | Referencia indirecta a través de Latines Charros, 2017. |
+| PEF-DOC-053 | Adecuación de miradores y sendas | Fundación Patrimonio Natural, documento enlazado en [estudio](/lugares/pena-de-francia/santuario-patrimonio/rotonda-reloj-solar/) | Extracto recuperado 25/11/2026; presupuesto conjunto, expediente pendiente. |
