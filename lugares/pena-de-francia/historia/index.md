@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 layout: default
 title: Historia de la Peña de Francia
 parent: Peña de Francia
@@ -26,6 +26,12 @@ La montaña llegó a convertirse en un centro religioso con propiedades, privile
 Esta página reconstruye su evolución distinguiendo los hechos documentados, las tradiciones religiosas y las cuestiones que todavía requieren investigación.
 
 ---
+
+## Instrumentos de investigación histórica
+
+- [Cronología histórica](/lugares/pena-de-francia/historia/cronologia/): fechas, acontecimientos y discrepancias.
+- [Repertorio documental](/lugares/pena-de-francia/historia/documentos/): instrumentos, series y localizadores.
+- [Personajes históricos](/lugares/pena-de-francia/historia/personajes/): personas, relaciones y límites de identificación.
 
 ## La montaña antes del santuario
 
