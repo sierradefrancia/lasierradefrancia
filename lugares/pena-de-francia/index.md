@@ -172,6 +172,10 @@ Investigaciones específicas, hallazgos documentales, memoria oral y creación l
 - [Reserva Regional de Caza](/parque-natural/reserva-regional-de-caza/) y [avifauna](/flora-fauna/avifauna/): gestión y conservación a escala comarcal.
 - [Felisa Martín Bravo](/personajes/felisa-martin-bravo/) y [La montaña que hablaba en código Morse](/lugares/pena-de-francia/articulos/la-montana-que-hablaba-en-morse/): historia científica y tecnológica.
 
+### Lugares singulares
+
+[Explorar el inventario de lugares singulares](/lugares/pena-de-francia/geografia-territorio/lugares-singulares/): miradores, fuentes, pasos, reloj solar y microtopónimos. Distingue lugares identificados de denominaciones todavía pendientes de comprobación.
+
 ## La Peña de Francia y su territorio
 
 La Peña no puede comprenderse de manera aislada.
