@@ -107,3 +107,5 @@ Véanse [Historia territorial](/lugares/las-batuecas/historia-territorial/), [re
 
 
 [Las Batuecas en la literatura europea](/lugares/las-batuecas/cultura-literatura/recepcion-europea/): ediciones, traducciones y recepción internacional.
+
+[Cuando Las Batuecas conquistaron la imaginación europea](/lugares/las-batuecas/articulos/imaginacion-europea/): ensayo sobre la circulación de la leyenda, la literatura y la exploración territorial.
