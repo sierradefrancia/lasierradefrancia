@@ -35,6 +35,8 @@ La escala de este inventario es el lugar individual, no el macizo completo. Comp
 | PEF-LUG-019 | La Hastiala | IGN NGBE 2065130, 1.735 m. |
 | PEF-LUG-020 | Mesa del Francés | IGME CI066; altitud puntual pendiente de cotejo IGN. |
 | PEF-LUG-021 | Peña de los Mosquitos | Mapa Pegaso 2020; localización oficial pendiente. |
+| PEF-LUG-022 | Fuente Paterno | Referencia cicloturista; ubicación oficial pendiente. |
+| PEF-LUG-023 | Campo de San Francisco | Memoria personal publicada en 2017; identidad pendiente. |
 
 ## Prioridades de investigación
 
@@ -55,3 +57,5 @@ Extractos web consultados el 25/11/2026:
 [Guía de visita](/lugares/pena-de-francia/visitar/) · [Convento y abastecimiento](/lugares/pena-de-francia/santuario-patrimonio/convento-pozo-verde/).
 
 [Estudio de las cumbres y organización del relieve](/lugares/pena-de-francia/geografia-territorio/cumbres-y-relieve/). El IGN identifica la Hastiala (1.735 m) como culminación de la Sierra de la Peña de Francia, unidad orográfica de 41 km que no equivale a la comarca.
+
+[Agua, fuentes y cabeceras fluviales](/lugares/pena-de-francia/geografia-territorio/agua-y-fuentes/).
