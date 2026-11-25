@@ -1,7 +1,8 @@
 ---
 layout: default
 title: La expedición científica y artística de 1857 a la Sierra de Francia
-nav_exclude: true
+parent: "Clima y observación"
+grand_parent: Peña de Francia
 last_modified_at: 2026-11-24
 description: "La expedición universitaria de 1857, Vicente de la Fuente, Dionisio Barreda y el conocimiento histórico de la Peña de Francia."
 permalink: /lugares/pena-de-francia/clima-observacion/expedicion-1857/
