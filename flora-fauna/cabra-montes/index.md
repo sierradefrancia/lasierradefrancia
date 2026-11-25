@@ -49,3 +49,7 @@ Consulta de extractos recuperados el 25 de noviembre de 2026:
 Pendientes originales de traslados, censos actuales, seguimiento sanitario y planes de gestión de la reserva. No se ofrecen localizaciones sensibles.
 
 [Peña: naturaleza](/lugares/pena-de-francia/naturaleza/) · [Las Batuecas](/lugares/las-batuecas/).
+
+## Gestión cinegética y territorio
+
+La [Reserva Regional de Caza de Las Batuecas](/parque-natural/reserva-regional-de-caza/) tiene un régimen propio, diferenciado del parque natural. El expediente SA-FOR-2/2024 (p. 6) documenta la concurrencia de figuras en el monte Santuario de la Peña de Francia (CUP 109) y distingue sus 456,30 ha de las 21.513 ha del cuartel de Batuecas. No son superficies sumables ni censos de fauna.
