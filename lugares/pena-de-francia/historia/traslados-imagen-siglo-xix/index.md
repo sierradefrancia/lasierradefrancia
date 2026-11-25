@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Los traslados de la imagen y la recuperación de 1857
-nav_exclude: true
+parent: "Historia de la Peña de Francia"
+grand_parent: Peña de Francia
 last_modified_at: 2026-11-24
 permalink: /lugares/pena-de-francia/historia/traslados-imagen-siglo-xix/
 ---
