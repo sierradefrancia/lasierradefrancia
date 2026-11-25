@@ -80,3 +80,5 @@ Este estudio sintetiza la documentación localizada anteriormente. No reproduce 
 [Volver a Las Batuecas](/lugares/las-batuecas/)
 
 [Catálogo de documentos gráficos](/lugares/las-batuecas/documentos-rupestres/).
+
+[Las Batuecas y la memoria del tiempo](/lugares/las-batuecas/articulos/la-memoria-del-tiempo/): ensayo sobre geología, arte rupestre, investigación y conservación.
