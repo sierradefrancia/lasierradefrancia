@@ -5,6 +5,7 @@ title: Historia de la Peña de Francia
 parent: Peña de Francia
 grand_parent: Lugares de interés
 nav_order: 1
+has_children: true
 description: "Historia de la Peña de Francia: Simón Vela, el hallazgo de 1434, Juan II de Castilla, Lope de Barrientos, los dominicos, el santuario y su evolución histórica."
 permalink: /lugares/pena-de-francia/historia/
 ---
