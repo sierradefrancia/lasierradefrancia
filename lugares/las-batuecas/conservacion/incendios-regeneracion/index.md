@@ -51,3 +51,5 @@ La evaluación posincendio debería diferenciar superficie afectada, severidad, 
 - [PORN, artículo 19](https://patrimonionatural.org/ficheros/lasbatuecas-sierradefranciaplandeordenaciondelosrecursosnaturalespdf130810_103541.pdf): criterios forestales.
 
 Extractos consultados el 24 de noviembre de 2026. Véanse [vegetación](/lugares/las-batuecas/vegetacion/), [protección ambiental](/lugares/las-batuecas/proteccion-ambiental/) y [río Batuecas](/lugares/las-batuecas/rio-batuecas/).
+
+[El valle vivo: la extraordinaria naturaleza de Las Batuecas](/lugares/las-batuecas/articulos/el-valle-vivo/): una interpretación conjunta del bosque, el río, la fauna y la conservación.
