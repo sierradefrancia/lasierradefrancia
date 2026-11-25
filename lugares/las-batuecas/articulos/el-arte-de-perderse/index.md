@@ -110,3 +110,5 @@ Ensayo interpretativo basado en una observación territorial aportada por el pro
 - [Cuando Las Batuecas conquistaron la imaginación europea](/lugares/las-batuecas/articulos/imaginacion-europea/), contexto narrativo complementario.
 
 La primera aparición documental de la locución, su evolución lexicográfica completa y el cotejo de los manuscritos de Unamuno permanecen abiertos.
+
+[El verano de 1913: cuatro hombres y una sierra](/lugares/las-batuecas/articulos/el-verano-de-1913/): relato documental de la expedición y del conocimiento local del territorio.
