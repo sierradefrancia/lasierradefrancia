@@ -30,8 +30,12 @@ CI065 ofrece escala de observación estructural distinta de CI066. No debe confu
 ## Fuentes y siguientes comprobaciones
 
 - [Macaya, J. (1981), Cuadernos de Geología Ibérica 7, 567–576](https://info.igme.es/ielig/documentacion/ci/ci155/documentos/d-ci155-01.pdf). Consultada la introducción, p. 567, no la totalidad del artículo.
-- [IELIG CI065](https://info.igme.es/ielig/LIGInfo.aspx?codigo=CI065): identificación y bibliografía consultadas. Remite a Valladares et al. (2009), Geogaceta 47, 49–52, sobre el límite Cámbrico-Ordovícico; original pendiente.
+- [IELIG CI065](https://info.igme.es/ielig/LIGInfo.aspx?codigo=CI065): identificación y bibliografía consultadas. Remite a Valladares et al. (2009), Geogaceta 47, 49–52, sobre el límite Cámbrico-Ordovícico; original parcialmente consultado; véase el expediente enlazado al final.
 - [IELIG CI066](https://info.igme.es/ielig/LIGInfo.aspx?codigo=CI066): bibliografía consultada. Jordá Pardo (1983), pp. 129–168, estudia la vertiente noroccidental y la fosa de Ciudad Rodrigo; original pendiente.
 - [IELIG CI062](https://info.igme.es/ielig/LIGInfo.aspx?codigo=CI062): referencia bibliográfica a García de Figuerola (1971), Studia Geologica II, 45–56, sobre el sinclinal Sequeros–Ahigal de los Aceiteros; original pendiente.
 
 No se ha realizado cartografía propia ni inspección de campo. Las relaciones descritas son interpretaciones geológicas publicadas, no nuevos descubrimientos del atlas.
+
+## Investigación estratigráfica de 2009
+
+El [estudio del límite Cámbrico-Ordovícico](/lugares/pena-de-francia/geologia/limite-cambrico-ordovicico/) incorpora los resultados de Valladares y colaboradores (Geogaceta 47, 49–52) sobre la diferenciación de conglomerados y sus ambientes sedimentarios, con observaciones en varios sectores serranos. Consultados resumen y extractos; no constituye una nueva comprobación de campo.
