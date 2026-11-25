@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 layout: default
 title: Cultura y tradiciones de la Peña de Francia
 parent: Peña de Francia
@@ -651,3 +651,5 @@ Otras aparecen en las cuentas de una feria, en los estatutos de una cofradía, e
 Su influencia alcanzó pueblos próximos y territorios situados a miles de kilómetros.
 
 **Comprender las tradiciones de la Peña de Francia significa conocer no solo lo que se ha contado sobre la montaña, sino también cómo las personas han vivido, compartido y transformado esos relatos a lo largo del tiempo.**
+
+[Camino de la Peña de Francia](/lugares/pena-de-francia/cultura-tradiciones/camino-de-la-pena/): conexión de 72 km desde la Vía de la Plata, recuperación contemporánea y contexto de peregrinación.
