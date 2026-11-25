@@ -66,3 +66,7 @@ Condesa de Genlis: autora de Les Battuécas (1816). George Sand: lectora cuya re
 
 
 [Las Batuecas en la literatura europea](/lugares/las-batuecas/cultura-literatura/recepcion-europea/): ediciones, traducciones y recepción internacional.
+
+## Unamuno y Maurice Legendre
+
+Miguel de Unamuno: testimonio directo de un viaje por Las Hurdes y Batuecas en texto fechado en agosto de 1914; recuerda una visita anterior de hacía dieciséis o dieciocho años (aproximadamente 1896–1898). Maurice Legendre: interlocutor al que atribuye la noticia sobre Genlis y Sand. Fuente: [Andanzas y visiones españolas, p. 124](https://web.english.upenn.edu/~cavitch/pdf-library/Unamuno_Andanzas_y_visiones_espan%CC%83olas.pdf). La relación intelectual está documentada; las motivaciones concretas de cada visita requieren más evidencias. [Recepción europea](/lugares/las-batuecas/cultura-literatura/recepcion-europea/).
