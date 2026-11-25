@@ -69,3 +69,5 @@ El [estudio sobre el sentimiento de la naturaleza en Unamuno, Isegoría, 2021](h
 La cronología del viaje de 1913 ha sido precisada mediante Erquiaga (2019) y la carta del 25 de julio reproducida en el estudio de la Diputación de Cáceres.
 
 [Unamuno, Legendre y Chevalier](/lugares/las-batuecas/cultura-literatura/unamuno-legendre-chevalier/).
+
+[Cuando Las Batuecas conquistaron la imaginación europea](/lugares/las-batuecas/articulos/imaginacion-europea/): ensayo sobre la circulación de la leyenda, la literatura y la exploración territorial.
