@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 layout: default
 title: Peña de Francia
 parent: Lugares de interés
@@ -160,6 +160,17 @@ Investigaciones específicas, hallazgos documentales, memoria oral y creación l
 - [La lagartija batueca](/lugares/pena-de-francia/naturaleza/lagartija-batueca/).
 - [La capilla de la Blanca](/lugares/pena-de-francia/santuario-patrimonio/capilla-blanca/).
 - [El rollo jurisdiccional](/lugares/pena-de-francia/santuario-patrimonio/rollo-jurisdiccional/).
+
+### Nuevas líneas de investigación
+
+- [Fundación, patronazgo y conflictos jurisdiccionales](/lugares/pena-de-francia/historia/fundacion-patronazgo/): documentación sobre los orígenes institucionales.
+- [Economía conventual](/lugares/pena-de-francia/historia/economia-conventual/): rentas, propiedades y trabajo.
+- [Repertorio documental](/lugares/pena-de-francia/historia/documentos/) y [cronología](/lugares/pena-de-francia/historia/cronologia/): instrumentos para seguir la investigación.
+- [Iglesia conventual](/lugares/pena-de-francia/santuario-patrimonio/iglesia-conventual/) e [inventario patrimonial](/lugares/pena-de-francia/santuario-patrimonio/inventario/): elementos y fases del conjunto.
+- [Estructura geológica regional](/lugares/pena-de-francia/geologia/estructura-regional/) y [Monsagro](/pueblos/otros-pueblos/monsagro/): relaciones entre relieve y patrimonio paleontológico.
+- [Funcionamiento ecológico](/lugares/pena-de-francia/naturaleza/sintesis-ecologica/): síntesis de suelo, agua, flora, fauna y usos humanos.
+- [Reserva Regional de Caza](/parque-natural/reserva-regional-de-caza/) y [avifauna](/flora-fauna/avifauna/): gestión y conservación a escala comarcal.
+- [Felisa Martín Bravo](/personajes/felisa-martin-bravo/) y [La montaña que hablaba en código Morse](/lugares/pena-de-francia/articulos/la-montana-que-hablaba-en-morse/): historia científica y tecnológica.
 
 ## La Peña de Francia y su territorio
 
