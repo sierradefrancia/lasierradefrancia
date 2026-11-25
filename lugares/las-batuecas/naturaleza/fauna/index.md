@@ -76,3 +76,5 @@ Estudios complementarios:
 
 - [El lince ibérico: memoria y evidencia](/lugares/las-batuecas/lince-iberico/).
 - [Buitre negro y cigüeña negra](/lugares/las-batuecas/aves-conservacion/).
+
+[El valle vivo: la extraordinaria naturaleza de Las Batuecas](/lugares/las-batuecas/articulos/el-valle-vivo/): una interpretación conjunta del bosque, el río, la fauna y la conservación.
