@@ -1,7 +1,8 @@
 ---
 layout: default
 title: La feria de septiembre y El Casarito
-nav_exclude: true
+parent: "Cultura y tradiciones de la Peña de Francia"
+grand_parent: Peña de Francia
 last_modified_at: 2026-11-25
 description: "La feria histórica de la Peña de Francia y El Casarito: trabajadores, desplazamientos, organización conventual y relaciones territoriales."
 permalink: /lugares/pena-de-francia/cultura-tradiciones/feria-septiembre/
