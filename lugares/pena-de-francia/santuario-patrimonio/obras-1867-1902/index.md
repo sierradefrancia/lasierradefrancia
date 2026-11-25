@@ -27,3 +27,5 @@ El libro B-C-SAL-b-14/2-3 (1869–1890) se solapa con las cuentas ya identificad
 ## Continuidad en el siglo XX
 
 La [semblanza dominicana del padre Constantino](https://www2.dominicos.org/pdefrancia/pagines/PConstantinoM.htm) fecha la bendición de la hospedería el 9 de julio de 1955 y la del tendido eléctrico el 24 de octubre de 1964. Atribuye a este último 45 km y 438 postes. Registra además trabajos en cubiertas, capillas, carretera y depósito de agua. Pendiente cotejar proyectos técnicos, financiación y pueblos efectivamente servidos. [Hospedería](/lugares/pena-de-francia/santuario-patrimonio/hospederia/) · [Plaza y capillas](/lugares/pena-de-francia/santuario-patrimonio/plaza-capillas/).
+
+El proyecto viario de 1921 se refiere a El Cabaco–Monsagro, no necesariamente al acceso a la cima. [Modernización contemporánea](/lugares/pena-de-francia/historia/modernizacion-siglo-xx/).
