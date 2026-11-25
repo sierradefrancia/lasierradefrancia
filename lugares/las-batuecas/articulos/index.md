@@ -26,6 +26,8 @@ Esta síntesis se apoya en los estudios existentes del atlas; no implica una nue
 
 ## Explorar esta sección
 
+- [El valle vivo: la extraordinaria naturaleza de Las Batuecas](/lugares/las-batuecas/articulos/el-valle-vivo/): una interpretación conjunta del bosque, el río, la fauna y la conservación.
+
 - [Las Batuecas y la memoria del tiempo](/lugares/las-batuecas/articulos/la-memoria-del-tiempo/): ensayo sobre geología, arte rupestre, investigación y conservación.
 
 - [Los hombres que dibujaron Las Batuecas](/lugares/las-batuecas/articulos/los-hombres-que-dibujaron-las-batuecas/): historia de la cartografía, exploración y testimonios gráficos del valle.
