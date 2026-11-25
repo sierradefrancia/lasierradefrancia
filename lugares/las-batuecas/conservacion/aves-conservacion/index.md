@@ -3,7 +3,7 @@ layout: default
 title: Buitre negro y cigüeña negra
 parent: "Protección y conservación de Las Batuecas"
 grand_parent: Las Batuecas
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Referencias históricas y seguimiento regional de aves de interés para la conservación."
 permalink: /lugares/las-batuecas/aves-conservacion/
 ---
@@ -27,3 +27,7 @@ La observación responsable se realiza desde recorridos permitidos, sin acercars
 El [inventario estatal del parque](https://iepnb.gob.es/areas-tematicas/espacios-protegidos/195786_CDDA/las-batuecas-sierra-de-francia) destaca la reproducción de buitre negro y la presencia de cigüeña negra y águila real, sin proporcionar en su descripción cifras locales recientes.
 
 Véanse [fauna](/lugares/las-batuecas/fauna/) y [protección ambiental](/lugares/las-batuecas/proteccion-ambiental/). Extractos consultados el 24 de noviembre de 2026.
+
+## Avifauna y escalas de conservación
+
+La [síntesis comarcal de avifauna](/flora-fauna/avifauna/) distingue observaciones, reproducción y tendencias poblacionales, relacionando la historia de protección con los expedientes territoriales sin extrapolar cifras autonómicas al valle o a la cumbre.
