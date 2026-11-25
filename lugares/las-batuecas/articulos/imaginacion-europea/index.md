@@ -128,3 +128,5 @@ La lectura íntegra de Genlis, Latour, Bide y Beauchet, los manuscritos del viaj
 [Estar en Las Batuecas: el arte de perderse](/lugares/las-batuecas/articulos/el-arte-de-perderse/): paisaje, contemplación e historia de la expresión popular.
 
 [El verano de 1913: cuatro hombres y una sierra](/lugares/las-batuecas/articulos/el-verano-de-1913/): relato documental de la expedición y del conocimiento local del territorio.
+
+[Los hombres que dibujaron Las Batuecas](/lugares/las-batuecas/articulos/los-hombres-que-dibujaron-las-batuecas/): historia de la cartografía, exploración y testimonios gráficos del valle.
