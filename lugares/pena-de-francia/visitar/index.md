@@ -610,3 +610,5 @@ Detenerse ante el rollo, descubrir el reloj de sol, reconocer los canchales o id
 **La Peña de Francia no es solamente un lugar al que llegar. Es un lugar que merece aprender a observar.**
 
 [Inventario de lugares singulares](/lugares/pena-de-francia/geografia-territorio/lugares-singulares/).
+
+[El Paso de los Lobos: caminos históricos, altimetría y patrimonio geológico](/lugares/pena-de-francia/geografia-territorio/paso-de-los-lobos/).
