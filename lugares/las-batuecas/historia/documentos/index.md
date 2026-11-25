@@ -46,3 +46,14 @@ La licencia episcopal y el litigio de 1601 pertenecen a planos jurídicos distin
 Registro derivado de investigaciones existentes, sin nuevo cotejo archivístico. [Cronología](/lugares/las-batuecas/historia/cronologia/) · [Personajes](/lugares/las-batuecas/historia/personajes/).
 
 Lectura complementaria: [Las Batuecas antes del monasterio](/lugares/las-batuecas/articulos/antes-del-monasterio/).
+
+
+## Nuevos localizadores judiciales
+
+- BAT-DOC-010: 1539–1544, ARCHV, Pleitos Civiles, Fernando Alonso (F), caja 171, 1.
+- BAT-DOC-011: ejecutoria de 3 de agosto de 1587, concejos de Nuñomoral y La Alberca; signatura completa pendiente.
+
+Ambos proceden de las notas 63–64 del [estudio académico](https://revistas.ucm.es/index.php/CHMO/es/article/download/77469/4564456560320/4564456641754), no de originales consultados.
+
+
+[Pleitos, recursos y derechos concejiles](/lugares/las-batuecas/historia/conflictos-concejiles/).
