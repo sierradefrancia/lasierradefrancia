@@ -85,3 +85,5 @@ El inventario completo de peces sigue pendiente. Fuente de la noticia de presenc
 Véase [el río Batuecas](/lugares/las-batuecas/rio-batuecas/).
 
 [Volver a Las Batuecas](/lugares/las-batuecas/)
+
+[El valle vivo: la extraordinaria naturaleza de Las Batuecas](/lugares/las-batuecas/articulos/el-valle-vivo/): una interpretación conjunta del bosque, el río, la fauna y la conservación.
