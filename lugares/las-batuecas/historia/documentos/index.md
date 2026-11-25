@@ -105,3 +105,11 @@ Véase [Aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-t
 - BAT-DOC-029: Vecindario de 1591, Archivo General de Simancas; misma fuente secundaria.
 
 [Blanco Carrasco, estudio demográfico, pp. 233 y 248](https://dehesa.unex.es/bitstreams/c839997e-25fb-4e33-9d92-a456f207e39d/download). Son documentos de contexto regional, con unidades territoriales diferentes. [Granadilla, La Alberca y Las Hurdes](/lugares/las-batuecas/granadilla-hurdes-alberca/).
+
+## Exploración y cartografía
+
+- BAT-DOC-030: [Mapa de Bide, 1892](https://bibliotecavirtual.defensa.gob.es/BVMDefensa/en/consulta/registro.do?control=BMDB20200299226), escala 1:100.000, signatura Ar.G bis-T.1-C.3-51; ficha institucional consultada, mapa pendiente de examen.
+- BAT-DOC-031: [Conferencias de Bide, 1892](https://bibliotecadigital.jcyl.es/i18n/catalogo_imagenes/grupo.cmd?path=10068424), edición localizada; lectura íntegra pendiente.
+- BAT-DOC-032: [Repertorio visual de Bide, 1892](https://lashurdescentrodedocumentacion.eu/archivo/audiovisuales/1892-bide-jean-batiste-6/ver), fichas consultadas, originales y derechos de copias pendientes.
+
+[Viajeros y geógrafos en Las Batuecas](/lugares/las-batuecas/cultura-literatura/viajeros-geografos/).
