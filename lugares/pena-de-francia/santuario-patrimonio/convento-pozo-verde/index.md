@@ -27,3 +27,8 @@ Registros PEF-PAT-011 a 014. La [comunidad de 1504](/lugares/pena-de-francia/his
 
 Síntesis del [estudio patrimonial preexistente](/lugares/pena-de-francia/santuario-patrimonio/) y su [inventario](/lugares/pena-de-francia/santuario-patrimonio/inventario/). La ficha de la Junta (TERPAT, Peña de Francia, El Cabaco) no pudo recuperarse en esta consulta; las atribuciones proceden del cotejo anterior registrado en el atlas. No se ha realizado inspección de campo ni levantamiento arquitectónico nuevo.
 
+## Monedas y abastecimiento contemporáneo
+
+El dominico Salustiano Mateos describe en el [Cuaderno del caminante 10](https://www2.dominicos.org/pdefrancia/pagines/CC%2010%20-%20EL%20POZO%20VERDE.htm) la práctica de depositar monedas mientras se formula un deseo. Desconoce su origen y señala que la acumulación ocasiona problemas. Su testimonio distingue esta costumbre de la devoción religiosa y recuerda la captación de agua de lluvia y el suministro desde Fuente Buitrera. No establece la fecha de inicio del ritual ni acredita la situación hidráulica actual. Extracto web consultado el 25/11/2026. Se recomienda respetar las indicaciones del santuario y no arrojar objetos al agua.
+
+[Inventario de lugares singulares](/lugares/pena-de-francia/geografia-territorio/lugares-singulares/).
