@@ -2,7 +2,7 @@
 layout: default
 title: La montaña que hablaba en código Morse
 nav_exclude: true
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "Historia de la estación automática de la Peña de Francia, sus transmisiones a Matacán en 1966 y los desafíos de observar la atmósfera en una cumbre."
 permalink: /lugares/pena-de-francia/articulos/la-montana-que-hablaba-en-morse/
 ---
@@ -100,3 +100,7 @@ En 1966, la montaña enviaba información a distancia. Hoy, el desafío consiste
 Artículo de divulgación elaborado a partir de la documentación previamente reunida en el atlas. Los cálculos de emisiones nominales y diferencias altitudinales son propios. No se han recuperado mensajes originales, fotografías ni expedientes técnicos adicionales.
 
 [Volver a Artículos](/lugares/pena-de-francia/articulos/)
+
+## Felisa Martín Bravo y la historia de la ciencia
+
+La [ficha biográfica de Felisa Martín Bravo](/personajes/felisa-martin-bravo/) documenta su trayectoria como primera doctora en Física de España y su relación con la Peña mediante el artículo técnico publicado en 1967. El facsímil de AEMET remite al número cero del boletín, pendiente de recuperación. La autoría no demuestra que ejecutara individualmente toda la instalación.
