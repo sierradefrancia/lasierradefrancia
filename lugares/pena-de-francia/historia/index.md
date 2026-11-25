@@ -33,6 +33,8 @@ Esta página reconstruye su evolución distinguiendo los hechos documentados, la
 - [Repertorio documental](/lugares/pena-de-francia/historia/documentos/): instrumentos, series y localizadores.
 - [Personajes históricos](/lugares/pena-de-francia/historia/personajes/): personas, relaciones y límites de identificación.
 
+- [Fundación, patronazgo y conflictos jurisdiccionales (1434–1445)](/lugares/pena-de-francia/historia/fundacion-patronazgo/): nuevas referencias académicas, discrepancias de fecha y conflicto con el infante Enrique.
+
 ## La montaña antes del santuario
 
 La Peña de Francia existía como referencia geográfica mucho antes de la construcción de su santuario.
