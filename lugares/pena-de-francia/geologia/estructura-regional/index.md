@@ -39,3 +39,5 @@ No se ha realizado cartografía propia ni inspección de campo. Las relaciones d
 ## Investigación estratigráfica de 2009
 
 El [estudio del límite Cámbrico-Ordovícico](/lugares/pena-de-francia/geologia/limite-cambrico-ordovicico/) incorpora los resultados de Valladares y colaboradores (Geogaceta 47, 49–52) sobre la diferenciación de conglomerados y sus ambientes sedimentarios, con observaciones en varios sectores serranos. Consultados resumen y extractos; no constituye una nueva comprobación de campo.
+
+[El Paso de los Lobos: caminos históricos, altimetría y patrimonio geológico](/lugares/pena-de-francia/geografia-territorio/paso-de-los-lobos/).
