@@ -87,3 +87,15 @@ El poder de julio de 1434, si se confirma su tenor, aporta evidencia de activida
 [PARES 6111](https://pares.cultura.gob.es/ParesBusquedas20/catalogo/autoridad/6111), [AHDOPE](https://archivo.dominicoshispania.org/index.php/pena-de-francia-2?sf_culture=es), [Prieto Sayagués 2025](https://web-argitalpena.adm.ehu.es/pdf/UHMPD259882.pdf), [Gómez-Chacón 2016](https://www.ucm.es/data/cont/docs/584-2016-01-14-212-245%20Diana%20Lucia%20Gomez.pdf). Referencias recuperadas de los expedientes previos; acceso nuevo limitado al atlas.
 
 [Repertorio documental](/lugares/pena-de-francia/historia/documentos/) · [Personajes](/lugares/pena-de-francia/historia/personajes/).
+
+## Custodia y difusión devocional
+
+| Fecha | Referencia | Estado |
+|---|---|---|
+| 1681 | Contrato de dorado del altar mayor | Referencia bibliográfica indirecta |
+| Mayo 1883 | Dos recibos de estampas | Referencias catalográficas previas |
+| 19 septiembre 1890 | Entrega de bienes al Zarzoso | PEF-DOC-054; condiciones pendientes |
+| 28 octubre 1921 | Entrega de utensilios al santero | PEF-DOC-055 |
+| 1932–1933 | Inventario del santuario | PEF-DOC-056 |
+
+[Estudio y fuentes](/lugares/pena-de-francia/santuario-patrimonio/bienes-artisticos/). Fechas incorporadas desde el expediente previo, pendientes de cotejo directo.
