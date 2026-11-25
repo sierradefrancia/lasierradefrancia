@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Investigación botánica histórica de la Peña de Francia
-parent: Naturaleza
+parent: Naturaleza de la Peña de Francia
 grand_parent: Peña de Francia
 last_modified_at: 2026-11-25
 permalink: /lugares/pena-de-francia/naturaleza/investigacion-botanica/
@@ -32,3 +32,9 @@ La documentación de regiones de procedencia de Quercus pyrenaica del MITECO ide
 Consulta de extractos el 25 de noviembre de 2026. Pendientes textos completos, revisión nomenclatural, registros de herbario y comparación de inventarios actuales. No se ha realizado trabajo de campo. No se ofrecen localizaciones de plantas sensibles.
 
 [Geología y suelos](/lugares/pena-de-francia/geologia/canchales-agua-suelos/) · [Naturaleza de la Peña](/lugares/pena-de-francia/naturaleza/).
+
+## Continuidad de la investigación liquénica
+
+La tesis de Bernarda Marcos Laso, defendida en 1986 bajo dirección de Florentino Navarro Andrés, amplió el estudio a los líquenes epífitos de las sierras meridionales salmantinas. Su resumen registra aproximadamente 320 taxones y 24 asociaciones, entre ellas una asociación y tres subasociaciones nuevas para la ciencia. Son cifras del ámbito íntegro de la tesis, no de la Peña exclusivamente. [Registro y resumen USAL](https://produccioncientifica.usal.es/documentos/5e4e72462999524eaa95041f), consultado el 25 de noviembre de 2026; texto completo pendiente.
+
+[Expediente de Armeria salmantica](/lugares/pena-de-francia/naturaleza/armeria-salmantica/).
