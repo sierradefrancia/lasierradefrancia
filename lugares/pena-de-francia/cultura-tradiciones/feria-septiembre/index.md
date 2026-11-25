@@ -2,7 +2,7 @@
 layout: default
 title: La feria de septiembre y El Casarito
 nav_exclude: true
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "La feria histórica de la Peña de Francia y El Casarito: trabajadores, desplazamientos, organización conventual y relaciones territoriales."
 permalink: /lugares/pena-de-francia/cultura-tradiciones/feria-septiembre/
 ---
@@ -83,3 +83,7 @@ La noticia retrospectiva de una tormenta durante la feria de 1827, recogida en e
 Este estudio desarrolla las implicaciones de las referencias previamente reunidas. No constituye una transcripción del expediente original ni aporta una nueva datación de la feria.
 
 [Volver a Cultura y tradiciones](/lugares/pena-de-francia/cultura-tradiciones/)
+
+## El trabajo de la feria en 1806
+
+AHDOPE A-B-PEÑ-2-5 identifica el informe de Pedro Robles al intendente, fechado el 31 de diciembre de 1806. Documenta según catálogo la actividad laboral en la Peña y El Casarito, con nueve jornadas remuneradas que incluyen viaje y estancia alrededor del 6–8 de septiembre. No se ha examinado el detalle salarial. [Ficha de partida](https://archivo.dominicoshispania.org/index.php/informationobject/browse?collection=390&media=print&places=36185&sf_culture=es&showAdvanced=1&sort=alphabetic&sortDir=desc&topLod=0&view=table) y [economía conventual](/lugares/pena-de-francia/historia/economia-conventual/).
