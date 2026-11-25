@@ -3,7 +3,7 @@ layout: default
 title: Inventario patrimonial de la Peña de Francia
 nav_exclude: true
 search_exclude: true
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 permalink: /lugares/pena-de-francia/santuario-patrimonio/inventario/
 ---
 
@@ -72,6 +72,15 @@ Las referencias proceden del [estudio patrimonial existente](/lugares/pena-de-fr
 |---|---|---|---|
 | PEF-PAT-029 | Obras de 1867 | AHDO | Acuerdo de 12 julio y contrato; maestros Manuel Gómez e Isidoro Madrados según catálogo. |
 | PEF-PAT-030 | Reforma de hospedería de 1902 | AHDO | Presupuesto de 3 marzo atribuido a Juan García; ejecución no demostrada. |
+
+## Patrimonio científico y paisajístico contemporáneo
+
+| Identificador | Elemento | Referencia inicial | Alcance y cuestiones pendientes |
+|---|---|---|---|
+| PEF-PAT-031 | Rotonda | PEF-LUG-001; PEF-DOC-049 | Inauguración atribuida a 1975; cotejo institucional pendiente. |
+| PEF-PAT-032 | Reloj solar | PEF-LUG-002 | Parte de la Rotonda; autoría específica, geometría e inscripciones pendientes. |
+
+El Pozo Verde conserva PEF-PAT-014 y se relaciona con PEF-LUG-005; no se crea un segundo bien por la costumbre de arrojar monedas. [Inventario de lugares singulares](/lugares/pena-de-francia/geografia-territorio/lugares-singulares/).
 
 ## Expedientes con estudios publicados
 
