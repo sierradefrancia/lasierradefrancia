@@ -88,3 +88,5 @@ Este estudio desarrolla las implicaciones de las referencias previamente reunida
 ## El trabajo de la feria en 1806
 
 AHDOPE A-B-PEÑ-2-5 identifica el informe de Pedro Robles al intendente, fechado el 31 de diciembre de 1806. Documenta según catálogo la actividad laboral en la Peña y El Casarito, con nueve jornadas remuneradas que incluyen viaje y estancia alrededor del 6–8 de septiembre. No se ha examinado el detalle salarial. [Ficha de partida](https://archivo.dominicoshispania.org/index.php/informationobject/browse?collection=390&media=print&places=36185&sf_culture=es&showAdvanced=1&sort=alphabetic&sortDir=desc&topLod=0&view=table) y [economía conventual](/lugares/pena-de-francia/historia/economia-conventual/).
+
+[Una feria entre dos mundos](/lugares/pena-de-francia/articulos/una-feria-entre-dos-mundos/) — lectura interpretativa sobre trabajo, devoción y territorio.
