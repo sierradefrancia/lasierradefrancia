@@ -30,3 +30,5 @@ Esta síntesis se apoya en los estudios existentes del atlas; no implica una nue
 
 
 [Volver a Las Batuecas](/lugares/las-batuecas/).
+
+Lectura complementaria: [Las Batuecas antes del monasterio](/lugares/las-batuecas/articulos/antes-del-monasterio/).
