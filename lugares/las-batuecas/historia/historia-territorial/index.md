@@ -144,3 +144,9 @@ El estudio incorpora nuevos extractos académicos y de la introducción de Berro
 La nota 1 de Berrogain (p. 382) contiene internamente la discordancia entre era 1327 y año 1291; la conversión habitual da 1289. Nuevos localizadores archivísticos y contexto jurisdiccional en [Granadilla, La Alberca y Las Hurdes](/lugares/las-batuecas/granadilla-hurdes-alberca/).
 
 Estudio complementario: [Aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-tradicionales/), con extractos de las ordenanzas XCVI–XCVIII.
+
+## Cronología, documentos y protagonistas
+
+- [Cronología histórica de Las Batuecas](/lugares/las-batuecas/historia/cronologia/): secuencia territorial y estados de evidencia.
+- [Repertorio documental](/lugares/las-batuecas/historia/documentos/): localizadores archivísticos y vías de consulta.
+- [Personajes y testimonios históricos](/lugares/las-batuecas/historia/personajes/): actores y transmisión de las noticias.
