@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 layout: default
 title: Clima y observación
 parent: Peña de Francia
@@ -156,7 +156,7 @@ Según Felisa Martín Bravo, el funcionamiento tuvo que interrumpirse mientras s
 
 Posteriormente, el hielo y el viento rompieron la antena utilizada por la estación.
 
-El autor explicaba que era necesario esperar una mejoría del tiempo para subir a repararla.
+La autora explicaba que era necesario esperar una mejoría del tiempo para subir a repararla.
 
 ### Lo que demuestra este episodio
 
@@ -709,3 +709,7 @@ El hielo y el viento llegaron a interrumpir su funcionamiento.
 Hoy, la investigación puede continuar mediante archivos históricos, estaciones instrumentales, cartografía y observaciones documentadas.
 
 **Comprender el clima de la Peña de Francia exige observar la montaña, pero también medirla, documentarla y reconocer aquello que todavía desconocemos.**
+
+## Felisa Martín Bravo y la historia de la ciencia
+
+La [ficha biográfica de Felisa Martín Bravo](/personajes/felisa-martin-bravo/) documenta su trayectoria como primera doctora en Física de España y su relación con la Peña mediante el artículo técnico publicado en 1967. El facsímil de AEMET remite al número cero del boletín, pendiente de recuperación. La autoría no demuestra que ejecutara individualmente toda la instalación.
