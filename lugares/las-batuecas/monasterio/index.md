@@ -52,7 +52,7 @@ Prioridades: inventario individualizado de iglesia, dependencias y ermitas; cron
 
 Fuentes de partida: [IPCE, monasterio de Las Batuecas](https://ipce.cultura.gob.es/conservacion-y-restauracion/inmuebles/historico-religiosa/monasterio-batuecas.html), [Carmelitas Descalzos](https://ocdiberica.com/project/las-batuecas/), [estudio de Daniel de Pablo Maroto](https://summa.upsa.es/high.raw?id=0000007692&name=00000001.original.pdf). Síntesis de los estudios existentes, sin nueva consulta de originales en esta actualización.
 
-## Estudios y contenidos
+## Historia, arquitectura y vida religiosa
 
 - [Historia del Desierto de San José](/lugares/las-batuecas/historia-carmelitana/).
 - [Arquitectura del Desierto de San José](/lugares/las-batuecas/arquitectura-carmelitana/).
@@ -62,12 +62,11 @@ Fuentes de partida: [IPCE, monasterio de Las Batuecas](https://ipce.cultura.gob.
 - [Desamortización y recuperación del Desierto](/lugares/las-batuecas/desamortizacion-recuperacion/).
 - [Restauración del monasterio de Las Batuecas](/lugares/las-batuecas/restauracion-monasterio/).
 
-[Volver a Las Batuecas](/lugares/las-batuecas/).
-
-
 ## Patrimonio y organización material
 
 - [Inventario patrimonial del Desierto de San José](/lugares/las-batuecas/monasterio/inventario/).
 - [La iglesia del Desierto de San José](/lugares/las-batuecas/monasterio/iglesia/).
 - [El recinto carmelitano y su paisaje](/lugares/las-batuecas/monasterio/recinto-paisaje/).
 - [Dependencias, trabajo y economía del monasterio](/lugares/las-batuecas/monasterio/dependencias/).
+
+[Volver a Las Batuecas](/lugares/las-batuecas/).
