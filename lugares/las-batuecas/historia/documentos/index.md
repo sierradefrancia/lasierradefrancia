@@ -51,9 +51,26 @@ Lectura complementaria: [Las Batuecas antes del monasterio](/lugares/las-batueca
 ## Nuevos localizadores judiciales
 
 - BAT-DOC-010: 1539–1544, ARCHV, Pleitos Civiles, Fernando Alonso (F), caja 171, 1.
-- BAT-DOC-011: ejecutoria de 3 de agosto de 1587, concejos de Nuñomoral y La Alberca; signatura completa pendiente.
+- BAT-DOC-011: ejecutoria de 3 de agosto de 1587, concejos de Nuñomoral y La Alberca; Registro de Ejecutorias, caja 1588, 19.
 
 Ambos proceden de las notas 63–64 del [estudio académico](https://revistas.ucm.es/index.php/CHMO/es/article/download/77469/4564456560320/4564456641754), no de originales consultados.
 
 
 [Pleitos, recursos y derechos concejiles](/lugares/las-batuecas/historia/conflictos-concejiles/).
+
+## Serie judicial ampliada
+
+BAT-DOC-011: completar localizador de 1587: ARCHV, Registro de Ejecutorias, caja 1588, 19.
+
+| Código | Fecha | ARCHV, Registro de Ejecutorias |
+|---|---|---|
+| BAT-DOC-012 | 28/04/1588 | Caja 1614, 2 |
+| BAT-DOC-013 | 17/10/1592 | Caja 1726, 19 |
+| BAT-DOC-014 | 22/12/1670 | Caja 2938, 28 |
+| BAT-DOC-015 | Agosto 1671 | Caja 2944, 11 |
+| BAT-DOC-016 | Octubre 1715 | Caja 3139, 103 |
+| BAT-DOC-017 | Diciembre 1777 | Caja 3422, 49 |
+
+BAT-DOC-018: contrato enfitéutico de 1531, citado por Martín Marcos a partir de Escobar Prieto (1905); original y signatura pendientes.
+
+Fuente de los localizadores: [Martín Marcos, 2022, pp. 195–196, notas 64–66](https://oai.e-spacio.uned.es/server/api/core/bitstreams/4a985912-6712-4915-873c-bc68e3e7ca4a/content). No se han recuperado fichas individuales ni imágenes en PARES. Los códigos corresponden a documentos de contexto regional, no necesariamente a acontecimientos dentro del valle.
