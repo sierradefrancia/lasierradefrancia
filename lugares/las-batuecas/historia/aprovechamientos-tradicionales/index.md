@@ -64,3 +64,13 @@ La Gaceta de Madrid del 13 de diciembre de 1901, n.º 347, p. 1071, anuncia una 
 El mismo anuncio recoge otro aprovechamiento en el monte La Sierra de Herguijuela de la Sierra, por doce años y 38.400 pesetas. No son comparables directamente sin considerar superficies, turnos de descorche, calidad y condiciones contractuales. Tampoco conocemos la adjudicación efectiva ni la producción real. El pliego y el resultado de subasta son nuevas prioridades de búsqueda.
 
 La comparación con las ordenanzas de 1515 permite investigar cambios entre la regulación concejil y la administración forestal contemporánea sin presuponer continuidad ininterrumpida. [Gaceta original](https://www.boe.es/diario_gazeta/comun/pdf.php?do=1&p=1901%2F12%2F13%2Fpdfs%2FGMD-1901-347.pdf). [Repertorio documental](/lugares/las-batuecas/historia/documentos/).
+
+## 1902: una primera subasta desierta
+
+La [Gaceta del 30 de enero de 1902](https://www.boe.es/diario_gazeta/comun/pdf.php?do=1&p=1902%2F01%2F30%2Fpdfs%2FGMD-1902-30.pdf) confirma que no hubo licitadores en la primera convocatoria. Rafael Breñosa anunció una segunda para el 28 de febrero, conservando el tipo de 141.660 pesetas y el período de 24 años. No consta aquí el resultado de esta segunda convocatoria. La falta de ofertas no permite identificar sus causas sin documentación adicional.
+
+## 1921: el alcornocal en cifras
+
+La [Gaceta del 19 de abril de 1921](https://www.boe.es/gazeta/dias/1921/04/19/pdfs/C00173-00180.pdf) anuncia una segunda subasta para el día 25, relativa a dos pelas de 6.639 pies de alcornoque del monte público número 48. La primera estaba prevista en el año forestal corriente y la segunda en 1932. El turno de once años proporciona una referencia concreta de gestión forestal histórica. El anuncio distingue condiciones facultativas y económicas municipales. Las cifras de peso y tasación presentan inconsistencias en el texto recuperado y quedan pendientes de cotejo visual. No se confunde el número de árboles comprendidos en el contrato con el inventario total ni la previsión con la producción efectiva.
+
+La identificación del monte 48 permite relacionar la explotación histórica con la [protección patrimonial](/lugares/las-batuecas/proteccion-patrimonial/) de 1999. La coincidencia del número no garantiza identidad de superficies a través del tiempo. [Repertorio documental](/lugares/las-batuecas/historia/documentos/).
