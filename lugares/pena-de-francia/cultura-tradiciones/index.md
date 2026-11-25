@@ -5,6 +5,7 @@ title: Cultura y tradiciones de la Peña de Francia
 parent: Peña de Francia
 grand_parent: Lugares de interés
 nav_order: 5
+has_children: true
 description: "Cultura y tradiciones de la Peña de Francia: Simón Vela, la Moza Santa de Sequeros, romerías, peregrinaciones, cofradías, ferias históricas y expansión de la devoción mariana."
 permalink: /lugares/pena-de-francia/cultura-tradiciones/
 ---
