@@ -77,3 +77,5 @@ Referencias para ampliación, pendientes de lectura íntegra:
 Quedan abiertas la cartografía comparada de perímetros, la sucesión estratigráfica local, la identificación de estructuras sedimentarias, la evolución fluvial y la caracterización de soportes pictóricos. No se han incorporado fotografías sin licencia verificada ni localizaciones sensibles.
 
 [Volver a Las Batuecas](/lugares/las-batuecas/)
+
+[Las Batuecas y la memoria del tiempo](/lugares/las-batuecas/articulos/la-memoria-del-tiempo/): ensayo sobre geología, arte rupestre, investigación y conservación.
