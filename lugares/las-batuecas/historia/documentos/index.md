@@ -134,3 +134,5 @@ Véase [Aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-t
 - BAT-DOC-038: [Correspondencia Unamuno-Chevalier, 2018](https://eusal.es/producto/correspondencia-miguel-de-unamuno-jacques-chevalier-1907-1935/), ficha editorial consultada, anexo IV fotográfico pendiente.
 
 [Unamuno, Legendre y Chevalier](/lugares/las-batuecas/cultura-literatura/unamuno-legendre-chevalier/).
+
+[Los hombres que dibujaron Las Batuecas](/lugares/las-batuecas/articulos/los-hombres-que-dibujaron-las-batuecas/): historia de la cartografía, exploración y testimonios gráficos del valle.
