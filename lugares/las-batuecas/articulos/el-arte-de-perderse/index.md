@@ -112,3 +112,5 @@ Ensayo interpretativo basado en una observación territorial aportada por el pro
 La primera aparición documental de la locución, su evolución lexicográfica completa y el cotejo de los manuscritos de Unamuno permanecen abiertos.
 
 [El verano de 1913: cuatro hombres y una sierra](/lugares/las-batuecas/articulos/el-verano-de-1913/): relato documental de la expedición y del conocimiento local del territorio.
+
+[La soledad habitada: cuatro siglos de retiro carmelitano](/lugares/las-batuecas/articulos/la-soledad-habitada/): historia de la relación entre arquitectura, trabajo, bosque y contemplación.
