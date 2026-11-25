@@ -71,3 +71,5 @@ La cronología del viaje de 1913 ha sido precisada mediante Erquiaga (2019) y la
 [Unamuno, Legendre y Chevalier](/lugares/las-batuecas/cultura-literatura/unamuno-legendre-chevalier/).
 
 [Cuando Las Batuecas conquistaron la imaginación europea](/lugares/las-batuecas/articulos/imaginacion-europea/): ensayo sobre la circulación de la leyenda, la literatura y la exploración territorial.
+
+[El verano de 1913: cuatro hombres y una sierra](/lugares/las-batuecas/articulos/el-verano-de-1913/): relato documental de la expedición y del conocimiento local del territorio.
