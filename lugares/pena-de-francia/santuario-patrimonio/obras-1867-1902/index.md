@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Las obras del santuario entre 1867 y 1904
-nav_exclude: true
+parent: "Santuario y patrimonio"
+grand_parent: Peña de Francia
 last_modified_at: 2026-11-25
 permalink: /lugares/pena-de-francia/santuario-patrimonio/obras-1867-1902/
 ---
