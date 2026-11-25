@@ -121,3 +121,9 @@ Estos enlaces proceden de la bibliografía previa; su disponibilidad y el conten
 | PEF-DOC-050 | El Pozo Verde, Salustiano Mateos | [Cuaderno del caminante 10](https://www2.dominicos.org/pdefrancia/pagines/CC%2010%20-%20EL%20POZO%20VERDE.htm) | Testimonio atribuido; cotejo pendiente. |
 
 [Clima](/lugares/pena-de-francia/clima-observacion/) · [Lugares singulares](/lugares/pena-de-francia/geografia-territorio/lugares-singulares/).
+
+## Cartografía y viajes históricos
+
+| ID | Documento | Localizador | Estado |
+|---|---|---|---|
+| PEF-DOC-051 | Bide y Saint-Saud, 1892 | Las Batuecas y las Jurdes, p. 111 | Tabla de itinerarios recuperada 25/11/2026; mapa pendiente. [Estudio](/lugares/pena-de-francia/geografia-territorio/paso-de-los-lobos/). |
