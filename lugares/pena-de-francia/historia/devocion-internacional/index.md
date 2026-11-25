@@ -1,7 +1,8 @@
 ---
 layout: default
 title: De Salamanca a Filipinas y América — la expansión de la advocación de la Peña de Francia
-nav_exclude: true
+parent: "Historia de la Peña de Francia"
+grand_parent: Peña de Francia
 last_modified_at: 2026-11-24
 description: "Investigación histórica de la difusión de Nuestra Señora de la Peña de Francia en Filipinas, América y Portugal, sus imágenes, transmisores y tradiciones."
 permalink: /lugares/pena-de-francia/historia/devocion-internacional/
