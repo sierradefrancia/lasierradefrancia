@@ -601,3 +601,7 @@ El [estudio del límite Cámbrico-Ordovícico](/lugares/pena-de-francia/geologia
 ## Monsagro: del afloramiento al patrimonio cultural
 
 El [expediente de Monsagro](/pueblos/otros-pueblos/monsagro/) documenta la ruta urbana inaugurada en 2015 y el centro abierto en 2018, así como los estudios de Martínez-Graña et al. (2017) y Simón-Porcar et al. (2020). Distingue el contexto geológico original de las piedras incorporadas a fachadas y el valor social de ese patrimonio.
+
+## Investigación paleontológica especializada
+
+[Repertorio científico de Monsagro](/pueblos/otros-pueblos/monsagro/investigacion-paleontologica/): cuatro publicaciones identificadas, procedencia de bloques cuarcíticos según Geogaceta (2017, p. 115) y antecedente bibliográfico de 2003 pendiente de recuperación.
