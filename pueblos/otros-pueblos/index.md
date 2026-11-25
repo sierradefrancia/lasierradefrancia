@@ -338,3 +338,7 @@ A medida que avancemos incorporaremos las localidades y núcleos que corresponda
 [Volver a Pueblos](/pueblos/)
 
 *La Sierra de Francia · Conocer, comprender, preservar y compartir.*
+
+## Investigación de Monsagro
+
+[**Monsagro: patrimonio paleontológico y mares antiguos**](/pueblos/otros-pueblos/monsagro/): ruta urbana, museo y estudios de etnopaleontología.
