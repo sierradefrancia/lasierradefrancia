@@ -48,3 +48,9 @@ Alonso Piés y Alonso Velasco, vecinos de La Alberca, aparecen como partes deman
 
 
 [Pleitos, recursos y derechos concejiles](/lugares/las-batuecas/historia/conflictos-concejiles/).
+
+## Nuevas pistas prosopográficas
+
+Fernando Gómez de Valbuena, vecino de La Alberca, figura en el litigio de diciembre de 1777 contra vecinos de Nuñomoral y Caminomorisco (ARCHV, Registro de Ejecutorias, caja 3422, 49). Antonio Ortiz Jarero elaboró un informe sobre Las Hurdes en 1734 por mandato del obispo Miguel Vicente Cebrián. Pedro Muñoz aparece como autor de una relación sobre alquerías conservada en el Archivo de Batuecas, C-I-17/19. Son referencias de contexto regional: no se presupone residencia de estas personas en el valle.
+
+Fuente: [Martín Marcos, 2022, pp. 194–196, notas 56–66](https://oai.e-spacio.uned.es/server/api/core/bitstreams/4a985912-6712-4915-873c-bc68e3e7ca4a/content); originales pendientes. [Conflictos concejiles](/lugares/las-batuecas/historia/conflictos-concejiles/).
