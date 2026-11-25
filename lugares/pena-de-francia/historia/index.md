@@ -611,3 +611,7 @@ Y las transformaciones de los siglos XIX y XX ayudan a comprender cómo el lugar
 [Los traslados de la imagen y la rehabilitación de 1857](/lugares/pena-de-francia/historia/traslados-imagen-siglo-xix/) estudian el testimonio de Vicente de la Fuente, firmado en 1857 y publicado en 1883. Su relato debe contrastarse con documentación administrativa contemporánea.
 
 [Comunidad dominicana y cofradía](/lugares/pena-de-francia/historia/comunidad-cofradia/): capítulo de 1504, religiosos y Libro de Profesiones.
+
+## Modernización contemporánea
+
+[Modernización de la Peña en el siglo XX](/lugares/pena-de-francia/historia/modernizacion-siglo-xx/): caminos, electricidad y televisión.
