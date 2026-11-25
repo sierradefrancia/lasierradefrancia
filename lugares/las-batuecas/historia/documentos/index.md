@@ -88,3 +88,11 @@ Véanse [Aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-
 - BAT-DOC-022: [Gaceta de Madrid, 19/04/1921](https://www.boe.es/gazeta/dias/1921/04/19/pdfs/C00173-00180.pdf), segunda convocatoria para dos pelas de 6.639 alcornoques del monte 48, previstas en 1921 y 1932; cifras económicas y pesos pendientes de cotejo visual.
 
 Véase [Aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-tradicionales/).
+
+## Catálogo y contratación forestal
+
+- BAT-DOC-023: [Gaceta de Madrid, 20/05/1922, anexo I, p. 410](https://www.boe.es/gazeta/dias/1922/05/20/pdfs/C00409-00416.pdf), tercera subasta; texto recuperado, adjudicación pendiente.
+- BAT-DOC-024: Boletín Oficial de Salamanca, 02/08/1921, pliego de condiciones citado por BAT-DOC-023; no consultado.
+- BAT-DOC-025: [BOE, 10/08/1984](https://www.boe.es/boe/dias/1984/08/10/pdfs/A23206-23239.pdf), tabla con montes 48 y 49 y sus cabidas; extracto recuperado, contexto administrativo pendiente.
+
+[Historia forestal](/lugares/las-batuecas/aprovechamientos-tradicionales/).
