@@ -3,7 +3,7 @@ layout: default
 title: Las Batuecas entre historia y leyenda
 parent: "Cultura, literatura y leyendas de Las Batuecas"
 grand_parent: Las Batuecas
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 description: "La construcción literaria de Las Batuecas y la defensa histórica de Tomás González de Manuel en 1693."
 permalink: /lugares/las-batuecas/historia-leyenda/
 ---
@@ -96,3 +96,11 @@ Esta página es una primera delimitación crítica del problema histórico y lit
 [Volver a Las Batuecas](/lugares/las-batuecas/)
 
 Para la documentación económica y jurisdiccional, véase [Historia territorial de Las Batuecas](/lugares/las-batuecas/historia-territorial/).
+
+## La diferencia entre aislamiento y desconocimiento
+
+[Martín Marcos (2022), Cuadernos de Historia Moderna 47(1), pp. 181–200](https://doi.org/10.5209/chmo.77469) interpreta la leyenda batueca como una construcción cultural de la alteridad rural, difundida por el teatro y relacionada con representaciones europeas de los pueblos americanos. Esta es una propuesta historiográfica, no una identificación literal entre sociedades.
+
+Los testimonios sobre dificultades para acceder a las parroquias hurdanas y el informe de Ortiz Jarero de 1734 permiten distinguir obstáculos físicos y desigualdad económica de la afirmación legendaria de una población secularmente desconocida. [Blanco Carrasco](https://dehesa.unex.es/bitstreams/c839997e-25fb-4e33-9d92-a456f207e39d/download) estudia recuentos históricos regionales que documentan comunidades integradas en estructuras administrativas. No acreditan por sí mismos la ocupación permanente del valle salmantino. El alcance histórico del nombre Batuecas puede superar su sentido geográfico actual.
+
+Véanse [Historia territorial](/lugares/las-batuecas/historia-territorial/), [relaciones con Las Hurdes](/lugares/las-batuecas/granadilla-hurdes-alberca/) y [repertorio documental](/lugares/las-batuecas/historia/documentos/). Extractos consultados; manuscritos pendientes.
