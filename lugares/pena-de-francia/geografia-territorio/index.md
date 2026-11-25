@@ -464,3 +464,5 @@ Y su perfil, visible desde amplios sectores del entorno, ayuda a comprender por 
 [Estudio de las cumbres y organización del relieve](/lugares/pena-de-francia/geografia-territorio/cumbres-y-relieve/). El IGN identifica la Hastiala (1.735 m) como culminación de la Sierra de la Peña de Francia, unidad orográfica de 41 km que no equivale a la comarca.
 
 [Agua, fuentes y cabeceras fluviales](/lugares/pena-de-francia/geografia-territorio/agua-y-fuentes/).
+
+[Fuente de Simón Vela](/lugares/pena-de-francia/geografia-territorio/fuente-simon-vela/): referencia de la ascensión por la SA-203; historia constructiva y captación pendientes de investigación.
