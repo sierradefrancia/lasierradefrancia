@@ -106,3 +106,5 @@ La publicación de un estudio no implica el cierre del expediente.
 Cada expediente deberá registrar fuente exacta, página o folio, fecha del testimonio, grado de acceso, estado de evidencia, contradicciones, relaciones y derechos de imágenes. Los identificadores no se reutilizarán. No publicar monografías vacías ni confundir descripción histórica con estado actual.
 
 [Volver a Santuario y patrimonio](/lugares/pena-de-francia/santuario-patrimonio/)
+
+[La Rotonda y el reloj solar](/lugares/pena-de-francia/santuario-patrimonio/rotonda-reloj-solar/): construcción contemporánea, inscripción latina y paisaje interpretado.
