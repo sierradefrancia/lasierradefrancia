@@ -608,3 +608,7 @@ El [expediente sobre canchales, manantiales y suelos](/lugares/pena-de-francia/g
 ## Investigación botánica histórica
 
 [Estudios botánicos de 1975 y 1983 y contexto forestal regional](/lugares/pena-de-francia/naturaleza/investigacion-botanica/): pteridófitos, testimonios de herbario, comunidades liquénicas y región de procedencia del rebollo. Referencias documentadas mediante extractos, con lectura íntegra pendiente.
+
+## Los tejos y la conectividad forestal
+
+La [monografía comarcal de los tejos](/flora-fauna/tejos/) analiza el censo publicado en Forest Systems (2015): 2.450 ejemplares en cinco cuencas del parque natural y distintas dinámicas de regeneración. El total corresponde al estudio comarcal, no exclusivamente a este enclave. Las jornadas de 2014 y el artículo de 2015 pertenecen a la misma línea de investigación.
