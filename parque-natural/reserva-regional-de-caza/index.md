@@ -33,8 +33,8 @@ La [recuperación de la cabra montés](/flora-fauna/cabra-montes/) es una línea
 
 - [Ley 4/1996, disposición adicional primera](https://www.boe.es/buscar/act.php?id=BOE-A-1996-19866&p=20210708&tn=1), extracto consultado.
 - [Ley 4/2021, arts. 17–19](https://www.boe.es/buscar/act.php?id=BOE-A-2021-12058), extractos consultados.
-- [Expediente SA-FOR-2/2024, documento firmado](https://www.ae.jcyl.es/verDocumentos/ver?loun=JGCDB58JPSA0OE8KECR5PX), extracto p. 6 recuperado de la Plataforma de Contratación del Sector Público, localizador JGCDB58JPSA0OE8KECR5PX.
+- [Expediente SA-FOR-2/2024, documento firmado](https://www.ae.jcyl.es/verDocumentos/ver?loun=JGCDB58JPSA0OE8KECR5PX), referencia previa a p. 6 de la Plataforma de Contratación del Sector Público, pendiente de cotejo directo, localizador JGCDB58JPSA0OE8KECR5PX.
 
-Consulta: 25/11/2026. Pendientes anejo fundacional original, cartografía vigente, planes aprobados y ejecución presupuestaria.
+Auditoría 25/11/2026: accesible el texto consolidado de la Ley 4/2021; su preámbulo confirma la reconversión de reservas nacionales y el carácter de nueva declaración del requisito de superficie. Pendiente cotejo de artículos y del expediente local. Las demás referencias proceden del registro previo. Pendientes anejo fundacional original, cartografía vigente, planes aprobados y ejecución presupuestaria.
 
 [Historia de la recuperación de fauna](/lugares/las-batuecas/recuperacion-fauna/) · [Peña de Francia](/lugares/pena-de-francia/).
