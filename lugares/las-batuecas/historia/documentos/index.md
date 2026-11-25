@@ -113,3 +113,10 @@ Véase [Aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-t
 - BAT-DOC-032: [Repertorio visual de Bide, 1892](https://lashurdescentrodedocumentacion.eu/archivo/audiovisuales/1892-bide-jean-batiste-6/ver), fichas consultadas, originales y derechos de copias pendientes.
 
 [Viajeros y geógrafos en Las Batuecas](/lugares/las-batuecas/cultura-literatura/viajeros-geografos/).
+
+## Nuevos localizadores de exploración y literatura
+
+- BAT-DOC-033: [Bide, conferencias de 1892, copia Universidad de Macerata](https://docenti.unimc.it/luciana.gentilli/teaching/2022/25972/files/a.a.2022-2023-i-magistrale-bibliografia/6.%201892%20BIDE-%20Las%20Batuecas%20y%20las%20Jurdes.pdf); introducción consultada, lectura íntegra pendiente. Complementa BAT-DOC-031, no constituye una obra distinta.
+- BAT-DOC-034: [Latour, Valence et Valladolid, 1877](https://play.google.com/store/books/details/Antoine_de_Latour_Valence_et_Valladolid?id=rOILAAAAYAAJ), pp. 327–372; edición localizada, capítulo no consultado directamente.
+
+[Viajeros y geógrafos](/lugares/las-batuecas/cultura-literatura/viajeros-geografos/) · [Recepción europea](/lugares/las-batuecas/cultura-literatura/recepcion-europea/).
