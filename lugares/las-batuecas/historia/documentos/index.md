@@ -120,3 +120,9 @@ Véase [Aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-t
 - BAT-DOC-034: [Latour, Valence et Valladolid, 1877](https://play.google.com/store/books/details/Antoine_de_Latour_Valence_et_Valladolid?id=rOILAAAAYAAJ), pp. 327–372; edición localizada, capítulo no consultado directamente.
 
 [Viajeros y geógrafos](/lugares/las-batuecas/cultura-literatura/viajeros-geografos/) · [Recepción europea](/lugares/las-batuecas/cultura-literatura/recepcion-europea/).
+
+## Testimonio literario territorial
+
+- BAT-DOC-035: Miguel de Unamuno, Las Hurdes, en [Andanzas y visiones españolas, Madrid, Renacimiento, 1922](https://www.gutenberg.org/files/78052/78052-h/78052-h.htm), capítulo pp. 107–124; pasaje final consultado en transcripción digital. [Ficha institucional de la edición](https://www.cervantesvirtual.com/obra/andanzas-y-visiones-espanolas/). Fecha impresa agosto de 1914; fecha del viaje pendiente de cotejo con diario y correspondencia, pues la bibliografía especializada lo sitúa en 1913.
+
+[Viajeros y geógrafos](/lugares/las-batuecas/cultura-literatura/viajeros-geografos/).
