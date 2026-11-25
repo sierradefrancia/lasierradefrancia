@@ -23,3 +23,7 @@ Fuentes: [catálogo de obras y cuentas](https://archivo.dominicoshispania.org/in
 ## Financiación y administración
 
 El libro B-C-SAL-b-14/2-3 (1869–1890) se solapa con las cuentas ya identificadas. El cotejo debe evitar duplicar operaciones. La [investigación sobre la reconstrucción](/lugares/pena-de-francia/historia/reconstruccion-santuario/) registra también el diario de 1911–1923 y la cofradía de 1869.
+
+## Continuidad en el siglo XX
+
+La [semblanza dominicana del padre Constantino](https://www2.dominicos.org/pdefrancia/pagines/PConstantinoM.htm) fecha la bendición de la hospedería el 9 de julio de 1955 y la del tendido eléctrico el 24 de octubre de 1964. Atribuye a este último 45 km y 438 postes. Registra además trabajos en cubiertas, capillas, carretera y depósito de agua. Pendiente cotejar proyectos técnicos, financiación y pueblos efectivamente servidos. [Hospedería](/lugares/pena-de-francia/santuario-patrimonio/hospederia/) · [Plaza y capillas](/lugares/pena-de-francia/santuario-patrimonio/plaza-capillas/).
