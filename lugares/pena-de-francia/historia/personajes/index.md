@@ -28,11 +28,15 @@ Registro inicial de personas vinculadas a la montaña y su santuario, construido
 | PEF-PER-013 | Isidoro Madrados | Maestro relacionado con obras de 1867 según catálogo | Identidad y participación pendientes. |
 | PEF-PER-014 | Juan García | Presupuesto de hospedería de 1902 según catálogo | No identificar con homónimos sin evidencia. |
 
+| ID | Persona | Relación | Estado |
+|---|---|---|---|
 | PEF-PER-015 | Sancho de Castilla | Obispo de Salamanca, cesión de derechos de 18 septiembre 1436 según apéndice académico | Original pendiente. |
 | PEF-PER-016 | Enrique de Aragón | Infante, reclamación de patronazgo vinculada a Granadilla según estudio p. 74 | Alcance jurídico pendiente. |
 
 [Estudio de fundación y patronazgo](/lugares/pena-de-francia/historia/fundacion-patronazgo/).
 
+| ID | Persona | Relación | Estado |
+|---|---|---|---|
 | PEF-PER-017 | Toribio de El Cabaco | Prior, sacerdote, capítulo 11 enero 1504, AHDOPE A-B-PEÑ-1-2 | Catálogo; biografía y procedencia pendientes. |
 | PEF-PER-018 | Alonso de Espinosa | Vicario, sacerdote, capítulo 11 enero 1504, AHDOPE A-B-PEÑ-1-2 | Catálogo; biografía y procedencia pendientes. |
 | PEF-PER-019 | Juan de Santa María | Bachiller, sacerdote, capítulo 11 enero 1504, AHDOPE A-B-PEÑ-1-2 | Catálogo; biografía y procedencia pendientes. |
@@ -46,6 +50,8 @@ Registro inicial de personas vinculadas a la montaña y su santuario, construido
 | PEF-PER-027 | Juan de Todos los Santos | Hermano lego, capítulo 11 enero 1504, AHDOPE A-B-PEÑ-1-2 | Catálogo; biografía y procedencia pendientes. |
 | PEF-PER-028 | Lorenzo de Valdefuentes | Hermano lego, capítulo 11 enero 1504, AHDOPE A-B-PEÑ-1-2 | Catálogo; biografía y procedencia pendientes. |
 
+| ID | Persona | Relación | Estado |
+|---|---|---|---|
 | PEF-PER-029 | Pedro Robles | Prior, informe feria 1806 | A-B-PEÑ-2-5, catálogo. |
 | PEF-PER-030 | Benito Antonio Álvarez | Apoderado, rentas 1807 | A-B-PEÑ-2-3, catálogo. |
 | PEF-PER-031 | Antonio Soriano | Escribano, inventario 1822 | A-B-PEÑ-2-4, catálogo. |
@@ -79,3 +85,20 @@ Referencias catalográficas, no biografías completas. [Exclaustración](/lugare
 - Julio, colaborador de El Maíllo citado en la semblanza como tío Julio; identificación incompleta.
 
 [Fuentes y estudio](/lugares/pena-de-francia/historia/modernizacion-siglo-xx/).
+
+## Registro de personas incorporadas
+
+| ID | Persona | Relación | Estado |
+|---|---|---|---|
+| PEF-PER-035 | Juan Nicolás | Prior, relación de 1834 | PEF-DOC-033, catálogo. |
+| PEF-PER-036 | Francisco del Canto | Carta de 1877 | PEF-DOC-036, catálogo. |
+| PEF-PER-037 | Ricardo López Molero | Proyecto viario 1921 | PEF-DOC-043, catálogo. |
+| PEF-PER-038 | Constantino Martínez Uriarte | Restauraciones | Semblanza institucional previa. |
+| PEF-PER-039 | Segismundo Cascón | Correspondencia 1962 | PEF-DOC-045. |
+| PEF-PER-040 | Gabriel Arias-Salgado | Respuesta ministerial | PEF-DOC-046. |
+| PEF-PER-041 | Dionisio Barreda | Expedición de 1857 | [Estudio](/lugares/pena-de-francia/clima-observacion/expedicion-1857/); referencia previa. |
+| PEF-PER-042 | [Felisa Martín Bravo](/personajes/felisa-martin-bravo/) | Artículo meteorológico | PEF-DOC-048; cotejo pendiente. |
+| PEF-PER-043 | Francisco Faragó Palou | Dirección de obras de la Rotonda atribuida | PEF-DOC-049; cotejo pendiente. |
+| PEF-PER-044 | Salustiano Mateos | Testimonio sobre Pozo Verde | PEF-DOC-050; cotejo pendiente. |
+
+No se asigna identidad completa a Julio, colaborador citado en la semblanza de Constantino, hasta disponer de más datos.
