@@ -43,3 +43,7 @@ Esta síntesis se apoya en los estudios existentes del atlas; no implica una nue
 
 
 [Las Batuecas en la literatura europea](/lugares/las-batuecas/cultura-literatura/recepcion-europea/): ediciones, traducciones y recepción internacional.
+
+## Paisaje, contemplación e inspiración
+
+Una línea complementaria estudiará la experiencia sensorial del valle, las visitas documentadas de escritores y pensadores y la locución «estar en las Batuecas». Parte de una observación directa comunicada por una persona conocedora del territorio: la sensación de desconexión, relajación y ensimismamiento que puede suscitar el valle. Es una experiencia subjetiva, no una respuesta universal ni una explicación demostrada del origen de la locución. Se investigarán por separado testimonios literarios, historia lingüística y tradición contemplativa. El texto de Unamuno fechado en agosto de 1914 ofrece un primer testimonio verificable ([Andanzas y visiones españolas, p. 124](https://web.english.upenn.edu/~cavitch/pdf-library/Unamuno_Andanzas_y_visiones_espan%CC%83olas.pdf)). Esta línea no sustituye la investigación sobre la [recepción europea](/lugares/las-batuecas/cultura-literatura/recepcion-europea/).
