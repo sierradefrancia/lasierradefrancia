@@ -19,7 +19,7 @@ Este repertorio distingue documentos históricos de las publicaciones que los tr
 | BAT-DOC-004 | 1313 | Archivo Municipal de La Alberca, caja 14, traslado en pergamino | Localizador bibliográfico |
 | BAT-DOC-005 | 1455 | Archivo Municipal de La Alberca, leg. 1, exp. 1 | Signatura histórica pendiente de confirmar |
 | BAT-DOC-006 | 1515 | Ordenanzas, copia de 1668, edición Berrogain | Consulta parcial |
-| BAT-DOC-007 | 1574 | Relaciones topográficas de La Alberca y Sotoserrano, edición 1995 | Respuestas locales pendientes |
+| BAT-DOC-007 | 1574 | Relaciones topográficas de La Alberca y Sotoserrano, edición 1995 | Edición consultada, pp. 333–335; Ms. J-1-18, capítulos 7, 9 y 21 |
 | BAT-DOC-008 | 1599 | Licencia episcopal y documentación fundacional | Referencias institucionales |
 | BAT-DOC-009 | 1601 | Litigio por terrenos conventuales | Referencia académica, resolución pendiente |
 
@@ -44,3 +44,5 @@ La licencia episcopal y el litigio de 1601 pertenecen a planos jurídicos distin
 - [Salmanticensis, 2001](https://summa.upsa.es/high.raw?id=0000007692&name=00000001.original.pdf), p. 313.
 
 Registro derivado de investigaciones existentes, sin nuevo cotejo archivístico. [Cronología](/lugares/las-batuecas/historia/cronologia/) · [Personajes](/lugares/las-batuecas/historia/personajes/).
+
+Lectura complementaria: [Las Batuecas antes del monasterio](/lugares/las-batuecas/articulos/antes-del-monasterio/).
