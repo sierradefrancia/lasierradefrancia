@@ -49,3 +49,9 @@ La combinación de recursos de montaña y valle ayuda a explicar el interés eco
 Consultados extractos, no originales archivísticos. Véase [Historia territorial](/lugares/las-batuecas/historia-territorial/).
 
 [Volver a Las Batuecas](/lugares/las-batuecas/)
+
+## Cronología, documentos y protagonistas
+
+- [Cronología histórica de Las Batuecas](/lugares/las-batuecas/historia/cronologia/): secuencia territorial y estados de evidencia.
+- [Repertorio documental](/lugares/las-batuecas/historia/documentos/): localizadores archivísticos y vías de consulta.
+- [Personajes y testimonios históricos](/lugares/las-batuecas/historia/personajes/): actores y transmisión de las noticias.
