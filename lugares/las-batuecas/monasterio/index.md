@@ -69,6 +69,7 @@ Fuentes de partida: [IPCE, monasterio de Las Batuecas](https://ipce.cultura.gob.
 - [El recinto carmelitano y su paisaje](/lugares/las-batuecas/monasterio/recinto-paisaje/).
 - [Dependencias, trabajo y economía del monasterio](/lugares/las-batuecas/monasterio/dependencias/).
 
-[Volver a Las Batuecas](/lugares/las-batuecas/).
 
 [La soledad habitada: cuatro siglos de retiro carmelitano](/lugares/las-batuecas/articulos/la-soledad-habitada/): historia de la relación entre arquitectura, trabajo, bosque y contemplación.
+
+[Volver a Las Batuecas](/lugares/las-batuecas/).
