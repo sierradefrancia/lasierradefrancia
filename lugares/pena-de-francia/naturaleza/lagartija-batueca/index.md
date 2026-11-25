@@ -1,7 +1,8 @@
 ---
 layout: default
 title: La lagartija batueca — censos, hábitat y conservación
-nav_exclude: true
+parent: "Naturaleza de la Peña de Francia"
+grand_parent: Peña de Francia
 last_modified_at: 2026-11-24
 description: "Estudio de Iberolacerta martinezricai, interpretación de los censos de 2018 publicados en 2021 y 2025, conectividad y conservación."
 permalink: /lugares/pena-de-francia/naturaleza/lagartija-batueca/
