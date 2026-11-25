@@ -69,3 +69,7 @@ La investigación deberá conectar estos testimonios con la Casa Baja de El Maí
 Consultadas las descripciones catalográficas en noviembre de 2026. No examinados los pergaminos, fotografías ni transcripciones íntegros. Pendientes: cláusulas estatutarias, miembros seglares, derechos, obligaciones, propiedades y cuentas.
 
 [Repertorio documental](/lugares/pena-de-francia/historia/documentos/) · [Personajes](/lugares/pena-de-francia/historia/personajes/) · [Cronología](/lugares/pena-de-francia/historia/cronologia/).
+
+## La cofradía del siglo XIX
+
+El catálogo AHDOPE registra otra fundación fechada el 8 de septiembre de 1869, B-C-PEÑ-a-5-1. No está demostrada su continuidad jurídica con la de 1504. [Investigación de la reconstrucción](/lugares/pena-de-francia/historia/reconstruccion-santuario/).
