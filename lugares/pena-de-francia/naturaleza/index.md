@@ -5,6 +5,7 @@ title: Naturaleza de la Peña de Francia
 parent: Peña de Francia
 grand_parent: Lugares de interés
 nav_order: 6
+has_children: true
 description: "Naturaleza de la Peña de Francia: lagartija batueca, Armeria salmantica, cabra montés, vegetación de cumbre, canchales cuarcíticos, aves y conservación de sus ecosistemas."
 permalink: /lugares/pena-de-francia/naturaleza/
 ---
@@ -166,7 +167,7 @@ No publicaremos localizaciones detalladas de refugios sensibles que puedan favor
 
 ## Armeria salmantica: una planta propia de estas sierras
 
-La **armeria salmantina (*Armeria salmantica*)** es uno de los endemismos botánicos más característicos del entorno de la Peña de Francia.
+La **armeria salmantina (*Armeria × salmantica*)** es un taxón de distribución regional restringida, aceptado como híbrido por Kew. Véase su [expediente taxonómico y corológico](/lugares/pena-de-francia/naturaleza/armeria-salmantica/), que contrasta también las citas de Las Hurdes.
 
 Pertenece a la familia Plumbaginaceae.
 
