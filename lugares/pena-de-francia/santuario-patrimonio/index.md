@@ -947,3 +947,6 @@ Fue construido, ampliado, abandonado parcialmente, reparado y transformado por p
 **Conocer el patrimonio de la Peña de Francia significa prestar atención a aquello que normalmente pasa inadvertido.**
 
 [La Rotonda y el reloj solar](/lugares/pena-de-francia/santuario-patrimonio/rotonda-reloj-solar/): construcción contemporánea, inscripción latina y paisaje interpretado.
+
+
+[Patrimonio artístico y bienes muebles](/lugares/pena-de-francia/santuario-patrimonio/bienes-artisticos/): imágenes, orfebrería, inventarios y custodia histórica; relaciones con el Zarzoso y difusión de estampas.
