@@ -52,6 +52,18 @@ Esta cronología distingue acontecimientos, fechas de documentos y fechas transm
 
 [Estudio de fundación y patronazgo](/lugares/pena-de-francia/historia/fundacion-patronazgo/).
 
+## Comunidad y cofradía: referencias catalográficas
+
+- 18 mayo 1434: variante del hallazgo transmitida por A-B-PEÑ-3-2, no contemporánea.
+- 1479: primeras noticias de profesos según A-B-PEÑ-3-1.
+- 4 septiembre 1501: bula de Alejandro VI.
+- 11 enero 1504: capítulo conventual.
+- Final de febrero y 24 julio 1504: confirmaciones sucesivas.
+- 1515–1696: serie de profesiones y hábitos.
+- Octubre 1793: autenticación del traslado.
+
+[Fuente catalográfica](https://archivo.dominicoshispania.org/index.php/informationobject/browse?collection=390&places=36185&sort=startDate&sortDir=desc&topLod=0).
+
 ## Cómo interpretar las fechas fundacionales
 
 El poder de julio de 1434, si se confirma su tenor, aporta evidencia de actividad administrativa temprana, no de la literalidad del hallazgo milagroso. Las disposiciones regias y posesiones de 1436–1437 deben identificarse por emisor, destinatario y contenido antes de determinar si son actos sucesivos o referencias discrepantes.
