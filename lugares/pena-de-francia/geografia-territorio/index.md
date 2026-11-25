@@ -1,10 +1,11 @@
 ---
-last_modified_at: 2026-11-13
+last_modified_at: 2026-11-25
 layout: default
 title: Geografía y territorio de la Peña de Francia
 parent: Peña de Francia
 grand_parent: Lugares de interés
 nav_order: 2
+has_children: true
 description: "Geografía de la Peña de Francia: altitud oficial, posición en la Sierra de Francia, Paso de los Lobos, vertientes, cuencas del Duero y Tajo y relaciones con El Cabaco, Monsagro y La Alberca."
 permalink: /lugares/pena-de-francia/geografia-territorio/
 ---
@@ -455,3 +456,5 @@ La proximidad de las cuencas del Duero y del Tajo añade una dimensión geográf
 Y su perfil, visible desde amplios sectores del entorno, ayuda a comprender por qué la Peña de Francia ha llegado a convertirse en uno de los grandes referentes territoriales de la comarca.
 
 **Conocer su geografía es empezar a comprender la montaña más allá de su cumbre.**
+
+[Inventario de lugares singulares](/lugares/pena-de-francia/geografia-territorio/lugares-singulares/).
