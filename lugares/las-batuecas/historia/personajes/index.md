@@ -58,3 +58,11 @@ Fuente: [Martín Marcos, 2022, pp. 194–196, notas 56–66](https://oai.e-spaci
 ## Referencias contemporáneas
 
 Miguel Cuadrado, presbítero y capellán de catedral: expediente de reclusión en el monasterio en 1832, localizado en PARES (ARCHV, Gobierno de la Sala del Crimen, caja 104, 26). Rafael Breñosa, inspector general: firmante del anuncio de subasta del corcho en diciembre de 1901. No se les atribuye residencia local ni biografías no verificadas. [Repertorio documental](/lugares/las-batuecas/historia/documentos/) · [Economía forestal](/lugares/las-batuecas/aprovechamientos-tradicionales/).
+
+
+## Recepción literaria europea
+
+Condesa de Genlis: autora de Les Battuécas (1816). George Sand: lectora cuya recepción autobiográfica se estudia en la bibliografía especializada. Ana Rueda, Damien Zanone y Mary Trouille: investigadores de la recepción literaria. No se acredita visita al valle de estas personas por estas referencias.
+
+
+[Las Batuecas en la literatura europea](/lugares/las-batuecas/cultura-literatura/recepcion-europea/): ediciones, traducciones y recepción internacional.
