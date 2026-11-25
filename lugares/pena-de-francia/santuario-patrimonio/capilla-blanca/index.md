@@ -1,7 +1,8 @@
 ---
 layout: default
 title: La capilla de la Blanca y su rehabilitación en 1857
-nav_exclude: true
+parent: "Santuario y patrimonio"
+grand_parent: Peña de Francia
 last_modified_at: 2026-11-24
 permalink: /lugares/pena-de-francia/santuario-patrimonio/capilla-blanca/
 ---
