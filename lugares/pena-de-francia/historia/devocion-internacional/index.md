@@ -85,3 +85,5 @@ Se han examinado extractos accesibles de estas fuentes, no la totalidad de los e
 - [Expedición de Unamuno, Legendre y Chevalier](/lugares/las-batuecas/cultura-literatura/unamuno-legendre-chevalier/).
 - [Legendre y la mirada sobre La Alberca](/pueblos/conjuntos-historicos/la-alberca/articulos/legendre-y-la-mirada/).
 - [Busto de Mauricio Legendre](/pueblos/conjuntos-historicos/la-alberca/patrimonio/elementos-patrimoniales/busto-mauricio-legendre/).
+
+[El verano de 1913: cuatro hombres y una sierra](/lugares/las-batuecas/articulos/el-verano-de-1913/): relato documental de la expedición y del conocimiento local del territorio.
