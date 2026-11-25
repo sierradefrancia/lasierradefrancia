@@ -59,3 +59,7 @@ La primera edición de la autobiografía apareció en París, V. Lecou, 1854–1
 ## El retorno de la leyenda a España: Unamuno y Legendre
 
 En [Andanzas y visiones españolas, p. 124](https://web.english.upenn.edu/~cavitch/pdf-library/Unamuno_Andanzas_y_visiones_espan%CC%83olas.pdf), texto fechado en Salamanca en agosto de 1914, Unamuno atribuye a Legendre la noticia de la novela de Genlis y de su influencia sobre Sand. El pasaje documenta una conexión intelectual entre los cuatro autores. Sin embargo, Unamuno resume que Sand conoció el libro siendo niña mediante lectura ajena; la propia autobiografía sitúa su lectura personal a los dieciséis o diecisiete años. Debe prevalecer el testimonio directo para precisar este punto. La fecha de publicación del relato no se confunde con la de sus visitas.
+
+Pitollet (1928) identifica un antecedente francés en Antoine de Latour, Valence et Valladolid (1877), pp. 327–372. Original pendiente. [Estudio de Pitollet](https://doi.org/10.3406/hispa.1928.2304).
+
+[Viajeros y geógrafos en Las Batuecas](/lugares/las-batuecas/cultura-literatura/viajeros-geografos/).
