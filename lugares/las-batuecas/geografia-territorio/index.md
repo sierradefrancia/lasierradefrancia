@@ -50,3 +50,5 @@ Lectura divulgativa relacionada: [El bosque de Las Batuecas: cinco siglos de apr
 El [mapa de Bide de 1892](https://bibliotecavirtual.defensa.gob.es/BVMDefensa/en/consulta/registro.do?control=BMDB20200299226) es una fuente potencial para estudiar caminos y límites históricos. Ficha consultada, análisis cartográfico pendiente.
 
 [Viajeros y geógrafos en Las Batuecas](/lugares/las-batuecas/cultura-literatura/viajeros-geografos/).
+
+[Los hombres que dibujaron Las Batuecas](/lugares/las-batuecas/articulos/los-hombres-que-dibujaron-las-batuecas/): historia de la cartografía, exploración y testimonios gráficos del valle.
