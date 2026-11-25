@@ -28,6 +28,11 @@ Registro inicial de personas vinculadas a la montaña y su santuario, construido
 | PEF-PER-013 | Isidoro Madrados | Maestro relacionado con obras de 1867 según catálogo | Identidad y participación pendientes. |
 | PEF-PER-014 | Juan García | Presupuesto de hospedería de 1902 según catálogo | No identificar con homónimos sin evidencia. |
 
+| PEF-PER-015 | Sancho de Castilla | Obispo de Salamanca, cesión de derechos de 18 septiembre 1436 según apéndice académico | Original pendiente. |
+| PEF-PER-016 | Enrique de Aragón | Infante, reclamación de patronazgo vinculada a Granadilla según estudio p. 74 | Alcance jurídico pendiente. |
+
+[Estudio de fundación y patronazgo](/lugares/pena-de-francia/historia/fundacion-patronazgo/).
+
 ## Personas, instituciones y tradiciones
 
 La historia del santuario no puede reducirse a sus fundadores. Los administradores, religiosos, miembros de cofradías, trabajadores y peregrinos forman parte de su trayectoria. Las fuentes disponibles permiten identificar algunas personas, pero todavía no reconstruir la composición social completa.
