@@ -126,3 +126,5 @@ Este artículo es una síntesis interpretativa de los expedientes del atlas, no 
 La lectura íntegra de Genlis, Latour, Bide y Beauchet, los manuscritos del viaje de 1913 y la identificación de Ignacio siguen abiertas. Los grados de acceso y discrepancias se detallan en las monografías de [recepción europea](/lugares/las-batuecas/cultura-literatura/recepcion-europea/) y [viajeros y geógrafos](/lugares/las-batuecas/cultura-literatura/viajeros-geografos/).
 
 [Estar en Las Batuecas: el arte de perderse](/lugares/las-batuecas/articulos/el-arte-de-perderse/): paisaje, contemplación e historia de la expresión popular.
+
+[El verano de 1913: cuatro hombres y una sierra](/lugares/las-batuecas/articulos/el-verano-de-1913/): relato documental de la expedición y del conocimiento local del territorio.
