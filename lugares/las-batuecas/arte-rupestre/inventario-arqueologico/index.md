@@ -78,3 +78,5 @@ La revisión futura deberá identificar variantes nominales, agrupaciones, fuent
 | BAT-ARQ-012 | [Pallón](/lugares/las-batuecas/arte-rupestre/pallon/) |
 
 Los restantes identificadores conservan su carácter de entradas nominales. No se crean fichas individuales sin documentación suficiente. Véase [campaña de 1922](/lugares/las-batuecas/arte-rupestre/campana-1922/) para las concordancias nominales pendientes.
+
+[Las Batuecas y la memoria del tiempo](/lugares/las-batuecas/articulos/la-memoria-del-tiempo/): ensayo sobre geología, arte rupestre, investigación y conservación.
