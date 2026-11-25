@@ -818,3 +818,7 @@ Una base abierta a nuevas investigaciones, revisiones y aportaciones fundamentad
 ## Los tejos y la conectividad forestal
 
 La [monografía comarcal de los tejos](/flora-fauna/tejos/) analiza el censo publicado en Forest Systems (2015): 2.450 ejemplares en cinco cuencas del parque natural y distintas dinámicas de regeneración. El total corresponde al estudio comarcal, no exclusivamente a este enclave. Las jornadas de 2014 y el artículo de 2015 pertenecen a la misma línea de investigación.
+
+## Recuperación histórica de la cabra montés
+
+La [monografía comarcal de la cabra montés](/flora-fauna/cabra-montes/) reúne los registros de reintroducción desde Gredos (36 animales, 1974–1979), las referencias poblacionales históricas y los posteriores aportes de Batuecas a Riaño y Guadarrama. Diferencia cifras de la reserva, testimonios y datos de otras poblaciones.
