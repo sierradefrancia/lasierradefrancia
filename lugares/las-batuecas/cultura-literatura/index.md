@@ -39,7 +39,6 @@ Esta síntesis se apoya en los estudios existentes del atlas; no implica una nue
 - [Las Batuecas entre historia y leyenda](/lugares/las-batuecas/historia-leyenda/).
 - [Luis Buñuel y Las Batuecas](/lugares/las-batuecas/luis-bunuel/).
 
-[Volver a Las Batuecas](/lugares/las-batuecas/).
 
 
 [Las Batuecas en la literatura europea](/lugares/las-batuecas/cultura-literatura/recepcion-europea/): ediciones, traducciones y recepción internacional.
@@ -59,3 +58,5 @@ Una línea complementaria estudiará la experiencia sensorial del valle, las vis
 [Cuando Las Batuecas conquistaron la imaginación europea](/lugares/las-batuecas/articulos/imaginacion-europea/): ensayo sobre la circulación de la leyenda, la literatura y la exploración territorial.
 
 [Estar en Las Batuecas: el arte de perderse](/lugares/las-batuecas/articulos/el-arte-de-perderse/): paisaje, contemplación e historia de la expresión popular.
+
+[Volver a Las Batuecas](/lugares/las-batuecas/).
