@@ -134,3 +134,14 @@ Estos enlaces proceden de la bibliografía previa; su disponibilidad y el conten
 |---|---|---|---|
 | PEF-DOC-052 | Pérez Casado y Encinas Martín, 2003 | Peña de Francia: historia, arte, entorno, p. 67 | Referencia indirecta a través de Latines Charros, 2017. |
 | PEF-DOC-053 | Adecuación de miradores y sendas | Fundación Patrimonio Natural, documento enlazado en [estudio](/lugares/pena-de-francia/santuario-patrimonio/rotonda-reloj-solar/) | Extracto recuperado 25/11/2026; presupuesto conjunto, expediente pendiente. |
+
+## Custodia y patrimonio mueble
+
+| ID | Documento | Localizador | Estado |
+|---|---|---|---|
+| PEF-DOC-054 | Entrega de bienes al Zarzoso, 19/09/1890 | AHDOPE B-C-PEÑ-b-14-2 doc. 1 | Referencia catalográfica previa; original pendiente |
+| PEF-DOC-055 | Entrega de utensilios al santero, 28/10/1921 | misma unidad, doc. 2 | Referencia previa; original pendiente |
+| PEF-DOC-056 | Inventario 1932–1933 | misma unidad, doc. 5 | Referencia previa; original pendiente |
+| PEF-DOC-057 | Estudio Andas, trono y urna de la Virgen | Archivo Dominicano, p. 199 | Referencia bibliográfica previa; ficha completa pendiente |
+
+Localizadores y límites en [bienes artísticos](/lugares/pena-de-francia/santuario-patrimonio/bienes-artisticos/). No duplicar PEF-DOC-037. Sin nueva consulta externa en esta integración.
