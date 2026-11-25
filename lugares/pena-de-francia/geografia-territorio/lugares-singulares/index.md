@@ -14,7 +14,7 @@ La escala de este inventario es el lugar individual, no el macizo completo. Comp
 
 | ID | Elemento | Estado y relación |
 |---|---|---|
-| PEF-LUG-001 | Rotonda o mirador de Santo Domingo | Documentado; inauguración en 1975 según dominicos. Contiene reloj solar, cruz y mástil. |
+| PEF-LUG-001 | [Rotonda o mirador de Santo Domingo](/lugares/pena-de-francia/santuario-patrimonio/rotonda-reloj-solar/) | Documentado; inauguración en 1975 según dominicos. Contiene reloj solar, cruz y mástil. |
 | PEF-LUG-002 | Reloj solar | Elemento de 001; pendiente levantamiento y análisis gnomónico. |
 | PEF-LUG-003 | Salto del Niño | Escarpe asociado a 001; tradición y geomorfología por contrastar. |
 | PEF-LUG-004 | [Paso de los Lobos](/lugares/pena-de-francia/geografia-territorio/paso-de-los-lobos/) | Collado, mirador y lugar citado por IGME; origen del nombre pendiente. |
@@ -37,6 +37,7 @@ La escala de este inventario es el lugar individual, no el macizo completo. Comp
 | PEF-LUG-021 | Peña de los Mosquitos | Mapa Pegaso 2020; localización oficial pendiente. |
 | PEF-LUG-022 | Fuente Paterno | Referencia cicloturista; ubicación oficial pendiente. |
 | PEF-LUG-023 | Campo de San Francisco | Memoria personal publicada en 2017; identidad pendiente. |
+| PEF-LUG-024 | Balcón del Fraile | Descripción turística secundaria; ubicación y denominación pendientes de cotejo. |
 
 ## Prioridades de investigación
 
