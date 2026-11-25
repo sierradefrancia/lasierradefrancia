@@ -102,3 +102,17 @@ Referencias catalográficas, no biografías completas. [Exclaustración](/lugare
 | PEF-PER-044 | Salustiano Mateos | Testimonio sobre Pozo Verde | PEF-DOC-050; cotejo pendiente. |
 
 No se asigna identidad completa a Julio, colaborador citado en la semblanza de Constantino, hasta disponer de más datos.
+
+## Patrimonio mueble y custodia
+
+| ID | Persona | Relación | Estado |
+|---|---|---|---|
+| PEF-PER-045 | Francisco Martín Diez | Dorado del altar mayor, 1681 | Referencia bibliográfica indirecta; contrato pendiente |
+| PEF-PER-046 | Manuel Sánchez | Capellán, recibos de estampas de 1883 | Referencia catalográfica previa |
+| PEF-PER-047 | Antonio Rengel Martín | Santero, entrega de utensilios de 1921 | PEF-DOC-055 |
+| PEF-PER-048 | Julián de Vega | Entrega de utensilios de 1921 | PEF-DOC-055 |
+| PEF-PER-049 | Ángel del Canto | Firma en entrega de bienes al Zarzoso, 1890 | PEF-DOC-054; identidad pendiente |
+| PEF-PER-050 | Francisco Tapia | Firma en entrega de bienes al Zarzoso, 1890 | PEF-DOC-054 |
+| PEF-PER-051 | Manuel Gabriel Santos | Firma en entrega de bienes al Zarzoso, 1890 | PEF-DOC-054; cotejar homónimos en documentación de cofradía |
+
+[Patrimonio artístico y bienes muebles](/lugares/pena-de-francia/santuario-patrimonio/bienes-artisticos/). Incorporación desde la monografía existente, sin nuevo cotejo externo. No constituye confirmación biográfica independiente.
