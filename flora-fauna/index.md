@@ -822,3 +822,7 @@ La [monografía comarcal de los tejos](/flora-fauna/tejos/) analiza el censo pub
 ## Recuperación histórica de la cabra montés
 
 La [monografía comarcal de la cabra montés](/flora-fauna/cabra-montes/) reúne los registros de reintroducción desde Gredos (36 animales, 1974–1979), las referencias poblacionales históricas y los posteriores aportes de Batuecas a Riaño y Guadarrama. Diferencia cifras de la reserva, testimonios y datos de otras poblaciones.
+
+## Avifauna y escalas de conservación
+
+La [síntesis comarcal de avifauna](/flora-fauna/avifauna/) distingue observaciones, reproducción y tendencias poblacionales, relacionando la historia de protección con los expedientes territoriales sin extrapolar cifras autonómicas al valle o a la cumbre.
