@@ -12,6 +12,10 @@ permalink: /lugares/pena-de-francia/naturaleza/
 
 # Naturaleza de la Peña de Francia
 
+## Comprender el conjunto
+
+La [síntesis del funcionamiento ecológico](/lugares/pena-de-francia/naturaleza/sintesis-ecologica/) relaciona relieve, suelo, agua, flora, fauna y gestión humana, distinguiendo observaciones documentadas de hipótesis y escalas territoriales.
+
 La Peña de Francia alberga una naturaleza singular que no siempre resulta evidente para quien llega hasta su santuario.
 
 En sus laderas rocosas, canchales y crestones viven organismos adaptados a condiciones ambientales muy diferentes de las que encontramos en los bosques situados a menor altitud.
