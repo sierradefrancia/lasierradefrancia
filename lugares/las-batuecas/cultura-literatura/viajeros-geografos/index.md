@@ -75,3 +75,7 @@ La cronología del viaje de 1913 ha sido precisada mediante Erquiaga (2019) y la
 [El verano de 1913: cuatro hombres y una sierra](/lugares/las-batuecas/articulos/el-verano-de-1913/): relato documental de la expedición y del conocimiento local del territorio.
 
 [Los hombres que dibujaron Las Batuecas](/lugares/las-batuecas/articulos/los-hombres-que-dibujaron-las-batuecas/): historia de la cartografía, exploración y testimonios gráficos del valle.
+
+## Un ejemplar dedicado a la Peña
+
+AHDOPE B-C-SAL-b-14/2-1 identifica un ejemplar de *Por la España desconocida* (1911), dedicado por Marcos Rafael Blanco Belmonte al santuario en 1912, con fotografías de Vicente Gombau. Consultada la descripción, no el ejemplar. [Catálogo](https://archivo.dominicoshispania.org/index.php/informationobject/browse?collection=433&places=851&sf_culture=es&sort=referenceCode&sortDir=desc&subjects=40203&topLod=0) · [Investigación de la Peña](/lugares/pena-de-francia/historia/reconstruccion-santuario/).
