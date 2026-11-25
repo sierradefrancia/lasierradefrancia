@@ -30,6 +30,13 @@ Registro abierto de instrumentos, testimonios y series identificados en los estu
 | PEF-DOC-015 | Testimonio de Vicente de la Fuente, 1857, publicado 1883 | Boletín RAH; expediente de traslados de imagen. | Diferenciar observación, noticias recibidas y propuestas. |
 | PEF-DOC-016 | Título de milagros en inventario atribuido a 1534 | Bibliografía de María de Zúñiga; localizador exacto pendiente. | Identificar inventario y obra; no afirmar edición conservada. |
 
+| PEF-DOC-017 | Cesión episcopal, 18 septiembre 1436 | Prieto Sayagués, apéndice entrada Juan II 29; indirecto | Original pendiente. |
+| PEF-DOC-018 | Cesión Barrientos–Villalón, 6 mayo 1437 | Estudio coordinado por Prieto Sayagués, p. 74; indirecto | Facultades y documento pendientes. |
+| PEF-DOC-019 | Exención jurisdiccional de 1445 | Mismo estudio, p. 74; indirecto | Instrumento y alcance pendientes. |
+| PEF-DOC-020 | Ejecutoria pleito con Ciudad Rodrigo, 1551–1553 | AHDOPE A-B-PEÑ-1-1; catálogo consultado | Texto pendiente. |
+
+Localizadores: [apéndice académico](https://gredos.usal.es/bitstream/handle/10366/171488/Ape%CC%81ndice.pdf?isAllowed=y&sequence=1), [estudio p. 74](https://gredos.usal.es/bitstream/handle/10366/169742/PRIETO_SAYAGUES_Juan_A_Patronos_protecto.pdf?isAllowed=y&sequence=1), [catálogo](https://archivo.dominicoshispania.org/index.php/informationobject/browse?collection=390&places=36185&sort=referenceCode&sortDir=asc&topLod=0&view=table).
+
 ## Prioridades de investigación
 
 El poder de 1434 permite estudiar a Simón como agente histórico sin depender exclusivamente de su biografía legendaria. El Libro de Privilegios puede contener copias de instrumentos anteriores; cada uno deberá recibir un registro subordinado cuando se conozca su identidad. Las cuentas del XIX permiten investigar la continuidad material del santuario tras la supresión, sin extrapolar sus cifras a la comunidad medieval.
