@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 layout: default
 title: Naturaleza de la Peña de Francia
 parent: Peña de Francia
@@ -599,3 +599,7 @@ Las cabras monteses recorren los escarpes y las grandes aves pueden observarse s
 Incluso los muros históricos del santuario han llegado a formar parte del hábitat de una especie amenazada.
 
 **Conocer la naturaleza de la Peña de Francia significa descubrir que sus detalles más pequeños pueden ser tan importantes como sus grandes paisajes.**
+
+## Pedreras, agua y suelo
+
+El [expediente sobre canchales, manantiales y suelos](/lugares/pena-de-francia/geologia/canchales-agua-suelos/) reúne la interpretación hidrogeológica del Alto Agadón de la Confederación Hidrográfica del Duero y un perfil edafológico local publicado en las bases ecológicas del hábitat 8220. Distingue observaciones documentadas de hipótesis ecológicas pendientes de comprobación.
