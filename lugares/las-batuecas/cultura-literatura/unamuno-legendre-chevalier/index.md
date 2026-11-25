@@ -40,3 +40,15 @@ El capítulo Las Hurdes de Andanzas y visiones españolas está fechado en agost
 Prioridades: cotejar diario, cartas originales y prensa contemporánea; localizar la lista fotográfica y comprobar qué lugares aparecen; identificar al guía Ignacio. No se ha consultado directamente el manuscrito ni el volumen epistolar completo.
 
 [Viajeros y geógrafos](/lugares/las-batuecas/cultura-literatura/viajeros-geografos/) · [Recepción europea](/lugares/las-batuecas/cultura-literatura/recepcion-europea/) · [Personajes](/lugares/las-batuecas/historia/personajes/) · [Documentos](/lugares/las-batuecas/historia/documentos/) · [Vegetación](/lugares/las-batuecas/vegetacion/).
+
+## Legendre: investigación y vínculos territoriales
+
+La [investigación de Cristina Erquiaga Martínez (2019), pp. 167–175](https://produccioncientifica.usal.es/documentos/6436eef1c4faaa2517ca3064) sitúa Salamanca como punto de partida de su trayectoria hispanista. En la [copia del artículo, p. 168](https://www.academia.edu/44655515/Maurice_Legendre_Francia_Salamanca_Y_Las_Hurdes), el padre Matías aparece como intermediario en el encuentro con Ignacio en 1909; la primera expedición hurdana se sitúa en 1910. Robert Ricard, en su [necrológica, p. 98](https://revistas.usal.es/dos/index.php/0210-749X/es/article/download/9655/9983), relaciona la lectura de Ganivet, facilitada por Chevalier, con el acercamiento a Unamuno y Salamanca. Es un testimonio retrospectivo, no el diario del interesado.
+
+La tesis Las Jurdes: étude de géographie humaine (1927) incluye una dedicatoria al tío Ignacio, según el [Boletín de la RSG de 2022](https://www.boletinrsg.com/index.php/boletinrsg/article/download/166/174/), que también localiza un texto de Legendre de 1913, pp. 155–166, sobre la Peña. La [Revista de Folklore](https://funjdiaz.net/folklore/07ficha.php?id=2774) plantea críticamente la posible influencia de la perspectiva albercana sobre su descripción de Las Hurdes. Esta interpretación merece contraste con la tesis y los [conflictos concejiles](/lugares/las-batuecas/historia/conflictos-concejiles/); no demuestra por sí sola un sesgo concreto.
+
+## Memoria y devoción
+
+La [Orden de Predicadores](https://www2.dominicos.org/pdefrancia/pagines/legendre.htm) sitúa las peregrinaciones de 1934 y 1945, la publicación Notre Dame de France en Espagne (1945), su fallecimiento el 12 de febrero de 1955 y el traslado de sus restos al santuario el 1 de julio de 1956. La [crónica local de Rosa Gómez de 2015](https://salamancartvaldia.es/noticia/2015-01-12-recuerdo-a-mauricio-legendre-un-hombre-de-razon-y-corazon-239706) ofrece fechas diferentes (12 de enero y 1 de julio de 1955) y recoge recuerdos vecinales sobre sus paseos. Se conserva la contradicción y se prioriza provisionalmente la cronología de los dominicos, pendiente de comprobar documentos funerarios. La crónica es valiosa como memoria local, sin resolver por sí sola la cronología.
+
+La tesis de 1927, las publicaciones de 1913 y 1945 y los documentos de las peregrinaciones quedan pendientes de lectura directa. No se extrapolan las observaciones hurdanas al valle de Las Batuecas.
