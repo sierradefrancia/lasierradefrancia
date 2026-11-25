@@ -57,3 +57,5 @@ Las edades divulgativas de las distintas páginas no son uniformes; se conserva 
 El [expediente sobre canchales, manantiales y suelos](/lugares/pena-de-francia/geologia/canchales-agua-suelos/) reúne la interpretación hidrogeológica del Alto Agadón de la Confederación Hidrográfica del Duero y un perfil edafológico local publicado en las bases ecológicas del hábitat 8220. Distingue observaciones documentadas de hipótesis ecológicas pendientes de comprobación.
 
 [El Paso de los Lobos: caminos históricos, altimetría y patrimonio geológico](/lugares/pena-de-francia/geografia-territorio/paso-de-los-lobos/).
+
+[Agua, fuentes y cabeceras fluviales](/lugares/pena-de-francia/geografia-territorio/agua-y-fuentes/).
