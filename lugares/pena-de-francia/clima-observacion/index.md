@@ -5,6 +5,7 @@ title: Clima y observación
 parent: Peña de Francia
 grand_parent: Lugares de interés
 nav_order: 7
+has_children: true
 description: "Clima y observación de la Peña de Francia: estación meteorológica histórica de 1966, viento, hielo, nieve, nieblas, visibilidad, panorámicas y fuentes de datos meteorológicos."
 permalink: /lugares/pena-de-francia/clima-observacion/
 ---
