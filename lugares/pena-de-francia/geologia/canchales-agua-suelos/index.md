@@ -34,3 +34,7 @@ Los depósitos del Agadón también ofrecen contexto para el aprovechamiento his
 - [MITECO, bases ecológicas del hábitat 8220](https://www.miteco.gob.es/content/dam/miteco/es/biodiversidad/temas/espacios-protegidos/8220_tcm30-196874.pdf), apartado 7 del anexo edafológico, extracto del perfil local. Pendiente recuperar tablas analíticas completas y localización precisa.
 
 No se ha efectuado muestreo propio. Futuras investigaciones: inventario de fuentes, caudales estacionales, cartografía de depósitos, perfiles de suelo y correspondencia con hábitats efectivamente cartografiados.
+
+## Hábitats y suelo del Paso de los Lobos
+
+La [monografía de hábitats de montaña](/lugares/pena-de-francia/naturaleza/habitats-montana/) incorpora el perfil descrito por Fernando Santos Francés en julio de 2003 (MITECO, hábitat 5120, p. 52): 13 cm de suelo sobre cuarcita, a 1520 m, con uso de pastizal. Distingue las observaciones puntuales de los inventarios comarcales de hábitats.
