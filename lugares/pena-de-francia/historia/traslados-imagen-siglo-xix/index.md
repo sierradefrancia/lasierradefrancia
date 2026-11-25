@@ -41,3 +41,5 @@ En Sequeros interesan las actas municipales, la documentación parroquial del Ro
 Este episodio debe mantenerse separado del robo posterior de 1872, aunque ambos pertenezcan a la historia material de la misma advocación. Confundirlos impediría comprender las diferentes circunstancias de pérdida, custodia y recuperación.
 
 La dimensión territorial del santuario se manifiesta precisamente en estas relaciones: su culto no pertenecía únicamente a la vida de la comunidad dominicana, sino que movilizaba a poblaciones próximas y requería soluciones que superaban los límites de cada municipio.
+
+[Exclaustración dominicana y continuidad del santuario](/lugares/pena-de-francia/historia/exclaustracion/): contexto institucional y expedientes de la controversia de 1835–1858.
