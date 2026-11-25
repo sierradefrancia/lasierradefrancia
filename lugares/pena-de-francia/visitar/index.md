@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-11-14
+last_modified_at: 2026-11-25
 layout: default
 title: Visitar
 parent: Peña de Francia
@@ -608,3 +608,5 @@ Todas esas formas de acercarse a la montaña pueden complementarse.
 Detenerse ante el rollo, descubrir el reloj de sol, reconocer los canchales o identificar los valles desde los miradores permite comprender detalles que no siempre aparecen en una visita rápida.
 
 **La Peña de Francia no es solamente un lugar al que llegar. Es un lugar que merece aprender a observar.**
+
+[Inventario de lugares singulares](/lugares/pena-de-francia/geografia-territorio/lugares-singulares/).
