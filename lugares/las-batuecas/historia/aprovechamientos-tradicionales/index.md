@@ -74,3 +74,13 @@ La [Gaceta del 30 de enero de 1902](https://www.boe.es/diario_gazeta/comun/pdf.p
 La [Gaceta del 19 de abril de 1921](https://www.boe.es/gazeta/dias/1921/04/19/pdfs/C00173-00180.pdf) anuncia una segunda subasta para el día 25, relativa a dos pelas de 6.639 pies de alcornoque del monte público número 48. La primera estaba prevista en el año forestal corriente y la segunda en 1932. El turno de once años proporciona una referencia concreta de gestión forestal histórica. El anuncio distingue condiciones facultativas y económicas municipales. Las cifras de peso y tasación presentan inconsistencias en el texto recuperado y quedan pendientes de cotejo visual. No se confunde el número de árboles comprendidos en el contrato con el inventario total ni la previsión con la producción efectiva.
 
 La identificación del monte 48 permite relacionar la explotación histórica con la [protección patrimonial](/lugares/las-batuecas/proteccion-patrimonial/) de 1999. La coincidencia del número no garantiza identidad de superficies a través del tiempo. [Repertorio documental](/lugares/las-batuecas/historia/documentos/).
+
+## 1922: tercera convocatoria y pliego provincial
+
+La [Gaceta de Madrid de 20 de mayo de 1922, anexo I, p. 410](https://www.boe.es/gazeta/dias/1922/05/20/pdfs/C00409-00416.pdf) anuncia una tercera subasta para el 10 de junio y remite al Boletín Oficial de Salamanca de 2 de agosto de 1921, donde se publicaron las condiciones reglamentarias y facultativas. Las dos extracciones se proyectaban ahora en 1922 y 1933. No consta adjudicación. Las cifras de peso recuperadas presentan problemas de lectura decimal; no se incorporan sin cotejo del facsímil.
+
+## El monte catalogado y sus límites
+
+El [BOE de 10 de agosto de 1984](https://www.boe.es/boe/dias/1984/08/10/pdfs/A23206-23239.pdf) recoge los montes 48 y 49 con la denominación Las Batuecas y cabidas de 1.746 y 993 hectáreas respectivamente (elencos 3003 y 3004). Falta examinar el contexto íntegro de la tabla y su significado administrativo. La [guía micológica de 2017](https://www.micocyl.es/sites/default/files/area/docs/guia_especifica_2017.pdf), p. 2, distingue Las Batuecas (48) de Los Brezales (49). No se deduce un cambio de propiedad ni de límites de esta diferencia nominal.
+
+El [Decreto 92/2000](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2000-14223) utiliza la divisoria de ambos montes como límite norte y nordeste del Sitio Histórico. Las superficies de distintos documentos no son directamente comparables sin conocer cabida pública, enclavados, deslindes y ámbito de gestión. [Geografía y territorio](/lugares/las-batuecas/geografia-territorio/).
