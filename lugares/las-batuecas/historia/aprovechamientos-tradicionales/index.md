@@ -53,3 +53,6 @@ La ficha de Micocyl del monte Las Batuecas, actualizada el 10 de septiembre de 2
 Véanse [historia territorial](/lugares/las-batuecas/historia-territorial/), [relaciones jurisdiccionales](/lugares/las-batuecas/granadilla-hurdes-alberca/) y [vegetación](/lugares/las-batuecas/vegetacion/). No se ha leído el articulado completo ni recuperado registros de producción histórica.
 
 [Volver a Las Batuecas](/lugares/las-batuecas/)
+
+
+[Pleitos, recursos y derechos concejiles](/lugares/las-batuecas/historia/conflictos-concejiles/).
