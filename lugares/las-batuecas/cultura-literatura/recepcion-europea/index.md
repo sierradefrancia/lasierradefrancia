@@ -49,3 +49,13 @@ Los relatos de viajeros extranjeros constituyen otra línea pendiente: no deben 
 - [Slavica Occitania](https://interfas.univ-tlse2.fr/slavicaoccitania/2232?file=1): extracto consultado.
 
 No se ha leído íntegramente la novela ni sus traducciones. [Personajes y testimonios](/lugares/las-batuecas/historia/personajes/).
+
+## Cotejo del testimonio autobiográfico de George Sand
+
+La [transcripción de Histoire de ma vie, segunda parte, capítulo XVI, edición Calmann Lévy de 1893, tomo II, pp. 270–286](https://fr.wikisource.org/wiki/Histoire_de_ma_vie_(Sand,_Calmann-Levy_1855)/2/16) permite comprobar directamente la recepción personal de la novela. Sand sitúa su lectura a los dieciséis o diecisiete años (aproximadamente 1820–1821). Recuerda la confrontación entre una comunidad idealizada y las desigualdades de la sociedad exterior. Atribuye al libro una influencia duradera, pero matiza inmediatamente que sus convicciones también procedían de su origen familiar, educación y experiencias. No cabe reducir su pensamiento a una sola lectura.
+
+La primera edición de la autobiografía apareció en París, V. Lecou, 1854–1855, veinte volúmenes, según la [BnF](https://catalogue.bnf.fr/ark:/12148/cb364143226). Se ha consultado el pasaje en una transcripción de edición posterior, no el facsímil de la primera edición. El estudio de [Tim Farrant](https://ora.ox.ac.uk/objects/uuid%3A7fbdbce2-f747-4ffe-a157-1313f574c587/files/rh702q638z), localizado por su introducción, abre otra vía sobre pedagogía y escritura.
+
+## El retorno de la leyenda a España: Unamuno y Legendre
+
+En [Andanzas y visiones españolas, p. 124](https://web.english.upenn.edu/~cavitch/pdf-library/Unamuno_Andanzas_y_visiones_espan%CC%83olas.pdf), texto fechado en Salamanca en agosto de 1914, Unamuno atribuye a Legendre la noticia de la novela de Genlis y de su influencia sobre Sand. El pasaje documenta una conexión intelectual entre los cuatro autores. Sin embargo, Unamuno resume que Sand conoció el libro siendo niña mediante lectura ajena; la propia autobiografía sitúa su lectura personal a los dieciséis o diecisiete años. Debe prevalecer el testimonio directo para precisar este punto. La fecha de publicación del relato no se confunde con la de sus visitas.
