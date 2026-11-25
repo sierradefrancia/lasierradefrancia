@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Monsagro
+has_children: true
 parent: Otros pueblos
 grand_parent: Pueblos
 last_modified_at: 2026-11-25
@@ -47,3 +48,6 @@ La [geología de la Peña de Francia](/lugares/pena-de-francia/geologia/) contex
 
 Las edades divulgativas de las distintas páginas no son uniformes; se conserva la atribución al Ordovícico Inferior del estudio de 2017 sin asignar una edad absoluta universal a los rastros. No se ha realizado visita de campo ni inventario de fachadas.
 
+## Investigación paleontológica especializada
+
+[Repertorio científico de Monsagro](/pueblos/otros-pueblos/monsagro/investigacion-paleontologica/): cuatro publicaciones identificadas, procedencia de bloques cuarcíticos según Geogaceta (2017, p. 115) y antecedente bibliográfico de 2003 pendiente de recuperación.
