@@ -63,3 +63,5 @@ Extractos recuperados el 25/11/2026:
 No se ha realizado levantamiento de conducciones, trabajo de campo ni análisis de potabilidad. No se recomienda beber agua de fuentes sin garantía sanitaria.
 
 [Geografía](/lugares/pena-de-francia/geografia-territorio/) · [Canchales, agua y suelos](/lugares/pena-de-francia/geologia/canchales-agua-suelos/) · [Pozo Verde](/lugares/pena-de-francia/santuario-patrimonio/convento-pozo-verde/) · [Monsagro](/pueblos/otros-pueblos/monsagro/).
+
+[Fuente de Simón Vela](/lugares/pena-de-francia/geografia-territorio/fuente-simon-vela/): referencia de la ascensión por la SA-203; historia constructiva y captación pendientes de investigación.
