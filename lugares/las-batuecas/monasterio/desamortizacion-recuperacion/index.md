@@ -71,3 +71,7 @@ Se han consultado extractos y la ficha institucional; no las escrituras ni los d
 ## Un expediente anterior a la exclaustración: 1832
 
 El catálogo de PARES identifica diligencias relativas a la reclusión de Miguel Cuadrado, presbítero y capellán de catedral, en el monasterio de Las Batuecas, fechadas entre el 14 de agosto y el 17 de noviembre de 1832. Archivo de la Real Chancillería de Valladolid, Gobierno de la Sala del Crimen, caja 104, 26. Se ha localizado la descripción en resultados del catálogo, no consultado el expediente. No se conocen las causas, condiciones ni desenlace de la reclusión. [Repertorio documental](/lugares/las-batuecas/historia/documentos/).
+
+## Perspectiva comparada
+
+La [exclaustración dominicana de la Peña de Francia](/lugares/pena-de-francia/historia/exclaustracion/) ofrece un caso comparativo de reorganización religiosa y patrimonial. No se presupone una trayectoria institucional común ni una coordinación entre ambas órdenes.
