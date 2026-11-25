@@ -612,3 +612,7 @@ El [expediente sobre canchales, manantiales y suelos](/lugares/pena-de-francia/g
 ## Los tejos y la conectividad forestal
 
 La [monografía comarcal de los tejos](/flora-fauna/tejos/) analiza el censo publicado en Forest Systems (2015): 2.450 ejemplares en cinco cuencas del parque natural y distintas dinámicas de regeneración. El total corresponde al estudio comarcal, no exclusivamente a este enclave. Las jornadas de 2014 y el artículo de 2015 pertenecen a la misma línea de investigación.
+
+## Hábitats y suelo del Paso de los Lobos
+
+La [monografía de hábitats de montaña](/lugares/pena-de-francia/naturaleza/habitats-montana/) incorpora el perfil descrito por Fernando Santos Francés en julio de 2003 (MITECO, hábitat 5120, p. 52): 13 cm de suelo sobre cuarcita, a 1520 m, con uso de pastizal. Distingue las observaciones puntuales de los inventarios comarcales de hábitats.
