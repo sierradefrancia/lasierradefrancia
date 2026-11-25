@@ -653,3 +653,6 @@ Su influencia alcanzó pueblos próximos y territorios situados a miles de kiló
 **Comprender las tradiciones de la Peña de Francia significa conocer no solo lo que se ha contado sobre la montaña, sino también cómo las personas han vivido, compartido y transformado esos relatos a lo largo del tiempo.**
 
 [Camino de la Peña de Francia](/lugares/pena-de-francia/cultura-tradiciones/camino-de-la-pena/): conexión de 72 km desde la Vía de la Plata, recuperación contemporánea y contexto de peregrinación.
+
+
+[Literatura y memoria colectiva](/lugares/pena-de-francia/cultura-tradiciones/memoria-literatura/): Unamuno, testimonios dominicanos, visitas familiares y relaciones con Las Hurdes.
