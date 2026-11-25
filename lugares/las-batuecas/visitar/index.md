@@ -44,6 +44,7 @@ Esta síntesis se apoya en los estudios existentes del atlas; no implica una nue
 - [Senderos y recorridos de Las Batuecas](/lugares/las-batuecas/senderos-visita/).
 - [El río, las pozas y el baño en Las Batuecas](/lugares/las-batuecas/pozas-bano/).
 
-[Volver a Las Batuecas](/lugares/las-batuecas/).
 
 [Estar en Las Batuecas: el arte de perderse](/lugares/las-batuecas/articulos/el-arte-de-perderse/): paisaje, contemplación e historia de la expresión popular.
+
+[Volver a Las Batuecas](/lugares/las-batuecas/).
