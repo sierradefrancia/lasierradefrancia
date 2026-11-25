@@ -19,7 +19,7 @@ La escala de este inventario es el lugar individual, no el macizo completo. Comp
 | PEF-LUG-003 | Salto del Niño | Escarpe asociado a 001; tradición y geomorfología por contrastar. |
 | PEF-LUG-004 | [Paso de los Lobos](/lugares/pena-de-francia/geografia-territorio/paso-de-los-lobos/) | Collado, mirador y lugar citado por IGME; origen del nombre pendiente. |
 | PEF-LUG-005 | Pozo Verde | Aljibe conventual, PEF-PAT-014; práctica de arrojar monedas descrita por Salustiano Mateos. |
-| PEF-LUG-006 | Cueva de los Mosquitos | Denominación aportada localmente; identidad y ubicación pendientes; no equiparar con 005. |
+| PEF-LUG-006 | Cueva de los Mosquitos | Denominación aportada localmente; identidad pendiente. Mapa Pegaso 2020 recoge Peña de los Mosquitos, pista no equivalente a la cavidad. |
 | PEF-LUG-007 | Gruta del hallazgo | Asociada a la Blanca, PEF-PAT-016; tradición religiosa diferenciada del análisis físico. |
 | PEF-LUG-008 | Fuente Buitrera | Citada por Mateos en vertiente hacia Monsagro; abastecimiento del santuario según su testimonio; potabilidad actual no comprobada. |
 | PEF-LUG-009 | Fuente de Simón Vela | Citada por IGME y José Antonio Solórzano; pendiente historia y localización cartográfica. |
@@ -32,6 +32,9 @@ La escala de este inventario es el lugar individual, no el macizo completo. Comp
 | PEF-LUG-016 | Vértice geodésico | Referencia de altimetría ya estudiada; pendiente historia física de la señal. |
 | PEF-LUG-017 | Estación meteorológica histórica | Instalación de 1966; no se presupone conservación material actual. |
 | PEF-LUG-018 | Cabecera del Hera | Relacionada por dominicos con canchal bajo Salto del Niño; pendiente contraste hidrológico. |
+| PEF-LUG-019 | La Hastiala | IGN NGBE 2065130, 1.735 m. |
+| PEF-LUG-020 | Mesa del Francés | IGME CI066; altitud puntual pendiente de cotejo IGN. |
+| PEF-LUG-021 | Peña de los Mosquitos | Mapa Pegaso 2020; localización oficial pendiente. |
 
 ## Prioridades de investigación
 
@@ -51,3 +54,4 @@ Extractos web consultados el 25/11/2026:
 
 [Guía de visita](/lugares/pena-de-francia/visitar/) · [Convento y abastecimiento](/lugares/pena-de-francia/santuario-patrimonio/convento-pozo-verde/).
 
+[Estudio de las cumbres y organización del relieve](/lugares/pena-de-francia/geografia-territorio/cumbres-y-relieve/). El IGN identifica la Hastiala (1.735 m) como culminación de la Sierra de la Peña de Francia, unidad orográfica de 41 km que no equivale a la comarca.
