@@ -38,3 +38,5 @@ Fuentes: [resolución de 1999](https://www.boe.es/diario_boe/txt.php?id=BOE-A-19
 Síntesis documental basada en los expedientes existentes del atlas. No supone una nueva inspección ni consulta íntegra de originales.
 
 [Monasterio](/lugares/las-batuecas/monasterio/) · [Inventario patrimonial](/lugares/las-batuecas/monasterio/inventario/).
+
+[La soledad habitada: cuatro siglos de retiro carmelitano](/lugares/las-batuecas/articulos/la-soledad-habitada/): historia de la relación entre arquitectura, trabajo, bosque y contemplación.
