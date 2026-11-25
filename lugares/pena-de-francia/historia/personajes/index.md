@@ -62,3 +62,10 @@ Simón Vela requiere un estudio propio que coordine la investigación específic
 ## Fuentes y alcance
 
 [Historia de la Peña](/lugares/pena-de-francia/historia/), [repertorio documental](/lugares/pena-de-francia/historia/documentos/), [AHDOPE](https://archivo.dominicoshispania.org/index.php/pena-de-francia-2?sf_culture=es), [Prieto Sayagués 2025](https://web-argitalpena.adm.ehu.es/pdf/UHMPD259882.pdf), [Gómez-Chacón 2016](https://www.ucm.es/data/cont/docs/584-2016-01-14-212-245%20Diana%20Lucia%20Gomez.pdf). Compilación editorial de referencias previas, sin nuevo cotejo de originales.
+
+## Referencias personales de la crisis conventual
+
+- Juan Nicolás: prior firmante de la relación del 23 de noviembre de 1834 en la Casa Baja, AHDOPE A-B-PEÑ-4-1 f. 2.
+- Francisco del Canto: autor de la carta fechada en El Cabaco el 28 de septiembre de 1877, AHDOPE B-C-SAL-b-14/1-3 doc. 1. Cargo y biografía pendientes.
+
+Referencias catalográficas, no biografías completas. [Exclaustración](/lugares/pena-de-francia/historia/exclaustracion/).
