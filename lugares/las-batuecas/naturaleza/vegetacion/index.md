@@ -85,3 +85,5 @@ Lectura divulgativa relacionada: [El bosque de Las Batuecas: cinco siglos de apr
 ## La vegetación observada por Unamuno
 
 En Las Hurdes, capítulo de [Andanzas y visiones españolas](https://www.gutenberg.org/files/78052/78052-h/78052-h.htm), Unamuno menciona alcornoques, encinas, robles, tejos, avellanos, cipreses, madroños, olivos y frutales al describir Batuecas. Es un testimonio literario de observación presencial, no un inventario botánico: no determina especies con precisión taxonómica, abundancias ni localizaciones. Su comparación con un jardín botánico abandonado y su interpretación de la influencia conventual ofrecen preguntas para estudiar la vegetación cultivada y la historia del recinto. [Viajeros y geógrafos](/lugares/las-batuecas/cultura-literatura/viajeros-geografos/).
+
+[El valle vivo: la extraordinaria naturaleza de Las Batuecas](/lugares/las-batuecas/articulos/el-valle-vivo/): una interpretación conjunta del bosque, el río, la fauna y la conservación.
