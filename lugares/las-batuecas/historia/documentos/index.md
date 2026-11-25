@@ -74,3 +74,10 @@ BAT-DOC-011: completar localizador de 1587: ARCHV, Registro de Ejecutorias, caja
 BAT-DOC-018: contrato enfitéutico de 1531, citado por Martín Marcos a partir de Escobar Prieto (1905); original y signatura pendientes.
 
 Fuente de los localizadores: [Martín Marcos, 2022, pp. 195–196, notas 64–66](https://oai.e-spacio.uned.es/server/api/core/bitstreams/4a985912-6712-4915-873c-bc68e3e7ca4a/content). No se han recuperado fichas individuales ni imágenes en PARES. Los códigos corresponden a documentos de contexto regional, no necesariamente a acontecimientos dentro del valle.
+
+## Nuevas evidencias contemporáneas
+
+- BAT-DOC-019: Gaceta de Madrid, 13/12/1901, n.º 347, p. 1071: anuncio de subasta de corcho del monte Las Batuecas, 141.660 pesetas, 24 años. Texto del anuncio consultado; adjudicación y pliego pendientes. [Fuente](https://www.boe.es/diario_gazeta/comun/pdf.php?do=1&p=1901%2F12%2F13%2Fpdfs%2FGMD-1901-347.pdf).
+- BAT-DOC-020: ARCHV, Gobierno de la Sala del Crimen, caja 104, 26, 14/08–17/11/1832: diligencias relativas a la reclusión de Miguel Cuadrado en el monasterio. Registro localizado en resultados de [PARES](https://pares.mcu.es/ParesBusquedas20/catalogo/find?archivo=8&idAut=101007&idD=S&idFF=19&idFI=19&tipoAsocAut=1); imágenes y contenido íntegro pendientes.
+
+Véanse [Aprovechamientos tradicionales](/lugares/las-batuecas/aprovechamientos-tradicionales/) y [Desamortización y recuperación](/lugares/las-batuecas/desamortizacion-recuperacion/).
