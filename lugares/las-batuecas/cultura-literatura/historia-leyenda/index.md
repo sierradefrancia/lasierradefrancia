@@ -104,3 +104,6 @@ Para la documentación económica y jurisdiccional, véase [Historia territorial
 Los testimonios sobre dificultades para acceder a las parroquias hurdanas y el informe de Ortiz Jarero de 1734 permiten distinguir obstáculos físicos y desigualdad económica de la afirmación legendaria de una población secularmente desconocida. [Blanco Carrasco](https://dehesa.unex.es/bitstreams/c839997e-25fb-4e33-9d92-a456f207e39d/download) estudia recuentos históricos regionales que documentan comunidades integradas en estructuras administrativas. No acreditan por sí mismos la ocupación permanente del valle salmantino. El alcance histórico del nombre Batuecas puede superar su sentido geográfico actual.
 
 Véanse [Historia territorial](/lugares/las-batuecas/historia-territorial/), [relaciones con Las Hurdes](/lugares/las-batuecas/granadilla-hurdes-alberca/) y [repertorio documental](/lugares/las-batuecas/historia/documentos/). Extractos consultados; manuscritos pendientes.
+
+
+[Las Batuecas en la literatura europea](/lugares/las-batuecas/cultura-literatura/recepcion-europea/): ediciones, traducciones y recepción internacional.
