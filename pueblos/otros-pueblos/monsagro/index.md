@@ -51,3 +51,7 @@ Las edades divulgativas de las distintas páginas no son uniformes; se conserva 
 ## Investigación paleontológica especializada
 
 [Repertorio científico de Monsagro](/pueblos/otros-pueblos/monsagro/investigacion-paleontologica/): cuatro publicaciones identificadas, procedencia de bloques cuarcíticos según Geogaceta (2017, p. 115) y antecedente bibliográfico de 2003 pendiente de recuperación.
+
+## Pedreras, agua y suelo
+
+El [expediente sobre canchales, manantiales y suelos](/lugares/pena-de-francia/geologia/canchales-agua-suelos/) reúne la interpretación hidrogeológica del Alto Agadón de la Confederación Hidrográfica del Duero y un perfil edafológico local publicado en las bases ecológicas del hábitat 8220. Distingue observaciones documentadas de hipótesis ecológicas pendientes de comprobación.
