@@ -28,3 +28,5 @@ La referencia archivística del Robledo ofrece una posibilidad de contrastar doc
 [Santuario del Robledo y fuentes](../../patrimonio/robledo/) · [Moza Santa](../../cultura-tradiciones/moza-santa/) · [Simón Vela](/investigacion/simon-vela/).
 
 [Registro documental](../../fuentes/).
+
+La [investigación de la exclaustración dominicana](/lugares/pena-de-francia/historia/exclaustracion/) contextualiza el expediente AHDOPE A-B-PEÑ-4-2 y las cuestiones pendientes de custodia y administración.
