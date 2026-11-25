@@ -83,3 +83,7 @@ Quedan abiertas la cartografía comparada de perímetros, la sucesión estratigr
 ## Contexto de la estructura regional
 
 El [estudio estructural de la Peña de Francia](/lugares/pena-de-francia/geologia/estructura-regional/) incorpora la interpretación de Macaya (1981, p. 567) y contextualiza los lugares de interés geológico CI065, CI066 y CI077. El nexo no supone identidad de perímetros ni de procesos geomorfológicos locales.
+
+## Investigación estratigráfica de 2009
+
+El [estudio del límite Cámbrico-Ordovícico](/lugares/pena-de-francia/geologia/limite-cambrico-ordovicico/) incorpora los resultados de Valladares y colaboradores (Geogaceta 47, 49–52) sobre la diferenciación de conglomerados y sus ambientes sedimentarios, con observaciones en varios sectores serranos. Consultados resumen y extractos; no constituye una nueva comprobación de campo.
