@@ -1,5 +1,5 @@
 ---
-last_modified_at: 2026-11-24
+last_modified_at: 2026-11-25
 layout: default
 title: Parque Natural
 nav_order: 4
@@ -539,3 +539,7 @@ Una base que permita comprender sus paisajes, reconocer sus valores, estudiar su
 ---
 
 *La Sierra de Francia · Atlas territorial de conocimiento.*
+
+## Gestión cinegética y territorio
+
+La [Reserva Regional de Caza de Las Batuecas](/parque-natural/reserva-regional-de-caza/) tiene un régimen propio, diferenciado del parque natural. El expediente SA-FOR-2/2024 (p. 6) documenta la concurrencia de figuras en el monte Santuario de la Peña de Francia (CUP 109) y distingue sus 456,30 ha de las 21.513 ha del cuartel de Batuecas. No son superficies sumables ni censos de fauna.
