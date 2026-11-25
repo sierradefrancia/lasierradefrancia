@@ -29,6 +29,8 @@ Síntesis del [estudio patrimonial preexistente](/lugares/pena-de-francia/santua
 
 ## Monedas y abastecimiento contemporáneo
 
-El dominico Salustiano Mateos describe en el [Cuaderno del caminante 10](https://www2.dominicos.org/pdefrancia/pagines/CC%2010%20-%20EL%20POZO%20VERDE.htm) la práctica de depositar monedas mientras se formula un deseo. Desconoce su origen y señala que la acumulación ocasiona problemas. Su testimonio distingue esta costumbre de la devoción religiosa y recuerda la captación de agua de lluvia y el suministro desde Fuente Buitrera. No establece la fecha de inicio del ritual ni acredita la situación hidráulica actual. Extracto web consultado el 25/11/2026. Se recomienda respetar las indicaciones del santuario y no arrojar objetos al agua.
+El dominico Salustiano Mateos describe en el [Cuaderno del caminante 10](https://www2.dominicos.org/pdefrancia/pagines/CC%2010%20-%20EL%20POZO%20VERDE.htm) la práctica de depositar monedas mientras se formula un deseo. Desconoce su origen y cuestiona la fundamentación de la práctica. Su testimonio distingue esta costumbre de la devoción religiosa y recuerda la captación de agua de lluvia y el suministro desde Fuente Buitrera. No establece la fecha de inicio del ritual ni acredita la situación hidráulica actual. Texto recuperado el 25/11/2026; la fecha del testimonio no está acreditada. Se recomienda respetar las indicaciones del santuario y no arrojar objetos al agua.
 
 [Inventario de lugares singulares](/lugares/pena-de-francia/geografia-territorio/lugares-singulares/).
+
+[Agua, fuentes y cabeceras fluviales](/lugares/pena-de-francia/geografia-territorio/agua-y-fuentes/).
