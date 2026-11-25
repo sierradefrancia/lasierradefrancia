@@ -39,3 +39,5 @@ La microscopía permite observar capas y partículas; la espectrometría puede a
 - [Expediente del Pallón](/lugares/las-batuecas/arte-rupestre/pallon/).
 - [Cabras Pintadas](/lugares/las-batuecas/arte-rupestre/cabras-pintadas/).
 - [Conservación rupestre](/lugares/las-batuecas/conservacion-rupestre/).
+
+[Las Batuecas y la memoria del tiempo](/lugares/las-batuecas/articulos/la-memoria-del-tiempo/): ensayo sobre geología, arte rupestre, investigación y conservación.
