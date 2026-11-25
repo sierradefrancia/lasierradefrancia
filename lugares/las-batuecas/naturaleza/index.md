@@ -42,3 +42,5 @@ Esta síntesis se apoya en los estudios existentes del atlas; no implica una nue
 - [La vida acuática del río Batuecas](/lugares/las-batuecas/vida-acuatica/).
 
 [Volver a Las Batuecas](/lugares/las-batuecas/).
+
+[El valle vivo: la extraordinaria naturaleza de Las Batuecas](/lugares/las-batuecas/articulos/el-valle-vivo/): una interpretación conjunta del bosque, el río, la fauna y la conservación.
