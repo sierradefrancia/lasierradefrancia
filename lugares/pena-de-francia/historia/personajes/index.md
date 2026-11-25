@@ -69,3 +69,13 @@ Simón Vela requiere un estudio propio que coordine la investigación específic
 - Francisco del Canto: autor de la carta fechada en El Cabaco el 28 de septiembre de 1877, AHDOPE B-C-SAL-b-14/1-3 doc. 1. Cargo y biografía pendientes.
 
 Referencias catalográficas, no biografías completas. [Exclaustración](/lugares/pena-de-francia/historia/exclaustracion/).
+
+## Modernización contemporánea
+
+- Ricardo López Molero, ingeniero firmante del proyecto viario de 1921.
+- Constantino Martínez Uriarte, dominico nacido en 1911, impulsor de restauraciones según semblanza institucional.
+- Segismundo Cascón, dominico, proponente del repetidor en 1962.
+- Gabriel Arias-Salgado, ministro destinatario y autor de la respuesta.
+- Julio, colaborador de El Maíllo citado en la semblanza como tío Julio; identificación incompleta.
+
+[Fuentes y estudio](/lugares/pena-de-francia/historia/modernizacion-siglo-xx/).
