@@ -37,6 +37,14 @@ Registro abierto de instrumentos, testimonios y series identificados en los estu
 
 Localizadores: [apéndice académico](https://gredos.usal.es/bitstream/handle/10366/171488/Ape%CC%81ndice.pdf?isAllowed=y&sequence=1), [estudio p. 74](https://gredos.usal.es/bitstream/handle/10366/169742/PRIETO_SAYAGUES_Juan_A_Patronos_protecto.pdf?isAllowed=y&sequence=1), [catálogo](https://archivo.dominicoshispania.org/index.php/informationobject/browse?collection=390&places=36185&sort=referenceCode&sortDir=asc&topLod=0&view=table).
 
+| PEF-DOC-021 | Estatutos y acta de cofradía | A-A-PEÑ-2; complementa PEF-DOC-008 | Catálogo; original pendiente. |
+| PEF-DOC-022 | Traslado autenticado de cofradía | A-B-PEÑ-1-2; 1793 | Catálogo; cotejar con 021. |
+| PEF-DOC-023 | Fotografías Libro de Profesiones | A-B-PEÑ-3-1; complementa PEF-DOC-006 | Fotografías pendientes. |
+| PEF-DOC-024 | Transcripción Libro de Profesiones | A-B-PEÑ-3-2; mismo libro que 023 | Manuscrito pendiente. |
+| PEF-DOC-025 | Salarios empleados feria, 1806 | A-B-PEÑ-2-5; copia | Texto pendiente. |
+
+[Catálogo consultado](https://archivo.dominicoshispania.org/index.php/informationobject/browse?collection=390&places=36185&sort=startDate&sortDir=desc&topLod=0). [Estudio de comunidad y cofradía](/lugares/pena-de-francia/historia/comunidad-cofradia/).
+
 ## Prioridades de investigación
 
 El poder de 1434 permite estudiar a Simón como agente histórico sin depender exclusivamente de su biografía legendaria. El Libro de Privilegios puede contener copias de instrumentos anteriores; cada uno deberá recibir un registro subordinado cuando se conozca su identidad. Las cuentas del XIX permiten investigar la continuidad material del santuario tras la supresión, sin extrapolar sus cifras a la comunidad medieval.
